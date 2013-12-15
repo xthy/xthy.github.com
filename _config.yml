@@ -1,2 +1,4 @@
-include: [.htaccess]
-permalink: /blog/:title
+name: Sexy Code
+markdown: rdiscount
+permalink: pretty
+pygments: true
