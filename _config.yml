@@ -1,10 +1,6 @@
-name: "THYNG"
+title: Sébastien Saunier
 
-description: "TAEHO YANG's TECH BLOG"
-
-url: "http://xthy.github.com"
-
-paginate: 30
-
-markdown: rdiscount
-permalink: pretty
+# Oveerriden by GitHub Pages: https://help.github.com/articles/using-jekyll-with-pages#configuring-jekyll
+safe: true
+pygments: true
+lsi: false

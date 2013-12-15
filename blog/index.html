@@ -1,0 +1,24 @@
+---
+layout: default
+title: Sébastien Saunier - Blog
+category: blog
+---
+
+<section>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li>
+        <h2>
+          <a href="{{ post.url }}">{{ post.title }}</a>
+          {% if post.french %}
+            <img src="/images/french.png" alt="French post" class="french-flag" title="This post is in french" />
+          {% endif %}
+        </h2>
+        <p>
+          <span class="date">{{ post.date | date_to_string }}</span>
+          <span class="description">{{ post.description }}</span>
+        </p>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
