@@ -1,5 +1,4 @@
 name: Sexy Code
-auto: true
 markdown: rdiscount
 permalink: pretty
 pygments: true
