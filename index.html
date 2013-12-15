@@ -1,14 +1,12 @@
 ---
-layout: layout
-title: "Posts"
+layout: default
+title: Home &middot; Jay Rainey
 ---
-
-<section class="content">
-  <ul class="listing">
-    {% for post in site.posts %}
-    <li>
-      <span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-    {% endfor %}
-  </ul>
-</section>
+    <section>
+      <article class="post {{ site.posts.first.color }}">
+        <h1>{{ site.posts.first.title }}</h1>
+        <p class="byline">{{ site.posts.first.date | date: "%B %d, %Y" }}</p>
+        {{ site.posts.first.content }}
+        <p><a href="/blog/">&larr; Previous posts</a></p>
+      </article>
+    </section>
