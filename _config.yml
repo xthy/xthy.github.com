@@ -1,4 +1,4 @@
 name: Sexy Code
-markdown: rdiscount
+markdown: redcarpet
 permalink: pretty
 pygments: true
