@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-### 바보 Shooting
+###  Shooting
 * git push
 
 		thyngMBP:xthy.github.com xthy$ git push origin master
