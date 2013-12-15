@@ -1,12 +1,107 @@
 ---
 layout: default
-title: THYNG
 ---
-    <section>
-      <article class="post {{ site.posts.first.color }}">
-        <h1>{{ site.posts.first.title }}</h1>
-        <p class="byline">{{ site.posts.first.date | date: "%B %d, %Y" }}</p>
-        {{ site.posts.first.content }}
-        <p><a href="/blog/">&larr; Previous posts</a></p>
-      </article>
-    </section>
+
+<div>
+  <div id="header">
+    <div id = "photo-container">
+      <a href = "http://xthy.github.com">
+        <img src = "/img/CircleYin.png" border = "0" id="photo">
+      </a>
+    </div>
+    <div id = "about-text">
+      <p>
+        <h1><b>THYNG's TECH BLOG</b></h1>
+      </p>
+      <div id = "links-container">
+        <a href = "mailto:xthy@me.com" title = "Gmail" target = "_blank" style = "text-decoration:none;">
+          <img src = "/img/gmail.png" border = "0" id = "icon">
+        </a>
+         <a href = "http://twitter.com/xthy" title = "Twitter" target = "_blank" style = "text-decoration:none;">
+          <img src = "/img/twitter.png" border = "0" id = "icon">
+        </a> 
+        <a href = "http://www.linkedin.com/pub/taeho-yang/23/7a/809" title = "LinkedIn" target = "_blank" style = "text-decoration:none;">
+          <img src = "/img/linkedin.png" border = "0" id = "icon">
+        </a>
+        <a href = "/feed/index.xml" title = "RSS" style = "text-decoration:none;">
+          <img src = "/img/rss.png" border = "0" id = "icon">
+        </a>
+        <!--<a href="https://twitter.com/ChrisEYin" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @ChrisEYin</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id =id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+        -->
+        <!-- <a href = "http://on.fb.me/12Hn1ay" title = "Facebook" target = "_blank" style = "text-decoration:none;">
+          <img src = "https://s3.amazonaws.com/www.chrisyin.com/static/facebook.png" border = "0" id = "icon">
+        </a> -->
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class = "blog-container">
+<hr>
+  
+  <h3>Blog</h3>
+  <div class = "home-menu-container">
+    <ul>
+      <div id = "home-menu">
+        <!--><li><a href = "/tools" title = "Tools">Tools</a></li>
+        <li><a href = "/quotes" title = "Quotes">Quotes</a></li>
+        <li><a href = "/reading" title = "Reading">Reading</a></li>
+        <li><a href = "/media" title = "Media">Media</a></li>-->
+      </div>
+    </ul>
+    </div>
+  </div>
+
+    {% for post in paginator.posts %}
+      <div class="row-fluid">
+        <div class = "blog-posts">
+          <h5 class = "muted">
+            {{ post.date | date_to_long_string }}
+          </h5>
+          <h3 id = "date-link-spacing">
+            <a href="{{ post.url }}">{{ post.title | truncatewords: 15 }}</a>
+          </h3>
+          <h4 id = "summary-container">
+            <!-- <p>{{ post.subtitle }}</p> -->
+          </h4>
+        </div>
+      </div>
+    {% endfor %} 
+
+  <div class="row-fluid">
+    <div class = "pagination-container">
+      <div class="pagination">
+        <ul>
+          {% if paginator.previous_page %}
+            {% if paginator.previous_page == 1 %}
+            <li><a href="/">Prev</a></li>
+            {% else %}
+            <li><a href="/page{{ paginator.previous_page }}">Prev</a></li>
+            {% endif %}
+          {% else %}
+          <li><span class="disabled">Prev</span></li>
+          {% endif %}
+          {% if paginator.page == 1 %}
+          <li><span class="active">1</span></li>
+          {% else %}
+          <li><a href="/">1</a></li>
+          {% endif %}
+          {% for count in (2..paginator.total_pages) %}
+            {% if count == paginator.page %}
+            <li><span class="active">{{ count }}</span></li>
+            {% else %}
+            <li><a href="/page{{ count }}">{{ count }}</a></li>
+            {% endif %}
+          {% endfor %}
+          {% if paginator.next_page %}
+          <li><a href="/page{{ paginator.next_page }}">Next</a></li>
+          {% else %}
+          <li><span class="disabled">Next</span></li>
+          {% endif %}
+        </ul>
+      </div>
+    </div>
+      <hr>
+      Built with <a href = "http://jekyllrb.com/" target = "_blank">Jekyll</a>. Hosted on <a href = "http://github.com/" target = "blank">Github</a>.
+  </div>

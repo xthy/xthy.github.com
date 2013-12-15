@@ -1,4 +1,10 @@
-name: Sexy Code
+name: "THYNG"
+
+description: "TAEHO YANG's TECH BLOG"
+
+url: "http://xthy.github.com"
+
+paginate: 30
+
 markdown: rdiscount
 permalink: pretty
-pygments: true
