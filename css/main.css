@@ -21,13 +21,12 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-size: 100%; }
-
-h1 { margin-bottom: 1em; }
+h1 { margin-bottom: 0.5em; }
 p { margin: 1em 0; }
 
-a         { color: #00a; }
-a:hover   { color: #000; }
-a:visited { color: #a0a; }
+a         { color: #000; }
+a:hover   { color: #000; background-color: gray;}
+a:visited { color: #000; }
 
 /*****************************************************************************/
 /*
@@ -35,12 +34,14 @@ a:visited { color: #a0a; }
 /*
 /*****************************************************************************/
 .posts {
+  color: #000;
+  border-top: 4px solid #eee;
+  overflow: hidden;
   list-style-type: none;
-  margin-bottom: 2em;
 }
 
 .posts li {
-  line-height: 1.75em;
+  line-height: 1.7em;
 }
 
 .posts span {
@@ -68,12 +69,14 @@ a:visited { color: #a0a; }
 }
 
 .title {
+  font-size:150%;
+  color: white;
   display: inline-block;
   margin-bottom: 2em;
 }
 
 .title a {
-  color: #a00;
+  color: #000;
 }
 
 .title a:hover {
@@ -94,10 +97,10 @@ a:visited { color: #a0a; }
 }
 
 .footer {
+  padding-top: 1.5em;
   font-size: 80%;
   color: #666;
   border-top: 4px solid #eee;
-  margin-top: 2em;
   overflow: hidden;
 }
 
@@ -107,11 +110,10 @@ a:visited { color: #a0a; }
 }
 
 .footer .contact a {
-  color: #8085C1;
+  color: #4c4c4c;
 }
 
 .footer .rss {
-  margin-top: 1.1em;
   margin-right: -.2em;
   float: right;
 }
