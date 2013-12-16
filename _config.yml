@@ -1,6 +1,4 @@
-title: Sébastien Saunier
-
-# Oveerriden by GitHub Pages: https://help.github.com/articles/using-jekyll-with-pages#configuring-jekyll
-safe: true
+name: Blogging like a HACKER
+markdown: rdiscount
+permalink: pretty
 pygments: true
-lsi: false
