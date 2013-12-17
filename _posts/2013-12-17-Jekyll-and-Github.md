@@ -3,11 +3,13 @@ layout: post
 title: "Jekyll과 Github로 만든 블로그"
 date:   2013-12-17 21:30:30
 category: blog
-tags: jekyll, github, blog
+tags: jekyll, github, blog  
+
 ---
 
 
-### Trouble Shooting
+Trouble Shooting
+=====
 * 초기 Github push 에러  
 	* 에러 명령어: 'git push orgin master'
 	* 해결책: 기존에 생긴 Repository 내 파일 충돌(Master-Branch).
@@ -43,7 +45,8 @@ Terminal에 export LANG="en_US.UTF-8"로 충돌 해결.
         
 
 ### References
-#### Jekyll
+Jekyll
+-----
 * http://jekyllrb.com/
 * http://dogfeet.github.io/articles/2012/github-pages.html
 * http://nolboo.github.io/blog/2013/10/15/free-blog-with-github-jekyll/
