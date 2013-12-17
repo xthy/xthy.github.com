@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Jekyll과 Github로 만든 블로그"
-date:2013-12-17 21:08:00
+date:   2013-12-17 21:30:30
 category: blog
-tags: [jekyll, github, blog]
+tags: jekyll, github, blog
 ---
 ### Shooting
 * git push
