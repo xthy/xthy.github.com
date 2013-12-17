@@ -13,8 +13,8 @@
 html, body { height: 100%; }
 
 body {
-  background-color: #FFF;
-  font: 13.34px Helvetica, Arial, sans-serif;
+  background-color: white;
+  font: 13.34px helvetica, arial, clean, sans-serif;
   font-size: small;
   text-align: center;
 }
@@ -57,10 +57,10 @@ a:visited { color: #000; }
 /*****************************************************************************/
 
 .site {
-  font-size: 115%;
+  font-size: 110%;
   text-align: justify;
   width: 42em;
-  margin: 3em auto 2em;
+  margin: 3em auto 2em auto;
   line-height: 1.5em;
 }
 .header a {
