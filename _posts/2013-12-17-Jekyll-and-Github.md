@@ -5,7 +5,9 @@ date:   2013-12-17 21:30:30
 category: blog
 tags: jekyll, github, blog
 ---
-### Shooting
+
+
+### Trouble Shooting
 * git push
 
 		thyngMBP:xthy.github.com xthy$ git push origin master
@@ -31,7 +33,6 @@ tags: jekyll, github, blog
 	    error: invalid byte sequence in US-ASCII. Use --trace to view backtrace
 	    
 Terminal에 export LANG="en_US.UTF-8"로 충돌 해결.
-
 
 ### References
 #### Jekyll
