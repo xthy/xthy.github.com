@@ -32,7 +32,12 @@ tags: jekyll, github, blog
 	    Liquid Exception: invalid byte sequence in US-ASCII in index.html
 	    error: invalid byte sequence in US-ASCII. Use --trace to view backtrace
 	    
-Terminal에 export LANG="en_US.UTF-8"로 충돌 해결.
+Terminal에 export LANG="en_US.UTF-8"로 충돌 해결.  
+  
+    
+      
+  
+        
 
 ### References
 #### Jekyll
