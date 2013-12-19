@@ -51,7 +51,9 @@ Jekyll과 Github가 무엇이고, 어떻게 블로그가 동작하는지, 설치
 			 hint: its remote counterpart. Merge the remote changes (e.g. 'git pull')
 			 hint: before pushing again.
 			 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
-	* 해결책: **기존에 생긴 Repository 내 파일 충돌(Master-Branch). 모든 파일 삭제 후 다시 생성하니 문제 해결.**
+
+	* 원인: 기존에 생긴 Repository 내 파일 충돌(Master-Branch) 
+	* 해결책: **Repository 파일 삭제 후 다시 생성하니 문제 해결**
 
 * 한글 입력시 Liquid Encoding 에러
 	* 명령어  
