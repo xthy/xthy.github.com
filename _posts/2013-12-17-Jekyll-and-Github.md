@@ -47,10 +47,26 @@ Jekyll과 Github 조합은 내 요구사항에 딱 맞아 떨어졌다.
 
 
 
-# 설치 순서, 방법  
+# Jekyll + Github 블로그 예  
+* [Tom Preston-Werner, Github Founder](http://tom.preston-werner.com/)  
+* [Zach Holman, Github Engineer](http://zachholman.com/)  
+* [Chris Yin, Coupa Product Manager](http://www.chrisyin.com/)  
+* [Paperplanes](http://www.paperplanes.de/)  
+* [그 외 사이트 리스트 via Jekyll Wiki](https://github.com/jekyll/jekyll/wiki/Sites)  
 
 
 
+# 설치 및 적용 순서  
+1. Github 가입 및 Repository 생성  
+2. 로컬에 Jekyll 및 Rubygem 설치   
+![_](http://xthy.github.io/img/1.png)  
+![_](http://xthy.github.io/img/2.png)
+3. 로컬의 Jekyll 폴더를 Github Repository에 Commit & Push  
+![_](http://xthy.github.io/img/3.png)  
+4. Layout 수정 (CSS)
+5. 추가 기능 적용 (Disqus, Google Analytics)  
+
+설치 및 적용의 상세내용은 웹 상에서 쉽게 찾을 수 있어서 생략했다. 아래 References 사이트들을 참고했다.
 
 
 # Trouble Shooting  
