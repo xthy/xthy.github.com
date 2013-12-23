@@ -63,8 +63,54 @@ Jekyll과 Github 조합은 내 요구사항에 딱 맞아 떨어졌다.
 ![_](http://xthy.github.io/img/2.png)
 3. 로컬의 Jekyll 폴더를 Github Repository에 Commit & Push  
 ![_](http://xthy.github.io/img/3.png)  
+![_](http://xthy.github.io/img/4.png)  
 4. Layout 수정 (CSS)
 5. 추가 기능 적용 (Disqus, Google Analytics)  
+![_](http://xthy.github.io/img/5.png)  
+
+		<!DOCTYPE html>
+		<html>
+		    <head>
+		        <meta charset="utf-8">
+		        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		        <title>{{ page.title }}</title>
+				<meta name="viewport" content="width=device-width">
+		        <!-- syntax highlighting CSS -->
+		        <link rel="stylesheet" href="/css/syntax.css" type="text/css">
+		        <!-- Custom CSS -->
+		        <link rel="stylesheet" href="/css/main.css" type="text/css" media="screen, projection" />
+		    </head>
+		    <body>
+		        <div class="site">
+		          <div class="header">
+		            <h1 class="title"><a href="/">{{ site.name }}</a></h1>
+		          </div>
+		          {{ content }}    
+		          <div class="footer">
+		            <div class="contact">
+		              <p>Contact: xthy@me.com,
+						<a href="http://twitter.com/xthy" target="_blank">Twitter</a>,
+		                <a href="http://github.com/xthy" target="_blank">Github</a>,
+						<a href="http://thtyle.com/blog" target="_blank">THTYLE Blog</a> 
+		                <br/>
+		              </p>
+		            </div>
+		          </div>		  
+		        </div>
+				<!-- Google Analytics -->
+				<script>
+				  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+				  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+				  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		
+				  ga('create', 'UA-46395179-1', 'xthy.github.io');
+				  ga('send', 'pageview');
+		
+				</script>
+				<!-- Google Analytics end -->
+		    </body>
+		</html>
 
 설치 및 적용의 상세내용은 웹 상에서 쉽게 찾을 수 있어서 생략했다. 아래 References 사이트들을 참고했다.
 
