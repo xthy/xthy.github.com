@@ -3,6 +3,8 @@
 /* Common
 /*
 /*****************************************************************************/
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+@import url(http://fonts.googleapis.com/css?family=Nunito);
 
 /* Global Reset */
 * {
@@ -14,19 +16,45 @@ html, body { height: 100%; }
 
 body {
   background-color: white;
-  font: 13.34px helvetica, arial, clean, sans-serif;
+  font: 13.34px Arial, 'Nanum Gothic', 'Apple Gothic', monospace;
   font-size: small;
   text-align: center;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-size: 100%; }
-h1 { margin-bottom: 0.5em; }
+h1{
+    font-family: 'Nunito', 'Nanum Gothic', 'Apple Gothic', sans-serif;
+    font-weight: bold;
+    font-size: 34px;
+    padding: 10px 0 10px 0;
+}
+
+h2{
+    font-family: 'Nunito', 'Nanum Gothic', 'Apple Gothic', sans-serif;
+    margin: 20px 0 20px 0;
+ 	padding: 10px 10px 10px 0;
+    font-weight: bold;
+    font-size: 25px; 
+}
+
+h3{
+	font-family: 'Nunito', 'Nanum Gothic', 'Apple Gothic', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+	line-height: 1.7em;
+ } 
+ 
+h4, h5, h6 {
+  font-family: 'Nunito', 'Nanum Gothic', 'Apple Gothic', sans-serif;
+  font-size: 100%; 
+  line-height: 1.7em;
+}
+
+h1 { margin-bottom: 0.1em; }
 p { margin: 1em 0; }
 
-a         { color: #000; }
-a:hover   { color: #000; background-color: gray;}
-a:visited { color: #000; }
+a         { text-decoration: underline; color: #000; }
+a:hover   { text-decoration:line-through; color: #000; background-color: gray;}
+a:visited { text-decoration: none; color: #000; }
 
 /*****************************************************************************/
 /*
@@ -38,6 +66,9 @@ a:visited { color: #000; }
   border-top: 4px solid #eee;
   overflow: hidden;
   list-style-type: none;
+  font-family: 'Nunito', 'Nanum Gothic', sans-serif;
+  font-size: 25px;
+  font-weight: bold;
 }
 
 .posts li {
@@ -46,8 +77,8 @@ a:visited { color: #000; }
 
 .posts span {
   color: #aaa;
-  font-family: Monaco, "Courier New", monospace;
-  font-size: 80%;
+  font-family: 'Nunito', 'Nanum Gothic', sans-serif;
+  font-size: 15px;
 }
 
 /*****************************************************************************/
@@ -69,10 +100,9 @@ a:visited { color: #000; }
 }
 
 .title {
-  font-size:150%;
   color: white;
   display: inline-block;
-  margin-bottom: 2em;
+ 
 }
 
 .title a {
@@ -93,7 +123,12 @@ a:visited { color: #000; }
 }
 
 .meta {
-  color: #aaa;
+    color: #aaa;
+    font-family: 'Nunito', 'Nanum Gothic', sans-serif;
+    border-top: 4px solid #eee;
+    overflow: hidden;
+	font-size: 15px;
+	
 }
 
 .footer {
@@ -106,7 +141,8 @@ a:visited { color: #000; }
 
 .footer .contact {
   float: left;
-  margin-right: 3em;
+  font-family: 'Nunito', 'Nanum Gothic', sans-serif; 
+  font-size: 15px; 
 }
 
 .footer .contact a {
@@ -131,7 +167,7 @@ a:visited { color: #000; }
 /* standard */
 .post pre {
   border: 1px solid #ddd;
-  background-color: #eef;
+  background-color: #eee;
   padding: 0 .4em;
 }
 
@@ -140,9 +176,10 @@ a:visited { color: #000; }
 }
 
 .post code {
-  border: 1px solid #ddd;
-  background-color: #eef;
-  padding: 0 .2em;
+  font: medium monospace;
+  border: 1px solid #eee;
+  background-color: #eee;
+
 }
 
 .post pre code {
