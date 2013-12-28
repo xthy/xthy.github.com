@@ -72,7 +72,7 @@ a:visited { text-decoration: none; color: #000; }
 }
 
 .posts li {
-  line-height: 1.7em;
+  line-height: 1.5em;
 }
 
 .posts span {
@@ -80,6 +80,12 @@ a:visited { text-decoration: none; color: #000; }
   font-family: 'Nunito', 'Nanum Gothic', sans-serif;
   font-size: 15px;
 }
+
+.posts 
+a         { text-decoration: none; color: #000; }
+a:hover   { text-decoration:line-through; color: #000; background-color: gray;}
+a:visited { text-decoration: none; color: #000; }
+
 
 /*****************************************************************************/
 /*
@@ -174,7 +180,10 @@ a:visited { text-decoration: none; color: #000; }
 .post ul, .post ol {
   margin-left: 1.35em;
 }
-
+.post img {
+    max-width: 100%;
+    height: auto;
+}
 .post code {
   font: medium monospace;
   border: 1px solid #eee;

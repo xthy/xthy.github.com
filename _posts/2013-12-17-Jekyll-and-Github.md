@@ -2,7 +2,7 @@
 layout: post
 title: "Jekyll과 Github로 만든 블로그"
 date:   2013-12-17 21:30:30
-category: blog
+category: BLOG
 tags: jekyll, github, blog  
 
 ---

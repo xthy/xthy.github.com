@@ -2,7 +2,7 @@
 layout: post
 title: "Jekyll에서 Syntax Highlight 하기"
 date:   2013-12-23 20:05:30
-category: blog
+category: BLOG
 tags: jekyll, code, syntax, highlight  
 
 ---

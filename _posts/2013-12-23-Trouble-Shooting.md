@@ -2,7 +2,7 @@
 layout: post
 title: "Jekyll & Github Trouble Shooting"
 date:   2013-12-23 19:35:30
-category: blog
+category: BLOG
 tags: jekyll, github  
 
 ---
