@@ -9,7 +9,7 @@ tags: jekyll, github
 
 ## Trouble Shooting  
 Jekyll + Github 설치 및 적용시 발생한 문제점들과 해결 방법들 정리  
-(계속해서 업데이트 할 예정, 최신 update 2013-12-25)  
+(계속해서 업데이트 예정, 최신 update 2013-12-25)  
 
 
 ===
