@@ -21,12 +21,11 @@ tags: css, html
 * 해결책: **CSS 혹은 HTML 코드에서 Image Auto Size 관련 설정 필요**  
 내 경우에는 Post 화면에 일괄 적용을 원하므로, main.css에서 post 부분 img 태그에 코드 삽입.  
 문단의 Width에 맞춰 Image Auto Sizing.   
-	{%highlight CSS %}
+	{%highlight CSS linenos=table%}
 	.post img {
 	    max-width: 100%;
 	    height: auto;
-	}
-	{%endhighlight%}
+	}{%endhighlight%}
 * 결과  
 ![_](http://xthy.github.io/img/css_img2.png)  
 <br />  
@@ -37,8 +36,7 @@ tags: css, html
 
 * 문제 상태  
 iPad 등 타블렛에서는 문제가 없었지만, 스마트 폰에서는 사이트 비율이 깨진다.  
-![_](http://xthy.github.io/img/css_img3.png)  
-![_](http://xthy.github.io/img/css_img4.png)  
+![_](http://xthy.github.io/img/css_img3.png) ![_](http://xthy.github.io/img/css_img4.png)  
 * 원인: CSS Default는 웹 페이지에 맞게 디자인되어 해상도가 다른 여러 모바일 기기에서는 비율이 맞지 않음.  
 * 해결책: **CSS 혹은 HTML 코드에서 Mobile 및 해상도 설정 필요**  
 <br />  
