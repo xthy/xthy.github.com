@@ -38,7 +38,7 @@ tags: css, html
 iPad 등 타블렛에서는 문제가 없었지만, 스마트 폰에서는 사이트 비율이 깨진다.  
 ![_](http://xthy.github.io/img/css_img3.png) ![_](http://xthy.github.io/img/css_img4.png)  
 * 원인: CSS Default는 웹 페이지에 맞게 디자인되어 해상도가 다른 여러 모바일 기기에서는 비율이 맞지 않음.  
-* 해결책: **CSS 혹은 HTML 코드에서 Mobile 및 해상도 설정 필요**  
+* 해결책: 현재 미해결(CSS 혹은 HTML 코드에서 Mobile 및 해상도 설정 했으나 적절히 적용되지 않음).
 <br />  
  
 ===  
