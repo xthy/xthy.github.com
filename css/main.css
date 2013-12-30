@@ -103,7 +103,8 @@ a:visited { text-decoration: none; color: #000; }
   text-align: justify;
   margin: 3em auto 2em auto;
   line-height: 1.5em;
-  width: 50%;
+  max-width: 650px;
+  width: 90%;
   
 }
 .header a {
