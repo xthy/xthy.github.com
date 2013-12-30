@@ -101,9 +101,10 @@ a:visited { text-decoration: none; color: #000; }
 .site {
   font-size: 110%;
   text-align: justify;
-  width: 50%;
   margin: 3em auto 2em auto;
   line-height: 1.5em;
+  width: 50%;
+  
 }
 .header a {
   font-weight: bold;
