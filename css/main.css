@@ -19,6 +19,7 @@ body {
   font: 13.34px Arial, 'Nanum Gothic', 'Apple Gothic', monospace;
   font-size: small;
   text-align: center;
+-webkit-text-size-adjust:auto;
 }
 
 h1{
@@ -26,6 +27,7 @@ h1{
     font-weight: bold;
     font-size: 150%;
     padding: 10px 0 10px 0;
+-webkit-text-size-adjust:auto;
 }
 
 h2{
@@ -34,6 +36,7 @@ h2{
  	padding: 10px 10px 10px 0;
     font-weight: bold;
     font-size: 130%; 
+-webkit-text-size-adjust:auto;
 }
 
 h3{
