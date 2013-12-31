@@ -6,10 +6,9 @@ title: Blogging like a HACKER
 <meta charset="utf-8">
 </head>
 <div id="home">
-  <h2 align="right">Posts</h2>
   <ul class="posts">
     {% for post in site.posts %}
-<span>{{ post.date|date_to_string }}</span><li><a href="{{ post.url }}">{{ post.title }}</a></li>
-	{% endfor %}
+    <li align="center"><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
   </ul>
 </div>	
