@@ -1,5 +1,4 @@
 name: Blogging like a HACKER
 markdown: kramdown
 permalink: pretty
-pygments: true
 highlighter: rouge
