@@ -1,4 +1,4 @@
 name: Blogging like a HACKER
-markdown: rdiscount
+markdown: kramdown
 permalink: pretty
 pygments: true
