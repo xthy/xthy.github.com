@@ -1,0 +1,110 @@
+---
+layout: post
+title: Foursquare Check-in History 활용기
+date: 2012-01-02 00:24:37.000000000 +09:00
+type: post
+published: true
+status: publish
+categories:
+- IT Geek Life
+tags:
+- 4sq
+- foursquare
+- google calendar
+- google maps
+meta:
+  _edit_last: '1'
+  _wp_old_slug: foursquare-check-in-history-%ed%99%9c%ec%9a%a9%ea%b8%b0-%eb%a7%9b%ec%a7%91%ec%a7%80%eb%8f%84-google-maps-%ec%9d%bc%ec%a0%95%ea%b4%80%eb%a6%ac-google-calendar
+  _blackbirdpie-144677007563833344: a:13:{s:2:"id";s:18:"144677007563833344";s:11:"screen_name";s:4:"xTHY";s:9:"real_name";s:35:"&#50577;&#53468;&#54840;(Theo
+    Yang)";s:10:"tweet_text";s:478:"&#45236;&#44032; &#52286;&#45912; Foursquare history
+    log service! &#45236;&#44032; &#44221;&#54744;&#54620; &#47579;&#51665;&#51648;&#46020;
+    &#51060;&#47088;&#44163;&#46020; &#51088;&#46041;&#51004;&#47196; &#47564;&#46308;&#50612;&#51648;&#45716;&#44144;&#45796;&#51081;!
+    <a href="http://t.co/cMDBGKPG" rel="nofollow">http://t.co/cMDBGKPG</a> <a href="http://twitter.com/search?q=%23fb"
+    title="#fb">#fb</a> <a href="http://t.co/qN3nr1Kb" rel="nofollow">http://t.co/qN3nr1Kb</a>";s:6:"source";s:3:"web";s:11:"profile_pic";s:65:"http://a3.twimg.com/profile_images/1615611457/IMG_0462_normal.JPG";s:16:"profile_bg_color";s:6:"131516";s:15:"profile_bg_tile";s:1:"1";s:16:"profile_bg_image";s:63:"http://a3.twimg.com/profile_background_images/117071009/a07.JPG";s:18:"profile_text_color";s:6:"333333";s:18:"profile_link_color";s:6:"009999";s:10:"time_stamp";s:2:"-1";s:10:"utc_offset";s:5:"32400";}
+  _aioseop_description: "LBS(Location Based Service)의 최강자. Foursquare.\r\n\r\n이번 포스트는,
+    Foursquare Check-in History를 활용하는 방법과 내가 쓰고 있는 상황에 대해 정리하였다."
+  _aioseop_title: Foursquare Check-in History (맛집지도-Google Maps, 일정관리-Google Calendar)
+  robotsmeta: index,follow
+  _thumbnail_id: '105'
+  _aioseop_keywords: foursquare, 4sq, history, check-in, google maps, google calendar
+author:
+  login: theo.yang
+  email: th@thtyle.com
+  display_name: thyng
+  first_name: Theo
+  last_name: Yang
+---
+<p><a href="http://thtyle.com/blog/wp-content/uploads/2012/01/clients.jpg"><img class="alignnone size-full wp-image-151" style="border: 1px solid black;" title="4sq" src="{{ site.baseurl }}/assets/clients.jpg" alt="" width="432" height="309" /></a></p>
+<p>LBS(Location Based Service)의 최강자. Foursquare.</p>
+<p>이번 포스트는, Foursquare Check-in History를 활용하는 방법과 내가 쓰고 있는 상황에 대해 정리하였다.</p>
+<p><!--more--></p>
+<h6>0. 모티베이션.</h6>
+<p>1. 내가 iPhone에서 찍은 사진들의 Geotag를 Google Maps에서 보면서, Foursquare의 Check-in History를 활용하는 방법이 없을까 궁금해짐.</p>
+<p>2. 구글링 해봄.</p>
+<p>3. Foursquare 홈페이지 내의 Stats 메뉴는 허접, 유저가 원하는 깊이의 Stats 제공하지 않음.</p>
+<p>4. 검색 결과 4sqmap(<a title="4sqmap" href="http://www.4sqmap.com/" target="_blank">링크</a>) 이라는 third party 서비스(무료)가 존재. Check-in History를 활용하여 여러 분석결과들을 제공. 만족스러움. (Google Maps Plugin을 통한 표현 기능도 있음)</p>
+<p><a href="http://thtyle.com/blog/wp-content/uploads/2012/01/Screen-Shot-2012-01-01-at-3.02.54-AM.png"><img class="size-full wp-image-101 alignnone" title="4sqmapLogo" src="{{ site.baseurl }}/assets/Screen-Shot-2012-01-01-at-3.02.54-AM.png" alt="" width="201" height="91" /></a></p>
+<p><a href="http://thtyle.com/blog/wp-content/uploads/2012/01/Screen-Shot-2012-01-01-at-3.03.40-AM.png"><img class="size-full wp-image-102 alignnone" title="4sqmapDetails" src="{{ site.baseurl }}/assets/Screen-Shot-2012-01-01-at-3.03.40-AM.png" alt="" width="474" height="698" /></a></p>
+<p>&nbsp;</p>
+<p><span style="color: #ff0000;"><strong>하지만! 이 데이터를 '수정, 추가' 하는것에 대해 4sqpmap 내에는 기능이나 인터페이스가 존재하지 않음.</strong></span></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>내가 원하는 것</p>
+<p>&nbsp;</p>
+<h6>1. 나만의 맛집지도</h6>
+<ul>
+<li>Foursquare에서 내가 Check-in  했던 음식점/카페 데이터 + 내가 앞으로 가고자 하는 음식점/카페 데이터 기반</li>
+<li>지도에 표시, 꾸준한 추가/수정 가능, 높은 접근성</li>
+</ul>
+<p>&nbsp;</p>
+<p><span style="color: #000080;"><strong>솔루션</strong></span></p>
+<ul>
+<li>Foursquare 內 Feed 기능 (<a title="foursquare feeds" href="https://foursquare.com/feeds/" target="_blank">링크</a>) + Google Maps 內 My Map 사용</li>
+</ul>
+<p><a href="http://thtyle.com/blog/wp-content/uploads/2012/01/Screen-Shot-2012-01-01-at-3.00.09-AM.png"><img class="alignnone size-full wp-image-104" title="foursquare feed" src="{{ site.baseurl }}/assets/Screen-Shot-2012-01-01-at-3.00.09-AM.png" alt="" width="334" height="398" /></a></p>
+<p>Foursquare에서는 RSS, KML, ICS의 형태로 Check-in History를 제공. 너무 멋지다 으아.</p>
+<p>1. Foursquare Feed 중 KML 파일의 Link 주소를 복사한다 (마우스 우클링 + 링크 주소 복사, 디테일 링크 via <a title="foursquarewithgmaps" href="http://aboutfoursquare.com/display-your-foursquare-checkins-on-google-maps-the-easy-way/" target="_blank">Foursquare Blog</a>)</p>
+<p>2. Google Maps에서 해당 Feed 읽기</p>
+<p>3. Google Maps 內 My Map으로 Feed 데이터 로드. 해당 위치에 이름/상세정보 입력은 옵션. 30분~60분 가량의 노동이 필요할 수도.</p>
+<p>&nbsp;</p>
+<p><strong><span style="color: #000080;">결과</span></strong></p>
+<p>이전에 내가 남겼던 트윗</p>
+<blockquote class="twitter-tweet"><p>내가 찾던 Foursquare history log service! 내가 경험한 맛집지도 이런것도 자동으로 만들어지는거다잉! <a title="http://www.4sqmap.com/" href="http://t.co/cMDBGKPG">4sqmap.com</a> <a href="https://twitter.com/search/%23fb">#fb</a> <a title="http://twitter.com/xTHY/status/144677007563833344/photo/1" href="http://t.co/qN3nr1Kb">twitter.com/xTHY/status/14…</a></p>
+<p>— THYNG 양태호 (@xTHY) <a href="https://twitter.com/xTHY/status/144677007563833344">December 8, 2011</a></p></blockquote>
+<p><script src="//platform.twitter.com/widgets.js"></script></p>
+<p>&nbsp;</p>
+<p>Google Maps에 만든 내 맛집 지도</p>
+<p><a href="http://thtyle.com/blog/wp-content/uploads/2012/01/Screen-Shot-2012-01-02-at-12.00.45-AM.png"><img title="maMap" src="{{ site.baseurl }}/assets/Screen-Shot-2012-01-02-at-12.00.45-AM.png" alt="" width="300" height="86" /></a></p>
+<p><a href="http://thtyle.com/blog/wp-content/uploads/2012/01/Screen-Shot-2012-01-01-at-11.07.12-PM.png"><img class="alignnone size-full wp-image-105" style="border: 1px solid black;" title="seoulFavRestourant" src="{{ site.baseurl }}/assets/Screen-Shot-2012-01-01-at-11.07.12-PM.png" alt="" width="544" height="319" /></a></p>
+<p>(캡쳐는 서울쪽만 했음. 지방, 제주도 심지어 해외까지 모두 관리할 수 있다니. 새삼스럽지만 감동스럽다!)</p>
+<p>파란색은 과거에 갔던 식당. 녹색은 지인에게 들은 추천 맛집. 노란색은 Zagat/다이어리알에서 본 인상 깊은 곳. 빨간색은 이번 주에 갈 곳.</p>
+<ul>
+<li>Google Maps을 확인할 수 있는 데스크탑 브라우저, 아이폰, 아이패드 등에서 언제나 확인 가능.</li>
+<li>데이트 스트레스의 경감 및 맛집 내비게이터로의 데이터베이스 장착!</li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h6>2. 날짜 별 Check-in 내 달력에 추가</h6>
+<ul>
+<li>현재 일정관리로 사용 중인 Google Calendar에 Calendar로 추가해서 관리하고 싶음.</li>
+</ul>
+<p>&nbsp;</p>
+<p><span style="color: #000080;"><strong>솔루션</strong></span></p>
+<p>이건 너무 쉬웠다. <a title="track your foursquare" href="http://aboutfoursquare.com/track-your-foursquare-checkins-using-google-calendar/" target="_blank">Foursquare 블로그</a>에 떡하니!</p>
+<p>1. 위 처럼 Foursquare Feed에서 링크 주소를 얻는다.</p>
+<p>2. Google Calendar에 Other Calendar로 하나 추가. 추가할 때 링크 주소에 위 Feed 주소를 넣어줌.</p>
+<p>3. Bang!</p>
+<p>&nbsp;</p>
+<p><strong><span style="color: #000080;">결과</span></strong></p>
+<p>시간 정보까지 나타나서 정렬 될 줄이야. 뻔하지만 감동스럽다. 으아! (연두색 캘린더임)</p>
+<p><a href="http://thtyle.com/blog/wp-content/uploads/2012/01/Screen-Shot-2012-01-02-at-12.17.28-AM.png"><img class="alignnone size-full wp-image-110" title="4sqWithGoogleCalendar" src="{{ site.baseurl }}/assets/Screen-Shot-2012-01-02-at-12.17.28-AM.png" alt="" width="718" height="353" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Foursquare Check-in</strong></p>
+<p><strong>열린 마음으로 기술과 서비스를 즐기고 소비합시다yo.</strong></p>
+<p>&nbsp;</p>
+<p>Fine. xthy.</p>

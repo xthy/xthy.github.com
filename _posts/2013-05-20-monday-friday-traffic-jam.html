@@ -1,0 +1,121 @@
+---
+layout: post
+title: 월요일 출근길 도로가 막힌다는건 내 착각인가?
+date: 2013-05-20 22:45:11.000000000 +09:00
+type: post
+published: true
+status: publish
+categories:
+- Industrial Engineering
+tags:
+- Friday Traffic Jam
+- Monday Traffic Jam
+- 교통체증
+- 금요일 교통체증
+- 왜 막힐까
+- 월요일 교통체증
+meta:
+  _aioseop_description: 나는 평소 '월요일 출근시간, 금요일 퇴근시간은 교통 체증이 심하다'라는 고정관념을 갖고 있고 그 시간엔
+    스트레스를 느꼈다.
+  _aioseop_keywords: 교통체증, 월요일 교통체증, 금요일 교통체증, Monday Traffic Jam, Friday Traffic
+    Jam, 왜 막힐까
+  _aioseop_title: 월요일 출근길 도로가 막힌다는건 내 착각인가?
+  _edit_last: '1'
+author:
+  login: theo.yang
+  email: th@thtyle.com
+  display_name: thyng
+  first_name: Theo
+  last_name: Yang
+---
+<p><a rel="attachment wp-att-2844" href="http://www.thtyle.com/blog/2013/05/monday-friday-traffic-jam/screen-shot-2013-05-19-at-6-47-51-pm/"><img class="alignnone size-full wp-image-2844" style="border: 1px solid black;" title="traffic jam" src="{{ site.baseurl }}/assets/Screen-Shot-2013-05-19-at-6.47.51-PM.png" alt="" width="399" height="138" /></a></p>
+<p>나는 평소 '월요일 출근시간, 금요일 퇴근시간은 교통 체증이 심하다'라는 고정관념을 갖고 있고 그 시간엔 얕게나마 스트레스를 느꼈다. 이번 포스트는 '왜 그럴까?'의 궁금증으로 시작했다.</p>
+<p><!--more--></p>
+<h3><span style="font-size: 1.17em;">Intro.</span></h3>
+<p>왜 월요일의 출근, 금요일 퇴근 때 자동차 도로는 막히는걸까. 구글에 물어보고, 네이버에 물어보니 나와 같은 궁금증을 가진 사람들이 꽤 있음을 알았다. 하지만 '왜' 막히는지에 대한 '납득할 만한' 연구 결과 혹은 기사는 찾을 수 없었다. 그러던 중 내 호기심을 자극한 Economist 블로그의 <a href="http://blogs.ft.com/undercover/2010/01/dear-economist-why-are-traffic-jams-so-bad-on-mondays" target="_blank">&lt;Dear Economist&gt;* 섹션에서 발견한 글 하나.</a> (*&lt;Dear Economist&gt;는 독자들의 재밌는 질문들을 Economist가 대답해주는 코너로 "하루 중 프리젠테이션 하기에 가장 좋은 시간은?","경제학자가 되기 위해 수학공부를 해야하나요?"와 같은 질문들이 올라옴)</p>
+<blockquote><p>Q: "왜 월요일과 비오는 날은 차가 많이 막힐까요?"</p></blockquote>
+<p>'내 궁금증과 비슷하다!'라고 반가워했는데, 대답은 실망스럽다. 한 줄로 요약하면,</p>
+<blockquote><p>A: "한국이 특수할 수도 있지만, 월요일이 특히 더 막히는건 아니야. 오히려 다른 평일이 수치상으론 더 막혀. 월요병처럼 심리적으로 막히는 것처럼 우리가 느끼는거야."</p></blockquote>
+<p>받아들이기 어려운 대답이었다. 몇 번을 생각해도 '심리적'인 요인 때문은 아닌거 같다. 실제 데이터로 확인을 해봐야겠다는 생각이 들어서 단순 웹 페이지 검색말고 리포트와 수집 데이터를 찾아보기 시작했다.</p>
+<p>&nbsp;</p>
+<h3>가정 및 데이터 확인.</h3>
+<p>"월요일 출근길, 금요일 퇴근길은 다른 평일에 비해서 더 막힌다.", <strong>도로가 막힌다는 것은 차량 통행량이 많거나, 주행속도가 느린 것을 의미한다. 통행량이 많다고 꼭 주행속도가 늦은것은 아니므로 통행량과 주행속도를 구분해 가정</strong>을 세웠다.</p>
+<p>Assumption A. 월요일 출근시간, 금요일 퇴근시간은 다른 평일보다 차량 통행량이 많다.</p>
+<ul>
+<li>조사 대상: 서울시내 주요 도로 84개 구간</li>
+<li>조사 데이터 출처: 서울특별시 교통정보(http://traffic.seoul.go.kr/), 데이터 기반으로 Plotting은 직접 했음(human error 가능성 농후).</li>
+</ul>
+<p>&nbsp;</p>
+<p>A-1. 서울시 전체 도로의 시간대별 일 평균 차량 통행량</p>
+<p><a href="http://cfile30.uf.tistory.com/original/2517CA3551890F5B187AF0"><img class="alignnone" title="서울시 일 평균 차량 통행량" src="{{ site.baseurl }}/assets/2517CA3551890F5B187AF0" alt="" width="618" height="402" /></a></p>
+<p>출근시간(6-10시), 퇴근시간(17-20시)에 통행량이 많음을 쉽게 확인할 수 있다(그래프 출처: <a href="http://traffic.seoul.go.kr/archives/382" target="_blank">서울 교통정보 보고서</a>). <strong>출퇴근 시간에 차량 통행량이 더 많다는 가정이 맞았다.</strong></p>
+<p>&nbsp;</p>
+<p>A-2. 서울시 주요 도로 84개 구간의 평일 출근시간 통행량</p>
+<p>아래 그래프는 서울시 주요 도로 84개 구간의 평일 출근시간(6시-9시)의 구간별 차량 통행량(유입+유출)을 나타낸다(일년 전체에 대한 평균 데이터는 아님. 서울시에서 제공하는 특정 1주일에 대한 정보). 평일 출근시간 중 월요일 출근시간의 통행량이 많은 곳은 총 84구간 중 37개 구간으로 약 44% 정도가 가정과 일치함을 알 수 있다(두번째로 통행량이 많은 요일은 화요일로 10개 구간이다). 이를 통해 <strong>월요일이 다른 평일에 비해서 출근시간 통행량이 많은 구간이 다수임을 확인</strong>했다. (월요일 출근시간 통행량이 많은 구간: 양재I.C, 양재대로, 예술의전당, 혜화전화국, 서강대교, 천왕교차로, 구로종근당, 유한공고, 세곡교차로, 구기터널, 천호대교, 증산로, 잠실대교북단, 올림픽대교, 신내I.C, 개화교, 반포대교, 북악터널, 시흥대로시계, 시흥I.C, 삼육대입구, 고속터미널, 서하남I.C, 총신대입구, 매봉터널, 성동여상, 대림성모병원, 남산1호터널, 금화터널, 종합운동장, 복정검문소, 퇴계로입구, 동호대교, 새우재고개, 서오능입구, 광장동시계, 문성터널)</p>
+<p><a href="http://cfile9.uf.tistory.com/original/0335473A5198F09F27A3F8"><img title="서울 주요도로 평일 출근시간 통행량" src="{{ site.baseurl }}/assets/0335473A5198F09F27A3F8" alt="" width="1223" height="781" /></a></p>
+<p>&nbsp;</p>
+<p>A-3. 서울시 주요 도로 84개 구간의 평일 퇴근시간 통행량</p>
+<p>아래 그래프는 서울시 주요 도로 84개 구간의 평일 퇴근시간(5시-8시)의 구간별 차량 통행량(유입+유출)을 나타낸다(일년 전체에 대한 평균 데이터는 아님. 서울시에서 제공하는 특정 1주일에 대한 정보). 평일 퇴근시간 중 금요일 퇴근시간의 통행량이 많은 곳은 총 84구간 중 33개 구간으로 약 39% 정도가 가정과 일치함을 알 수 있다. 이를 통해 <strong>금요일 퇴근시간 또한 A-2에서 확인한 월요일 출근시간 사례처럼 상대적으로 다른 평일보다 통행량이 많은 구간이 다수</strong>임을 알 수 있었다. (금요일 퇴근시간 통행량이 많은 구간: 한남대교, 신월I.C, 강일I.C, 예술의전당, 청담대교, 혜화전화국, 천호대교, 남태령고개, 시청역, 올림픽대교, 신내I.C, 양화대교, 시흥I.C, 한강대교, 연희I.C, 고속터미널, 서울역, 장충체육관, 매봉터널, 성동여상, 대림성모병원, 도봉로시계, 종합운동장, 공수교차로, 오목교, 정동MBC앞, 우면산, 을지로3가, 광장동시계, 칠패길, 잠수교, 소파길, 삼청터널)</p>
+<p><a href="http://cfile7.uf.tistory.com/original/243A1F3A5198F09E1C80A2"><img title="서울 주요도로 평일 퇴근시간 통행량" src="{{ site.baseurl }}/assets/243A1F3A5198F09E1C80A2" alt="" width="1219" height="777" /></a></p>
+<p>&nbsp;</p>
+<p>Assumption B. 월요일 출근시간, 금요일 퇴근시간은 다른 평일보다 차량 통행속도가 느리다.</p>
+<ul>
+<li>조사 대상: 서울-경기 국도, 고속도로 등 90개 주요 구간. 경부 고속도로 IC 18개 구간, 올림픽 대로 18개 구간.</li>
+<li>조사 데이터 출처: 경기도 교통정보 센터(http://gits.gg.go.kr/)</li>
+</ul>
+<p>&nbsp;</p>
+<p>B-1. 서울-경기 주요 도로 90개 구간 시간대별 정체구간 수</p>
+<p><a href="http://cfile24.uf.tistory.com/original/27152A4E518A7C6D17EDC9"><img class="alignnone" title="서울시 주요 도로 83개 구간 시간대별 정체구간 수" src="{{ site.baseurl }}/assets/27152A4E518A7C6D17EDC9" alt="" width="628" height="346" /></a></p>
+<ul>
+<li>월요일: 출근시간인 7-9시에 정체구간 증가가 도드라짐.</li>
+<li>금요일: 전체적으로 정체구간이 다른 평일에 비해 많음. 특히 퇴근시간, 저녁시간에는 정체구간이 많다.</li>
+</ul>
+<p><a href="http://cfile6.uf.tistory.com/original/221CBF4851890F40140A3A"><img class="alignnone" style="margin-left: 30px;" title="Raw Data" src="{{ site.baseurl }}/assets/221CBF4851890F40140A3A" alt="" width="816" height="538" /></a></p>
+<p>(데이터 출처: <a href="http://gits.gg.go.kr/trafficStat.do?command=road" target="_blank">경기도교통정보센터내 노선별 통계정보</a>에서 4월 22일/24일/26일 전체노선의 평균통행속도(km/h). 빨간색이 정체구간을 나타냄.)<a href="http://gits.gg.go.kr/trafficStat.do?command=road"></a></p>
+<p>전체 90개 구간에서 추이를 확인했으니, 동일한 방법으로 내가 주로 이용하는 출퇴근 구간인 경부 고속도로와 올림픽 대로의 데이터를 확인해 봤다.</p>
+<p>&nbsp;</p>
+<p>B-2. 경부 고속도로 비교</p>
+<p><a href="http://cfile4.uf.tistory.com/original/0127954B51989C2013EDC5"><img style="margin-left: 30px;" title="경부고속도로 주요구간" src="{{ site.baseurl }}/assets/0127954B51989C2013EDC5" alt="" width="308" height="202" /></a></p>
+<p><a href="http://cfile9.uf.tistory.com/original/272A654E518A7C6D0357C9"><img title="경부 고속도로 비교" src="{{ site.baseurl }}/assets/272A654E518A7C6D0357C9" alt="" width="638" height="386" /></a></p>
+<ul>
+<li>월요일: 화요일보다 정체구간이 적어 내가 세운 가정과 다른 결과를 확인 할 수 있다.</li>
+<li>금요일: 퇴근길, 저녁시간에 압도적으로 정체구간이 많다(총 18개 구간 중 13개 구간).</li>
+</ul>
+<p>&nbsp;</p>
+<p>B-3. 올림픽대로 비교</p>
+<p><a href="http://cfile22.uf.tistory.com/original/271F454B51989C1F214972"><img style="margin-left: 30px;" title="올림픽 대로 주요 구간" src="{{ site.baseurl }}/assets/271F454B51989C1F214972" alt="" width="362" height="221" /></a></p>
+<p><a href="http://cfile25.uf.tistory.com/original/2308854E518A7C6C271962"><img class="alignnone" title="올림픽 대로 비교" src="{{ site.baseurl }}/assets/2308854E518A7C6C271962" alt="" width="621" height="382" /></a></p>
+<ul>
+<li>월요일: 출근길 정체구간이 압도적으로 많다(총 19개 구간 중 12개 구간). 퇴근길은 다른 평일보다 한산한 모습이다.</li>
+<li>금요일: 금요일 퇴근시간도 다른 평일에 비해 눈에 띄게 정체구간이 많다.</li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3>정리</h3>
+<p><strong>Assumption A: 월요일 출근시간, 금요일 퇴근시간은 다른 평일보다 차량 통행량이 많다.</strong></p>
+<p>가정 A는 전체 모든 구간에 대해서 '월요일 출근/금요일 퇴근시간의 차량 통행량이 많다'는 가정이 성립되지는 않았지만 40%의 구간에 대해서 성립됨을 확인하여(다른 평일에 비해 압도적) 우리가 월/금요일 교통 통행량에서 느끼는 교통체증은 '허상'이 아니라 '실제로 일어나는 일'임을 확인했다.</p>
+<p><strong>Assumption B: 월요일 출근시간, 금요일 퇴근시간은 다른 평일보다 차량 통행속도가 느리다.</strong></p>
+<p>가정 B는 서울-경기 국도/고속도로 주요 구간과 경부고속도로, 올림픽대로를 확인했을 때 월요일 출근/금요일 퇴근시간의 차량 통행속도가 '명백히' 느리다는 것을 확인했다.</p>
+<p>&nbsp;</p>
+<p>이쯤되면 월요일 출근시간, 금요일 퇴근시간이 막히는건 데이터로 확인을 했으니 알겠는데, '왜 그럴까? 원인이 궁금하다?'는 마음을 갖게 되는게 자연스럽다. 이 역시 웹 페이지 검색을 해보았는데, 교통공학 관련 저널의 아티클부터 커뮤니티 자유게시판의 토론까지 재미난 의견들이 많았지만 명쾌한 이유나 해결책은 없었다.</p>
+<p><a href="http://news.donga.com/List/Series_70030000000680/3/70030000000680/20111112/41823401/1" target="_blank">'전문가'들이 낸 의견들</a> (정리해보니 전문가 의견이라고 하기엔 좀 '단순'하다)</p>
+<ul>
+<li>월요일에 대부분의 회사가 회의를 하므로 출근하는 사람들이 평소보다 월요일에 집중된다.</li>
+<li>주 5일제 시행으로 주말에 여행, 부모 방문 등을 위해 차량 이동이 많으므로 금요일 퇴근시 차량 이용을 많이한다.</li>
+<li>정체가 덜한 주말에 운전하다가 월요일에 느끼는 교통정체가 심하다고 느끼는 심리적 요인.</li>
+</ul>
+<p>웹 상에서 토론된 의견들 (그럴 듯 하지만 증명하기 어렵다)</p>
+<ul>
+<li>휴일에 푹쉬다가 월요일에 출근할 때 피곤해서 자가용을 더 많이 이용한다.</li>
+<li>월요일에 쉬는 사람의 비율이 다른 평일에 비해서 낮다(출근자가 많다).</li>
+<li>월요일엔 술 약속이 다른 날보다 적어서 차를 많이 갖고 나온다.</li>
+<li>주중 첫 출근이라 출근대가 비슷해서(다른 평일에는 분산된다).</li>
+</ul>
+<p>&nbsp;</p>
+<h3><span style="font-size: 1.17em;">결론</span></h3>
+<p><strong>Economist 블로그의 &lt;Dear Economist&gt;에서 말한대로 월요일 출근길 교통정체는 '월요병'과 같은 심리적 이유만이 아님은 확인했다. </strong><strong>실제 교통량, 주행속도도 서울시내 주요도로, 서울-경기 고속도로/국도/주요 분기점에서 월요일 출근시간, 금요일 퇴근시간은 다른 평일에 비해 막히는 경향임을 뚜렷히 볼 수 있었다. </strong>그 원인에 대해서는 전문가들의 의견도, 네티즌들의 의견도 명확한 해답을 찾기는 어려웠지만 아래 의견에 가장 동조하게 됐다. "월요일 출근, 금요일 퇴근을 따로 놓고 생각할 것이 아니라, 금요일 퇴근길의 정체가 월요일 출근길의 정체와 연관된 점을 파악해야한다. 즉 주중에는 집 주차장, 회사 주차장에서 노는 차들이 주말에/주말을 위해 금요일에 집이나 회사를 나왔다가 월요일에 회사 혹은 집으로 들어가는 패턴이기 때문에 휴일을 앞둔 날과 휴일 후 출근날이 막히는 '단순한' 패턴일 수 있다." (출처: <a href="http://www.gyotongn.com/theme/theme_list.html?no_theme=7314&amp;cd_theme=1&amp;page=18&amp;item=&amp;keyword=" target="_blank">교통신문 사설</a>, 내용을 짧게 재구성) (별일 아닌데, 괜히 흥분해서 데이터 뒤지고 플로팅 한 거 같아서 약간 허무함. 그래도 small research가 재밌다.)</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Fine. thyng.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
