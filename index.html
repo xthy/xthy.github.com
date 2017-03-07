@@ -4,29 +4,15 @@ layout: default
 <div class="home">
 	<section class="site-header">
 		<h1 class="smallcap"><a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+		<p>무용함으로 유용하길 바라는 마음으로. 글쓴이 <a href="http://twitter.com/xthy" target=_blank>y7o</a>.</p>
 	</section>
-<section>
-
-    {% assign sorted_cats = site.categories | sort %}
-    {% for category in sorted_cats %}
-    {% assign sorted_posts = category[1] | reversed %}
-    <h3 id="{{category[0] | uri_escape | downcase | slugify }}">[{{category[0]}}]</h3>
 	<section>
-	    {% for post in sorted_posts %}
-        {% unless post.draft %}
-        {% if post.menutitle %}
-        {% assign title = post.menutitle %}
-        {% else %}
-        {% assign title = post.title %}
-        {% endif %}
 		<ul class="post-list">
+			{% for post in site.posts %}
 			<li>
-				<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y %b %d" }}</time>
+				<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>&nbsp&nbsp<cate>{{ post.categories[0] }}</cate>&nbsp&nbsp<time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time>
 			</li>
+			{% endfor %}
 		</ul>
-        {% endunless %}
-        {% endfor %}
 	</section>
-    {% endfor %}
-</section>
 </div>

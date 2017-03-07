@@ -2,7 +2,7 @@
 layout: post
 title: "Twitter Favorites"
 date:   2017-03-05 21:30:30
-category: Stack
+category: Log
 
 ---
 

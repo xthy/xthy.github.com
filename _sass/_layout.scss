@@ -2,17 +2,18 @@
  * Site header
  */
 .site-header {
-    border-bottom: 1px solid $grey-color-light;
+    border-bottom: 1.5px solid $grey-color;
     margin-top: -2rem;
     max-width: 48rem;
 }
 
 .smallcap {
+    font-family: 'Merriweather';
     text-transform: lowercase;
     font-variant: small-caps;
-    font-size: 1.5rem;
+    font-size: 3rem;
     font-weight: bold;
-
+    
     a,
     a:hover {
         text-decoration: none;
@@ -32,7 +33,7 @@
  */
 .home {
     section + section {
-        margin-top: $spacing-unit;
+        margin-top: $spacing-unit / 2;
     }
 }
 
@@ -52,11 +53,21 @@
         font-size: $small-font-size;
         color: $grey-color;
     }
+    cate {
+        font-size: $small-font-size;
+        color: $grey-color;
+    }
+
     @include media-query($on-palm) {
         time {
             display: block;
             font-size: $small-font-size;
         }
+        cate {
+            display: block;
+            font-size: $small-font-size;
+        }
+
     }
 }
 

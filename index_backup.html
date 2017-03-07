@@ -1,0 +1,31 @@
+---
+layout: default
+---
+<div class="home">
+	<section class="site-header">
+		<h1 class="smallcap"><a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+	</section>
+<section>
+    {% assign sorted_cats = site.categories | sort %}
+    {% for category in sorted_cats %}
+    {% assign sorted_posts = category[1] | reversed %}
+    <h2 class="smallcap" id="{{category[0] | uri_escape | downcase | slugify }}">{{category[0]}}</h2>
+	<section>
+	    {% for post in sorted_posts %}
+        {% unless post.draft %}
+        {% if post.menutitle %}
+        {% assign title = post.menutitle %}
+        {% else %}
+        {% assign title = post.title %}
+        {% endif %}
+		<ul class="post-list">
+			<li>
+				<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y %b %d" }}</time>
+			</li>
+		</ul>
+        {% endunless %}
+        {% endfor %}
+	</section>
+    {% endfor %}
+</section>
+</div>

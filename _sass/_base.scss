@@ -105,11 +105,9 @@ a {
  * Blockquotes
  */
 blockquote {
-    color: $grey-color;
+    color: #262626;
     padding-left: $spacing-unit / 2;
-    border-left: 2px solid $grey-color-light;
-    font-style: italic;
-    font-size: $small-font-size;
+    border-left: 1.5px solid #6aa6ba;
 
     > :last-child {
         margin-bottom: 0;

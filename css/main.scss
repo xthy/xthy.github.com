@@ -4,7 +4,7 @@
 @charset "utf-8";
 
 // Our variables
-$base-font-family: 'Droid Sans', sans-serif;
+$base-font-family: 'NanumSquare', sans-serif;
 $code-font-family: Inconsolata, Monaco, Consolas, monospace;
 $base-font-size:   16px;
 $base-font-weight: 400;
@@ -15,7 +15,7 @@ $spacing-unit:     2rem;
 
 $text-color:       #111;
 $background-color: #fff;
-$link-color:       #0645ad;
+$link-color:       #6aa6ba;
 
 $grey-color:       #aaa;
 $grey-color-light: lighten($grey-color, 25%);
@@ -40,8 +40,9 @@ $on-:        800px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-		url(https://fonts.googleapis.com/css?family=Droid+Sans),
+		url(https://cdn.jsdelivr.net/nanumsquare/1.0/nanumsquare.css),
         "base",
         "layout",
         "syntax-highlighting"
 ;
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
