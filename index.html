@@ -9,9 +9,10 @@ layout: default
 	<section>
 		<ul class="post-list">
 			{% for post in site.posts %}
-			<li>
-				<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><cate>&nbsp;{{ post.categories[0] }}</cate>
-			</li>
+            <li>
+    <cate>{{ post.categories[0] }}</cate> &nbsp;<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+
+            </li>
 			{% endfor %}
 		</ul>
 	</section>
