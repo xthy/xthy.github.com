@@ -1,31 +1,26 @@
 ---
-layout: page
-title: Archive
+layout: default
 ---
-<div class="archive">
+<div class="home">
 	<section class="site-header">
 		<h1 class="smallcap"><a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+		<p></p>
 	</section>
-  <div class="archive-list">
-  {% if site.posts.size == 0 %}
-    <h2>No post found</h2>
-  {% else %}
-  {% for post in site.posts %}
-    <div class="archive-list-post">
-      {% if post.link %}
-      <a href="{{ post.link }}">
-      {% else %}
-      <a href="{{ post.url | prepend: site.baseurl }}">
-      {% endif %}  
-        <span class="archive-list-post-title">
-          {{ post.title }}
-        </span>
-        <span class="archive-list-post-date">
-          <time>| {{ post.date | date_to_string }}</time>
-        </span>
-      </a>
-    </div>
-  {% endfor %}
-  {% endif %}
-  </div>
+    <section>
+{% for tag in site.categories %}
+  <h3 id="{{ tag[0] }}"><b>[{{ tag[0] }}]</b></h3>
+  <ul class="post-list">
+    {% assign pages_list = tag[1] %}
+    {% for post in pages_list %}
+      {% if post.title != null %}
+      {% if group == null or group == post.group %}
+      <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}<span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">&nbsp&nbsp{{ post.date | date: "%Y-%m-%d" }}</time></a></li>
+      {% endif %}
+      {% endif %}
+    {% endfor %}
+    {% assign pages_list = nil %}
+    {% assign group = nil %}
+  </ul>
+{% endfor %}
+    </section>
 </div>
