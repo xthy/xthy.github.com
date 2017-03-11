@@ -10,8 +10,7 @@ layout: default
 		<ul class="post-list">
 			{% for post in site.posts %}
             <li>
-    <cate>{{ post.categories[0] }}</cate> &nbsp;<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-
+    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>&nbsp;&nbsp;<cate>{{ post.categories[0] }}</cate>
             </li>
 			{% endfor %}
 		</ul>
