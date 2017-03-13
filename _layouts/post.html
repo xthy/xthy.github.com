@@ -6,7 +6,7 @@ layout: default
     <span class="back">&larr; <a href="{{ site.baseurl }}/">글 목록</a></span>
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
     <p class="post-meta">
-	<cate>{{ page.categories[0] }}</cate>&nbsp&nbsp<time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%Y-%m-%d" }}</time>
+        <cate>{{ page.categories[0] }}</cate>&nbsp&nbsp<time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%Y-%m-%d" }}</time>&nbsp&nbsp<cate>{% assign words = content | number_of_words %}{% if words < 360 %}1 분 {% else %}{{ words | divided_by:180 }} 분{% endif %}</cate>
 <!--
       {% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}
       {% assign post = page %}
