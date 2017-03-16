@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Twitter Favorites 2016"
-date:   20<br><br>16-12-30 21:30:30
+date:   2016-12-30 21:30:30
 category: Log
 ---
 [https://t.co/5iYBaBz8u6](https://t.co/5iYBaBz8u6){:target="_blank"}[http://pic.twitter.com/oC0RB3WEOQ](http://pic.twitter.com/oC0RB3WEOQ){:target="_blank"}
