@@ -4,15 +4,51 @@ layout: default
 <div class="home">
 	<section class="site-header">
 		<h1 class="smallcap"><a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
-		<p>경험, 취향, 기록, 공유. 이 곳의 글이 <a href="https://twitter.com/leemoondong/status/542925773003165696" target=_blank>무용함으로 유용</a>하길. <a href="/info" target=_blank>정보</a>.</p>
+		<p>경험, 취향, 기록, 공유. 이 곳의 글이 <a href="https://twitter.com/leemoondong/status/542925773003165696" target=_blank>무용함으로 유용</a>하길. <a href="/info">정보</a>.</p>
 	</section>
 	<section>
-		<ul class="post-list">
-			{% for post in site.posts %}
+        <h2>최근 글</h2>
+        <ul class="post-list">
+           {% for post in site.posts offset: 0 limit: 10  %}
+              {% unless post.draft %}
             <li>
-    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>&nbsp;&nbsp;<cate>{{ post.categories[0] }}</cate>
+                <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>&nbsp;&nbsp;<cate>{{ post.categories[0] }}</cate>
             </li>
+              {% endunless %}
+
 			{% endfor %}
 		</ul>
-	</section>
+    </section>
+
+    {% for category in site.categories %}
+        {% if category[0] == 'Log' %}
+        <h2>{{ category[0] }} ({{ category | last | size }}) </h2>
+        {% assign sorted_posts = site.posts %}
+            <ul class="post-list">
+            {% for post in sorted_posts %}
+            {% unless post.draft %}
+                        {%if post.categories contains category[0]%}
+                        <li>
+                        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                        </li>
+                        {%endif%}
+            {% endunless %}
+            {% endfor %}
+            </ul>
+        {% else %}
+            <h2>{{ category[0] }} ({{ category | last | size }}) </h2>
+            {% assign sorted_posts = site.posts %}
+            <ul class="post-list">
+            {% for post in sorted_posts %}
+            {% unless post.draft %}
+                        {%if post.categories contains category[0]%}
+                        <li>
+                        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                        </li>
+                        {%endif%}
+            {% endunless %}
+            {% endfor %}
+            </ul>
+        {% endif %}
+    {% endfor %}
 </div>
