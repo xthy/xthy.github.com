@@ -9,7 +9,7 @@ category: Log
 User Name: ickjong
 DateTime: 17-12-31 08:46:29
 
-2017 <이 돈까스가 대단해>
+2017 이 돈까스가 대단해
 우승 - 가츠시
 한국식정파 - 서울역 그릴
 일본식정파 - 호호식당
@@ -34,7 +34,7 @@ DateTime: 17-12-30 18:49:39
 User Name: S_Las_J_ATM
 DateTime: 17-12-30 18:48:58
 
-재미있게 본 일본 드라마 중 하나인 <결혼 못 하는 남자>에서 아베 히로시 먹방만 모아놓은 영상. 고독한 미식가는 저리가라 할 정도로 맛있게 먹는다. 結婚できない男… [https://t.co/aE3KCQRVXm](https://t.co/aE3KCQRVXm){:target="_blank"}
+재미있게 본 일본 드라마 중 하나인 결혼 못 하는 남자에서 아베 히로시 먹방만 모아놓은 영상. 고독한 미식가는 저리가라 할 정도로 맛있게 먹는다. 結婚できない男… [https://t.co/aE3KCQRVXm](https://t.co/aE3KCQRVXm){:target="_blank"}
 User Name: junmiguel_lee
 DateTime: 17-12-30 13:56:39
 
@@ -87,7 +87,7 @@ DateTime: 17-12-28 17:21:16
 User Name: otonacool
 DateTime: 17-12-28 15:18:07
 
-난다의 >읽어본다< 5종 리스트는 다음과 같아요!
+난다의 읽어본다 5종 리스트는 다음과 같아요!
 
 1. 요조ㅡ눈이 아닌 것으로도 읽은 기분
 2. 남궁인ㅡ차라리 재미라도 없든가
@@ -116,7 +116,7 @@ Suicide, it's not for me. doesn't suit my style.
 User Name: snailzzang
 DateTime: 17-12-27 15:15:19
 
-경남 사천을 방문하시거들랑 <메가박스 삼천포점>에서 꼭 영화보세요. 두 번 보세요. 극강 뷰. [https://t.co/JjwAeLtzay](https://t.co/JjwAeLtzay){:target="_blank"}
+경남 사천을 방문하시거들랑 메가박스 삼천포점에서 꼭 영화보세요. 두 번 보세요. 극강 뷰. [https://t.co/JjwAeLtzay](https://t.co/JjwAeLtzay){:target="_blank"}
 User Name: _Nefesh
 DateTime: 17-12-27 09:20:11
 
@@ -163,7 +163,7 @@ DateTime: 17-12-24 01:55:41
 User Name: mujica_OMG
 DateTime: 17-12-23 17:50:03
 
-2017년의 책은, 김애란 <바깥은 여름>.
+2017년의 책은, 김애란 바깥은 여름.
 User Name: urban_lab
 DateTime: 17-12-23 13:51:32
 
@@ -190,7 +190,7 @@ DateTime: 17-12-21 01:08:35
 User Name: atmostbeautiful
 DateTime: 17-12-20 23:21:21
 
-기내영화 home again. 이것이 진정한 포르노여~! 마음속으로 외치며 본 영화. 남자주인공 뭔가 케네디네집 아들 같은데 너무 잘 생겼다 >.< 뉴욕배경인 영화 좋아하지만 리빙보이 인 뉴욕인가는 남주때문… [https://t.co/YFUE4GZxgV](https://t.co/YFUE4GZxgV){:target="_blank"}
+기내영화 home again. 이것이 진정한 포르노여~! 마음속으로 외치며 본 영화. 남자주인공 뭔가 케네디네집 아들 같은데 너무 잘 생겼다 . 뉴욕배경인 영화 좋아하지만 리빙보이 인 뉴욕인가는 남주때문… [https://t.co/YFUE4GZxgV](https://t.co/YFUE4GZxgV){:target="_blank"}
 User Name: searcherJ
 DateTime: 17-12-20 22:50:24
 
@@ -202,7 +202,7 @@ DateTime: 17-12-20 06:40:38
 User Name: keepcalmdawn
 DateTime: 17-12-20 00:47:55
 
-<스마트폰을 떨어뜨렸을 뿐인데> 시가 아키라 소설. 불닭볶음면 같은 소설이다. 자극적이고 매우 재미있다. 약간 싼마이 느낌은 있지만. 한번 책 잡으면 단순에 읽게 된다. 스마트폰 페이스북 으로 어떤 범죄에… [https://t.co/oSzaMRxkIJ](https://t.co/oSzaMRxkIJ){:target="_blank"}
+스마트폰을 떨어뜨렸을 뿐인데 시가 아키라 소설. 불닭볶음면 같은 소설이다. 자극적이고 매우 재미있다. 약간 싼마이 느낌은 있지만. 한번 책 잡으면 단순에 읽게 된다. 스마트폰 페이스북 으로 어떤 범죄에… [https://t.co/oSzaMRxkIJ](https://t.co/oSzaMRxkIJ){:target="_blank"}
 User Name: seanlee38
 DateTime: 17-12-20 00:00:51
 
@@ -220,7 +220,7 @@ User Name: tailorcontents
 DateTime: 17-12-19 02:28:16
 
 고부갈등에 대한 유쾌하고도 솔직한 시선 'B급 며느리', 2018년 1월 개봉 
-<레즈>로 서독제 심사위원특별언급상 수상 선호빈 감독의 7년만의 작품
+레즈로 서독제 심사위원특별언급상 수상 선호빈 감독의 7년만의 작품
 춘천다큐멘터리 장편부문 대상 수상, DMZ 국제다큐영… [https://t.co/nqKOPNzBj2](https://t.co/nqKOPNzBj2){:target="_blank"}
 User Name: cinemaplus39
 DateTime: 17-12-19 01:09:32
@@ -252,7 +252,7 @@ DateTime: 17-12-16 05:28:37
 패터슨 상영예정작
 이 한 편의 영화로
 당신의 하루가 아름다워질 거예요
-<패터슨> 12/21 아트나인 개봉!
+패터슨 12/21 아트나인 개봉!
 아트나인 [https://t.co/qoMTWS7P7R](https://t.co/qoMTWS7P7R){:target="_blank"}
 User Name: art_nine9
 DateTime: 17-12-16 04:38:10
@@ -281,7 +281,7 @@ Abe Toshiyuki
 User Name: cornerjn
 DateTime: 17-12-13 07:38:43
 
-강상중 교수의 <나를 지키며 일하는 법>에 이어 10년전 베스트셀러인 <고민하는 힘>도 좋았다. 공감했던 부분은 사람들은 자유를 동경하고 자유가 속박될 때 불행하다고 느낄 것 같지만 실제로는 그렇지 않다는 것. 절대적인 것에 속하고 싶은 욕망이 매우큼
+강상중 교수의 나를 지키며 일하는 법에 이어 10년전 베스트셀러인 고민하는 힘도 좋았다. 공감했던 부분은 사람들은 자유를 동경하고 자유가 속박될 때 불행하다고 느낄 것 같지만 실제로는 그렇지 않다는 것. 절대적인 것에 속하고 싶은 욕망이 매우큼
 User Name: cnookie
 DateTime: 17-12-13 02:19:47
 
@@ -328,7 +328,7 @@ DateTime: 17-12-09 06:25:51
 User Name: Dangerplanet
 DateTime: 17-12-08 18:57:42
 
-악ㅠㅠㅠㅠㅠㅠ 이건 봐야돼ㅠㅠㅠㅠ 악!!!! 이번주 <Sbs 스페셜-THE 람쥐> ㅠㅠㅠㅠ
+악ㅠㅠㅠㅠㅠㅠ 이건 봐야돼ㅠㅠㅠㅠ 악!!!! 이번주 Sbs 스페셜-THE 람쥐 ㅠㅠㅠㅠ
 The 람쥐’에서는 거대한 숲을 배경으로 다람쥐가 겪는 모험과 생존 경쟁 등 다양한 상황이 다람쥐의 시선으로 그려… [https://t.co/c8Em7NZIYD](https://t.co/c8Em7NZIYD){:target="_blank"}
 User Name: standbymemong
 DateTime: 17-12-08 14:41:58
@@ -366,7 +366,7 @@ DateTime: 17-12-07 16:38:10
 User Name: snailzzang
 DateTime: 17-12-07 08:21:55
 
-이번 상상마당 작업하면서 모든 영화를 다 봤는데, 또 보고 싶은 영화를 하나만 꼽자면 <안녕, 나의 소울메이트>. 충분히 예측 가능한 스토리인데도 불구하고 주동우 연가 너무 좋아 초집중해서 봤고, 완전 반해… [https://t.co/Lwa3aU3E8R](https://t.co/Lwa3aU3E8R){:target="_blank"}
+이번 상상마당 작업하면서 모든 영화를 다 봤는데, 또 보고 싶은 영화를 하나만 꼽자면 안녕, 나의 소울메이트. 충분히 예측 가능한 스토리인데도 불구하고 주동우 연가 너무 좋아 초집중해서 봤고, 완전 반해… [https://t.co/Lwa3aU3E8R](https://t.co/Lwa3aU3E8R){:target="_blank"}
 User Name: gomdolgoon
 DateTime: 17-12-07 08:13:07
 
@@ -382,7 +382,7 @@ DateTime: 17-12-06 11:22:49
 User Name: Birdfolder_com
 DateTime: 17-12-06 11:17:52
 
-'오세요 핀란드' 계정 좋아한다. 그리고 볼 때마다 생각나는 이야기가 있다. 앤드루 솔로몬이 2001년 <한낮의 우울>을 쓴 뒤 여러 나라에서 홍보할 때였다. 스페인에서는 모든 인터뷰어가 이렇게 운을 뗐다고… [https://t.co/ogvGTzn52b](https://t.co/ogvGTzn52b){:target="_blank"}
+'오세요 핀란드' 계정 좋아한다. 그리고 볼 때마다 생각나는 이야기가 있다. 앤드루 솔로몬이 2001년 한낮의 우울을 쓴 뒤 여러 나라에서 홍보할 때였다. 스페인에서는 모든 인터뷰어가 이렇게 운을 뗐다고… [https://t.co/ogvGTzn52b](https://t.co/ogvGTzn52b){:target="_blank"}
 User Name: starlakim
 DateTime: 17-12-06 10:56:07
 
@@ -390,7 +390,7 @@ DateTime: 17-12-06 10:56:07
 User Name: kangdk
 DateTime: 17-12-04 12:10:52
 
-베이직한 디자인과 사각거리는 질감, 편안하게 어울리는 컬러 등 매일의 머그로 쓰기에 더 없이 좋은 4th market의 스틸크잔 전 컬러 입고되었습니다🍩 9월에는 오모테산도 츠타야에서도 <손에 잡힐 때마다… [https://t.co/2wy8O2hZYA](https://t.co/2wy8O2hZYA){:target="_blank"}
+베이직한 디자인과 사각거리는 질감, 편안하게 어울리는 컬러 등 매일의 머그로 쓰기에 더 없이 좋은 4th market의 스틸크잔 전 컬러 입고되었습니다🍩 9월에는 오모테산도 츠타야에서도 손에 잡힐 때마다… [https://t.co/2wy8O2hZYA](https://t.co/2wy8O2hZYA){:target="_blank"}
 User Name: hosalife
 DateTime: 17-12-04 11:14:04
 
@@ -398,11 +398,11 @@ Big data 시대의 통계학 [https://t.co/4Gx4PAfmjP](https://t.co/4Gx4PAfmjP){
 User Name: jsjeong3
 DateTime: 17-12-04 11:00:31
 
-<끝난 사람> 우치다테 마키코 소설. 무섭도록 리얼하고 핵심을 집어낸다. 강추. 좋은 학벌로 나름 엘리트 조직생활에 인생을 바쳐 일하다가. 중년에 은퇴후 겪는 새생활의 애로가 적나라하게 나온다. 한국 중년 중 준비된 사람이 얼마나 있을까
+끝난 사람 우치다테 마키코 소설. 무섭도록 리얼하고 핵심을 집어낸다. 강추. 좋은 학벌로 나름 엘리트 조직생활에 인생을 바쳐 일하다가. 중년에 은퇴후 겪는 새생활의 애로가 적나라하게 나온다. 한국 중년 중 준비된 사람이 얼마나 있을까
 User Name: seanlee38
 DateTime: 17-12-04 08:40:06
 
-<이건사야해>
+이건사야해
 식신포스있는 남자분(정준하느낌)이 쓸어담길래 나도  따라 샀다가
 인생 냉동 피자 만남
 지금 세일함 세개 만원
@@ -482,7 +482,7 @@ Massimi Dutti
 User Name: st_germain75006
 DateTime: 17-11-28 04:31:52
 
-와~! <박철수의 거주박물지>가 넘사벽인 ‘운전면허시험집’을 추월하여 어제 교보문고 기술공학분야 일간베스트 1위를 했다는 소식! 다시는 그럴 일이 없기에 보관용 사진으로 캡쳐! [https://t.co/2Tqdc5dVKx](https://t.co/2Tqdc5dVKx){:target="_blank"}
+와~! 박철수의 거주박물지가 넘사벽인 ‘운전면허시험집’을 추월하여 어제 교보문고 기술공학분야 일간베스트 1위를 했다는 소식! 다시는 그럴 일이 없기에 보관용 사진으로 캡쳐! [https://t.co/2Tqdc5dVKx](https://t.co/2Tqdc5dVKx){:target="_blank"}
 User Name: salguajc
 DateTime: 17-11-28 02:56:54
 
@@ -507,12 +507,12 @@ DateTime: 17-11-27 08:55:42
 User Name: miteinerspiegel
 DateTime: 17-11-26 15:10:49
 
-<배드 지니어스>. 이 정도로 재미난 영화에 이 정도밖에 안 되는 상영관은 극장사업주들의 사악한 나태함이라고밖에는 설명할 길이 없다. 재미와 재기, 세상이 나쁜 것이 내가 나빠도 된다는 뜻은 아니라는 교훈의… [https://t.co/HTTTtQXpNC](https://t.co/HTTTtQXpNC){:target="_blank"}
+배드 지니어스. 이 정도로 재미난 영화에 이 정도밖에 안 되는 상영관은 극장사업주들의 사악한 나태함이라고밖에는 설명할 길이 없다. 재미와 재기, 세상이 나쁜 것이 내가 나빠도 된다는 뜻은 아니라는 교훈의… [https://t.co/HTTTtQXpNC](https://t.co/HTTTtQXpNC){:target="_blank"}
 User Name: castellio
 DateTime: 17-11-26 13:12:51
 
 놓치지 말아야 할 전시가 있네요. 잊기 전에 미리미리 예매해 두시는 것이 좋겠습니다. 
-<알베르토 자코메티 특별전> 
+알베르토 자코메티 특별전 
 - Alberto Giacometti(1901-1966, Swiss) 
 - 일정: 12… [https://t.co/6dw6dm6ONk](https://t.co/6dw6dm6ONk){:target="_blank"}
 User Name: Kvin_1
@@ -534,7 +534,7 @@ DateTime: 17-11-26 03:59:29
 User Name: hansubkim
 DateTime: 17-11-26 02:38:39
 
-넷플릭스에는 가끔씩 양질의 도큐멘터리가 올라 온다. 지금 로버트 라이시 Robert Reich의 <자본주의를 구하라>도 그 하나. 결론은 '상공회의소 같은 곳은 돈으로 자기를 위한 정치력을 발휘한다. 민초들… [https://t.co/GQyvAKQaTJ](https://t.co/GQyvAKQaTJ){:target="_blank"}
+넷플릭스에는 가끔씩 양질의 도큐멘터리가 올라 온다. 지금 로버트 라이시 Robert Reich의 자본주의를 구하라도 그 하나. 결론은 '상공회의소 같은 곳은 돈으로 자기를 위한 정치력을 발휘한다. 민초들… [https://t.co/GQyvAKQaTJ](https://t.co/GQyvAKQaTJ){:target="_blank"}
 User Name: enhance
 DateTime: 17-11-26 00:34:12
 
@@ -575,7 +575,7 @@ DateTime: 17-11-23 09:38:50
 User Name: humanpotion
 DateTime: 17-11-22 13:53:48
 
-2017 올해의 방, <경치가 좋은 방>. 도쿄국립근대미술관. [https://t.co/0SVacGMtGF](https://t.co/0SVacGMtGF){:target="_blank"} [https://t.co/paVit4dzQg](https://t.co/paVit4dzQg){:target="_blank"}
+2017 올해의 방, 경치가 좋은 방. 도쿄국립근대미술관. [https://t.co/0SVacGMtGF](https://t.co/0SVacGMtGF){:target="_blank"} [https://t.co/paVit4dzQg](https://t.co/paVit4dzQg){:target="_blank"}
 User Name: urban_lab
 DateTime: 17-11-22 09:40:56
 
@@ -583,7 +583,7 @@ DateTime: 17-11-22 09:40:56
 User Name: zoripseek
 DateTime: 17-11-22 04:53:02
 
-술 한 가지를 놓고 시집을 같이 읽는 팟캐스트 <시시콜콜 시시알콜>에 동거인과 함께 게스트로 출연했습니다. 인터뷰 녹취 풀 때도 자기 목소리는 힘든 법이라 다시 못 듣고 있지만... 58회_한가롭게 산만하게… [https://t.co/kpju0tbNGY](https://t.co/kpju0tbNGY){:target="_blank"}
+술 한 가지를 놓고 시집을 같이 읽는 팟캐스트 시시콜콜 시시알콜에 동거인과 함께 게스트로 출연했습니다. 인터뷰 녹취 풀 때도 자기 목소리는 힘든 법이라 다시 못 듣고 있지만... 58회_한가롭게 산만하게… [https://t.co/kpju0tbNGY](https://t.co/kpju0tbNGY){:target="_blank"}
 User Name: bestrongnow
 DateTime: 17-11-22 01:54:33
 
@@ -627,7 +627,7 @@ DateTime: 17-11-21 01:55:26
 User Name: The_spell
 DateTime: 17-11-21 00:31:43
 
-<고령가 소년 살인사건(1991)> 대만 최초의 미성년자 살인사건을 바탕으로, 독재와 폭력으로 얼룩진 당시 시대상과 소년기를 겹쳐 그린 영화.
+고령가 소년 살인사건(1991) 대만 최초의 미성년자 살인사건을 바탕으로, 독재와 폭력으로 얼룩진 당시 시대상과 소년기를 겹쳐 그린 영화.
 칸등 각종 영화제 수상작에, 마틴 스콜세지는 "위대한 감독 에드… [https://t.co/GRXtLeJ9Rg](https://t.co/GRXtLeJ9Rg){:target="_blank"}
 User Name: RedMustang_Jane
 DateTime: 17-11-20 19:04:21
@@ -636,7 +636,7 @@ DateTime: 17-11-20 19:04:21
 User Name: humorlibrary
 DateTime: 17-11-20 09:35:31
 
-올해 2017년도 아서 C. 클라크상 수상작은 퓰리처상과 전미도서상까지 휩쓴 SF로 떠들썩했죠. 콜슨 화이트헤드의 <언더그라운드 레일로드> [https://t.co/bSCFeNsk4Z](https://t.co/bSCFeNsk4Z){:target="_blank"}
+올해 2017년도 아서 C. 클라크상 수상작은 퓰리처상과 전미도서상까지 휩쓴 SF로 떠들썩했죠. 콜슨 화이트헤드의 언더그라운드 레일로드 [https://t.co/bSCFeNsk4Z](https://t.co/bSCFeNsk4Z){:target="_blank"}
 User Name: de_comma
 DateTime: 17-11-20 04:14:54
 
@@ -656,7 +656,7 @@ DateTime: 17-11-19 00:33:28
 User Name: snailzzang
 DateTime: 17-11-18 15:52:37
 
-이것저것 보다가 영화 <분노>의 츠마부키 사토시와 아야노 고 인터뷰를 봤는데 일부러 영화 찍을 때 방도 같이 썼다고. 그리고 아야노 고가 갑자기 사라지는 장면을 찍는 전날 저녁엔 편의점 간다고 나가서 다음 날까지 들어오지 않았다고 함.
+이것저것 보다가 영화 분노의 츠마부키 사토시와 아야노 고 인터뷰를 봤는데 일부러 영화 찍을 때 방도 같이 썼다고. 그리고 아야노 고가 갑자기 사라지는 장면을 찍는 전날 저녁엔 편의점 간다고 나가서 다음 날까지 들어오지 않았다고 함.
 User Name: urban_lab
 DateTime: 17-11-18 14:42:04
 
@@ -689,7 +689,7 @@ DateTime: 17-11-15 10:11:04
 User Name: tastesherlock
 DateTime: 17-11-15 05:45:45
 
-정세랑 작가의 한국일보 문학상 수상 축하. 나에게 <피프티 피플>은 2016년 올해의 책 중 하나. 조연도 아닌 엑스트라처럼 느껴질 때가 있지만 우리는 우리 삶의 주연이자 감독이자 제작자. 우리의 의지와 상… [https://t.co/YAhLNPN2Rr](https://t.co/YAhLNPN2Rr){:target="_blank"}
+정세랑 작가의 한국일보 문학상 수상 축하. 나에게 피프티 피플은 2016년 올해의 책 중 하나. 조연도 아닌 엑스트라처럼 느껴질 때가 있지만 우리는 우리 삶의 주연이자 감독이자 제작자. 우리의 의지와 상… [https://t.co/YAhLNPN2Rr](https://t.co/YAhLNPN2Rr){:target="_blank"}
 User Name: hubris2015
 DateTime: 17-11-15 05:17:08
 
@@ -767,7 +767,7 @@ DateTime: 17-11-10 07:10:07
 User Name: wagimaru
 DateTime: 17-11-10 06:37:20
 
-전두환과 이명박 자서전만 빼고 대부분의 대통령 자서전을 읽었는데 김대중의 <김대중 자서전>은 여러가지 이유로 사람들에게 읽기를 권하는 책이다. 한국 현대사를 이해하는데 꼭 읽어야 하는 책으로 생각한다. 주중… [https://t.co/vZcF9UWvFH](https://t.co/vZcF9UWvFH){:target="_blank"}
+전두환과 이명박 자서전만 빼고 대부분의 대통령 자서전을 읽었는데 김대중의 김대중 자서전은 여러가지 이유로 사람들에게 읽기를 권하는 책이다. 한국 현대사를 이해하는데 꼭 읽어야 하는 책으로 생각한다. 주중… [https://t.co/vZcF9UWvFH](https://t.co/vZcF9UWvFH){:target="_blank"}
 User Name: hubris2015
 DateTime: 17-11-09 06:34:49
 
@@ -783,7 +783,7 @@ DateTime: 17-11-08 16:48:43
 도란도란 일본 여행 가고 싶을때 
 생각나는 산책 예능 🐾
 
-<아리요시의 솔직한 산책>
+아리요시의 솔직한 산책
 풍성한 미지의 매력! 유라쿠초~신바시에서 새로운 만남 편(1/2)
 다시보기👉[https://t.co/0jvQTPLItC](https://t.co/0jvQTPLItC){:target="_blank"} [https://t.co/HWNv6O6yTH](https://t.co/HWNv6O6yTH){:target="_blank"}
 User Name: chw_tv
@@ -805,7 +805,7 @@ DateTime: 17-11-08 02:00:21
 User Name: __xuly__
 DateTime: 17-11-07 14:12:25
 
-무라카미 류의 책 <남자는 쇼핑을 좋아해>에서 <평생 이어질 '좋은 기분'>이란 에세이는 딱 2페이지 분량이지만 근사하다. 달성하기만 한다면 기쁨과 좋은 기분이 평생 이어질 같은 그 무언가에 관한 글이다. 매우 조용한 충실감에 대한 간명한 에세이.
+무라카미 류의 책 남자는 쇼핑을 좋아해에서 평생 이어질 '좋은 기분'이란 에세이는 딱 2페이지 분량이지만 근사하다. 달성하기만 한다면 기쁨과 좋은 기분이 평생 이어질 같은 그 무언가에 관한 글이다. 매우 조용한 충실감에 대한 간명한 에세이.
 User Name: hubris2015
 DateTime: 17-11-07 08:18:51
 
@@ -819,11 +819,11 @@ DateTime: 17-11-07 07:37:00
 User Name: leicastorekorea
 DateTime: 17-11-07 07:21:18
 
-<알리아스 그레이스> 다 봤고 감상 타래로 적는다. 드라마가 잘 쓰여지고 잘 찍혔고 잘 연기한건 두말할 필요가 없고, 지금 너무 필요한, 여성이 하는 여성의 이야기임 한 개인의 정체성이 무엇으로 구성되는가,… [https://t.co/hPHDzDLNhk](https://t.co/hPHDzDLNhk){:target="_blank"}
+알리아스 그레이스 다 봤고 감상 타래로 적는다. 드라마가 잘 쓰여지고 잘 찍혔고 잘 연기한건 두말할 필요가 없고, 지금 너무 필요한, 여성이 하는 여성의 이야기임 한 개인의 정체성이 무엇으로 구성되는가,… [https://t.co/hPHDzDLNhk](https://t.co/hPHDzDLNhk){:target="_blank"}
 User Name: ifnotlater
 DateTime: 17-11-07 06:31:28
 
-넷플릭스 <Confession tapes> 본인이 하지도 않은 범죄를 경찰의 압력에 못이겨 자백하고 물리적 증거가 없음에도 불구하고 자백했다는 이유로 감옥에 가게 된 사람들의 이야기. 결국엔 무죄를 인정받고 출소했다는 결말을 기대했으나 그렇지가 않다;
+넷플릭스 Confession tapes 본인이 하지도 않은 범죄를 경찰의 압력에 못이겨 자백하고 물리적 증거가 없음에도 불구하고 자백했다는 이유로 감옥에 가게 된 사람들의 이야기. 결국엔 무죄를 인정받고 출소했다는 결말을 기대했으나 그렇지가 않다;
 User Name: i_am_a_cashier
 DateTime: 17-11-06 23:17:21
 
@@ -843,7 +843,7 @@ DateTime: 17-11-06 08:05:54
 User Name: UandMeSong
 DateTime: 17-11-05 12:27:46
 
-아래 트윗한 인터뷰는 읽어볼 가치가 있다. 전략적이기 어렵다면 철학적이면 되고, 좋은 철학이 무엇인지 모르겠다면 좋은 태도를 가지면 되지 않을까 생각한다. <운을 읽는 변호사> 저자 니시사카 쓰토무 인터뷰.  [https://t.co/Sh0W6KGKO1](https://t.co/Sh0W6KGKO1){:target="_blank"}
+아래 트윗한 인터뷰는 읽어볼 가치가 있다. 전략적이기 어렵다면 철학적이면 되고, 좋은 철학이 무엇인지 모르겠다면 좋은 태도를 가지면 되지 않을까 생각한다. 운을 읽는 변호사 저자 니시사카 쓰토무 인터뷰.  [https://t.co/Sh0W6KGKO1](https://t.co/Sh0W6KGKO1){:target="_blank"}
 User Name: hubris2015
 DateTime: 17-11-04 12:50:32
 
@@ -867,14 +867,14 @@ DateTime: 17-11-03 12:11:44
 User Name: DANDYSUDAL
 DateTime: 17-10-28 14:57:33
 
-<스코어: 영화음악의 모든 것> 봤는데 젊고 빼싹 마른 한스 짐머 눈빛이 날카롭고 예민미 터지는 냉미남이어서 놀랐당 [https://t.co/yiYzpZNmG4](https://t.co/yiYzpZNmG4){:target="_blank"}
+스코어: 영화음악의 모든 것 봤는데 젊고 빼싹 마른 한스 짐머 눈빛이 날카롭고 예민미 터지는 냉미남이어서 놀랐당 [https://t.co/yiYzpZNmG4](https://t.co/yiYzpZNmG4){:target="_blank"}
 User Name: qwerdzas
 DateTime: 17-10-26 12:22:28
 
 (리트윗)
 "Le quotidien: ce qu'il y a de plus difficile à découvrir."
 "일상, 가장 발견하기 어려운 것."
-- 블랑쇼, <일상의 말La parole quotidienne>의 첫 문장.
+- 블랑쇼, 일상의 말La parole quotidienne의 첫 문장.
 User Name: jecristonom
 DateTime: 17-10-25 17:01:27
 
@@ -908,7 +908,7 @@ DateTime: 17-10-22 10:37:09
 User Name: miteinerspiegel
 DateTime: 17-10-22 07:23:16
 
-류대영의 <시간과 기억>은 아름다운 글이다. 그의 <파이어스톤 도서관에서 길을 잃다>는 가끔 꺼내 다시 읽는다. 현재를 모조리 기억할 것처럼 사는 것. 그래도 모두 기억할 수 없겠지만 의미있는 것들을 기억해 산다면 삶은 덧없지 않을 것인가.
+류대영의 시간과 기억은 아름다운 글이다. 그의 파이어스톤 도서관에서 길을 잃다는 가끔 꺼내 다시 읽는다. 현재를 모조리 기억할 것처럼 사는 것. 그래도 모두 기억할 수 없겠지만 의미있는 것들을 기억해 산다면 삶은 덧없지 않을 것인가.
 User Name: hubris2015
 DateTime: 17-10-22 04:34:33
 
@@ -916,7 +916,7 @@ DateTime: 17-10-22 04:34:33
 User Name: rokanarutari
 DateTime: 17-10-20 15:42:08
 
-오늘 전세계 동시공개된 스티븐 킹 원작 넷플릭스 오리지널 영화 <1922> 보는 중. 역대급 경악 비주얼(생전 처음 보는 '경악'씬~ 깜짝 놀람)과 훌륭한 연출, 감각적인 촬영과 배우들의 열연이 돋보임~!!… [https://t.co/mt5Iqq8dys](https://t.co/mt5Iqq8dys){:target="_blank"}
+오늘 전세계 동시공개된 스티븐 킹 원작 넷플릭스 오리지널 영화 1922 보는 중. 역대급 경악 비주얼(생전 처음 보는 '경악'씬~ 깜짝 놀람)과 훌륭한 연출, 감각적인 촬영과 배우들의 열연이 돋보임~!!… [https://t.co/mt5Iqq8dys](https://t.co/mt5Iqq8dys){:target="_blank"}
 User Name: kwscws
 DateTime: 17-10-20 13:15:35
 
@@ -936,16 +936,16 @@ DateTime: 17-10-19 06:59:09
 User Name: raya7474
 DateTime: 17-10-19 00:57:18
 
-작년의 베스트책이었던 <틀리지 않는 법>을 한번 더 읽고 싶은데, 찾아보니 알라딘 중고매장에 팔았네... 작년에 이사하며 현금경색(?)으로 책 150권 내다팔 적에 내 손을 떠났구나.
+작년의 베스트책이었던 틀리지 않는 법을 한번 더 읽고 싶은데, 찾아보니 알라딘 중고매장에 팔았네... 작년에 이사하며 현금경색(?)으로 책 150권 내다팔 적에 내 손을 떠났구나.
 User Name: snailzzang
 DateTime: 17-10-17 16:41:09
 
-루이즈 페니 여사의 <a Great Reckoning>.. 수상도 그렇고, 걸작 포스 뿜는 중. 아마존 평 2,610개인데 만점 기록. [https://t.co/94BkEcVo2U](https://t.co/94BkEcVo2U){:target="_blank"} [https://t.co/ZgoDWJSAhn](https://t.co/ZgoDWJSAhn){:target="_blank"}
+루이즈 페니 여사의 a Great Reckoning.. 수상도 그렇고, 걸작 포스 뿜는 중. 아마존 평 2,610개인데 만점 기록. [https://t.co/94BkEcVo2U](https://t.co/94BkEcVo2U){:target="_blank"} [https://t.co/ZgoDWJSAhn](https://t.co/ZgoDWJSAhn){:target="_blank"}
 User Name: howmystery
 DateTime: 17-10-16 09:07:56
 
 “한국은 지리학적으로 작고, 인구밀도가 높으며, 모두가 서로를 사촌같이 여기며, 서로의 약점을 알고 있다. 미국과 비교할 때 남한은 매우 집단을 좋아하며, 극도로 경쟁적이고, 매우 정치적인 사회다.”
-<반미주의로 보는 한국 현대사>
+반미주의로 보는 한국 현대사
 User Name: pheeree
 DateTime: 17-10-15 11:41:50
 
@@ -970,7 +970,7 @@ DateTime: 17-10-14 14:57:27
 User Name: raya7474
 DateTime: 17-10-14 14:50:13
 
-2018 아카데미 시상식 외국어영화상 핀란드 제출 후보작. 게이 포르노 작가의 삶을 다룬 전기영화로 평범하면서도 도... <톰 오브 핀란드> 왓챠 [https://t.co/hqoOzhKj54](https://t.co/hqoOzhKj54){:target="_blank"}
+2018 아카데미 시상식 외국어영화상 핀란드 제출 후보작. 게이 포르노 작가의 삶을 다룬 전기영화로 평범하면서도 도... 톰 오브 핀란드 왓챠 [https://t.co/hqoOzhKj54](https://t.co/hqoOzhKj54){:target="_blank"}
 User Name: just_mir
 DateTime: 17-10-14 03:43:12
 
@@ -983,7 +983,7 @@ Finding Your Roots 라는 유명인들 조상을 추적하는 프로인데, 자�
 User Name: sibauchi
 DateTime: 17-10-14 02:48:33
 
-<집의 시간들>, 라야. 미래의 상영일을 기다리며. '뜨거운 안녕'이란 노래 제목을 닮은 영문 제목도 멋짐: 'A Long Farewell' [https://t.co/MhXBjfqQ64](https://t.co/MhXBjfqQ64){:target="_blank"}
+집의 시간들, 라야. 미래의 상영일을 기다리며. '뜨거운 안녕'이란 노래 제목을 닮은 영문 제목도 멋짐: 'A Long Farewell' [https://t.co/MhXBjfqQ64](https://t.co/MhXBjfqQ64){:target="_blank"}
 User Name: edkim35
 DateTime: 17-10-13 14:07:04
 
@@ -996,7 +996,7 @@ DateTime: 17-10-11 10:08:28
 User Name: searcherJ
 DateTime: 17-10-10 15:41:34
 
-<COMMONO reproducts 2017 A/W - 테일러드 자켓>
+COMMONO reproducts 2017 A/W - 테일러드 자켓
 테일러드 자켓은 일하는 사람을 위한 'WORKERS'시리즈 중 하나로 오피스워커를 위해 만들어졌습니다. 내구성과 기능성을 모두 갖춘 테… [https://t.co/EHDxtLTTb7](https://t.co/EHDxtLTTb7){:target="_blank"}
 User Name: d_d_SEOUL
 DateTime: 17-10-10 03:29:03
@@ -1018,7 +1018,7 @@ DateTime: 17-10-07 23:06:08
 User Name: rahoo_design
 DateTime: 17-10-07 07:17:14
 
-넷플릭스 보는데 이젠 시트콤이고 뭐고 됐고 다큐가 제일 재미있네. 어제는 다단계 기업 허벌라이프의 실상을 밝히고 회사 주식을 대량 공매도한 행동주의 투자가 빌 애크만의 이야기를 다룬 <제로베팅게임>을 봤는데 개꿀잼
+넷플릭스 보는데 이젠 시트콤이고 뭐고 됐고 다큐가 제일 재미있네. 어제는 다단계 기업 허벌라이프의 실상을 밝히고 회사 주식을 대량 공매도한 행동주의 투자가 빌 애크만의 이야기를 다룬 제로베팅게임을 봤는데 개꿀잼
 User Name: Marion0411
 DateTime: 17-10-07 06:58:43
 
@@ -1091,7 +1091,7 @@ CU의 제주 임직원들이 추천한 맛집 지도를 공개합니다
 User Name: BGFretail
 DateTime: 17-09-28 08:31:35
 
-<상품소개 - 에코버(ECOVER)>
+상품소개 - 에코버(ECOVER)
 안전하면서도 실용적인 벨기에 기반의 세제 에코버는 유럽에서 가장 잘 알려진 천연 세제류 브랜드입니다. 사람에게 뿐만 아니라 환경에도 좋은 세제 에코버. 집들이용 선물이나… [https://t.co/dWRgourVxO](https://t.co/dWRgourVxO){:target="_blank"}
 User Name: d_d_SEOUL
 DateTime: 17-09-28 05:54:31
@@ -1159,7 +1159,7 @@ DateTime: 17-09-24 07:48:41
 User Name: eaupierre
 DateTime: 17-09-24 03:22:05
 
-음모론을 좋아하는 사람의 특징 <뉴스위크> [https://t.co/4PHpliQXPq](https://t.co/4PHpliQXPq){:target="_blank"}
+음모론을 좋아하는 사람의 특징 뉴스위크 [https://t.co/4PHpliQXPq](https://t.co/4PHpliQXPq){:target="_blank"}
 User Name: enhance
 DateTime: 17-09-24 02:01:02
 
@@ -1185,7 +1185,7 @@ DateTime: 17-09-23 18:19:46
 User Name: 29979245oo
 DateTime: 17-09-23 17:26:35
 
-제가 좋아하는 요리만화 <어제 뭐 먹었어?>가 리디북스에서 엄청 할인 중이네요. 종이책으로 모으고 있었는데 전자책으로도 샀습니다. 레시피 참고가 더욱 편해질 듯. 그나저나 얼마 전에 신간을 읽었는데 저랑 같… [https://t.co/53zQyIL5YC](https://t.co/53zQyIL5YC){:target="_blank"}
+제가 좋아하는 요리만화 어제 뭐 먹었어?가 리디북스에서 엄청 할인 중이네요. 종이책으로 모으고 있었는데 전자책으로도 샀습니다. 레시피 참고가 더욱 편해질 듯. 그나저나 얼마 전에 신간을 읽었는데 저랑 같… [https://t.co/53zQyIL5YC](https://t.co/53zQyIL5YC){:target="_blank"}
 User Name: saesong_
 DateTime: 17-09-22 16:43:25
 
@@ -1220,7 +1220,7 @@ User Name: Kivoloid
 DateTime: 17-09-19 00:22:40
 
 우리 시대 예술가 26인과의 대화를 모은 
-<예술이라는 은하에서>
+예술이라는 은하에서
 치열하게 내면을 파고들었던 예술가들의 순수하고 열정적인 인터뷰가 인상 깊다. [https://t.co/BFEX5f4HKa](https://t.co/BFEX5f4HKa){:target="_blank"}
 User Name: heima_o
 DateTime: 17-09-18 13:35:40
@@ -1237,7 +1237,7 @@ DateTime: 17-09-18 09:18:44
 User Name: crescent337
 DateTime: 17-09-18 05:40:20
 
-에미 각본상을 훌루 <시녀이야기> 넷플릭스 <마스터 오브 논> <블랙 미러>가 받음. 스트리밍 티비의 강점이 특별한 이야기와 그걸 경계 없이 표현하는 작가들임을 새삼 깨달음.
+에미 각본상을 훌루 시녀이야기 넷플릭스 마스터 오브 논 블랙 미러가 받음. 스트리밍 티비의 강점이 특별한 이야기와 그걸 경계 없이 표현하는 작가들임을 새삼 깨달음.
 User Name: marsgirrrl
 DateTime: 17-09-18 02:09:26
 
@@ -1253,7 +1253,7 @@ DateTime: 17-09-16 06:56:51
 User Name: With_light
 DateTime: 17-09-15 07:58:09
 
-한달만의 독서모임이 내일이다. 책은 오르한 파묵의 <내 이름은 빨강>. 아름답고 황홀한 작품. 너무너무 좋아합니다
+한달만의 독서모임이 내일이다. 책은 오르한 파묵의 내 이름은 빨강. 아름답고 황홀한 작품. 너무너무 좋아합니다
 내 추천으로 선정된 책인데 나는 정작 5년전에 읽고 2년전에 팔아서 기억의 팔할이 휘발되고 없다.. 내일 조용히 있으려고 합니다..
 User Name: snailzzang
 DateTime: 17-09-14 17:54:10
@@ -1278,11 +1278,11 @@ DateTime: 17-09-10 14:52:20
 User Name: monoresque
 DateTime: 17-09-10 11:52:23
 
-[https://t.co/kpeYJ8U2Xs](https://t.co/kpeYJ8U2Xs){:target="_blank"} 박정현씨가 KBS World Radio <One Fine Day>라는 영어 라디오를 이번 월요일부터 방송을 시작했는데, 팟캐스트나 한국라디오와 다른 매력이 가득한… [https://t.co/whcs0iiwte](https://t.co/whcs0iiwte){:target="_blank"}
+[https://t.co/kpeYJ8U2Xs](https://t.co/kpeYJ8U2Xs){:target="_blank"} 박정현씨가 KBS World Radio One Fine Day라는 영어 라디오를 이번 월요일부터 방송을 시작했는데, 팟캐스트나 한국라디오와 다른 매력이 가득한… [https://t.co/whcs0iiwte](https://t.co/whcs0iiwte){:target="_blank"}
 User Name: withyooni
 DateTime: 17-09-10 07:27:01
 
-말난김에 <서울시 요양병원 등급별 리스트>도 공유합니다.1급부터 5급까지. [https://t.co/fPUcpoRB9U](https://t.co/fPUcpoRB9U){:target="_blank"}
+말난김에 서울시 요양병원 등급별 리스트도 공유합니다.1급부터 5급까지. [https://t.co/fPUcpoRB9U](https://t.co/fPUcpoRB9U){:target="_blank"}
 User Name: slowgoodbye
 DateTime: 17-09-10 05:45:36
 
@@ -1290,11 +1290,11 @@ DateTime: 17-09-10 05:45:36
 User Name: _KHF_2L
 DateTime: 17-09-08 14:29:07
 
-한동안 외식이나 배달음식으로 저녁/주말식사를 대충 해결하다가 <1인가구 살림법> 보고 간만에 요리하고 싶다는 욕구가 생겼다. 책에 나온 팁대로 찌개 거리 사다가 소분해서 얼려두었더니 든든 😌💕 왜 진작 이… [https://t.co/CY2H4DK3DB](https://t.co/CY2H4DK3DB){:target="_blank"}
+한동안 외식이나 배달음식으로 저녁/주말식사를 대충 해결하다가 1인가구 살림법 보고 간만에 요리하고 싶다는 욕구가 생겼다. 책에 나온 팁대로 찌개 거리 사다가 소분해서 얼려두었더니 든든 😌💕 왜 진작 이… [https://t.co/CY2H4DK3DB](https://t.co/CY2H4DK3DB){:target="_blank"}
 User Name: sereneautumnnn
 DateTime: 17-09-07 13:45:59
 
-오즈 야스지로의 책 『꽁치가 먹고 싶습니다』 출간을 기념해 대표작 <도쿄 이야기>를 상영합니다!
+오즈 야스지로의 책 『꽁치가 먹고 싶습니다』 출간을 기념해 대표작 도쿄 이야기를 상영합니다!
 때 : 9/22, 저녁 7시
 장소 : 레드빅스페이스 (홍대 상상마당 근처)
 GV : 박창학 (『꽁치가 먹고 싶… [https://t.co/JXx1ZfOTlf](https://t.co/JXx1ZfOTlf){:target="_blank"}
@@ -1437,7 +1437,7 @@ DateTime: 17-08-24 03:51:57
 User Name: Haruki_essay
 DateTime: 17-08-23 23:15:57
 
-노년은 전투가 아니다. 노년은 대학살이다. _필립 로스 <에브리맨> [https://t.co/QurnWADGiE](https://t.co/QurnWADGiE){:target="_blank"}
+노년은 전투가 아니다. 노년은 대학살이다. _필립 로스 에브리맨 [https://t.co/QurnWADGiE](https://t.co/QurnWADGiE){:target="_blank"}
 User Name: a_book_with_you
 DateTime: 17-08-22 23:27:23
 
@@ -1453,11 +1453,11 @@ DateTime: 17-08-22 01:21:42
 User Name: enhance
 DateTime: 17-08-22 01:21:08
 
-"사람들은 일에 대한 스트레스로 일찍 죽는 게 아니라 자신의 스트레스가 아무런 보람이 없다는 사실 때문에 좌절해 죽는다." <체력> [https://t.co/4eZbni4tQy](https://t.co/4eZbni4tQy){:target="_blank"}
+"사람들은 일에 대한 스트레스로 일찍 죽는 게 아니라 자신의 스트레스가 아무런 보람이 없다는 사실 때문에 좌절해 죽는다." 체력 [https://t.co/4eZbni4tQy](https://t.co/4eZbni4tQy){:target="_blank"}
 User Name: hubris2015
 DateTime: 17-08-22 00:45:12
 
-"늦게 자는 건 막겠지만 일찍 일어나는 건 막을 수 없다. 쾌락은 금지할 수 있지만 열정은 막을 수 없다." <어떤 아들은 아빠의 거울이다> [https://t.co/PYy63rgPv0](https://t.co/PYy63rgPv0){:target="_blank"}
+"늦게 자는 건 막겠지만 일찍 일어나는 건 막을 수 없다. 쾌락은 금지할 수 있지만 열정은 막을 수 없다." 어떤 아들은 아빠의 거울이다 [https://t.co/PYy63rgPv0](https://t.co/PYy63rgPv0){:target="_blank"}
 User Name: hubris2015
 DateTime: 17-08-22 00:33:57
 
@@ -1481,11 +1481,11 @@ DateTime: 17-08-21 12:42:04
 User Name: monoresque
 DateTime: 17-08-21 10:44:57
 
-다단계 업체가 어떻게 사람을 이용하는지에 대해 알고 싶다면 넷플릭스에서 <제로 베팅 게임>(Beting on zero) 이란 다큐를 추천드립니다. 허벌라이프와 허벌라이프는 망해야 한다고 주장하며 10억달러짜리 동매도를 건 투자자   이야기를 중심으로
+다단계 업체가 어떻게 사람을 이용하는지에 대해 알고 싶다면 넷플릭스에서 제로 베팅 게임(Beting on zero) 이란 다큐를 추천드립니다. 허벌라이프와 허벌라이프는 망해야 한다고 주장하며 10억달러짜리 동매도를 건 투자자   이야기를 중심으로
 User Name: rumblepad
 DateTime: 17-08-21 09:26:14
 
-"모두들 똑같은 책을 읽고 똑같은 말을 지껄이며, 존 콜트레인을 듣거나 파졸리니의 영화를 보면서 감동한 척 하고 있는 거지. 그런 게 혁명이니?" / <상실의 시대>
+"모두들 똑같은 책을 읽고 똑같은 말을 지껄이며, 존 콜트레인을 듣거나 파졸리니의 영화를 보면서 감동한 척 하고 있는 거지. 그런 게 혁명이니?" / 상실의 시대
 User Name: haruki_kr_bot
 DateTime: 17-08-21 07:09:24
 
@@ -1579,11 +1579,11 @@ User Name: suyomoim
 DateTime: 17-08-18 02:29:52
 
 @masterkeaton1 혼자 지내신다면 게스트 하우스는 어떠세요? 식당은
-고기국수=>예소담(순대국도👍🏻)
-전복물회=>순옥이네물회
-전복물회=>태흥횟집
-말차빙수=>꿈꾸는흰당나귀
-흑돼지=>중문 돈이랑
+고기국수=예소담(순대국도👍🏻)
+전복물회=순옥이네물회
+전복물회=태흥횟집
+말차빙수=꿈꾸는흰당나귀
+흑돼지=중문 돈이랑
 추어탕=… [https://t.co/ODUZADe5A4](https://t.co/ODUZADe5A4){:target="_blank"}
 User Name: gowild_goloud
 DateTime: 17-08-17 00:56:23
@@ -1730,15 +1730,15 @@ DateTime: 17-08-07 05:58:43
 User Name: twinklingtime
 DateTime: 17-08-07 05:57:31
 
-여름의 도시, 부산을 다녀왔는데 역시나 핫했습니다. 힐튼 호텔로 널리 알려진 'The Ananti Cove' 마을에 위치한 500평의 해안가 서점, <Eternal Journey> 정식 오픈한 지 일주일,… [https://t.co/LwgCez8miG](https://t.co/LwgCez8miG){:target="_blank"}
+여름의 도시, 부산을 다녀왔는데 역시나 핫했습니다. 힐튼 호텔로 널리 알려진 'The Ananti Cove' 마을에 위치한 500평의 해안가 서점, Eternal Journey 정식 오픈한 지 일주일,… [https://t.co/LwgCez8miG](https://t.co/LwgCez8miG){:target="_blank"}
 User Name: maumsanchaek
 DateTime: 17-08-07 02:48:38
 
-코딩 인터뷰 완전 분석: 189가지 프로그래밍 문제와 해법 [https://t.co/4GhraC9ffO](https://t.co/4GhraC9ffO){:target="_blank"} 발간이래 아마존>Computer Programming 분야 베스트 1위를 내준 적이 거의없는 바로 그 책. [https://t.co/7lyBd1NYzk](https://t.co/7lyBd1NYzk){:target="_blank"}
+코딩 인터뷰 완전 분석: 189가지 프로그래밍 문제와 해법 [https://t.co/4GhraC9ffO](https://t.co/4GhraC9ffO){:target="_blank"} 발간이래 아마존Computer Programming 분야 베스트 1위를 내준 적이 거의없는 바로 그 책. [https://t.co/7lyBd1NYzk](https://t.co/7lyBd1NYzk){:target="_blank"}
 User Name: insightbook
 DateTime: 17-08-07 01:49:42
 
-오랜만에 찾아온 통증으로 오랜만에 <통증 연대기>를 들춰본다. '아픈 몸'은 내가 관심 있는 주제 중 하나라서 책 더러 읽었고 얼마 전 나온 <아픈 몸을 살다>도 읽고 있지만, 그동안 내가 읽은 책 중 최고… [https://t.co/taH3XyTfQy](https://t.co/taH3XyTfQy){:target="_blank"}
+오랜만에 찾아온 통증으로 오랜만에 통증 연대기를 들춰본다. '아픈 몸'은 내가 관심 있는 주제 중 하나라서 책 더러 읽었고 얼마 전 나온 아픈 몸을 살다도 읽고 있지만, 그동안 내가 읽은 책 중 최고… [https://t.co/taH3XyTfQy](https://t.co/taH3XyTfQy){:target="_blank"}
 User Name: starlakim
 DateTime: 17-08-06 13:49:11
 
@@ -1815,11 +1815,11 @@ DateTime: 17-08-01 03:31:24
 User Name: heyjinism
 DateTime: 17-08-01 00:47:48
 
-담양 한옥에서.(숙소 이름이 한옥에서) 일부러 안 읽고 아껴둔 김하나의 <힘 빼기의 기술> 읽는다. 이런 에세이를 기다려 왔단 생각이. [https://t.co/gPtL5xBFk4](https://t.co/gPtL5xBFk4){:target="_blank"}
+담양 한옥에서.(숙소 이름이 한옥에서) 일부러 안 읽고 아껴둔 김하나의 힘 빼기의 기술 읽는다. 이런 에세이를 기다려 왔단 생각이. [https://t.co/gPtL5xBFk4](https://t.co/gPtL5xBFk4){:target="_blank"}
 User Name: villette420
 DateTime: 17-07-31 08:27:36
 
-[입고안내] 심리학자인 저자가 수년간 대학생들과 함께했던 심리학 수업을 다시 복기하며 구상한 <나를 모르는 나에게>(책세상)입니다. 자기만의 질문과 답을 갖지 못해 불안해하는 젊은이들에게 자신을 알아갈 수… [https://t.co/zAWbBwT7CU](https://t.co/zAWbBwT7CU){:target="_blank"}
+[입고안내] 심리학자인 저자가 수년간 대학생들과 함께했던 심리학 수업을 다시 복기하며 구상한 나를 모르는 나에게(책세상)입니다. 자기만의 질문과 답을 갖지 못해 불안해하는 젊은이들에게 자신을 알아갈 수… [https://t.co/zAWbBwT7CU](https://t.co/zAWbBwT7CU){:target="_blank"}
 User Name: thanksbooks
 DateTime: 17-07-31 06:50:24
 
@@ -1827,7 +1827,7 @@ DateTime: 17-07-31 06:50:24
 User Name: soonmyun
 DateTime: 17-07-31 03:20:15
 
-<비밀의 숲> 재밌게 보신 분들은 비슷한 느낌의 제시카 차스테인 주연 스릴러 영화 <미스 슬로운>도 보세요. 딜라이브 플러스 셋톱박스에선 '무비&amp;드라마'앱에서 무료 시청 가능,구글무비에선 4,500원에 판매… [https://t.co/wkz65cLJ9B](https://t.co/wkz65cLJ9B){:target="_blank"}
+비밀의 숲 재밌게 보신 분들은 비슷한 느낌의 제시카 차스테인 주연 스릴러 영화 미스 슬로운도 보세요. 딜라이브 플러스 셋톱박스에선 '무비&amp;드라마'앱에서 무료 시청 가능,구글무비에선 4,500원에 판매… [https://t.co/wkz65cLJ9B](https://t.co/wkz65cLJ9B){:target="_blank"}
 User Name: kwscws
 DateTime: 17-07-31 01:57:48
 
@@ -1839,7 +1839,7 @@ DateTime: 17-07-30 23:17:21
 User Name: HuffPostKorea
 DateTime: 17-07-30 22:30:09
 
-친구가 보내준 뮤직비디오인데 하루 종일 듣고 있다. 박원 <All of my life> [https://t.co/Wq2CkYjvxG](https://t.co/Wq2CkYjvxG){:target="_blank"}
+친구가 보내준 뮤직비디오인데 하루 종일 듣고 있다. 박원 All of my life [https://t.co/Wq2CkYjvxG](https://t.co/Wq2CkYjvxG){:target="_blank"}
 User Name: Marion0411
 DateTime: 17-07-30 11:20:01
 
@@ -1855,7 +1855,7 @@ DateTime: 17-07-30 07:28:06
 User Name: monoresque
 DateTime: 17-07-30 06:30:05
 
-애절합니다. 애잔합니다. <뽀빠이>의 일러스트를 그리기도 하는 나가바 유는 자신의 인스타 계정에 하루에 하나의 그림을 그려 올립니다. 그 그림이, 세상이 이렇게 때때로 애절한 감정을 품어내기도 합니다.다. [https://t.co/fSsxb0h5Za](https://t.co/fSsxb0h5Za){:target="_blank"}
+애절합니다. 애잔합니다. 뽀빠이의 일러스트를 그리기도 하는 나가바 유는 자신의 인스타 계정에 하루에 하나의 그림을 그려 올립니다. 그 그림이, 세상이 이렇게 때때로 애절한 감정을 품어내기도 합니다.다. [https://t.co/fSsxb0h5Za](https://t.co/fSsxb0h5Za){:target="_blank"}
 User Name: monoresque
 DateTime: 17-07-30 06:27:02
 
@@ -1879,7 +1879,7 @@ DateTime: 17-07-28 06:17:07
 User Name: rumious
 DateTime: 17-07-28 04:13:08
 
-리즈 위더스푼과 제니퍼 애니스톤이 뉴욕 방송계를 배경으로 한 코미디 시리즈를 공동제작, 출연한다. <하우스 오브 카드>의 제작자 제이 카슨의 각본. 넷플릭스, 훌루, 아마존이 방영권을 두고 경쟁중이라고.. [https://t.co/SLkX7U8LJB](https://t.co/SLkX7U8LJB){:target="_blank"}
+리즈 위더스푼과 제니퍼 애니스톤이 뉴욕 방송계를 배경으로 한 코미디 시리즈를 공동제작, 출연한다. 하우스 오브 카드의 제작자 제이 카슨의 각본. 넷플릭스, 훌루, 아마존이 방영권을 두고 경쟁중이라고.. [https://t.co/SLkX7U8LJB](https://t.co/SLkX7U8LJB){:target="_blank"}
 User Name: 010001010aa
 DateTime: 17-07-28 02:42:22
 
@@ -1961,7 +1961,7 @@ DateTime: 17-07-25 22:16:34
 User Name: enie_latente
 DateTime: 17-07-25 13:18:49
 
-<파리 시청 앞에서의 키스: 로베르 두아노> 8월 개봉. (영화사 진진 수입/배급) 로베르 두아노의 렌즈에 담긴 파리의 풍경과 색깔, 일상의 시적인 생동감, 비노쉬와 위페르 등 예술가들과의 작업을 담은 다큐… [https://t.co/I5QJnDeFw2](https://t.co/I5QJnDeFw2){:target="_blank"}
+파리 시청 앞에서의 키스: 로베르 두아노 8월 개봉. (영화사 진진 수입/배급) 로베르 두아노의 렌즈에 담긴 파리의 풍경과 색깔, 일상의 시적인 생동감, 비노쉬와 위페르 등 예술가들과의 작업을 담은 다큐… [https://t.co/I5QJnDeFw2](https://t.co/I5QJnDeFw2){:target="_blank"}
 User Name: 2shyblue
 DateTime: 17-07-25 06:38:40
 
@@ -1977,7 +1977,7 @@ DateTime: 17-07-23 19:26:35
 User Name: hatdog__
 DateTime: 17-07-23 08:27:10
 
-<죽는게 뭐라고> 사노 요코 지음. 가슴이 울린다. 사람은 누구나 죽는다. 하지만 오늘날 죽음은 우리 주위에서 너무나 떨어져 있어. 죽음에 전혀 준비가 안되어 있는 경우가 많다. 암으로 시한부 삶을 살면서 죽음을 담담히 기다리는 작가에게서 많이 배운다
+죽는게 뭐라고 사노 요코 지음. 가슴이 울린다. 사람은 누구나 죽는다. 하지만 오늘날 죽음은 우리 주위에서 너무나 떨어져 있어. 죽음에 전혀 준비가 안되어 있는 경우가 많다. 암으로 시한부 삶을 살면서 죽음을 담담히 기다리는 작가에게서 많이 배운다
 User Name: seanlee38
 DateTime: 17-07-22 07:19:24
 
@@ -2190,7 +2190,7 @@ DateTime: 17-07-11 04:00:54
 User Name: MDKei
 DateTime: 17-07-11 03:24:03
 
-LA 출신 일렉트로닉 듀오 풀사이드의 <Pacific Standard Time(2012)>은 여름의 심상을 자극하는 앨범입니다. 닐 영을 커버한 'Harvest Moon'은 한밤의 야외 수영장이 떠올라요.… [https://t.co/0ciVF4iFod](https://t.co/0ciVF4iFod){:target="_blank"}
+LA 출신 일렉트로닉 듀오 풀사이드의 Pacific Standard Time(2012)은 여름의 심상을 자극하는 앨범입니다. 닐 영을 커버한 'Harvest Moon'은 한밤의 야외 수영장이 떠올라요.… [https://t.co/0ciVF4iFod](https://t.co/0ciVF4iFod){:target="_blank"}
 User Name: hawaii_delivery
 DateTime: 17-07-10 10:58:05
 
@@ -2285,7 +2285,7 @@ DateTime: 17-07-02 15:16:10
 User Name: boida_SF
 DateTime: 17-07-02 07:15:38
 
-“자기가 하는 일이라든지 이런 거에 대해서는 행복할 날이 없어야 돼요, 사실은. 그래야 조금씩, 더, 앞으로 나아간다고 생각을 합니다.”(한국방송 라디오 <이소라의 메모리즈>) [https://t.co/qCQfOPKYPU](https://t.co/qCQfOPKYPU){:target="_blank"}
+“자기가 하는 일이라든지 이런 거에 대해서는 행복할 날이 없어야 돼요, 사실은. 그래야 조금씩, 더, 앞으로 나아간다고 생각을 합니다.”(한국방송 라디오 이소라의 메모리즈) [https://t.co/qCQfOPKYPU](https://t.co/qCQfOPKYPU){:target="_blank"}
 User Name: rogue_r2d2
 DateTime: 17-07-02 04:10:52
 
@@ -2353,7 +2353,7 @@ DateTime: 17-06-29 09:42:21
 User Name: hawaii_delivery
 DateTime: 17-06-29 06:27:16
 
-50대 권해효가 말했다. "나이가 몇이냐, 결혼은 했냐, 연애는 왜 안 하냐, 그 나이엔 데이트도 하고 해야지 같은 말들. 전형적인 꼰대짓이고 폭력적인 질문들이다. 아, 학번 묻는 것도 그렇다." >>… [https://t.co/UsBmR9JMuo](https://t.co/UsBmR9JMuo){:target="_blank"}
+50대 권해효가 말했다. "나이가 몇이냐, 결혼은 했냐, 연애는 왜 안 하냐, 그 나이엔 데이트도 하고 해야지 같은 말들. 전형적인 꼰대짓이고 폭력적인 질문들이다. 아, 학번 묻는 것도 그렇다." … [https://t.co/UsBmR9JMuo](https://t.co/UsBmR9JMuo){:target="_blank"}
 User Name: GQKOREA
 DateTime: 17-06-28 07:22:42
 
@@ -2361,7 +2361,7 @@ DateTime: 17-06-28 07:22:42
 User Name: __xuly__
 DateTime: 17-06-28 01:47:56
 
-멕시코 지하철 공익광고>
+멕시코 지하철 공익광고
 불특정 남자의 엉덩이를 화면에 띄움.당황해서 괜히 만지고 가방으로 가리는등 여성들이 흔히들 하는 제스쳐를 취함.
 여성들은 지하철을 탈 때마다 매일 경험한다는 문구와 마지막 여성분… [https://t.co/5HIV8FNoY0](https://t.co/5HIV8FNoY0){:target="_blank"}
 User Name: clichemyasss
@@ -2457,7 +2457,7 @@ DateTime: 17-06-17 11:54:45
 User Name: chauchau0
 DateTime: 17-06-17 10:56:00
 
-일본 근대사 100년에 관한 성찰이란 부제가 인상적인 성희엽의 <조용한 혁명>은 최근 읽은 책 중 최고다. 얼마나 팔렸는지 모르겠지만 열 배 쯤 더 팔렸으면 좋겠다. 이 책을 쓰느라 얼마나 많은 에너지가 들어갔을지 읽으면서 짐작이 가기 때문. 강추.
+일본 근대사 100년에 관한 성찰이란 부제가 인상적인 성희엽의 조용한 혁명은 최근 읽은 책 중 최고다. 얼마나 팔렸는지 모르겠지만 열 배 쯤 더 팔렸으면 좋겠다. 이 책을 쓰느라 얼마나 많은 에너지가 들어갔을지 읽으면서 짐작이 가기 때문. 강추.
 User Name: hubris2015
 DateTime: 17-06-16 07:09:07
 
@@ -2514,7 +2514,7 @@ DateTime: 17-06-14 02:13:11
 User Name: omnibused
 DateTime: 17-06-12 22:29:58
 
-1차 대전 배경 영화를 찾아보다가, 영화 <워 호스>를 봤다. 실화를 바탕으로 했다는데 놀랍고도 감동적
+1차 대전 배경 영화를 찾아보다가, 영화 워 호스를 봤다. 실화를 바탕으로 했다는데 놀랍고도 감동적
 
 근데 주인공 말이 엄청 잘생겼다.. 말 연기도 겁나 잘함... 이 영화 성공의 9할은 말 캐스팅이다.… [https://t.co/EnTdZQp5wY](https://t.co/EnTdZQp5wY){:target="_blank"}
 User Name: snailzzang
@@ -2530,7 +2530,7 @@ DateTime: 17-06-10 14:44:49
 
 음식은 무엇을  먹느냐가 중요한게 아니라,
 누구와 함께 먹는지가 중요하다. 
-영화 <심야식당2> [https://t.co/TmjpTzGmWe](https://t.co/TmjpTzGmWe){:target="_blank"}
+영화 심야식당2 [https://t.co/TmjpTzGmWe](https://t.co/TmjpTzGmWe){:target="_blank"}
 User Name: crystal_5054
 DateTime: 17-06-10 09:26:23
 
@@ -2546,7 +2546,7 @@ DateTime: 17-06-09 02:20:50
 User Name: zure84
 DateTime: 17-06-09 00:47:31
 
-호빵맨의 작가가 쓴 에세이집 <네, 호빵맨입니다>를 읽다가. 작가가 호빵맨을 그리기 시작한 것은 그가 50세, 애니메이션으로 만들어져 인기를 끌기 시작한 것이 69세. '69세에 꿈을 이룬 이야기'란 카피에 끌려 책을 보기 시작했는데
+호빵맨의 작가가 쓴 에세이집 네, 호빵맨입니다를 읽다가. 작가가 호빵맨을 그리기 시작한 것은 그가 50세, 애니메이션으로 만들어져 인기를 끌기 시작한 것이 69세. '69세에 꿈을 이룬 이야기'란 카피에 끌려 책을 보기 시작했는데
 User Name: dodaeche_J
 DateTime: 17-06-08 11:58:01
 
@@ -2572,7 +2572,7 @@ DateTime: 17-06-08 02:23:04
 User Name: junmiguel_lee
 DateTime: 17-06-08 02:22:20
 
-고려대 신관호 교수가 <경제학자는 4차 산업혁명을 말하지 않는다>란 칼럼을 중앙일보에 썼다. 자주 트윗한대로 지금 세계경제의 문제는 4차 산업혁명과 생산성 도약이 아니라 생산성의 지속적인 하락이다. [https://t.co/EzgwwwTPWk](https://t.co/EzgwwwTPWk){:target="_blank"}
+고려대 신관호 교수가 경제학자는 4차 산업혁명을 말하지 않는다란 칼럼을 중앙일보에 썼다. 자주 트윗한대로 지금 세계경제의 문제는 4차 산업혁명과 생산성 도약이 아니라 생산성의 지속적인 하락이다. [https://t.co/EzgwwwTPWk](https://t.co/EzgwwwTPWk){:target="_blank"}
 User Name: hubris2015
 DateTime: 17-06-08 02:20:18
 
@@ -2592,11 +2592,11 @@ DateTime: 17-06-08 00:51:22
 
 나 자신
 
-<심윤경 - 사랑이 달리다>
+심윤경 - 사랑이 달리다
 User Name: Read_Poem
 DateTime: 17-06-07 23:17:46
 
-다시 잠을 자긴 영 글렀고, 애거서 크리스티가 (작품 속에서) 범행에 사용한 대표적인 독약들을 다룬 <죽이는 화학> 읽어 보세요. 동시대 실제 그 독약들로 벌어진 살인 사건들도 다루고 있고, 완전 재미집니다… [https://t.co/boDU6FftIY](https://t.co/boDU6FftIY){:target="_blank"}
+다시 잠을 자긴 영 글렀고, 애거서 크리스티가 (작품 속에서) 범행에 사용한 대표적인 독약들을 다룬 죽이는 화학 읽어 보세요. 동시대 실제 그 독약들로 벌어진 살인 사건들도 다루고 있고, 완전 재미집니다… [https://t.co/boDU6FftIY](https://t.co/boDU6FftIY){:target="_blank"}
 User Name: MadamL0515
 DateTime: 17-06-07 21:49:56
 
@@ -2638,7 +2638,7 @@ DateTime: 17-06-03 23:24:44
 User Name: ttamkk
 DateTime: 17-06-03 17:57:25
 
-영화 <스즈키 선생님>도 재밌구나. '현재 교육현장은 불량한 아이들 신경쓰느라, 평범한 아이들의 신경을 마모시키고 있다, 그래서 평범한 아이들에게 더 신경을 쓰겠다'는 게 스즈키 선생의 지론인데. 영화도 무척 재밌게 봤다.
+영화 스즈키 선생님도 재밌구나. '현재 교육현장은 불량한 아이들 신경쓰느라, 평범한 아이들의 신경을 마모시키고 있다, 그래서 평범한 아이들에게 더 신경을 쓰겠다'는 게 스즈키 선생의 지론인데. 영화도 무척 재밌게 봤다.
 User Name: tokyo_seoul_mom
 DateTime: 17-06-03 14:13:30
 
@@ -2780,8 +2780,8 @@ User Name: newspeppermint
 DateTime: 17-05-28 23:28:39
 
 2017 칸 영화제
-황금종려상-<The Square>
-심사위원 대상-<BPM, 120Beats Per Minute>
+황금종려상-The Square
+심사위원 대상-BPM, 120Beats Per Minute
 User Name: kwscws
 DateTime: 17-05-28 18:04:03
 
@@ -2789,7 +2789,7 @@ Capturing the Diversity of Swimming Pools From the Air [https://t.co/pinEREefih]
 User Name: fubiz
 DateTime: 17-05-28 11:40:32
 
-올해 칸 영화제 경쟁부문 초청작 중 토드 헤인즈 감독의 <원더스트럭> 역시 당장 보고 싶은 영화 중 하나.청각장애인 소녀와 소년의 이야기를 다룬 이 영화는,영화의 절반이 흑백에 대사없이 진행되는데 실제 선천… [https://t.co/uzivgUCZXf](https://t.co/uzivgUCZXf){:target="_blank"}
+올해 칸 영화제 경쟁부문 초청작 중 토드 헤인즈 감독의 원더스트럭 역시 당장 보고 싶은 영화 중 하나.청각장애인 소녀와 소년의 이야기를 다룬 이 영화는,영화의 절반이 흑백에 대사없이 진행되는데 실제 선천… [https://t.co/uzivgUCZXf](https://t.co/uzivgUCZXf){:target="_blank"}
 User Name: kwscws
 DateTime: 17-05-28 11:39:44
 
@@ -2916,7 +2916,7 @@ User Name: good_pot
 DateTime: 17-05-19 09:53:09
 
 국립현대미술관 서울관
-<삼라만상> 특별전. 
+삼라만상 특별전. 
 
 이 멋진 전시가 매주 수요일 저녁엔 
 무려 무료 입장이라니. [https://t.co/rr4t2wJKk8](https://t.co/rr4t2wJKk8){:target="_blank"}
@@ -3000,7 +3000,7 @@ DateTime: 17-05-14 08:55:06
 User Name: __xuly__
 DateTime: 17-05-14 01:57:22
 
-나와 섹스하지 않는 여자가 왜 그렇게 확고하게 존재하냐고 묻는 김훈의 <화장>이 이상문학상을 수상한 이유👉문단 남자애들이 깊이 공감했기 때문
+나와 섹스하지 않는 여자가 왜 그렇게 확고하게 존재하냐고 묻는 김훈의 화장이 이상문학상을 수상한 이유👉문단 남자애들이 깊이 공감했기 때문
 User Name: kimpublic
 DateTime: 17-05-13 10:54:29
 
@@ -3094,7 +3094,7 @@ KBS1 '걸어서 세계속으로'가 10년 넘게 방송하면서 다닌 도시�
 User Name: guevava
 DateTime: 17-05-08 03:26:07
 
-예전에 트위터에서 한번 돌았던 <메이지 이야기> 요즘 읽고 있는데, 재밌네여... [https://t.co/FSWqxajHhd](https://t.co/FSWqxajHhd){:target="_blank"}
+예전에 트위터에서 한번 돌았던 메이지 이야기 요즘 읽고 있는데, 재밌네여... [https://t.co/FSWqxajHhd](https://t.co/FSWqxajHhd){:target="_blank"}
 User Name: hansubkim
 DateTime: 17-05-08 01:39:51
 
@@ -3168,7 +3168,7 @@ DateTime: 17-05-07 09:51:19
 User Name: lakinan
 DateTime: 17-05-07 09:22:24
 
-3. 하이드로콜로이드(습윤) 밴드. 상처가 완전 밀폐됨 -> 방수됨! &amp; 딱지 안 생기고 흉터 안 남음. 종류별로 사서 손가락 베인 데, 발뒤꿈치 까진 데 잘 쓰고 있다. 일반 반창고 크기인 소형 추천. [https://t.co/EsVMgt4zkz](https://t.co/EsVMgt4zkz){:target="_blank"}
+3. 하이드로콜로이드(습윤) 밴드. 상처가 완전 밀폐됨 - 방수됨! &amp; 딱지 안 생기고 흉터 안 남음. 종류별로 사서 손가락 베인 데, 발뒤꿈치 까진 데 잘 쓰고 있다. 일반 반창고 크기인 소형 추천. [https://t.co/EsVMgt4zkz](https://t.co/EsVMgt4zkz){:target="_blank"}
 User Name: lakinan
 DateTime: 17-05-07 09:06:39
 
@@ -3214,7 +3214,7 @@ DateTime: 17-05-07 06:46:56
 User Name: orange_6121
 DateTime: 17-05-06 11:20:48
 
-존경하는 선배 연구자님들과 함께 쓴 책이 나왔어요. <헬조선 인 앤 아웃 - 떠나는 사람, 머무는 사람, 서성이는 사람, 한국 청년 글로벌 이동에 관한 인류학 보고서> 도서출판 눌민에서 나왔습니다.… [https://t.co/z7PigDkV1N](https://t.co/z7PigDkV1N){:target="_blank"}
+존경하는 선배 연구자님들과 함께 쓴 책이 나왔어요. 헬조선 인 앤 아웃 - 떠나는 사람, 머무는 사람, 서성이는 사람, 한국 청년 글로벌 이동에 관한 인류학 보고서 도서출판 눌민에서 나왔습니다.… [https://t.co/z7PigDkV1N](https://t.co/z7PigDkV1N){:target="_blank"}
 User Name: najusaram
 DateTime: 17-05-06 07:02:36
 
@@ -3312,7 +3312,7 @@ User Name: gaddongyi
 DateTime: 17-05-03 10:05:51
 
 와 나 방금 진짜 명언 봤어
->>백인들은 싸울 게 없어서 가상의 적이랑 싸우고 그게 영화로 나오지만(어벤져스 등) 비백인,여성은 당연한 권리를 누리기 위해 싸우고 있고 일상이 투쟁이라 이런 주제가 영화로 나온다(히든피겨스 등)<< 진짜 소름돋았다.
+백인들은 싸울 게 없어서 가상의 적이랑 싸우고 그게 영화로 나오지만(어벤져스 등) 비백인,여성은 당연한 권리를 누리기 위해 싸우고 있고 일상이 투쟁이라 이런 주제가 영화로 나온다(히든피겨스 등) 진짜 소름돋았다.
 User Name: haedalsyung
 DateTime: 17-05-03 08:11:16
 
@@ -3328,7 +3328,7 @@ DateTime: 17-05-02 15:13:11
 탐라에 갑자기 새우얘기가 보여서.
 후..... 아무도 안알려주고
 혼자 주문하고 사치 부리려고 했는데....
-이걸 보십시오<
+이걸 보십시오
 인류는 드디어 새우껍질 까는 기구를
 만들어내고야 말았습니다!!!!!! [https://t.co/StIdrD5umN](https://t.co/StIdrD5umN){:target="_blank"}
 User Name: gpffpsk123
@@ -3351,7 +3351,7 @@ DateTime: 17-05-01 17:10:15
 User Name: redlotusyj
 DateTime: 17-05-01 14:27:03
 
-으아 <예감은 틀리지 않는다>가 영화로 나오는구나. 무려 여배우가 샬롯 램플링이네....🙏 [https://t.co/Do38bNfS6W](https://t.co/Do38bNfS6W){:target="_blank"}
+으아 예감은 틀리지 않는다가 영화로 나오는구나. 무려 여배우가 샬롯 램플링이네....🙏 [https://t.co/Do38bNfS6W](https://t.co/Do38bNfS6W){:target="_blank"}
 User Name: claire_ys
 DateTime: 17-04-30 12:41:26
 
@@ -3533,7 +3533,7 @@ DateTime: 17-04-18 06:28:13
 User Name: 2_Jay
 DateTime: 17-04-18 05:25:36
 
-한 주간 언론이 주목한 책 1위, <혐오표현, 자유는 어떻게 해악이 되는가?>
+한 주간 언론이 주목한 책 1위, 혐오표현, 자유는 어떻게 해악이 되는가?
 [https://t.co/bicWdoczsd](https://t.co/bicWdoczsd){:target="_blank"}
 User Name: sungsooh
 DateTime: 17-04-18 05:04:45
@@ -3546,7 +3546,7 @@ DateTime: 17-04-18 05:03:25
 User Name: foodnjoy
 DateTime: 17-04-18 03:12:19
 
-씨네21 '다혜리의 요즘 뭐 읽어?' 코너에 이다혜 기자가 쓴 <랩 걸> 서평. 우리(=과학자가 아닌 여성)가 이 책을 읽을 때 하게 되는 생각이 간명하게 잘 쓰여 있어서 내가 쓴 걸로 막 하고 싶다... [https://t.co/HBPoIn9TOc](https://t.co/HBPoIn9TOc){:target="_blank"}
+씨네21 '다혜리의 요즘 뭐 읽어?' 코너에 이다혜 기자가 쓴 랩 걸 서평. 우리(=과학자가 아닌 여성)가 이 책을 읽을 때 하게 되는 생각이 간명하게 잘 쓰여 있어서 내가 쓴 걸로 막 하고 싶다... [https://t.co/HBPoIn9TOc](https://t.co/HBPoIn9TOc){:target="_blank"}
 User Name: starlakim
 DateTime: 17-04-17 13:50:34
 
@@ -3566,7 +3566,7 @@ DateTime: 17-04-16 23:55:28
 User Name: Vulpes_No9
 DateTime: 17-04-16 11:39:13
 
-<화양연화>를 보고 있으면 치파오가 장만옥을 위해 만들어진 옷이 아닐까 하는 생각을 하게 된다. 20벌 이상의 다양한 색상과 무늬의 치파오를 감상하는 것도 영화의 큰 재미. [https://t.co/thzBCIxohq](https://t.co/thzBCIxohq){:target="_blank"}
+화양연화를 보고 있으면 치파오가 장만옥을 위해 만들어진 옷이 아닐까 하는 생각을 하게 된다. 20벌 이상의 다양한 색상과 무늬의 치파오를 감상하는 것도 영화의 큰 재미. [https://t.co/thzBCIxohq](https://t.co/thzBCIxohq){:target="_blank"}
 User Name: junmiguel_lee
 DateTime: 17-04-15 15:09:37
 
@@ -3578,11 +3578,11 @@ DateTime: 17-04-15 05:54:42
 User Name: __xuly__
 DateTime: 17-04-15 05:26:26
 
-오늘 북섹션에서 소개될 줄 알았지만 소개 안 된 책이 있으니까 내가 소개하겠다. -_- 영문학 교수 진 보즈 바이어의 번역론 입문서 <문학의 번역>을 정영목 선생님이 옮겼음. [https://t.co/eEGuHpVwBL](https://t.co/eEGuHpVwBL){:target="_blank"}
+오늘 북섹션에서 소개될 줄 알았지만 소개 안 된 책이 있으니까 내가 소개하겠다. -_- 영문학 교수 진 보즈 바이어의 번역론 입문서 문학의 번역을 정영목 선생님이 옮겼음. [https://t.co/eEGuHpVwBL](https://t.co/eEGuHpVwBL){:target="_blank"}
 User Name: starlakim
 DateTime: 17-04-15 03:18:51
 
-<무심하게 산다> 가쿠타 미쓰요 지음. 소소하게 재미있다. 나이가 들어 가면서 겪는 육체적 심적 변화들이 실감나게 나와 있음. 누구나 언젠가는 겪는 과정. 긍정적으로 받아 들이는게 정답인 듯.
+무심하게 산다 가쿠타 미쓰요 지음. 소소하게 재미있다. 나이가 들어 가면서 겪는 육체적 심적 변화들이 실감나게 나와 있음. 누구나 언젠가는 겪는 과정. 긍정적으로 받아 들이는게 정답인 듯.
 User Name: seanlee38
 DateTime: 17-04-14 12:59:35
 
@@ -3616,7 +3616,7 @@ Help make it happen for lofree: typewriter inspired mechanical keyboard [https:/
 User Name: __xuly__
 DateTime: 17-04-12 10:40:04
 
-남편은 닥터 스크루,천재 유교수 같은 만화를 좋아하는데,<카페 알파>이 만화에 완전 꽂혀서 퇴직하고 인적 드문 곳에서 카페하며 구형 스쿠터 타는게 꿈이라는데. 딱 망할 각이지만 꿈이라니 봐주고 있다... 만… [https://t.co/MmemeHJmep](https://t.co/MmemeHJmep){:target="_blank"}
+남편은 닥터 스크루,천재 유교수 같은 만화를 좋아하는데,카페 알파이 만화에 완전 꽂혀서 퇴직하고 인적 드문 곳에서 카페하며 구형 스쿠터 타는게 꿈이라는데. 딱 망할 각이지만 꿈이라니 봐주고 있다... 만… [https://t.co/MmemeHJmep](https://t.co/MmemeHJmep){:target="_blank"}
 User Name: myocat70
 DateTime: 17-04-12 08:03:41
 
@@ -3624,7 +3624,7 @@ DateTime: 17-04-12 08:03:41
 User Name: munhak3
 DateTime: 17-04-12 02:43:00
 
-TV 시리즈로 리메이크된 <미스트> 포스터와 예고편 공개 [https://t.co/xT5HNLkSIP](https://t.co/xT5HNLkSIP){:target="_blank"} [https://t.co/83jvgA1Blt](https://t.co/83jvgA1Blt){:target="_blank"}
+TV 시리즈로 리메이크된 미스트 포스터와 예고편 공개 [https://t.co/xT5HNLkSIP](https://t.co/xT5HNLkSIP){:target="_blank"} [https://t.co/83jvgA1Blt](https://t.co/83jvgA1Blt){:target="_blank"}
 User Name: extmcommunity
 DateTime: 17-04-12 00:12:19
 
@@ -3636,7 +3636,7 @@ DateTime: 17-04-11 23:10:14
 User Name: clien_hot20
 DateTime: 17-04-11 22:08:27
 
-<Dear Data>뉴욕에 이태리여성 Georgia Lupi와 런던에 미국여성 Stefanie Posavec이 52주간 엽서에 주고받은 데이터편지. 하루일상을 데이터로 그려냈는데 핸드폰사용데이터, 장보는데이… [https://t.co/FZnI1vpCrX](https://t.co/FZnI1vpCrX){:target="_blank"}
+Dear Data뉴욕에 이태리여성 Georgia Lupi와 런던에 미국여성 Stefanie Posavec이 52주간 엽서에 주고받은 데이터편지. 하루일상을 데이터로 그려냈는데 핸드폰사용데이터, 장보는데이… [https://t.co/FZnI1vpCrX](https://t.co/FZnI1vpCrX){:target="_blank"}
 User Name: soohyejang
 DateTime: 17-04-11 19:33:22
 
@@ -3710,11 +3710,11 @@ DateTime: 17-04-07 12:45:49
 User Name: humorlibrary
 DateTime: 17-04-07 02:58:10
 
-박해진,박성웅,김민정,연정훈 주연 JTBC 신작 드라마<맨투맨>,넷플릭스와 20여 언어로 번역돼 전세계 동시 방영. 단,한국은 JTBC 방영 1시간 뒤,미국은 방영 이후 8개 에피소드씩 두 차례에 걸쳐 공개. [https://t.co/v51cFR6wd5](https://t.co/v51cFR6wd5){:target="_blank"}
+박해진,박성웅,김민정,연정훈 주연 JTBC 신작 드라마맨투맨,넷플릭스와 20여 언어로 번역돼 전세계 동시 방영. 단,한국은 JTBC 방영 1시간 뒤,미국은 방영 이후 8개 에피소드씩 두 차례에 걸쳐 공개. [https://t.co/v51cFR6wd5](https://t.co/v51cFR6wd5){:target="_blank"}
 User Name: kwscws
 DateTime: 17-04-07 02:14:45
 
-드디어 이 책이 번역되었다. 난 인공지능 모르지만, 옥스퍼드 인류미래연구소장 닉 보스트롬이 이 분야에서 손꼽히는 연구자라는 건 알고 이 책 <슈퍼 인텔리전스>가 이 분야 대중서 베스트란 건 알지. [https://t.co/zVYu4pqbGh](https://t.co/zVYu4pqbGh){:target="_blank"}
+드디어 이 책이 번역되었다. 난 인공지능 모르지만, 옥스퍼드 인류미래연구소장 닉 보스트롬이 이 분야에서 손꼽히는 연구자라는 건 알고 이 책 슈퍼 인텔리전스가 이 분야 대중서 베스트란 건 알지. [https://t.co/zVYu4pqbGh](https://t.co/zVYu4pqbGh){:target="_blank"}
 User Name: starlakim
 DateTime: 17-04-07 02:02:20
 
@@ -3782,7 +3782,7 @@ DateTime: 17-04-02 23:06:05
 User Name: rumious
 DateTime: 17-04-02 12:46:59
 
-<미스 슬로운> 보세요...한번도 정상인적이 있었냐는 소리를 들을 정도로 수단 방법을 가리지않고 승리에 집착하는 로비스트인데, 마지막에 고발 한번해서 덜나쁜놈되는 스토리, 알탕무비로 너무 많이 봤잖아요 근데… [https://t.co/iQepsb3HYa](https://t.co/iQepsb3HYa){:target="_blank"}
+미스 슬로운 보세요...한번도 정상인적이 있었냐는 소리를 들을 정도로 수단 방법을 가리지않고 승리에 집착하는 로비스트인데, 마지막에 고발 한번해서 덜나쁜놈되는 스토리, 알탕무비로 너무 많이 봤잖아요 근데… [https://t.co/iQepsb3HYa](https://t.co/iQepsb3HYa){:target="_blank"}
 User Name: standbymemong
 DateTime: 17-04-02 11:11:34
 
@@ -3806,7 +3806,7 @@ DateTime: 17-04-01 13:26:06
 User Name: estima7
 DateTime: 17-04-01 13:22:17
 
-한국일보 서평면에 '임지현의 글로벌'이란 제목으로 연재되는 해외 도서 서평. 오늘은 <범죄와 침묵: 전시 예드바브네 유대인 학살의 진실을 마주하다>란 책이 소개되었는데 책을 둘러싼 이야기가 인상적이다. [https://t.co/2t5fU1UiIi](https://t.co/2t5fU1UiIi){:target="_blank"}
+한국일보 서평면에 '임지현의 글로벌'이란 제목으로 연재되는 해외 도서 서평. 오늘은 범죄와 침묵: 전시 예드바브네 유대인 학살의 진실을 마주하다란 책이 소개되었는데 책을 둘러싼 이야기가 인상적이다. [https://t.co/2t5fU1UiIi](https://t.co/2t5fU1UiIi){:target="_blank"}
 User Name: starlakim
 DateTime: 17-04-01 08:34:35
 
@@ -3893,7 +3893,7 @@ DateTime: 17-03-26 14:50:28
 User Name: mf_dice
 DateTime: 17-03-26 05:46:26
 
-"바쁠수록 드라마를 봐야해"-바버라 프레드릭슨 등의 학자들은 긍정적 정서를 일컬어 ‘스트레스 지우개’라고 명명하기도 했다. 힘들고 바쁜 때일수록 우리에게는 즐거움이라는 스트레스 지우개가 꼭 필요하다.-<내… [https://t.co/QaiZ7ABg8y](https://t.co/QaiZ7ABg8y){:target="_blank"}
+"바쁠수록 드라마를 봐야해"-바버라 프레드릭슨 등의 학자들은 긍정적 정서를 일컬어 ‘스트레스 지우개’라고 명명하기도 했다. 힘들고 바쁜 때일수록 우리에게는 즐거움이라는 스트레스 지우개가 꼭 필요하다.-내… [https://t.co/QaiZ7ABg8y](https://t.co/QaiZ7ABg8y){:target="_blank"}
 User Name: nasanabook
 DateTime: 17-03-26 05:15:00
 
@@ -3921,7 +3921,7 @@ It’s not obesity. It’s not smoking. What’s the biggest threat facing our m
 User Name: BostonGlobe
 DateTime: 17-03-22 08:13:07
 
-일본 드라마를 끝까지 본 적이 한번도 없었는데 <집을 파는 여자>는 예외였다. 그 드라마의 3번째 에피소드에는 이런 대사가 나온다. 
+일본 드라마를 끝까지 본 적이 한번도 없었는데 집을 파는 여자는 예외였다. 그 드라마의 3번째 에피소드에는 이런 대사가 나온다. 
 "잘난 놈들은 주변을 불행하게 만든다니까"
 "심오하다. 심오하네요. 후세… [https://t.co/3FKabD0M8C](https://t.co/3FKabD0M8C){:target="_blank"}
 User Name: hubris2015
@@ -3962,7 +3962,7 @@ DateTime: 17-03-18 02:46:10
 User Name: heniru
 DateTime: 17-03-18 00:27:39
 
-<걸 온 더 트레인>에서 루크 에반스는 실종된 여성의 남편을 연기했는데 여기서는 좀 차분하게 분노하며 위협적인 느낌이었다면 <미녀와 야수>에서는 그냥 리밋을 없애버리고 다 발산해 버리는ㅋㅋㅋㅋㅋㅋㅋㅋㅋ 그러면서 멋있는 것도 다 할 수 있음
+걸 온 더 트레인에서 루크 에반스는 실종된 여성의 남편을 연기했는데 여기서는 좀 차분하게 분노하며 위협적인 느낌이었다면 미녀와 야수에서는 그냥 리밋을 없애버리고 다 발산해 버리는ㅋㅋㅋㅋㅋㅋㅋㅋㅋ 그러면서 멋있는 것도 다 할 수 있음
 User Name: wednesdaymojito
 DateTime: 17-03-17 15:39:43
 
@@ -4020,7 +4020,7 @@ Oil on canvas.
 User Name: ljwa5147
 DateTime: 17-03-15 11:01:30
 
-오랜만에 먹부림 자랑으로 트위터 다시 시작!    서교동 <옥동식> 돼지국밥. 이게 돼지라니... 눈감고 먹으면 소고기인줄! [https://t.co/Jr4X9DO4c5](https://t.co/Jr4X9DO4c5){:target="_blank"}
+오랜만에 먹부림 자랑으로 트위터 다시 시작!    서교동 옥동식 돼지국밥. 이게 돼지라니... 눈감고 먹으면 소고기인줄! [https://t.co/Jr4X9DO4c5](https://t.co/Jr4X9DO4c5){:target="_blank"}
 User Name: soycatt
 DateTime: 17-03-15 05:24:02
 
@@ -4063,7 +4063,7 @@ User Name: krazyeom
 DateTime: 17-03-10 08:41:06
 
 아들에게 탄핵에 대해 설명하려고 썼습니다.
-<아빠와 함께 공부하는 민주주의> 배포합니다. 
+아빠와 함께 공부하는 민주주의 배포합니다. 
 (1) [https://t.co/JYM76I6wyF](https://t.co/JYM76I6wyF){:target="_blank"}
 (2) [https://t.co/MB9XdXM7Kp](https://t.co/MB9XdXM7Kp){:target="_blank"}
 (3) [https://t.co/ZjxBjUv45p](https://t.co/ZjxBjUv45p){:target="_blank"}
@@ -4135,7 +4135,7 @@ DateTime: 17-03-05 10:21:19
 User Name: baegopa365
 DateTime: 17-03-05 08:40:21
 
-<유만주의 한양> 전시 꼭 보러가고 싶다. 서울 역사박물관. 3월 둘째주까지라고.
+유만주의 한양 전시 꼭 보러가고 싶다. 서울 역사박물관. 3월 둘째주까지라고.
 User Name: snailzzang
 DateTime: 17-03-04 19:31:53
 
@@ -4184,7 +4184,7 @@ DateTime: 17-03-03 06:10:11
 User Name: GwangeV
 DateTime: 17-03-03 01:24:33
 
-크리스틴 스튜어트, 에디 레드메인, 마리아 벨로 주연의 영화 <사랑을 위한 여행>이 넷플릭스 코리아에 릴리즈~ TheYellowHandkerchief NetflixKorea… [https://t.co/YwGDcL13f4](https://t.co/YwGDcL13f4){:target="_blank"}
+크리스틴 스튜어트, 에디 레드메인, 마리아 벨로 주연의 영화 사랑을 위한 여행이 넷플릭스 코리아에 릴리즈~ TheYellowHandkerchief NetflixKorea… [https://t.co/YwGDcL13f4](https://t.co/YwGDcL13f4){:target="_blank"}
 User Name: kwscws
 DateTime: 17-03-03 00:31:03
 
@@ -4216,7 +4216,7 @@ DateTime: 17-03-01 03:35:30
 
 "여기는 리플리, 노스트로모호의 마지막 생존자..교신끝."
 
-<에이리언> / ebs movie [https://t.co/2zeq3vG55E](https://t.co/2zeq3vG55E){:target="_blank"} 3/4(토) 밤 11:40 [https://t.co/PLytOXECxA](https://t.co/PLytOXECxA){:target="_blank"}
+에이리언 / ebs movie [https://t.co/2zeq3vG55E](https://t.co/2zeq3vG55E){:target="_blank"} 3/4(토) 밤 11:40 [https://t.co/PLytOXECxA](https://t.co/PLytOXECxA){:target="_blank"}
 User Name: ebsmovie
 DateTime: 17-03-01 02:15:37
 
@@ -4228,7 +4228,7 @@ DateTime: 17-02-28 22:29:35
 User Name: todenteundtulpe
 DateTime: 17-02-28 20:22:05
 
-헐 이거 뭐야. 맥에서 이 맥에 대하여 > 저장공간 > 저장공간 관리 > iOS 파일 들어가면 iOS 디바이스 백업파일들 지울 수 있네. 미친 용량을 얼마나 확보하는거야.. 여태 몰랐다니!!! [https://t.co/1xEkkCQP1u](https://t.co/1xEkkCQP1u){:target="_blank"}
+헐 이거 뭐야. 맥에서 이 맥에 대하여  저장공간  저장공간 관리  iOS 파일 들어가면 iOS 디바이스 백업파일들 지울 수 있네. 미친 용량을 얼마나 확보하는거야.. 여태 몰랐다니!!! [https://t.co/1xEkkCQP1u](https://t.co/1xEkkCQP1u){:target="_blank"}
 User Name: yunsjunk
 DateTime: 17-02-28 18:29:20
 
@@ -4305,7 +4305,7 @@ DateTime: 17-02-25 21:51:33
 User Name: heaventomorrow
 DateTime: 17-02-25 14:21:44
 
-<백엔의 사랑> 안도 사쿠라가 바이올리니스트로 나오는 새 영화 배경이 오키나와 케라마제도. 산신 소리가 그립다. 
+백엔의 사랑 안도 사쿠라가 바이올리니스트로 나오는 새 영화 배경이 오키나와 케라마제도. 산신 소리가 그립다. 
 
 映画『島々清しゃ（しまじまかいしゃ）』 [https://t.co/KS3AayBWPE](https://t.co/KS3AayBWPE){:target="_blank"} [https://t.co/B9R2Ronnzu](https://t.co/B9R2Ronnzu){:target="_blank"}
 User Name: junmiguel_lee
@@ -4377,7 +4377,7 @@ DateTime: 17-02-17 11:38:39
 User Name: manchun_bs
 DateTime: 17-02-17 11:21:04
 
-별것도 아닌 내용인데 묘하게 디테일이 있는 엑셀책. 몇가지 팁을 실제 쓰고 있는데 확실히 보기 좋아졌다.  <전자책: 세계적인 투자은행의 엑셀 업무 활용법> - 쿠마노 히토시 [https://t.co/EQ5lObYIDH](https://t.co/EQ5lObYIDH){:target="_blank"} aladinebook
+별것도 아닌 내용인데 묘하게 디테일이 있는 엑셀책. 몇가지 팁을 실제 쓰고 있는데 확실히 보기 좋아졌다.  전자책: 세계적인 투자은행의 엑셀 업무 활용법 - 쿠마노 히토시 [https://t.co/EQ5lObYIDH](https://t.co/EQ5lObYIDH){:target="_blank"} aladinebook
 User Name: anzinne
 DateTime: 17-02-17 01:07:29
 
@@ -4411,11 +4411,11 @@ DateTime: 17-02-14 03:25:22
 User Name: flyhendrixfly_
 DateTime: 17-02-14 03:05:23
 
-히가시노 게이고의 『나미야 잡화점의 기적』 9월 23일 개봉, 티저 공개. 포스터는 <너의 이름은.> 제작사 코믹스 웨이브 필름에서 만들었다. 30여 년간 비어있던 잡화점에 3명의 도둑이 이곳에 있던 고민… [https://t.co/2INWri4nsr](https://t.co/2INWri4nsr){:target="_blank"}
+히가시노 게이고의 『나미야 잡화점의 기적』 9월 23일 개봉, 티저 공개. 포스터는 너의 이름은. 제작사 코믹스 웨이브 필름에서 만들었다. 30여 년간 비어있던 잡화점에 3명의 도둑이 이곳에 있던 고민… [https://t.co/2INWri4nsr](https://t.co/2INWri4nsr){:target="_blank"}
 User Name: _bookplus
 DateTime: 17-02-14 01:31:36
 
-<라면의 황제> 김희선 소설집. 재미있다. 끼를 주체하지 못해 마구 터져 나오는 이야기와 마감에 쫓겨 억지로 쥐어 짜낸 이야기는 천지차이. 여기에 터져 나온 이야기 9편이 있다. 작가는 약사출신이라고 하는데. 책을 읽어 보면 타고난 이야기꾼 같다.
+라면의 황제 김희선 소설집. 재미있다. 끼를 주체하지 못해 마구 터져 나오는 이야기와 마감에 쫓겨 억지로 쥐어 짜낸 이야기는 천지차이. 여기에 터져 나온 이야기 9편이 있다. 작가는 약사출신이라고 하는데. 책을 읽어 보면 타고난 이야기꾼 같다.
 User Name: seanlee38
 DateTime: 17-02-13 15:51:56
 
@@ -4441,7 +4441,7 @@ Bear를 쓰기 시작하면서 정보가 축적되는 좋은 사이클에 들어
 User Name: nacyo_t
 DateTime: 17-02-12 12:24:46
 
-초등학생인 큰 아이가 좋아하는 프로그램이 토요일 저녁의 <세계는 지금>이라 가끔 같이 보는데 나는 김지윤 박사의 해설을 좋아한다. 어제는 <수퍼 파워>의 저자인 Ian Bremmer의 인터뷰가 나왔다. KBS의 몇몇 프로는 적은 예산으로 꽤 열심이다.
+초등학생인 큰 아이가 좋아하는 프로그램이 토요일 저녁의 세계는 지금이라 가끔 같이 보는데 나는 김지윤 박사의 해설을 좋아한다. 어제는 수퍼 파워의 저자인 Ian Bremmer의 인터뷰가 나왔다. KBS의 몇몇 프로는 적은 예산으로 꽤 열심이다.
 User Name: hubris2015
 DateTime: 17-02-12 11:47:17
 
@@ -4453,7 +4453,7 @@ DateTime: 17-02-12 11:11:25
 User Name: djthekid_tw
 DateTime: 17-02-12 08:36:14
 
-제주숙소를 알아보다가 흥미로운 곳 발견.건축가 문훈의 바람의 집이 크라우드 펀딩을 통해 <우주오리>라는 독특한 이름으로 재탄생. 패브릭은 '키티버니포니'라고. '우주동','오리동'으로 나뉘고..오리동의 노천… [https://t.co/ffE605m7Jf](https://t.co/ffE605m7Jf){:target="_blank"}
+제주숙소를 알아보다가 흥미로운 곳 발견.건축가 문훈의 바람의 집이 크라우드 펀딩을 통해 우주오리라는 독특한 이름으로 재탄생. 패브릭은 '키티버니포니'라고. '우주동','오리동'으로 나뉘고..오리동의 노천… [https://t.co/ffE605m7Jf](https://t.co/ffE605m7Jf){:target="_blank"}
 User Name: claire_ys
 DateTime: 17-02-12 01:20:39
 
@@ -4482,7 +4482,7 @@ DateTime: 17-02-11 14:00:30
 User Name: mycheez
 DateTime: 17-02-11 10:36:43
 
-경제학에 대한 이해를 높이는데 폴 크루그만의 <경제학의 향연:Peddling Prosperity>만큼 좋은 책을 아직 본 적이 없다. 경제학에 대한 배경이 전혀 없으면 조금 어려울 수 있지만 그 정도 어려움을 넘어서는 노력은 해도 좋지 않은가 생각.
+경제학에 대한 이해를 높이는데 폴 크루그만의 경제학의 향연:Peddling Prosperity만큼 좋은 책을 아직 본 적이 없다. 경제학에 대한 배경이 전혀 없으면 조금 어려울 수 있지만 그 정도 어려움을 넘어서는 노력은 해도 좋지 않은가 생각.
 User Name: hubris2015
 DateTime: 17-02-11 09:00:10
 
@@ -4499,7 +4499,7 @@ _… [https://t.co/zoKqxuOsFR](https://t.co/zoKqxuOsFR){:target="_blank"}
 User Name: claire_ys
 DateTime: 17-02-11 03:53:00
 
-<공터에서> 김훈 소설. 박수쳐 주고 싶다. 문장 하나하나에 정성과 혼이 담겨 있다. 작가의 땀 냄새가 난다. 마동수 마장세 마차세 이야기는 작가 이야기 같다. 진하고 깊어서 눈물도 나오지 않는다.
+공터에서 김훈 소설. 박수쳐 주고 싶다. 문장 하나하나에 정성과 혼이 담겨 있다. 작가의 땀 냄새가 난다. 마동수 마장세 마차세 이야기는 작가 이야기 같다. 진하고 깊어서 눈물도 나오지 않는다.
 User Name: seanlee38
 DateTime: 17-02-11 03:09:35
 
@@ -4507,7 +4507,7 @@ DateTime: 17-02-11 03:09:35
 User Name: bread_by_hong
 DateTime: 17-02-10 12:47:12
 
-마이클 C 홀-조디 밸푸어, 넷플릭스 <더 크라운> 케네디 대통령 &amp; 재키 케네디 캐스팅 [https://t.co/CZly7kh5UD](https://t.co/CZly7kh5UD){:target="_blank"} [https://t.co/Uz5upNuN4r](https://t.co/Uz5upNuN4r){:target="_blank"}
+마이클 C 홀-조디 밸푸어, 넷플릭스 더 크라운 케네디 대통령 &amp; 재키 케네디 캐스팅 [https://t.co/CZly7kh5UD](https://t.co/CZly7kh5UD){:target="_blank"} [https://t.co/Uz5upNuN4r](https://t.co/Uz5upNuN4r){:target="_blank"}
 User Name: tailorcontents
 DateTime: 17-02-10 01:30:02
 
@@ -4580,7 +4580,7 @@ DateTime: 17-02-05 12:49:49
 User Name: ooo_oreo
 DateTime: 17-02-04 14:00:33
 
-위화에 의하면 클린턴은 마르케스와 푸엔테스와 스타이런을 백악관에 초정해 가장 좋아하는 장편소설이 무엇인지 물었다고 한다. 마르케스의 대답은 <몽테크리스토 백작>이었다고. 위화처럼 나도 그 책에 빨려가는 재미를 느꼈고 그것이 긴 독서여정의 시작이었다.
+위화에 의하면 클린턴은 마르케스와 푸엔테스와 스타이런을 백악관에 초정해 가장 좋아하는 장편소설이 무엇인지 물었다고 한다. 마르케스의 대답은 몽테크리스토 백작이었다고. 위화처럼 나도 그 책에 빨려가는 재미를 느꼈고 그것이 긴 독서여정의 시작이었다.
 User Name: hubris2015
 DateTime: 17-02-04 02:10:59
 
@@ -4590,7 +4590,7 @@ DateTime: 17-02-04 02:10:59
 User Name: doejanam
 DateTime: 17-02-03 10:23:39
 
-tbs eFM이 리처드 도킨스 육성을 담았... 10분 남짓 짧은 인터뷰지만 <만들어진 신>과 관련한 이야기, 트럼프에 대한 이야기... 알차... 
+tbs eFM이 리처드 도킨스 육성을 담았... 10분 남짓 짧은 인터뷰지만 만들어진 신과 관련한 이야기, 트럼프에 대한 이야기... 알차... 
 [https://t.co/iOsNWNnuyn](https://t.co/iOsNWNnuyn){:target="_blank"} [https://t.co/OPCYshtmdR](https://t.co/OPCYshtmdR){:target="_blank"}
 User Name: MadamL0515
 DateTime: 17-02-02 01:20:27
@@ -4603,7 +4603,7 @@ DateTime: 17-02-01 05:08:53
 User Name: 015B015B
 DateTime: 17-01-31 10:18:21
 
-독일 최연소 철학 교수가 던지는 과학, 종교, 예술, 그리고 인생의 의미. 마르쿠스 가브리엘의 <왜 세계는 존재하지 않는가>가 출간됩니다. 이번주 서점에서 만나볼 수 있어요. 대중의 언어로 철학의 새로운 문… [https://t.co/CAUMyud2Al](https://t.co/CAUMyud2Al){:target="_blank"}
+독일 최연소 철학 교수가 던지는 과학, 종교, 예술, 그리고 인생의 의미. 마르쿠스 가브리엘의 왜 세계는 존재하지 않는가가 출간됩니다. 이번주 서점에서 만나볼 수 있어요. 대중의 언어로 철학의 새로운 문… [https://t.co/CAUMyud2Al](https://t.co/CAUMyud2Al){:target="_blank"}
 User Name: openbooks21
 DateTime: 17-01-31 05:38:18
 
@@ -4611,11 +4611,11 @@ DateTime: 17-01-31 05:38:18
 User Name: woodyh98
 DateTime: 17-01-31 01:41:37
 
-내가 인생의 책들 중 하나로 꼽는 마이클 카우프만의 <소로스>는 지금 절판 상태다. 한국은 번역되어야 하는 책은 번역되지 않고 또 금방 사라진다. 도서 시장의 저변이 넓지 않기 때문에 놀라운 일이 아니다. 이 나라에서는 눈에 띄면 일단 사야한다.
+내가 인생의 책들 중 하나로 꼽는 마이클 카우프만의 소로스는 지금 절판 상태다. 한국은 번역되어야 하는 책은 번역되지 않고 또 금방 사라진다. 도서 시장의 저변이 넓지 않기 때문에 놀라운 일이 아니다. 이 나라에서는 눈에 띄면 일단 사야한다.
 User Name: hubris2015
 DateTime: 17-01-30 15:40:30
 
-앨럴 베넬로와 마이클 비머와 토비아스 칼라일이 쓴 <집중투자>을 읽고 있는데 내용은 흥미롭고 번역이 유려하다. 무엇보다 내가 쓴 <작은 베팅이 더 위험하다>란 글과 기본적인 아이디어가 참으로 비슷하다. 다행히 내 책이 1년 반 이상 먼저 나왔다.
+앨럴 베넬로와 마이클 비머와 토비아스 칼라일이 쓴 집중투자을 읽고 있는데 내용은 흥미롭고 번역이 유려하다. 무엇보다 내가 쓴 작은 베팅이 더 위험하다란 글과 기본적인 아이디어가 참으로 비슷하다. 다행히 내 책이 1년 반 이상 먼저 나왔다.
 User Name: hubris2015
 DateTime: 17-01-30 15:35:09
 
@@ -4623,7 +4623,7 @@ DateTime: 17-01-30 15:35:09
 User Name: totheno1
 DateTime: 17-01-30 13:57:18
 
-마루야마 겐지의 책 <인생 따위 엿이나 먹어라>와 <나는 길들지 않는다>를 다 읽었다. 제목과 부제와 소제목이 모든 것을 설명한다. 스토리텔링이나 정보 혹은 지식에 관한 책이 아닌 태도에 관한 책이기 때문이다. 실행해보지 않으면 입증할 길이 없다.
+마루야마 겐지의 책 인생 따위 엿이나 먹어라와 나는 길들지 않는다를 다 읽었다. 제목과 부제와 소제목이 모든 것을 설명한다. 스토리텔링이나 정보 혹은 지식에 관한 책이 아닌 태도에 관한 책이기 때문이다. 실행해보지 않으면 입증할 길이 없다.
 User Name: hubris2015
 DateTime: 17-01-29 15:12:49
 
@@ -4643,7 +4643,7 @@ DateTime: 17-01-28 08:39:29
 User Name: searcherJ
 DateTime: 17-01-27 15:40:24
 
-성희엽의 <조용한 혁명>은 후쿠자와 유키치의 <학문의 권장>을 인용하면서 시작한다. "믿음의 세계에 거짓이 많고, 의심의 세계에 진리가 많다." 의미심장하다.
+성희엽의 조용한 혁명은 후쿠자와 유키치의 학문의 권장을 인용하면서 시작한다. "믿음의 세계에 거짓이 많고, 의심의 세계에 진리가 많다." 의미심장하다.
 User Name: hubris2015
 DateTime: 17-01-27 15:37:52
 
@@ -4664,7 +4664,7 @@ DateTime: 17-01-27 05:52:40
 User Name: JongheeJo
 DateTime: 17-01-27 02:22:34
 
-이번 달 에스콰이어에 <나라가 빚을 져야 나라가 산다>라는 칼럼을 썼다. 지금 우리경제가 처한 문제를 잘 풀어서 썼다고 생각한다. 어차피 늘어야 하는 복지지출을 어떻게 늘려야 하는 것인가를 다루었다. [https://t.co/idV3R4Lypk](https://t.co/idV3R4Lypk){:target="_blank"}
+이번 달 에스콰이어에 나라가 빚을 져야 나라가 산다라는 칼럼을 썼다. 지금 우리경제가 처한 문제를 잘 풀어서 썼다고 생각한다. 어차피 늘어야 하는 복지지출을 어떻게 늘려야 하는 것인가를 다루었다. [https://t.co/idV3R4Lypk](https://t.co/idV3R4Lypk){:target="_blank"}
 User Name: hubris2015
 DateTime: 17-01-27 02:10:46
 
@@ -4678,7 +4678,7 @@ JTBC의 '고전적하루', 오늘 오후 여섯시 :)
 User Name: yeoleumson
 DateTime: 17-01-26 05:42:54
 
-글렌 허버드가 폴 크루그만과 논쟁하는 것을 보았을 때는 꼴통보수라고 생각했는데 그의 책 <강대국의 경제학>은 상당히 좋은 책이다. 경제적 직관에 벗어나는 말이 없고 1차 자료에 대해서도 정직하다. 국가의 성공원리가 개인과 어떻게 다른지 잘 설명한다.
+글렌 허버드가 폴 크루그만과 논쟁하는 것을 보았을 때는 꼴통보수라고 생각했는데 그의 책 강대국의 경제학은 상당히 좋은 책이다. 경제적 직관에 벗어나는 말이 없고 1차 자료에 대해서도 정직하다. 국가의 성공원리가 개인과 어떻게 다른지 잘 설명한다.
 User Name: hubris2015
 DateTime: 17-01-25 04:58:44
 
@@ -4730,7 +4730,7 @@ DateTime: 17-01-21 03:31:10
 User Name: jerry0906
 DateTime: 17-01-21 02:18:59
 
-<증언>을 읽고 있다. 주중대사와 통일부장관을 지낸 김하중이 증언하는 김대중 이야기. <김대중 자서전>에서 읽은 김대중의 언어와 태도는 김하중이 전하는 김대중의 언어와 태도와 같다. 나는 드라이한 사람인데… [https://t.co/oiXTCJtAff](https://t.co/oiXTCJtAff){:target="_blank"}
+증언을 읽고 있다. 주중대사와 통일부장관을 지낸 김하중이 증언하는 김대중 이야기. 김대중 자서전에서 읽은 김대중의 언어와 태도는 김하중이 전하는 김대중의 언어와 태도와 같다. 나는 드라이한 사람인데… [https://t.co/oiXTCJtAff](https://t.co/oiXTCJtAff){:target="_blank"}
 User Name: hubris2015
 DateTime: 17-01-21 01:03:27
 
@@ -4746,7 +4746,7 @@ DateTime: 17-01-19 01:52:35
 User Name: korshun__
 DateTime: 17-01-18 17:44:38
 
-<일본 1인 출판사가 일하는 방식>은 믿을만한 유유에서 나온 책. "당연한 것을 의심하는 마음을 잊기 싫어서 의사 표명의 한 수단으로 띠지를 빼기로 했어요"라는 말 같은 걸 읽다보면 모든 것을 결정한다는 말… [https://t.co/BlMjUwLnpe](https://t.co/BlMjUwLnpe){:target="_blank"}
+일본 1인 출판사가 일하는 방식은 믿을만한 유유에서 나온 책. "당연한 것을 의심하는 마음을 잊기 싫어서 의사 표명의 한 수단으로 띠지를 빼기로 했어요"라는 말 같은 걸 읽다보면 모든 것을 결정한다는 말… [https://t.co/BlMjUwLnpe](https://t.co/BlMjUwLnpe){:target="_blank"}
 User Name: d_alicante
 DateTime: 17-01-18 08:32:45
 
@@ -4778,11 +4778,11 @@ DateTime: 17-01-16 03:13:20
 User Name: inselein
 DateTime: 17-01-14 17:12:29
 
-넷플릭스와 왓챠플레이에 돈을 내고 있지만 한달에 한 두 편을 볼까 말까인데 넷플릭스의 <겟 다운>은 아주 흥미롭게 봤다. 흑인 음악에 대해서 몰랐던 것도 많이 알게 해주는데 힙합 공연 장면들은 특히 압권이다. [https://t.co/Fjyyrfog9T](https://t.co/Fjyyrfog9T){:target="_blank"}
+넷플릭스와 왓챠플레이에 돈을 내고 있지만 한달에 한 두 편을 볼까 말까인데 넷플릭스의 겟 다운은 아주 흥미롭게 봤다. 흑인 음악에 대해서 몰랐던 것도 많이 알게 해주는데 힙합 공연 장면들은 특히 압권이다. [https://t.co/Fjyyrfog9T](https://t.co/Fjyyrfog9T){:target="_blank"}
 User Name: hubris2015
 DateTime: 17-01-14 00:57:09
 
-눈이 오면 <눈이 와요>가 생각나서 선배한테 안부를 물었다. 언제 점심하자고 했더니 오늘 어떠냐고 했는데 나는 선약이 있다. 아쉬움을 뒤로 하고 다음 주로 약속을 잡았다. 김광진의 <눈이 와요>  [https://t.co/RCqsP8kYof](https://t.co/RCqsP8kYof){:target="_blank"}
+눈이 오면 눈이 와요가 생각나서 선배한테 안부를 물었다. 언제 점심하자고 했더니 오늘 어떠냐고 했는데 나는 선약이 있다. 아쉬움을 뒤로 하고 다음 주로 약속을 잡았다. 김광진의 눈이 와요  [https://t.co/RCqsP8kYof](https://t.co/RCqsP8kYof){:target="_blank"}
 User Name: hubris2015
 DateTime: 17-01-13 01:42:41
 
@@ -4806,7 +4806,7 @@ DateTime: 17-01-11 13:44:16
 User Name: Heean
 DateTime: 17-01-11 12:26:19
 
-[이벤트] 프리랜서 북디자이너 이기준의 산문집 <저, 죄송한데요>(민음사)입니다. 1mm의 세밀한 조정으로 2차원적인 아름다움을 끈질기게 추구해나가는 그래픽디자이너의 일상담긴 이 책은 아무 페이지나 펼쳐 읽… [https://t.co/4D8w3eghQH](https://t.co/4D8w3eghQH){:target="_blank"}
+[이벤트] 프리랜서 북디자이너 이기준의 산문집 저, 죄송한데요(민음사)입니다. 1mm의 세밀한 조정으로 2차원적인 아름다움을 끈질기게 추구해나가는 그래픽디자이너의 일상담긴 이 책은 아무 페이지나 펼쳐 읽… [https://t.co/4D8w3eghQH](https://t.co/4D8w3eghQH){:target="_blank"}
 User Name: thanksbooks
 DateTime: 17-01-11 05:39:31
 
@@ -4814,7 +4814,7 @@ DateTime: 17-01-11 05:39:31
 User Name: lucid1y
 DateTime: 17-01-10 15:38:33
 
-<죽여 마땅한 사람들> 피터 스완슨 지음. 상당히 재미있다. 단숨에 완독. 보통 서양권 추리소설은 말도 안되는 사이코가 나오면서 현실성없는 권선징악 주제로 흐르는 경우가 많은데.이 책은 정교하게 리얼리티를 잘 살리면서 논리적으로 흐름이 깔끔하다.
+죽여 마땅한 사람들 피터 스완슨 지음. 상당히 재미있다. 단숨에 완독. 보통 서양권 추리소설은 말도 안되는 사이코가 나오면서 현실성없는 권선징악 주제로 흐르는 경우가 많은데.이 책은 정교하게 리얼리티를 잘 살리면서 논리적으로 흐름이 깔끔하다.
 User Name: seanlee38
 DateTime: 17-01-10 12:18:38
 
@@ -4822,11 +4822,11 @@ DateTime: 17-01-10 12:18:38
 User Name: jerry0906
 DateTime: 17-01-09 07:06:34
 
-최은영의 소설집 <쇼코의 미소>의 단편 <씬짜오, 씬짜오>를 읽고 아득해진 적이 있다. 베트남에는 수십개의 한국인 증오비가 있다고 한다. 그러나 하노이 한국 대사관 앞에 한국인 증오비가 세워진다면 우리는 반성할지 분노할지 나로서는 알 길이 없다.
+최은영의 소설집 쇼코의 미소의 단편 씬짜오, 씬짜오를 읽고 아득해진 적이 있다. 베트남에는 수십개의 한국인 증오비가 있다고 한다. 그러나 하노이 한국 대사관 앞에 한국인 증오비가 세워진다면 우리는 반성할지 분노할지 나로서는 알 길이 없다.
 User Name: hubris2015
 DateTime: 17-01-08 11:59:14
 
-<선진국 한국의 우울>은 14년에 씌어진 책인데 한국이 미국발 금융위기를 잘 넘어가고 한미 FTA를 체결한 후 일본기업들의 위기감이 얼마나 컸는지 솔직히 표현하고 있다. 일본인에게 한국정부가 선망의 대상이었다는 걸 이해하면 아베의 인기도 이해가 된다.
+선진국 한국의 우울은 14년에 씌어진 책인데 한국이 미국발 금융위기를 잘 넘어가고 한미 FTA를 체결한 후 일본기업들의 위기감이 얼마나 컸는지 솔직히 표현하고 있다. 일본인에게 한국정부가 선망의 대상이었다는 걸 이해하면 아베의 인기도 이해가 된다.
 User Name: hubris2015
 DateTime: 17-01-08 05:20:43
 
@@ -4854,6 +4854,6 @@ DateTime: 17-01-04 09:06:03
 User Name: parkmc_0
 DateTime: 17-01-02 08:54:56
 
-<죽은 왕녀를 위한 파반느> 박민규 소설. 대단하다 짝짝짝. 기존소설 틀이 완벽하게 깨진다. 가장 못생긴 여자를 주인공으로 내세우며 외모지상주의사회가 그녀에게 얼마나 잔인하게 대하는지 고발. 완전추녀와 진정한 사랑할수있나 질문이 불편한 남자심리 정조준
+죽은 왕녀를 위한 파반느 박민규 소설. 대단하다 짝짝짝. 기존소설 틀이 완벽하게 깨진다. 가장 못생긴 여자를 주인공으로 내세우며 외모지상주의사회가 그녀에게 얼마나 잔인하게 대하는지 고발. 완전추녀와 진정한 사랑할수있나 질문이 불편한 남자심리 정조준
 User Name: seanlee38
 DateTime: 17-01-01 09:43:03
