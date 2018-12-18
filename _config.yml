@@ -6,7 +6,7 @@ url: "" # default is empty
 # Build settings
 kramdown:
   input: GFM
-permalink: pretty
+permalink: /blog/:year/:month/:title/
 
 # Third-party services
 # just leave empty to disable it
