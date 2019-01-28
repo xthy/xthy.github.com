@@ -13,11 +13,11 @@ category: Log
 <br>User Name: Kvin_1
 <br>DateTime: 18-12-31 06:21:27
 
-버락 오바마가 올린 올해의 책 리스트에는 <직업의 지리학>이 올라와있다. <직업의 지리학> (엔리코 모레티) <도시의 승리> (에드 글레이저) <더 나은 세계화를 말하다>(대니 로드릭) <외환위기와 그 후의… [https://t.co/RjpP8UMMq5](https://t.co/RjpP8UMMq5){:target="_blank"}
+버락 오바마가 올린 올해의 책 리스트에는 &lt;직업의 지리학&gt;이 올라와있다. &lt;직업의 지리학&gt; (엔리코 모레티) &lt;도시의 승리&gt; (에드 글레이저) &lt;더 나은 세계화를 말하다&gt;(대니 로드릭) &lt;외환위기와 그 후의… [https://t.co/RjpP8UMMq5](https://t.co/RjpP8UMMq5){:target="_blank"}
 <br>User Name: hubris2020
 <br>DateTime: 18-12-30 23:49:16
 
-여성신문에 <서울과 지방의 격차는 언제쯤 줄어들까요>라는 칼럼을 쓴 적이 있는데 여성신문에 연재하는 <어쨌든 경제> 칼럼들은 주류 경제학에서는 거의 이견이 없는 이론들로 현상을 쉽게 설명한 것이다. 이해가… [https://t.co/Y1L3fUfi5l](https://t.co/Y1L3fUfi5l){:target="_blank"}
+여성신문에 &lt;서울과 지방의 격차는 언제쯤 줄어들까요&gt;라는 칼럼을 쓴 적이 있는데 여성신문에 연재하는 &lt;어쨌든 경제&gt; 칼럼들은 주류 경제학에서는 거의 이견이 없는 이론들로 현상을 쉽게 설명한 것이다. 이해가… [https://t.co/Y1L3fUfi5l](https://t.co/Y1L3fUfi5l){:target="_blank"}
 <br>User Name: hubris2020
 <br>DateTime: 18-12-30 23:38:03
 
@@ -29,7 +29,7 @@ category: Log
 <br>User Name: nejjonejjonej
 <br>DateTime: 18-12-29 13:28:32
 
-최근엔 넷플릭스를 열심히 보면서 <우리가 읽고 보고 사랑한 것>을 듣기 시작했다. 아직 두 편 정도 들은 상태. 팟캐스트 이야기를 왜 열심히 하냐면... 놀랍게도 팟캐스트에서 감동과 교훈(?)을 얻었기 때문… [https://t.co/PPEbC2S1IH](https://t.co/PPEbC2S1IH){:target="_blank"}
+최근엔 넷플릭스를 열심히 보면서 &lt;우리가 읽고 보고 사랑한 것&gt;을 듣기 시작했다. 아직 두 편 정도 들은 상태. 팟캐스트 이야기를 왜 열심히 하냐면... 놀랍게도 팟캐스트에서 감동과 교훈(?)을 얻었기 때문… [https://t.co/PPEbC2S1IH](https://t.co/PPEbC2S1IH){:target="_blank"}
 <br>User Name: urban_lab
 <br>DateTime: 18-12-29 07:32:26
 
@@ -90,7 +90,7 @@ Nuno Serrão
 <br>User Name: promenadeverte
 <br>DateTime: 18-12-23 12:25:19
 
-베르너 헤어초크의 <사이버 세상에 대한 몽상>은 기술 그 자체보다 그것을 둘러싸고 있는 캘리포니아 이데올로기에 대한 다큐멘터리가 아닐까하는 생각을.. 그리고 그것을 독일 낭만주의적인 사고와 결합시키려하는 시… [https://t.co/ldBCTaUvzZ](https://t.co/ldBCTaUvzZ){:target="_blank"}
+베르너 헤어초크의 &lt;사이버 세상에 대한 몽상&gt;은 기술 그 자체보다 그것을 둘러싸고 있는 캘리포니아 이데올로기에 대한 다큐멘터리가 아닐까하는 생각을.. 그리고 그것을 독일 낭만주의적인 사고와 결합시키려하는 시… [https://t.co/ldBCTaUvzZ](https://t.co/ldBCTaUvzZ){:target="_blank"}
 <br>User Name: blancheiswhite
 <br>DateTime: 18-12-23 02:57:52
 
@@ -102,7 +102,7 @@ Nuno Serrão
 <br>User Name: insidestory_kr
 <br>DateTime: 18-12-21 00:43:03
 
-전화 한 통을 받았다. <황현산의 사소한 부탁>이 한국출판문화산업진흥원 2018년 하반기 세종도서 교양 부문에 선정되었다는 내용이었다. 선생님이 계셨으면 고맙구나 잘 되었구나 하셨을 텐데... 그쵸. 그랬을… [https://t.co/pz1ep9Aetv](https://t.co/pz1ep9Aetv){:target="_blank"}
+전화 한 통을 받았다. &lt;황현산의 사소한 부탁&gt;이 한국출판문화산업진흥원 2018년 하반기 세종도서 교양 부문에 선정되었다는 내용이었다. 선생님이 계셨으면 고맙구나 잘 되었구나 하셨을 텐데... 그쵸. 그랬을… [https://t.co/pz1ep9Aetv](https://t.co/pz1ep9Aetv){:target="_blank"}
 <br>User Name: blackinana
 <br>DateTime: 18-12-20 17:21:44
 
@@ -130,11 +130,11 @@ Autopilot! [https://t.co/GxOLHBJH0B](https://t.co/GxOLHBJH0B){:target="_blank"}
 <br>User Name: jerry0906
 <br>DateTime: 18-12-16 19:31:41
 
-2017년 1월 ,애니메이션 <너의 이름을>을 보고 쓴 칼럼 <선택의 기로>의 일부다. 지금 다시 읽어보니 당시 느꼈던 안타까움과 아쉬움이 그대로 느껴진다. "우리는 운명을 거슬려서라도 제자리에 돌려놓고 싶… [https://t.co/eUY2FvaiTu](https://t.co/eUY2FvaiTu){:target="_blank"}
+2017년 1월 ,애니메이션 &lt;너의 이름을&gt;을 보고 쓴 칼럼 &lt;선택의 기로&gt;의 일부다. 지금 다시 읽어보니 당시 느꼈던 안타까움과 아쉬움이 그대로 느껴진다. "우리는 운명을 거슬려서라도 제자리에 돌려놓고 싶… [https://t.co/eUY2FvaiTu](https://t.co/eUY2FvaiTu){:target="_blank"}
 <br>User Name: hubris2020
 <br>DateTime: 18-12-16 11:42:59
 
-<불렛저널>은 스케줄러 작성법을 다룬 실용서. 시간관리 자기 계발서로 분류할 수 있을 텐데 문체는 사색적. 은근 재치 있는 문장도 눈에 띈다. 가령 "분주하다는 건, 계단 아래로 데굴데굴 굴러 떨어지는 것에… [https://t.co/8Msx6dpjq9](https://t.co/8Msx6dpjq9){:target="_blank"}
+&lt;불렛저널&gt;은 스케줄러 작성법을 다룬 실용서. 시간관리 자기 계발서로 분류할 수 있을 텐데 문체는 사색적. 은근 재치 있는 문장도 눈에 띈다. 가령 "분주하다는 건, 계단 아래로 데굴데굴 굴러 떨어지는 것에… [https://t.co/8Msx6dpjq9](https://t.co/8Msx6dpjq9){:target="_blank"}
 <br>User Name: psybuz
 <br>DateTime: 18-12-16 04:23:23
 
@@ -209,7 +209,7 @@ The Office 제작진이 The Mart 이런거 만들어줬으면 좋겠다. [https:
 <br>User Name: Vulpes_No9
 <br>DateTime: 18-12-09 21:14:21
 
-그리고 기사에 실린 이 사진 좋다. <비커밍>에서는 면지에 흑백으로만 나와 있는 사진. 설명을 보니 당시 남자친구였던 버락이 케냐에서 찍어준 사진이라고. 그렇다면 둘이 결혼 1년 전 함께 버락 아버지의 고향… [https://t.co/W8KRoYkOOr](https://t.co/W8KRoYkOOr){:target="_blank"}
+그리고 기사에 실린 이 사진 좋다. &lt;비커밍&gt;에서는 면지에 흑백으로만 나와 있는 사진. 설명을 보니 당시 남자친구였던 버락이 케냐에서 찍어준 사진이라고. 그렇다면 둘이 결혼 1년 전 함께 버락 아버지의 고향… [https://t.co/W8KRoYkOOr](https://t.co/W8KRoYkOOr){:target="_blank"}
 <br>User Name: starlakim
 <br>DateTime: 18-12-09 03:36:27
 
@@ -248,30 +248,30 @@ Most powerful cities in the world, 2018.
 
 점점 처진다고 느껴지면 도서관이나 커피숍처럼 사람들이 있는 곳을 찾아가라. 사람들과 대화할 필요까지는 없다. 그저 물리적으로 같은 공간에 있는 것만으로도 도움이 된다. 
 
-- <우울할 땐 뇌과학> 중
+- &lt;우울할 땐 뇌과학&gt; 중
 <br>User Name: josee_re
 <br>DateTime: 18-12-03 04:38:30
 
-오늘 읽은 <월스트리트저널 인포그래픽 가이드>에서 인상적이었던 부분
+오늘 읽은 &lt;월스트리트저널 인포그래픽 가이드&gt;에서 인상적이었던 부분
 1. 추세선의 적절한 높이는 전체의 2/3
 2. 차트 하나에 선은 4개이하로 하고 가장 중요한 선만 다른 색으로
 3. 수평막대차트의 중요한… [https://t.co/YHhl3TIJob](https://t.co/YHhl3TIJob){:target="_blank"}
 <br>User Name: bluepygmi
 <br>DateTime: 18-12-02 17:05:16
 
-두번째 Quality <생각을 코드로 써내기>는 코딩을 많이 해보는 수밖에 없고, 가능하면 회사나 인터뷰처럼 시간제한이 있는 그런 환경에서 하는게 좋다. leetcode 같은 사이트는 사실 인터뷰 준비뿐 아… [https://t.co/GWRBtDx4cz](https://t.co/GWRBtDx4cz){:target="_blank"}
+두번째 Quality &lt;생각을 코드로 써내기&gt;는 코딩을 많이 해보는 수밖에 없고, 가능하면 회사나 인터뷰처럼 시간제한이 있는 그런 환경에서 하는게 좋다. leetcode 같은 사이트는 사실 인터뷰 준비뿐 아… [https://t.co/GWRBtDx4cz](https://t.co/GWRBtDx4cz){:target="_blank"}
 <br>User Name: sm_park
 <br>DateTime: 18-12-02 16:52:58
 
-이 두개의 Quality는 큰 연관이 없어서 각각 따로 길러야한다. 첫번째 <생각해내는> Quality는 CS수업들을 듣는게 가장 빠른 방법이고 좀 돌아가려면 따로 자료구조, 알고리즘책 여러번 읽는 방법밖에 없다. 본인이 폰노이먼급 천재가 아니라면.
+이 두개의 Quality는 큰 연관이 없어서 각각 따로 길러야한다. 첫번째 &lt;생각해내는&gt; Quality는 CS수업들을 듣는게 가장 빠른 방법이고 좀 돌아가려면 따로 자료구조, 알고리즘책 여러번 읽는 방법밖에 없다. 본인이 폰노이먼급 천재가 아니라면.
 <br>User Name: sm_park
 <br>DateTime: 18-12-02 16:52:58
 
-어떤 사람들은 두번째 Quality만 가지고있다. 예를들어 내가 어렸을때 수업하나도 안듣고 벤처에서 코딩하던 시절. 수많은 밤 코딩을 했더니 머릿속 생각이 술술 코드로 써지더라. 그러니 <아 나 코딩좀 하네… [https://t.co/9lFk0Y2ppP](https://t.co/9lFk0Y2ppP){:target="_blank"}
+어떤 사람들은 두번째 Quality만 가지고있다. 예를들어 내가 어렸을때 수업하나도 안듣고 벤처에서 코딩하던 시절. 수많은 밤 코딩을 했더니 머릿속 생각이 술술 코드로 써지더라. 그러니 &lt;아 나 코딩좀 하네… [https://t.co/9lFk0Y2ppP](https://t.co/9lFk0Y2ppP){:target="_blank"}
 <br>User Name: sm_park
 <br>DateTime: 18-12-02 16:52:57
 
-그런데 이 단계에선 머리속에 알고리즘, 즉 플로우 차트는 그려져있는데 아직은 모호한 단계. 그걸 if/else, while loop, recursion등 코드로 빠른 시간안에 <표현>해내야 하는게 두번째 Q… [https://t.co/Jocptpukc3](https://t.co/Jocptpukc3){:target="_blank"}
+그런데 이 단계에선 머리속에 알고리즘, 즉 플로우 차트는 그려져있는데 아직은 모호한 단계. 그걸 if/else, while loop, recursion등 코드로 빠른 시간안에 &lt;표현&gt;해내야 하는게 두번째 Q… [https://t.co/Jocptpukc3](https://t.co/Jocptpukc3){:target="_blank"}
 <br>User Name: sm_park
 <br>DateTime: 18-12-02 16:52:57
 
@@ -364,7 +364,7 @@ AI로 돌아가는 전자동 공장의 수괴쯤 되었던 일론 머스크가 �
 <br>User Name: milk0647
 <br>DateTime: 18-11-25 20:34:48
 
-이건 <비커밍>은 아니고 버락의 <담대한 희망>에 나온 얘긴데, 버락이 상원의원으로 워싱턴 다니고 미셸은 시카고 살 때 버락이 전화해서 의회 얘기 좀 우쭐하게 늘어놓으려고 하면 미셸이 “집에 개미 나왔어,… [https://t.co/4Lpw1nM6xu](https://t.co/4Lpw1nM6xu){:target="_blank"}
+이건 &lt;비커밍&gt;은 아니고 버락의 &lt;담대한 희망&gt;에 나온 얘긴데, 버락이 상원의원으로 워싱턴 다니고 미셸은 시카고 살 때 버락이 전화해서 의회 얘기 좀 우쭐하게 늘어놓으려고 하면 미셸이 “집에 개미 나왔어,… [https://t.co/4Lpw1nM6xu](https://t.co/4Lpw1nM6xu){:target="_blank"}
 <br>User Name: starlakim
 <br>DateTime: 18-11-24 13:11:15
 
@@ -386,7 +386,7 @@ l'ARCA, GREYROOM(MIT), GT… [https://t.co/LK57NQzCmF](https://t.co/LK57NQzCmF){
 <br>User Name: soohyoun
 <br>DateTime: 18-11-22 16:39:58
 
-최근에 넷플릭스에서 봤던것 중 좋았던 <개와 함께-어서 와, 제우스> 시리아 난민인 아이함은 내전 발발 후 징집을 피해 탈출해 독일에 살고 있는데 두고 온 자신의 반려견 제우스를 동물보호단체와 자신의 친구들… [https://t.co/X6AGlSKqnt](https://t.co/X6AGlSKqnt){:target="_blank"}
+최근에 넷플릭스에서 봤던것 중 좋았던 &lt;개와 함께-어서 와, 제우스&gt; 시리아 난민인 아이함은 내전 발발 후 징집을 피해 탈출해 독일에 살고 있는데 두고 온 자신의 반려견 제우스를 동물보호단체와 자신의 친구들… [https://t.co/X6AGlSKqnt](https://t.co/X6AGlSKqnt){:target="_blank"}
 <br>User Name: heomanghada
 <br>DateTime: 18-11-22 13:27:58
 
@@ -436,10 +436,10 @@ l'ARCA, GREYROOM(MIT), GT… [https://t.co/LK57NQzCmF](https://t.co/LK57NQzCmF){
 
 [TIME]지 선정 "2018 올해의 영화 BEST 10" [https://t.co/7I7dBywPP4](https://t.co/7I7dBywPP4){:target="_blank"}
 
-1. <로마>
-2. <원트 유 비 마이 네이버?>
-3. <퍼스트 리폼드>
-4. <에이스 그레이드>
+1. &lt;로마&gt;
+2. &lt;원트 유 비 마이 네이버?&gt;
+3. &lt;퍼스트 리폼드&gt;
+4. &lt;에이스 그레이드&gt;
 5.… [https://t.co/XA8ZLXkiu0](https://t.co/XA8ZLXkiu0){:target="_blank"}
 <br>User Name: csangsangmadang
 <br>DateTime: 18-11-19 04:20:00
@@ -477,7 +477,7 @@ Could Vahana possibly be the taxi of the future? [https://t.co/GcwG8udH4y](https
 <br>User Name: UandMeSong
 <br>DateTime: 18-11-15 06:27:20
 
-오늘 10년 만에 <페르세폴리스>가 재개봉했다. 이란의 역사와 전쟁 속에서 빈번하게 흐르는 여성 혐오의 통념에 대한 이야기를 한 소녀의 성장에 빗대어 보여준다. 이 영화의 흑백은 세상의 모든 색들을 모두 끌… [https://t.co/WxS1sRQVlv](https://t.co/WxS1sRQVlv){:target="_blank"}
+오늘 10년 만에 &lt;페르세폴리스&gt;가 재개봉했다. 이란의 역사와 전쟁 속에서 빈번하게 흐르는 여성 혐오의 통념에 대한 이야기를 한 소녀의 성장에 빗대어 보여준다. 이 영화의 흑백은 세상의 모든 색들을 모두 끌… [https://t.co/WxS1sRQVlv](https://t.co/WxS1sRQVlv){:target="_blank"}
 <br>User Name: ekiria
 <br>DateTime: 18-11-15 02:41:15
 
@@ -521,7 +521,7 @@ EBS 다큐 시리즈 중에 “공부의 왕도” 와 “동기”는 꼭 보�
 <br>User Name: MADFilian
 <br>DateTime: 18-11-09 16:54:42
 
-<골든아워>, 이국종. 선의와 개선의지를 가진 중간관리자가 한국사회에 던져지면 어떻게 갈려나가게 되는가 서술한 토혈기... 아무리 시스템이 좋아도 헛점이 있기 마련이라 그걸 메우는 게 개개인의 의지라고 한… [https://t.co/cEOaQMJgYP](https://t.co/cEOaQMJgYP){:target="_blank"}
+&lt;골든아워&gt;, 이국종. 선의와 개선의지를 가진 중간관리자가 한국사회에 던져지면 어떻게 갈려나가게 되는가 서술한 토혈기... 아무리 시스템이 좋아도 헛점이 있기 마련이라 그걸 메우는 게 개개인의 의지라고 한… [https://t.co/cEOaQMJgYP](https://t.co/cEOaQMJgYP){:target="_blank"}
 <br>User Name: rifabooo
 <br>DateTime: 18-11-09 11:03:37
 
@@ -563,7 +563,7 @@ EBS 다큐 시리즈 중에 “공부의 왕도” 와 “동기”는 꼭 보�
 <br>User Name: searcherJ
 <br>DateTime: 18-11-08 00:35:48
 
-넷플릭스에서 니콜 홀로프세너의 <변함없는 자들의 마을> 시청. 이른 은퇴뒤에 지리멸렬한 인생을 살고 있는 이혼남과 빠르게 새로운 사랑을 찾은 전처 그리고 유일한 혈육인 무일푼의 아들과 그 친구가 만들어내는… [https://t.co/XtS0VcS0tD](https://t.co/XtS0VcS0tD){:target="_blank"}
+넷플릭스에서 니콜 홀로프세너의 &lt;변함없는 자들의 마을&gt; 시청. 이른 은퇴뒤에 지리멸렬한 인생을 살고 있는 이혼남과 빠르게 새로운 사랑을 찾은 전처 그리고 유일한 혈육인 무일푼의 아들과 그 친구가 만들어내는… [https://t.co/XtS0VcS0tD](https://t.co/XtS0VcS0tD){:target="_blank"}
 <br>User Name: hYucKimd
 <br>DateTime: 18-11-06 11:40:21
 
@@ -615,7 +615,7 @@ EBS 다큐 시리즈 중에 “공부의 왕도” 와 “동기”는 꼭 보�
 <br>User Name: keepcalmdawn
 <br>DateTime: 18-11-03 11:24:10
 
-프라이드 영화제 <걸> 너무 울다 나왔다... 촬영 너무나 완벽하고 주연인 빅터 폴스터 천재이다 루카스 돈트 감독 91년생..! [https://t.co/pB76H3Sx5t](https://t.co/pB76H3Sx5t){:target="_blank"}
+프라이드 영화제 &lt;걸&gt; 너무 울다 나왔다... 촬영 너무나 완벽하고 주연인 빅터 폴스터 천재이다 루카스 돈트 감독 91년생..! [https://t.co/pB76H3Sx5t](https://t.co/pB76H3Sx5t){:target="_blank"}
 <br>User Name: gighabit
 <br>DateTime: 18-11-02 13:54:03
 
@@ -665,7 +665,7 @@ Studying behavioral science can affect how you spell the behavioural. J Ko et al
 <br>User Name: dlstodahfrkfm
 <br>DateTime: 18-10-29 05:59:56
 
-아일랜드 더블린을 여행할 때 트리니티 칼리지 도서관을 꼭 방문하세요. 실제로 보면 더 아름답습니다. 영화 <스타워즈>에 나오는 제다이 아카이브의 모델이 된 도서관입니다. 
+아일랜드 더블린을 여행할 때 트리니티 칼리지 도서관을 꼭 방문하세요. 실제로 보면 더 아름답습니다. 영화 &lt;스타워즈&gt;에 나오는 제다이 아카이브의 모델이 된 도서관입니다. 
 ⭐⭐⭐⭐🌟 [https://t.co/BCNuO1AoHs](https://t.co/BCNuO1AoHs){:target="_blank"}
 <br>User Name: kpark_librarian
 <br>DateTime: 18-10-27 03:45:48
@@ -691,11 +691,11 @@ zip code를 입력하면 그 동네 평균 주민들의 라이프스타일, 직�
 <br>DateTime: 18-10-25 04:11:45
 
 프라하를 여행할때 입장료 아깝다고 안가면 후회할 곳은 스트라호프 수도원 도서관입니다. 
-영화 <젠틀맨 리그>와 <007 카지노 로얄>의 촬영지이기도 합니다. [https://t.co/TZs0hOjFJD](https://t.co/TZs0hOjFJD){:target="_blank"}
+영화 &lt;젠틀맨 리그&gt;와 &lt;007 카지노 로얄&gt;의 촬영지이기도 합니다. [https://t.co/TZs0hOjFJD](https://t.co/TZs0hOjFJD){:target="_blank"}
 <br>User Name: kpark_librarian
 <br>DateTime: 18-10-24 22:58:42
 
-사진전시재단의 큐레이터 윌리엄 유잉, 홀리 루셀과 국립현대미술관의 협업으로 진행되는 대규모 국제 전시 <문명: 지금 우리가 사는 방법> 오픈!
+사진전시재단의 큐레이터 윌리엄 유잉, 홀리 루셀과 국립현대미술관의 협업으로 진행되는 대규모 국제 전시 &lt;문명: 지금 우리가 사는 방법&gt; 오픈!
 
 #문명: 지금 우리가 사는 방법
 2018.10.18. (목)… [https://t.co/DXhOPWpel9](https://t.co/DXhOPWpel9){:target="_blank"}
@@ -777,11 +777,11 @@ Stop building websites with infinite scroll! [https://t.co/SKkKhImuss](https://t
 
 “투기나 투자가 아닌 주거지로서 바라본 아파트.”(김성훈 기자), “내밀한 나를 깨우는 보편의 풍경. 서사로서의 공간들.”(김소미 기자)
 
-10/25 개봉작 <집의 시간들> 씨네21 전문가 20자평 ★★★★ [https://t.co/nvsBZJ0lgt](https://t.co/nvsBZJ0lgt){:target="_blank"}
+10/25 개봉작 &lt;집의 시간들&gt; 씨네21 전문가 20자평 ★★★★ [https://t.co/nvsBZJ0lgt](https://t.co/nvsBZJ0lgt){:target="_blank"}
 <br>User Name: csangsangmadang
 <br>DateTime: 18-10-19 02:02:06
 
-넷플릭스 오리지널 영화 <내가 사랑했던 모든 남자들에게>는 무려 8천만명 이상의 가입자들이 시청한 것으로 집계. 헐..그야말로 메가히트. 첨언하자면 이 정도 시청자 수는 전세계 흥행 수익 10억 달러 이상을… [https://t.co/tqmk0YkDBu](https://t.co/tqmk0YkDBu){:target="_blank"}
+넷플릭스 오리지널 영화 &lt;내가 사랑했던 모든 남자들에게&gt;는 무려 8천만명 이상의 가입자들이 시청한 것으로 집계. 헐..그야말로 메가히트. 첨언하자면 이 정도 시청자 수는 전세계 흥행 수익 10억 달러 이상을… [https://t.co/tqmk0YkDBu](https://t.co/tqmk0YkDBu){:target="_blank"}
 <br>User Name: kwscws
 <br>DateTime: 18-10-18 14:22:36
 
@@ -824,7 +824,7 @@ Patterns. [https://t.co/o3hvCCOG7e](https://t.co/o3hvCCOG7e){:target="_blank"}
 <br>User Name: __xuly__
 <br>DateTime: 18-10-17 15:17:33
 
-<The Wife> 예고편 이제야 봐버렸고... 노벨 문학상을 받게된 남편과 스웨덴으로 떠나면서 자신의 재능을 희생했던 세월을 다시 돌아보며 점점 폭발하게 되는 아내의 이야기라니.. 이 시대 최고의 배우인… [https://t.co/EIy6lUx4iC](https://t.co/EIy6lUx4iC){:target="_blank"}
+&lt;The Wife&gt; 예고편 이제야 봐버렸고... 노벨 문학상을 받게된 남편과 스웨덴으로 떠나면서 자신의 재능을 희생했던 세월을 다시 돌아보며 점점 폭발하게 되는 아내의 이야기라니.. 이 시대 최고의 배우인… [https://t.co/EIy6lUx4iC](https://t.co/EIy6lUx4iC){:target="_blank"}
 <br>User Name: gighabit
 <br>DateTime: 18-10-17 12:39:46
 
@@ -846,7 +846,7 @@ Nomad 듀얼 무선충전패드 개봉기 : 클리앙 [https://t.co/bmsq6L0jmS](
 <br>User Name: seoulrain
 <br>DateTime: 18-10-15 04:00:09
 
-이태원 캘리포니아키친앤크래프트펍 가서 파스트라미 먹었다. 두툼한 고기랑 스위스치즈, 코울슬로의 조합이 단짠의 신세계를 보여줌. 걸신들린것처럼 먹었네; <LA식 넘버나인틴 파스트라미> 완전 강추. [https://t.co/PZ3KbZ7hkc](https://t.co/PZ3KbZ7hkc){:target="_blank"}
+이태원 캘리포니아키친앤크래프트펍 가서 파스트라미 먹었다. 두툼한 고기랑 스위스치즈, 코울슬로의 조합이 단짠의 신세계를 보여줌. 걸신들린것처럼 먹었네; &lt;LA식 넘버나인틴 파스트라미&gt; 완전 강추. [https://t.co/PZ3KbZ7hkc](https://t.co/PZ3KbZ7hkc){:target="_blank"}
 <br>User Name: Marion0411
 <br>DateTime: 18-10-14 23:01:45
 
@@ -854,7 +854,7 @@ Nomad 듀얼 무선충전패드 개봉기 : 클리앙 [https://t.co/bmsq6L0jmS](
 <br>User Name: dibromides
 <br>DateTime: 18-10-14 14:02:41
 
-<인류의 기원> 너무나도 재미있고 흥미로운 부분들이 많은 책이었습니다. 강추강추!
+&lt;인류의 기원&gt; 너무나도 재미있고 흥미로운 부분들이 많은 책이었습니다. 강추강추!
 <br>User Name: Jesse__Jung
 <br>DateTime: 18-10-14 05:37:57
 
@@ -883,7 +883,7 @@ Nomad 듀얼 무선충전패드 개봉기 : 클리앙 [https://t.co/bmsq6L0jmS](
 <br>User Name: jk_space
 <br>DateTime: 18-10-13 00:23:20
 
-일본 당뇨병 전문의의 <식사가 잘못됐습니다>. 먹고 싶은거 먹으며 산다 하더라도 많은 분들이 이 정도는 꼭 인지하고 계시면 좋겠다는 바램. 개인적으로는 데일리 알콜은 맥주를 와인으로 바꾸고, ‘프리스타일 리… [https://t.co/2eE7FY69jP](https://t.co/2eE7FY69jP){:target="_blank"}
+일본 당뇨병 전문의의 &lt;식사가 잘못됐습니다&gt;. 먹고 싶은거 먹으며 산다 하더라도 많은 분들이 이 정도는 꼭 인지하고 계시면 좋겠다는 바램. 개인적으로는 데일리 알콜은 맥주를 와인으로 바꾸고, ‘프리스타일 리… [https://t.co/2eE7FY69jP](https://t.co/2eE7FY69jP){:target="_blank"}
 <br>User Name: cnookie
 <br>DateTime: 18-10-13 00:00:36
 
@@ -972,11 +972,11 @@ Grace Farms (SANNA)
 <br>User Name: UandMeSong
 <br>DateTime: 18-10-06 13:09:45
 
-그동안 제가 넷플릭스 오리지날 영화를 많이 안 봤어요. 수작보다는 범작이 많았던 것 같은데, <프라이빗 라이프>는 아주 뛰어납니다. 감히 올해 최고 영화 중의 한편으로 꼽고 싶습니다. 마지막으로, 넷플릭스에… [https://t.co/HZfdwC0p7D](https://t.co/HZfdwC0p7D){:target="_blank"}
+그동안 제가 넷플릭스 오리지날 영화를 많이 안 봤어요. 수작보다는 범작이 많았던 것 같은데, &lt;프라이빗 라이프&gt;는 아주 뛰어납니다. 감히 올해 최고 영화 중의 한편으로 꼽고 싶습니다. 마지막으로, 넷플릭스에… [https://t.co/HZfdwC0p7D](https://t.co/HZfdwC0p7D){:target="_blank"}
 <br>User Name: wonsuk
 <br>DateTime: 18-10-06 12:25:12
 
-성태윤 교수의 <명견만리> 강연은 이렇게 요약할 수 있다. 1) 한국의 미래는 장단기적으로 모두 어둡다. 2) 한국은 반도체라는 자원 밖에 가진 게 없는 나라가 될지도 모른다. 3) 성장이 곧 일자리는 아니… [https://t.co/5D7PObnr0T](https://t.co/5D7PObnr0T){:target="_blank"}
+성태윤 교수의 &lt;명견만리&gt; 강연은 이렇게 요약할 수 있다. 1) 한국의 미래는 장단기적으로 모두 어둡다. 2) 한국은 반도체라는 자원 밖에 가진 게 없는 나라가 될지도 모른다. 3) 성장이 곧 일자리는 아니… [https://t.co/5D7PObnr0T](https://t.co/5D7PObnr0T){:target="_blank"}
 <br>User Name: hubris2020
 <br>DateTime: 18-10-06 11:33:17
 
@@ -1047,10 +1047,10 @@ Mac 컴퓨터는 다음 브라우저 해상도로 스트리밍할 수 있습니�
 그립고 또 보고싶어서 꺼내어 보는
 배우 키키 키린의 영화 세 편,
 
-<걸어도 걸어도>
-<앙: 단팥 인생 이야기>
+&lt;걸어도 걸어도&gt;
+&lt;앙: 단팥 인생 이야기&gt;
 그리고 아직 상영중인
-<어느 가족>
+&lt;어느 가족&gt;
 
 9/22(토) ~ 9/26(수) 추석연휴에
 아트나인에서… [https://t.co/GcSOjk8kKe](https://t.co/GcSOjk8kKe){:target="_blank"}
@@ -1064,9 +1064,9 @@ veni, vidi, visa.
 <br>User Name: Ines81151784
 <br>DateTime: 18-09-17 04:13:05
 
-KBS1 서울올림픽 30주년 특집 다큐 <88/18> 이야기가 조용히 인기를 타고 있는데 진짜 이태웅 PD 스포츠다큐는 무조건 추천이다.
+KBS1 서울올림픽 30주년 특집 다큐 &lt;88/18&gt; 이야기가 조용히 인기를 타고 있는데 진짜 이태웅 PD 스포츠다큐는 무조건 추천이다.
 대부분 VOD서비스도 찾으면 나온다.
-<김연아, 챔피언>이외에 <숫자… [https://t.co/mrIcIeABRv](https://t.co/mrIcIeABRv){:target="_blank"}
+&lt;김연아, 챔피언&gt;이외에 &lt;숫자… [https://t.co/mrIcIeABRv](https://t.co/mrIcIeABRv){:target="_blank"}
 <br>User Name: woochick
 <br>DateTime: 18-09-17 03:54:53
 
@@ -1149,7 +1149,7 @@ Data Science Cheat Sheet [https://t.co/m3GhgDmjaF](https://t.co/m3GhgDmjaF){:tar
 <br>User Name: kdnuggets
 <br>DateTime: 18-09-09 14:14:04
 
-결과 예상하기가 참 쉬운게 (글로벌 부동산↑) + (양도세↑ > 매물잠김 > 집값↑) +  (종부세↑ >  어차피 강남 떠나서 살고 싶진 않으니 욕을 엄청하면서 버팀 > 매물 출회 없음 > 집값 하락압박 없… [https://t.co/XCsbAqrZiT](https://t.co/XCsbAqrZiT){:target="_blank"}
+결과 예상하기가 참 쉬운게 (글로벌 부동산↑) + (양도세↑ &gt; 매물잠김 &gt; 집값↑) +  (종부세↑ &gt;  어차피 강남 떠나서 살고 싶진 않으니 욕을 엄청하면서 버팀 &gt; 매물 출회 없음 &gt; 집값 하락압박 없… [https://t.co/XCsbAqrZiT](https://t.co/XCsbAqrZiT){:target="_blank"}
 <br>User Name: dtecMORI
 <br>DateTime: 18-09-09 10:03:57
 
@@ -1165,7 +1165,7 @@ We bare bears 에피소드 중에 대왕 부리또를 보고 한 눈에 반해�
 <br>User Name: imaum0217
 <br>DateTime: 18-09-07 03:53:06
 
-<USED 입고>
+&lt;USED 입고&gt;
 현재 서울점 USED 코너가 매우 풍성합니다. 오래 전 생산되어 사용되지 않고 중고 시장을 돌고 있던 유리 로고잔들, 심플하고 견고한 유리/도자제 접시류, 다양한 형태와 컬러의 멜라민 식기… [https://t.co/d1aRF8S5pE](https://t.co/d1aRF8S5pE){:target="_blank"}
 <br>User Name: d_d_SEOUL
 <br>DateTime: 18-09-07 03:16:06
@@ -1174,7 +1174,7 @@ We bare bears 에피소드 중에 대왕 부리또를 보고 한 눈에 반해�
 <br>User Name: jaellernej
 <br>DateTime: 18-09-06 17:06:52
 
-넷플릭스에 <익스플레인:세계를 해설하다> - 여성의 쾌락 편 봤는데 너무 재밌다. 넘 유쾌하게 잘만든 듯ㅋㅋ [https://t.co/8STP0Uv6BH](https://t.co/8STP0Uv6BH){:target="_blank"}
+넷플릭스에 &lt;익스플레인:세계를 해설하다&gt; - 여성의 쾌락 편 봤는데 너무 재밌다. 넘 유쾌하게 잘만든 듯ㅋㅋ [https://t.co/8STP0Uv6BH](https://t.co/8STP0Uv6BH){:target="_blank"}
 <br>User Name: not_unot_u
 <br>DateTime: 18-09-06 13:12:33
 
@@ -1204,7 +1204,7 @@ Git과 Markdown 기반의 정적 번역 사이트를 만들며 시행착오를 �
 <br>User Name: lqez
 <br>DateTime: 18-09-05 09:29:55
 
-18. 서론->본론->결론 순으로 절대 안 쓰게 됩니다. 결론 쓰다가 서론 고치고, 서론 쓰다가 본론 고치고, 본론 쓰다가 서론 결론 고치고 누덕누덕 기우는 게 논문이니 난 왜 이모냥일까 하고 울지 마세요. 다 그래요.
+18. 서론-&gt;본론-&gt;결론 순으로 절대 안 쓰게 됩니다. 결론 쓰다가 서론 고치고, 서론 쓰다가 본론 고치고, 본론 쓰다가 서론 결론 고치고 누덕누덕 기우는 게 논문이니 난 왜 이모냥일까 하고 울지 마세요. 다 그래요.
 <br>User Name: so_songs
 <br>DateTime: 18-09-04 07:26:55
 
@@ -1292,7 +1292,7 @@ Git과 Markdown 기반의 정적 번역 사이트를 만들며 시행착오를 �
 <br>User Name: ab73014
 <br>DateTime: 18-09-01 15:55:49
 
-오늘 오랜만에 장 자끄 상뻬 <파리 스케치> 보던 중에 이 그림 발견해서ㅋㅋㅋㅋㅋ 피가 싸늘하게 식었다 니도 프랑스 새끼였지 참... [https://t.co/BaEg4XoDNm](https://t.co/BaEg4XoDNm){:target="_blank"}
+오늘 오랜만에 장 자끄 상뻬 &lt;파리 스케치&gt; 보던 중에 이 그림 발견해서ㅋㅋㅋㅋㅋ 피가 싸늘하게 식었다 니도 프랑스 새끼였지 참... [https://t.co/BaEg4XoDNm](https://t.co/BaEg4XoDNm){:target="_blank"}
 <br>User Name: lhygo3
 <br>DateTime: 18-09-01 14:49:36
 
@@ -1309,7 +1309,7 @@ Git과 Markdown 기반의 정적 번역 사이트를 만들며 시행착오를 �
 <br>User Name: t7s_Korean
 <br>DateTime: 18-08-30 15:21:54
 
-<골드만삭스를 신고 차이나를 걷는 여자> 이은영 지음. 
+&lt;골드만삭스를 신고 차이나를 걷는 여자&gt; 이은영 지음. 
 처음 읽을때는 그냥 그런 자기 성공이야기겠지. 
 중간쯤 읽고. 솔직하고 재미있네. 잘난척 좀 있지만 괜찮아.
 마무리. 헐 이런 반전이. 정말 대단하네… [https://t.co/XMpNmRvTEk](https://t.co/XMpNmRvTEk){:target="_blank"}
@@ -1335,7 +1335,7 @@ Git과 Markdown 기반의 정적 번역 사이트를 만들며 시행착오를 �
 <br>DateTime: 18-08-28 03:05:13
 
 매콤한 짜파게티 최고된다 🤭💕
-팬에 기름두르고 고춧가루, 마늘 넣고 볶으면서 기름내주기>>가루스프넣고 정말살짝볶아주기>> 물 한컵반에서 두컵>> 끓으면 면 졸이듯 삶아주기 🙆‍♀️💕
+팬에 기름두르고 고춧가루, 마늘 넣고 볶으면서 기름내주기&gt;&gt;가루스프넣고 정말살짝볶아주기&gt;&gt; 물 한컵반에서 두컵&gt;&gt; 끓으면 면 졸이듯 삶아주기 🙆‍♀️💕
 국물 자작하고 진한 짜파… [https://t.co/lXW6MOuVwT](https://t.co/lXW6MOuVwT){:target="_blank"}
 <br>User Name: americanozzang
 <br>DateTime: 18-08-24 11:30:28
@@ -1347,7 +1347,7 @@ Git과 Markdown 기반의 정적 번역 사이트를 만들며 시행착오를 �
 Q: 사람들이 당신과 당신의 어느 캐릭터를 혼동할 때 어떠신가요? 신경쓰이나요?
 
 A: 신경쓰인다고 느낀 적 없어요. 왜냐하면 전 연기하기 위해 살지 않거든요. 전 인간이 되고자 살아요.
-_키키 키린, <W… [https://t.co/Aq5Kim7NlW](https://t.co/Aq5Kim7NlW){:target="_blank"}
+_키키 키린, &lt;W… [https://t.co/Aq5Kim7NlW](https://t.co/Aq5Kim7NlW){:target="_blank"}
 <br>User Name: shakshakup
 <br>DateTime: 18-08-23 03:46:22
 
@@ -1359,7 +1359,7 @@ _키키 키린, <W… [https://t.co/Aq5Kim7NlW](https://t.co/Aq5Kim7NlW){:target
 <br>User Name: _dgng
 <br>DateTime: 18-08-21 11:17:43
 
-언제나 전설로 끝없이 회자될 1998년 그레미 시상식의 <Nessun Dorma>
+언제나 전설로 끝없이 회자될 1998년 그레미 시상식의 &lt;Nessun Dorma&gt;
 
 루치아노 파바로티가 오지 못하게 되자 15분 맞춰보고 파바로티의 세팅 그대로 무대에 서서 단숨에 세계를 씹어드셨다는 아레사… [https://t.co/WdurWKT4Yd](https://t.co/WdurWKT4Yd){:target="_blank"}
 <br>User Name: woochick
@@ -1373,7 +1373,7 @@ _키키 키린, <W… [https://t.co/Aq5Kim7NlW](https://t.co/Aq5Kim7NlW){:target
 <br>User Name: youga_fukuoka
 <br>DateTime: 18-08-16 09:29:05
 
-뛰고 음료 투고하러 별다방에 왔는데 잡지에 은희경의 여름 독서 목록이. 엠마뉘엘 카레르의 <러시아 소설>과 <콧수염>, 와카타케 나나미의 <나의 미스터리한 일상>과 <어두운 범람>, 장미란의 <파리의 여자들>.
+뛰고 음료 투고하러 별다방에 왔는데 잡지에 은희경의 여름 독서 목록이. 엠마뉘엘 카레르의 &lt;러시아 소설&gt;과 &lt;콧수염&gt;, 와카타케 나나미의 &lt;나의 미스터리한 일상&gt;과 &lt;어두운 범람&gt;, 장미란의 &lt;파리의 여자들&gt;.
 <br>User Name: highandhigher_
 <br>DateTime: 18-08-14 23:18:51
 
@@ -1390,7 +1390,7 @@ _키키 키린, <W… [https://t.co/Aq5Kim7NlW](https://t.co/Aq5Kim7NlW){:target
 <br>User Name: ilyoil
 <br>DateTime: 18-08-13 19:50:29
 
-<더 발라드 오브 버스터 스크럭스>(감독 코언 형제), <로마>(감독 알폰소 쿠아론), <7월 22일>(감독 폴 그린그래스) 등 대형 감독들의 넷플릭스 작품이 선보인다. [씨네21] 제75회 베니스국제영화제… [https://t.co/bdoqpP6XpL](https://t.co/bdoqpP6XpL){:target="_blank"}
+&lt;더 발라드 오브 버스터 스크럭스&gt;(감독 코언 형제), &lt;로마&gt;(감독 알폰소 쿠아론), &lt;7월 22일&gt;(감독 폴 그린그래스) 등 대형 감독들의 넷플릭스 작품이 선보인다. [씨네21] 제75회 베니스국제영화제… [https://t.co/bdoqpP6XpL](https://t.co/bdoqpP6XpL){:target="_blank"}
 <br>User Name: cine21_editor
 <br>DateTime: 18-08-13 09:37:03
 
@@ -1410,7 +1410,7 @@ TV, 라디오에 출연한 적 없는 작가 무라카미 하루키가 라디오
 <br>User Name: quick_oatmeal
 <br>DateTime: 18-08-09 06:45:49
 
-올해 DMZ국제다큐영화제에서는 홀로코스트 생존자인 97세 할머니가 데스메탈로 아메리카 갓 텔런트에 도전하는 과정을 담은 단편 영화 <데스메탈 할머니>가 아시아 최초로 상영된다. 온라인으로 공개된 적이 있어… [https://t.co/bML72DJwgY](https://t.co/bML72DJwgY){:target="_blank"}
+올해 DMZ국제다큐영화제에서는 홀로코스트 생존자인 97세 할머니가 데스메탈로 아메리카 갓 텔런트에 도전하는 과정을 담은 단편 영화 &lt;데스메탈 할머니&gt;가 아시아 최초로 상영된다. 온라인으로 공개된 적이 있어… [https://t.co/bML72DJwgY](https://t.co/bML72DJwgY){:target="_blank"}
 <br>User Name: XylitoLdrink
 <br>DateTime: 18-08-09 04:54:33
 
@@ -1595,7 +1595,7 @@ Career phases in software engineering:
 너를 만나서 행복했고
 너를 만나서 오래 고통스러웠다
 
-<도종환 - 자목련>
+&lt;도종환 - 자목련&gt;
 <br>User Name: Read_Poem
 <br>DateTime: 18-07-09 09:15:24
 
@@ -1607,7 +1607,7 @@ Career phases in software engineering:
 <br>User Name: jhnha
 <br>DateTime: 18-07-09 01:07:13
 
-<마녀체력> 한달음에 읽고 자전거 뽐뿌를 받아서 베란다에서 잠자고 있던 자전거를 이고 나가 바람넣고 15km 달리고 왔다. 운동 동기부여 되는 것도 좋은데 책의 주된 이야기가 일 이야기와 책 이야기라 더 좋… [https://t.co/miI1HHQI0u](https://t.co/miI1HHQI0u){:target="_blank"}
+&lt;마녀체력&gt; 한달음에 읽고 자전거 뽐뿌를 받아서 베란다에서 잠자고 있던 자전거를 이고 나가 바람넣고 15km 달리고 왔다. 운동 동기부여 되는 것도 좋은데 책의 주된 이야기가 일 이야기와 책 이야기라 더 좋… [https://t.co/miI1HHQI0u](https://t.co/miI1HHQI0u){:target="_blank"}
 <br>User Name: _hiraka_
 <br>DateTime: 18-07-08 11:17:58
 
@@ -1675,7 +1675,7 @@ By. Seungwan Kang &amp; Seonhee Shin [https://t.co/iOknOraFqT](https://t.co/iOkn
 <br>User Name: jerry0906
 <br>DateTime: 18-07-02 19:46:26
 
-블루보틀 혹은 테라로사 텀블러는 사실 MiiR라는 브랜드의 제품. 타 브랜드에서 파트너쉽을 맺고 파는 것이다. <직장인의 컵>시리즈의 마지막 제품은 미르의 텀블러. 보냉보온 훌륭하고, 결로도 없고, 착색도… [https://t.co/rwMKVDNF7o](https://t.co/rwMKVDNF7o){:target="_blank"}
+블루보틀 혹은 테라로사 텀블러는 사실 MiiR라는 브랜드의 제품. 타 브랜드에서 파트너쉽을 맺고 파는 것이다. &lt;직장인의 컵&gt;시리즈의 마지막 제품은 미르의 텀블러. 보냉보온 훌륭하고, 결로도 없고, 착색도… [https://t.co/rwMKVDNF7o](https://t.co/rwMKVDNF7o){:target="_blank"}
 <br>User Name: _dgng
 <br>DateTime: 18-07-02 10:34:52
 
@@ -1686,7 +1686,7 @@ Kaii Higashiyama.
 <br>User Name: rare_cabbage
 <br>DateTime: 18-07-01 07:21:17
 
-<사장을 죽이고 싶나> 원샨 소설. 상당히 재미있는 추리소설. 찬호께이가 강추할 만 함. 홍콩출신으로 금융업에 종사하는 작가가. AI 가상입체영상 벤처투자 금융엘리트의 자질 등을. 이야기를 관통하는 소재로… [https://t.co/s4Q1APZ4oM](https://t.co/s4Q1APZ4oM){:target="_blank"}
+&lt;사장을 죽이고 싶나&gt; 원샨 소설. 상당히 재미있는 추리소설. 찬호께이가 강추할 만 함. 홍콩출신으로 금융업에 종사하는 작가가. AI 가상입체영상 벤처투자 금융엘리트의 자질 등을. 이야기를 관통하는 소재로… [https://t.co/s4Q1APZ4oM](https://t.co/s4Q1APZ4oM){:target="_blank"}
 <br>User Name: seanlee38
 <br>DateTime: 18-07-01 02:16:59
 
@@ -1712,7 +1712,7 @@ Margaret Howell 매장이 생겨서 너무 좋다. (무역현대) [https://t.co/
 <br>User Name: yiyoyong
 <br>DateTime: 18-06-28 22:59:40
 
-스보헴 구성원 중 한 명이 지난주 제주도 여행길에 <모스키토 솔루션>을 가져갔는데 말이죠. 무려 습지에서 모기 컬렉터인 그녀가 모기 0방의 소식을 전해주었습니다. (으쓱) 아름다운 절물휴양림과 성산일출봉을… [https://t.co/JE0BYy2m01](https://t.co/JE0BYy2m01){:target="_blank"}
+스보헴 구성원 중 한 명이 지난주 제주도 여행길에 &lt;모스키토 솔루션&gt;을 가져갔는데 말이죠. 무려 습지에서 모기 컬렉터인 그녀가 모기 0방의 소식을 전해주었습니다. (으쓱) 아름다운 절물휴양림과 성산일출봉을… [https://t.co/JE0BYy2m01](https://t.co/JE0BYy2m01){:target="_blank"}
 <br>User Name: sbohem_kr
 <br>DateTime: 18-06-28 07:33:57
 
@@ -1736,11 +1736,11 @@ Margaret Howell 매장이 생겨서 너무 좋다. (무역현대) [https://t.co/
 <br>User Name: windsisle
 <br>DateTime: 18-06-26 06:23:35
 
-1. 보온병으로 유명한 써모스는 사실 100년도 더 된 브랜드. 1904년 독일에서 유리제 보온병을 최초로 만들며 시작했지만, 일본에서 인수해 이제는 일본 브랜드가 되었다. <직장인의 컵> 네번째는 이 써모… [https://t.co/0shwiamJjs](https://t.co/0shwiamJjs){:target="_blank"}
+1. 보온병으로 유명한 써모스는 사실 100년도 더 된 브랜드. 1904년 독일에서 유리제 보온병을 최초로 만들며 시작했지만, 일본에서 인수해 이제는 일본 브랜드가 되었다. &lt;직장인의 컵&gt; 네번째는 이 써모… [https://t.co/0shwiamJjs](https://t.co/0shwiamJjs){:target="_blank"}
 <br>User Name: _dgng
 <br>DateTime: 18-06-25 10:33:38
 
-<친절한 요양보호 대백과>, 아사히신문출판 [https://t.co/2YqzlO3921](https://t.co/2YqzlO3921){:target="_blank"}
+&lt;친절한 요양보호 대백과&gt;, 아사히신문출판 [https://t.co/2YqzlO3921](https://t.co/2YqzlO3921){:target="_blank"}
 <br>User Name: SparklingMelona
 <br>DateTime: 18-06-25 09:28:24
 
@@ -1749,7 +1749,7 @@ Margaret Howell 매장이 생겨서 너무 좋다. (무역현대) [https://t.co/
 <br>User Name: HyoblyLee
 <br>DateTime: 18-06-25 02:58:54
 
-<밤이 선생이다>도 산문집으로는 차원이 다른 만듦새였는데, 이번 신간은 더 예쁘다. <사소한 부탁>의 표지도 팀 아이텔의 그림. 제목은 한글과컴퓨터의 맞춤법 검사 오류를 고쳐달라는 내용의 칼럼에서 따왔지만… [https://t.co/ptCwv5sEkh](https://t.co/ptCwv5sEkh){:target="_blank"}
+&lt;밤이 선생이다&gt;도 산문집으로는 차원이 다른 만듦새였는데, 이번 신간은 더 예쁘다. &lt;사소한 부탁&gt;의 표지도 팀 아이텔의 그림. 제목은 한글과컴퓨터의 맞춤법 검사 오류를 고쳐달라는 내용의 칼럼에서 따왔지만… [https://t.co/ptCwv5sEkh](https://t.co/ptCwv5sEkh){:target="_blank"}
 <br>User Name: Poison_Tree
 <br>DateTime: 18-06-25 02:43:34
 
@@ -1771,7 +1771,7 @@ Margaret Howell 매장이 생겨서 너무 좋다. (무역현대) [https://t.co/
 <br>User Name: foodnjoy
 <br>DateTime: 18-06-21 09:04:18
 
-글쓰기에 관심 있다면 꼭 읽어봐야할 책 <쓰기의 말들>. 이렇게 써보세요 저렇게 써보세요 하지 않지만 읽는 것만으로 이런 표현과 문장을 써보고 싶다는 생각이 드는 책. 좋은 문장을 보면 담게 된다는 작가의… [https://t.co/8lAOVom1JA](https://t.co/8lAOVom1JA){:target="_blank"}
+글쓰기에 관심 있다면 꼭 읽어봐야할 책 &lt;쓰기의 말들&gt;. 이렇게 써보세요 저렇게 써보세요 하지 않지만 읽는 것만으로 이런 표현과 문장을 써보고 싶다는 생각이 드는 책. 좋은 문장을 보면 담게 된다는 작가의… [https://t.co/8lAOVom1JA](https://t.co/8lAOVom1JA){:target="_blank"}
 <br>User Name: insidestory_kr
 <br>DateTime: 18-06-21 08:44:44
 
@@ -1819,7 +1819,7 @@ Margaret Howell 매장이 생겨서 너무 좋다. (무역현대) [https://t.co/
 <br>User Name: enhance
 <br>DateTime: 18-06-17 05:28:07
 
-<하트시그널2>에 흘러나와 화제가 된 BTS 미공개 곡 '네시'. 미공개곡이라 음원사이트가 아닌 BTS 사운드 클라우드 채널에서 들을 수 있는데 데뷔 때(5년 전)부터 무려 6일 전까지 자신들의 음악을 꾸준… [https://t.co/D2zYIkUbIT](https://t.co/D2zYIkUbIT){:target="_blank"}
+&lt;하트시그널2&gt;에 흘러나와 화제가 된 BTS 미공개 곡 '네시'. 미공개곡이라 음원사이트가 아닌 BTS 사운드 클라우드 채널에서 들을 수 있는데 데뷔 때(5년 전)부터 무려 6일 전까지 자신들의 음악을 꾸준… [https://t.co/D2zYIkUbIT](https://t.co/D2zYIkUbIT){:target="_blank"}
 <br>User Name: insidestory_kr
 <br>DateTime: 18-06-17 00:55:15
 
@@ -1885,7 +1885,7 @@ How to Design Programs [https://t.co/TX9D0hcUCi](https://t.co/TX9D0hcUCi){:targe
 <br>User Name: mobileautotroph
 <br>DateTime: 18-06-07 11:34:44
 
-<집중력 키우는 비약물적 방법>
+&lt;집중력 키우는 비약물적 방법&gt;
 -바른 자세
 -호흡을 깊게해서 (후 후 하고 의식적으로 내쉬는 연습) 뇌의 산소포화도 높이기
 -집중할때 눈과 어깨에 긴장 풀고
@@ -1906,7 +1906,7 @@ Just released version 2.1 of Altair! Biggest new feature is easy specification o
 <br>User Name: gkdisakdhkd
 <br>DateTime: 18-06-03 02:20:47
 
-그리고 이 책 나왔어요- <Principles> 번역판 제목은 <원칙>이네요. 제 타임라인에도 기다리셨던 분들 많으셨을텐데 어서 보세요! 근데 두께가 상당해서 저는 이북으로 살까 싶어요. [https://t.co/gS5fJkEDia](https://t.co/gS5fJkEDia){:target="_blank"}
+그리고 이 책 나왔어요- &lt;Principles&gt; 번역판 제목은 &lt;원칙&gt;이네요. 제 타임라인에도 기다리셨던 분들 많으셨을텐데 어서 보세요! 근데 두께가 상당해서 저는 이북으로 살까 싶어요. [https://t.co/gS5fJkEDia](https://t.co/gS5fJkEDia){:target="_blank"}
 <br>User Name: highandhigher_
 <br>DateTime: 18-06-02 05:52:32
 
@@ -1984,7 +1984,7 @@ Just released version 2.1 of Altair! Biggest new feature is easy specification o
 <br>User Name: UandMeSong
 <br>DateTime: 18-05-20 23:58:54
 
-승모근 늘 뭉치고 어깨와 등짝이 늘 아프신 자매님들. 의자에 앉아 일하실 때 아프신 곳에다 라크로스볼 두고 체중으로 누르며 일하면 얼마나 시원하게요? 폼롤러<<<<<마이링<<<<<<<<<<<라크로스볼임다.… [https://t.co/n973CUNOdX](https://t.co/n973CUNOdX){:target="_blank"}
+승모근 늘 뭉치고 어깨와 등짝이 늘 아프신 자매님들. 의자에 앉아 일하실 때 아프신 곳에다 라크로스볼 두고 체중으로 누르며 일하면 얼마나 시원하게요? 폼롤러&lt;&lt;&lt;&lt;&lt;마이링&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;라크로스볼임다.… [https://t.co/n973CUNOdX](https://t.co/n973CUNOdX){:target="_blank"}
 <br>User Name: days4tripper
 <br>DateTime: 18-05-20 14:16:05
 
@@ -2091,7 +2091,7 @@ The Lady of Shalott은 라파엘 전파의 존 워터하우스가 여러 버젼�
 <br>User Name: alankang
 <br>DateTime: 18-05-15 01:13:36
 
-프랑스의 컴퓨터 그래픽 전문학교 졸업생 다섯 명이 힘을 합쳐 만든 <The Legend of the Crabe Phare>는 자연 친화적인 스토리와 정교한 그래픽으로 각종 영화제에서 수상을 휩쓸었다. 애니메… [https://t.co/VwFwB581GK](https://t.co/VwFwB581GK){:target="_blank"}
+프랑스의 컴퓨터 그래픽 전문학교 졸업생 다섯 명이 힘을 합쳐 만든 &lt;The Legend of the Crabe Phare&gt;는 자연 친화적인 스토리와 정교한 그래픽으로 각종 영화제에서 수상을 휩쓸었다. 애니메… [https://t.co/VwFwB581GK](https://t.co/VwFwB581GK){:target="_blank"}
 <br>User Name: indiepostmedia
 <br>DateTime: 18-05-15 01:12:15
 
@@ -2221,7 +2221,7 @@ New Status Symb… [https://t.co/ae7kFbzohC](https://t.co/ae7kFbzohC){:target="_
 <br>User Name: Beer_Superman
 <br>DateTime: 18-05-02 13:47:23
 
-<라이프>지의 표지사진만 100회 이상 장식한, 라트비아 출신의 미국 사진작가 Philippe Halsman(1906-1979), 그의 앞에선 어떤 유명인사들도 모두 뛰어야 했다. 그리고 뛸 만했다. 그가… [https://t.co/gbwFUIRhNe](https://t.co/gbwFUIRhNe){:target="_blank"}
+&lt;라이프&gt;지의 표지사진만 100회 이상 장식한, 라트비아 출신의 미국 사진작가 Philippe Halsman(1906-1979), 그의 앞에선 어떤 유명인사들도 모두 뛰어야 했다. 그리고 뛸 만했다. 그가… [https://t.co/gbwFUIRhNe](https://t.co/gbwFUIRhNe){:target="_blank"}
 <br>User Name: Kvin_1
 <br>DateTime: 18-05-02 13:11:55
 
@@ -2258,7 +2258,7 @@ Make sure your best employees have new challenges to tackle — or they may leav
 <br>User Name: pageraum
 <br>DateTime: 18-04-29 05:06:34
 
-<백만장자를 위한 공짜 음식> 이민진 소설. 절판이지만 너무 보고싶어서 중고 구입 읽는 중. 너무 좋다. 미국생활하는 한국인들의 가장 사실적인 이야기가 있다. 보수적인 부모세대와의 갈등, 성공에 대한 야망,… [https://t.co/Jg3kk4dpjE](https://t.co/Jg3kk4dpjE){:target="_blank"}
+&lt;백만장자를 위한 공짜 음식&gt; 이민진 소설. 절판이지만 너무 보고싶어서 중고 구입 읽는 중. 너무 좋다. 미국생활하는 한국인들의 가장 사실적인 이야기가 있다. 보수적인 부모세대와의 갈등, 성공에 대한 야망,… [https://t.co/Jg3kk4dpjE](https://t.co/Jg3kk4dpjE){:target="_blank"}
 <br>User Name: seanlee38
 <br>DateTime: 18-04-29 00:20:12
 
@@ -2327,7 +2327,7 @@ Year 3: This problem requires careful thought a… [https://t.co/UAnsFE5gTJ](htt
 
 독서모임 다음 책이 정해졌다
 
-데이비드 포스터 월리스 <재밌다고들 하지만 나는 두 번 다시 하지 않을 일>
+데이비드 포스터 월리스 &lt;재밌다고들 하지만 나는 두 번 다시 하지 않을 일&gt;
 
 추천을 내가 했는데 뽑혀서 너무 기쁨... 이 영광을 우리 ‘믿고보는 명남님’에게 돌려봅니다… [https://t.co/ZdY6YnurPm](https://t.co/ZdY6YnurPm){:target="_blank"}
 <br>User Name: snailzzang
@@ -2337,7 +2337,7 @@ Year 3: This problem requires careful thought a… [https://t.co/UAnsFE5gTJ](htt
 <br>User Name: ysy939
 <br>DateTime: 18-04-20 10:08:19
 
-<나는 당신이 살았으면 좋겠습니다> 안경희 지음. 너무 좋은책. 용기내서 글을 썼을 저자에게 박수보내고 싶다. 우리가 막연히 알고 있는 조울병. 정신과 레지던트를 그만두고 환자로서 치료를 받는 저자가 조울병… [https://t.co/QRYI9GVGF6](https://t.co/QRYI9GVGF6){:target="_blank"}
+&lt;나는 당신이 살았으면 좋겠습니다&gt; 안경희 지음. 너무 좋은책. 용기내서 글을 썼을 저자에게 박수보내고 싶다. 우리가 막연히 알고 있는 조울병. 정신과 레지던트를 그만두고 환자로서 치료를 받는 저자가 조울병… [https://t.co/QRYI9GVGF6](https://t.co/QRYI9GVGF6){:target="_blank"}
 <br>User Name: seanlee38
 <br>DateTime: 18-04-20 09:35:03
 
@@ -2350,7 +2350,7 @@ Year 3: This problem requires careful thought a… [https://t.co/UAnsFE5gTJ](htt
 <br>User Name: lupara_xox
 <br>DateTime: 18-04-19 23:15:27
 
-레이첼 카슨 <침묵의 봄> 읽고 있다.
+레이첼 카슨 &lt;침묵의 봄&gt; 읽고 있다.
 
 이번주 독서모임 책. 환경 문제를 전세계에 일깨워준 너무나 유명한 고전. [https://t.co/0qsdko1q3V](https://t.co/0qsdko1q3V){:target="_blank"}
 <br>User Name: snailzzang
@@ -2363,7 +2363,7 @@ Year 3: This problem requires careful thought a… [https://t.co/UAnsFE5gTJ](htt
 <br>User Name: miragelike
 <br>DateTime: 18-04-19 09:13:27
 
-nhk 스페셜 제작팀의 <노후파산>. 2014년의 르포르타쥬인데 공포 그 자체. 연금, 자택, 가족, 예금, 노후를 받쳐줄 것이라 믿어온 기둥들이 빠지면서 맞이하게 된 '장수의 악몽' 노후파산. 1인가구가… [https://t.co/8UjyTL0Efp](https://t.co/8UjyTL0Efp){:target="_blank"}
+nhk 스페셜 제작팀의 &lt;노후파산&gt;. 2014년의 르포르타쥬인데 공포 그 자체. 연금, 자택, 가족, 예금, 노후를 받쳐줄 것이라 믿어온 기둥들이 빠지면서 맞이하게 된 '장수의 악몽' 노후파산. 1인가구가… [https://t.co/8UjyTL0Efp](https://t.co/8UjyTL0Efp){:target="_blank"}
 <br>User Name: leafyeon
 <br>DateTime: 18-04-19 09:11:37
 
@@ -2371,7 +2371,7 @@ nhk 스페셜 제작팀의 <노후파산>. 2014년의 르포르타쥬인데 공�
 <br>User Name: iamnot_mj
 <br>DateTime: 18-04-19 07:27:47
 
-2017년 도쿄대 학생들이 가장 많이 읽은 책이라는 <공부의 철학> "누구나 공부를 시작할 때 어려움을 느끼고,언어가 낯설어지는 순간이 찾아온다. 공부란 언어와 새로이 만나는 일이며,그 언어의 '아프면서도… [https://t.co/lX8Yx7PN0b](https://t.co/lX8Yx7PN0b){:target="_blank"}
+2017년 도쿄대 학생들이 가장 많이 읽은 책이라는 &lt;공부의 철학&gt; "누구나 공부를 시작할 때 어려움을 느끼고,언어가 낯설어지는 순간이 찾아온다. 공부란 언어와 새로이 만나는 일이며,그 언어의 '아프면서도… [https://t.co/lX8Yx7PN0b](https://t.co/lX8Yx7PN0b){:target="_blank"}
 <br>User Name: jangsuk1
 <br>DateTime: 18-04-19 04:23:54
 
@@ -2483,7 +2483,7 @@ Italy
 
 “다시 한번 시인 이상의 말을 빌려 부언하자면, 책상이 없는 사람은 재산이 없는 사람처럼 가난하고 허전한 사람이다.”
 
-/ <아무튼, 서재> 중에서
+/ &lt;아무튼, 서재&gt; 중에서
 <br>User Name: insidestory_kr
 <br>DateTime: 18-04-08 05:40:54
 
@@ -2525,7 +2525,7 @@ by John Register(1939-1996)
 <br>User Name: B_RussellBot
 <br>DateTime: 18-04-05 03:58:10
 
-시인들이 뽑은 '2018 오늘의 시'에 신철규 시인의 <심장보다 높이>가 선정됐다.  100명의 시인, 문학평론가, 출판편집인들을 설문한 결과 신철규 시인이 작년 문학동네 겨울호에 발표한 이 시가 가장 많은… [https://t.co/LOOx7Cl400](https://t.co/LOOx7Cl400){:target="_blank"}
+시인들이 뽑은 '2018 오늘의 시'에 신철규 시인의 &lt;심장보다 높이&gt;가 선정됐다.  100명의 시인, 문학평론가, 출판편집인들을 설문한 결과 신철규 시인이 작년 문학동네 겨울호에 발표한 이 시가 가장 많은… [https://t.co/LOOx7Cl400](https://t.co/LOOx7Cl400){:target="_blank"}
 <br>User Name: blackinana
 <br>DateTime: 18-04-05 01:54:43
 
@@ -2554,7 +2554,7 @@ PDF 논문도 잘읽어주네요. (화면 캡쳐 기능 사용) 시각과 청각
 <br>User Name: sungchi
 <br>DateTime: 18-04-04 02:35:30
 
-대학생들이 만든 비영리 무료 폰트 모음 사이트 <프로젝트 눈누> 상업적 이용 가능한 고딕, 명조, 손글씨 등 한글 폰트를 찾아주고 추천해 준다. [https://t.co/XLldb64G90](https://t.co/XLldb64G90){:target="_blank"} [https://t.co/1ETAmbp372](https://t.co/1ETAmbp372){:target="_blank"}
+대학생들이 만든 비영리 무료 폰트 모음 사이트 &lt;프로젝트 눈누&gt; 상업적 이용 가능한 고딕, 명조, 손글씨 등 한글 폰트를 찾아주고 추천해 준다. [https://t.co/XLldb64G90](https://t.co/XLldb64G90){:target="_blank"} [https://t.co/1ETAmbp372](https://t.co/1ETAmbp372){:target="_blank"}
 <br>User Name: jangsuk1
 <br>DateTime: 18-04-04 00:51:11
 
@@ -2583,7 +2583,7 @@ PDF 논문도 잘읽어주네요. (화면 캡쳐 기능 사용) 시각과 청각
 <br>User Name: doortts
 <br>DateTime: 18-04-02 04:46:13
 
-위즈덤 하우스가 펴낸 영주 닐슨의 <그들이 알려주지 않는 투자의 법칙>을 읽었다. 금융시장에서 일하고 있지만 솔직히 뭐가 뭔지 잘 모르는 사람과 금융시장 밖에 있지만 금융시장을 이해하고 싶은 사람이라면 읽으… [https://t.co/EQmMpn8ySD](https://t.co/EQmMpn8ySD){:target="_blank"}
+위즈덤 하우스가 펴낸 영주 닐슨의 &lt;그들이 알려주지 않는 투자의 법칙&gt;을 읽었다. 금융시장에서 일하고 있지만 솔직히 뭐가 뭔지 잘 모르는 사람과 금융시장 밖에 있지만 금융시장을 이해하고 싶은 사람이라면 읽으… [https://t.co/EQmMpn8ySD](https://t.co/EQmMpn8ySD){:target="_blank"}
 <br>User Name: hubris2020
 <br>DateTime: 18-04-01 13:56:12
 
@@ -2614,7 +2614,7 @@ sbs에서 일요특선 다큐멘터리에서 내전 갈등중인 남수단에 �
 <br>User Name: thenitsok
 <br>DateTime: 18-03-30 06:47:42
 
-아침부터 부암동에서 김환기 <색채의 미학> 전시를 보았는데, 세상에 얼마나 좋았는지...정말 너무너무 감동했다. 공간은 또 어떻게 이렇게 좋아. [https://t.co/Tp6LMkdMRq](https://t.co/Tp6LMkdMRq){:target="_blank"}
+아침부터 부암동에서 김환기 &lt;색채의 미학&gt; 전시를 보았는데, 세상에 얼마나 좋았는지...정말 너무너무 감동했다. 공간은 또 어떻게 이렇게 좋아. [https://t.co/Tp6LMkdMRq](https://t.co/Tp6LMkdMRq){:target="_blank"}
 <br>User Name: nyfor_none
 <br>DateTime: 18-03-30 06:27:30
 
@@ -2673,13 +2673,13 @@ I had a lot of fun at @bigbangtheory. Luckily, I packed an extra tie. [https://t
 <br>User Name: B_RussellBot
 <br>DateTime: 18-03-23 23:58:16
 
-오늘 코스트코에서 득템>_<
+오늘 코스트코에서 득템&gt;_&lt;
 예쁜 국당 컬러 틴가방♡♡♡
 술 안마신 지 백만년 됐는데 언제 다 마시냐ㅋㅋ [https://t.co/yfZd49mfru](https://t.co/yfZd49mfru){:target="_blank"}
 <br>User Name: woo___oh
 <br>DateTime: 18-03-22 13:17:28
 
-CJ one앱에서 늘 전시회 1+1 이벤트를 하는 걸 알고 계시나요? 지금은 광주에서 열리는 <왕이 사랑한 보물전> 이벤트네요. 저는 이 앱으로 국립박물관에서 열린 <동아시아의 호랑이미술>을 1+1으로 다녀… [https://t.co/NniQJXfUxK](https://t.co/NniQJXfUxK){:target="_blank"}
+CJ one앱에서 늘 전시회 1+1 이벤트를 하는 걸 알고 계시나요? 지금은 광주에서 열리는 &lt;왕이 사랑한 보물전&gt; 이벤트네요. 저는 이 앱으로 국립박물관에서 열린 &lt;동아시아의 호랑이미술&gt;을 1+1으로 다녀… [https://t.co/NniQJXfUxK](https://t.co/NniQJXfUxK){:target="_blank"}
 <br>User Name: saesong_
 <br>DateTime: 18-03-21 05:23:16
 
@@ -2739,7 +2739,7 @@ CJ one앱에서 늘 전시회 1+1 이벤트를 하는 걸 알고 계시나요? �
 <br>User Name: Kwangbae
 <br>DateTime: 18-03-15 04:21:23
 
-스티븐 호킹 박사가 아인슈타인 생일에 돌아가셨네. 생전 호킹 복사가 발견되었으면 정말 좋았겠지만... 내기를 즐겼던 호킹이었으니 죽음도 한 경험으로 받아들였을 것 같다. 아마 <그림으로 보는 시간의 역사>가… [https://t.co/QU1CPcFRkn](https://t.co/QU1CPcFRkn){:target="_blank"}
+스티븐 호킹 박사가 아인슈타인 생일에 돌아가셨네. 생전 호킹 복사가 발견되었으면 정말 좋았겠지만... 내기를 즐겼던 호킹이었으니 죽음도 한 경험으로 받아들였을 것 같다. 아마 &lt;그림으로 보는 시간의 역사&gt;가… [https://t.co/QU1CPcFRkn](https://t.co/QU1CPcFRkn){:target="_blank"}
 <br>User Name: starlakim
 <br>DateTime: 18-03-15 03:20:09
 
@@ -2748,7 +2748,7 @@ Celebrate Life! by Elaquent [https://t.co/jw4WLAIYLQ](https://t.co/jw4WLAIYLQ){:
 <br>User Name: Kwangbae
 <br>DateTime: 18-03-14 09:45:18
 
-넷플릭스 추천 < Dix pour cent > 영문 제목은 < Call my agent > 국문 제목은 < 연예인 매니저로 살아남기 > [https://t.co/yf8SsEZj1j](https://t.co/yf8SsEZj1j){:target="_blank"} 오랜만에 불어를 들으니 잊고있던 불어에 대한 뽐뿌가 오네.
+넷플릭스 추천 &lt; Dix pour cent &gt; 영문 제목은 &lt; Call my agent &gt; 국문 제목은 &lt; 연예인 매니저로 살아남기 &gt; [https://t.co/yf8SsEZj1j](https://t.co/yf8SsEZj1j){:target="_blank"} 오랜만에 불어를 들으니 잊고있던 불어에 대한 뽐뿌가 오네.
 <br>User Name: em_minymoe
 <br>DateTime: 18-03-14 00:18:39
 
@@ -2756,7 +2756,7 @@ Celebrate Life! by Elaquent [https://t.co/jw4WLAIYLQ](https://t.co/jw4WLAIYLQ){:
 <br>User Name: Noritake_org
 <br>DateTime: 18-03-12 12:05:11
 
-신촌 <반칙>
+신촌 &lt;반칙&gt;
 
 위스키 바. (칵테일은 안하는 듯?) 가격이! 가격이 무진장 싸다! 위스키를 저렴하게 여러종류 마셔보고 싶다고 생각하시는 분들은 이곳을 추천드린다. 좌석이 매우 적음. 신촌에서 낮술을 하고… [https://t.co/AFP6Sem6H4](https://t.co/AFP6Sem6H4){:target="_blank"}
 <br>User Name: geometryofsleep
@@ -2775,7 +2775,7 @@ Celebrate Life! by Elaquent [https://t.co/jw4WLAIYLQ](https://t.co/jw4WLAIYLQ){:
 <br>User Name: Kor_Visitkorea
 <br>DateTime: 18-03-12 03:52:58
 
-한가람미술관에서 <마리 로랑생> 전시를 봤다
+한가람미술관에서 &lt;마리 로랑생&gt; 전시를 봤다
 
 벨 에포크 시대의 프랑스 화가인데 이번에 처음 알았네. 입체파와 야수파가 왕성하게 활동하던 시대에 그 어디에도 속하지 않고 독자적 스타일을 구축한, 아름다운 색… [https://t.co/XXAUTYXzEY](https://t.co/XXAUTYXzEY){:target="_blank"}
 <br>User Name: snailzzang
@@ -2789,7 +2789,7 @@ Celebrate Life! by Elaquent [https://t.co/jw4WLAIYLQ](https://t.co/jw4WLAIYLQ){:
 <br>User Name: de_lecture
 <br>DateTime: 18-03-09 21:22:29
 
-넷플 재밌는 리얼리티 많이 들어오네ㅋㅋㅋㅋ <파티셰를 잡아라> 예고편 뜬 거 봤는데 재미있을 것 같다 ㅋㅋㅋㅋ 무엇을 상상하든 그 이하를 보여주마<가 소개글이야 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ [https://t.co/rbWX7YPd7b](https://t.co/rbWX7YPd7b){:target="_blank"}
+넷플 재밌는 리얼리티 많이 들어오네ㅋㅋㅋㅋ &lt;파티셰를 잡아라&gt; 예고편 뜬 거 봤는데 재미있을 것 같다 ㅋㅋㅋㅋ 무엇을 상상하든 그 이하를 보여주마&lt;가 소개글이야 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ [https://t.co/rbWX7YPd7b](https://t.co/rbWX7YPd7b){:target="_blank"}
 <br>User Name: santi_care
 <br>DateTime: 18-03-09 13:01:37
 
@@ -2805,13 +2805,13 @@ Celebrate Life! by Elaquent [https://t.co/jw4WLAIYLQ](https://t.co/jw4WLAIYLQ){:
 <br>User Name: netflixkr_up
 <br>DateTime: 18-03-08 00:59:57
 
-은마상가 지하1층 A블록 <튀김아저씨> 떡볶이
+은마상가 지하1층 A블록 &lt;튀김아저씨&gt; 떡볶이
 
 와 여기 진짜 맛있네. 좀 놀랐음. 내가 왠만하면 떡볶이에 호들갑 떨지 않는, 떡볶이 hater인데... 여기 떡볶이국물 맛있다. 심지어 튀김도 맛있어. 눈앞… [https://t.co/hU0SEgrkWP](https://t.co/hU0SEgrkWP){:target="_blank"}
 <br>User Name: snailzzang
 <br>DateTime: 18-03-07 12:43:48
 
-게임이론에 관한 책 <n분의 1의 함정>에서 가장 흥미로웠던 문제인 검투사 게임. 이 문제가 나온 논문을 보고 싶어 검색해 봤더니 나온지 30년도 넘었는데 $35. ㄷㄷㄷ 죄수의 딜레마 이외에도 게임이론으로… [https://t.co/x6vaC8roWC](https://t.co/x6vaC8roWC){:target="_blank"}
+게임이론에 관한 책 &lt;n분의 1의 함정&gt;에서 가장 흥미로웠던 문제인 검투사 게임. 이 문제가 나온 논문을 보고 싶어 검색해 봤더니 나온지 30년도 넘었는데 $35. ㄷㄷㄷ 죄수의 딜레마 이외에도 게임이론으로… [https://t.co/x6vaC8roWC](https://t.co/x6vaC8roWC){:target="_blank"}
 <br>User Name: bluepygmi
 <br>DateTime: 18-03-06 17:28:53
 
@@ -2829,7 +2829,7 @@ Guim Tio [https://t.co/nVjVfQgL7G](https://t.co/nVjVfQgL7G){:target="_blank"}
 <br>User Name: CGdrawing
 <br>DateTime: 18-03-04 02:36:30
 
-<여행을 대신해 드립니다> 믿고보는 작가 하라다 마하 소설. 제목처럼 누군가의 사연을 안고 대신 여행을 다녀오는 이야기인데. 재미있다. 기발하다. 따뜻하다. 읽기 쉽다. 다양한 소재로 일본소설계를 풍성하게… [https://t.co/YfcL9Kpdyz](https://t.co/YfcL9Kpdyz){:target="_blank"}
+&lt;여행을 대신해 드립니다&gt; 믿고보는 작가 하라다 마하 소설. 제목처럼 누군가의 사연을 안고 대신 여행을 다녀오는 이야기인데. 재미있다. 기발하다. 따뜻하다. 읽기 쉽다. 다양한 소재로 일본소설계를 풍성하게… [https://t.co/YfcL9Kpdyz](https://t.co/YfcL9Kpdyz){:target="_blank"}
 <br>User Name: seanlee38
 <br>DateTime: 18-03-03 13:44:44
 
@@ -2981,7 +2981,7 @@ John Register (1939~1996)
 <br>User Name: TellYouMore
 <br>DateTime: 18-02-17 22:35:02
 
-넷플릭스 <리버> 너무 재밌다. 이렇게 예민하고 복잡한 심리의 추리물이라니. 자극적이고 폭력적 장면 없는 수사물. 게다가 우아하기까지. [https://t.co/gFA2XHvHwl](https://t.co/gFA2XHvHwl){:target="_blank"}
+넷플릭스 &lt;리버&gt; 너무 재밌다. 이렇게 예민하고 복잡한 심리의 추리물이라니. 자극적이고 폭력적 장면 없는 수사물. 게다가 우아하기까지. [https://t.co/gFA2XHvHwl](https://t.co/gFA2XHvHwl){:target="_blank"}
 <br>User Name: november_river
 <br>DateTime: 18-02-17 14:44:42
 
@@ -2993,7 +2993,7 @@ John Register (1939~1996)
 <br>User Name: insidestory_kr
 <br>DateTime: 18-02-16 13:26:09
 
-<플로렌스>
+&lt;플로렌스&gt;
 질투나게 뛰어난 아이디어로 똘똘 뭉쳐진 게임. 어떻게 따라서 만들수 있을까 하는 생각만 들게한다. [https://t.co/kqFMatSa4C](https://t.co/kqFMatSa4C){:target="_blank"}
 <br>User Name: chauchau0
 <br>DateTime: 18-02-16 11:27:56
@@ -3034,7 +3034,7 @@ A Chinese copy-artist travels to Amsterdam to discover the work of his idol, Vin
 <br>User Name: ilsangjingmul
 <br>DateTime: 18-02-14 05:09:33
 
-<청두 이야기> 리우 원이 샤넬 크루즈 2017/18 콜렉션을 입고 청두를 카메라에 담는 영상. 청두의 숲, 뿌연 하늘, 판다, 로컬 마켓, 필름 카메라, 샤넬... 너무 완벽하다 ㅠㅠ [https://t.co/JR92t4VF4C](https://t.co/JR92t4VF4C){:target="_blank"}
+&lt;청두 이야기&gt; 리우 원이 샤넬 크루즈 2017/18 콜렉션을 입고 청두를 카메라에 담는 영상. 청두의 숲, 뿌연 하늘, 판다, 로컬 마켓, 필름 카메라, 샤넬... 너무 완벽하다 ㅠㅠ [https://t.co/JR92t4VF4C](https://t.co/JR92t4VF4C){:target="_blank"}
 <br>User Name: belleorchid_
 <br>DateTime: 18-02-13 13:34:06
 
@@ -3112,7 +3112,7 @@ One of the most impressive and touching moment I have ever seen in my whole life
 <br>User Name: JungazzangSong
 <br>DateTime: 18-02-06 05:46:28
 
-<모뉴먼트밸리>의 개발자, 켄 윙의 후속작 <플로렌스>가 2월 14일 발렌타인데이에 출시됩니다. 게임은 대화없이 그림과 미니게임만으로 진행, 주인공 플로렌스의 삶과 사랑에 대해 그립니다. 서정적인 그래픽과… [https://t.co/gfxarWnYjW](https://t.co/gfxarWnYjW){:target="_blank"}
+&lt;모뉴먼트밸리&gt;의 개발자, 켄 윙의 후속작 &lt;플로렌스&gt;가 2월 14일 발렌타인데이에 출시됩니다. 게임은 대화없이 그림과 미니게임만으로 진행, 주인공 플로렌스의 삶과 사랑에 대해 그립니다. 서정적인 그래픽과… [https://t.co/gfxarWnYjW](https://t.co/gfxarWnYjW){:target="_blank"}
 <br>User Name: thisisgamecom
 <br>DateTime: 18-02-06 03:06:45
 
@@ -3192,7 +3192,7 @@ One of the most impressive and touching moment I have ever seen in my whole life
 <br>User Name: WTE_con
 <br>DateTime: 18-02-02 10:42:18
 
-@Yumismm 엘리 위젤의 <나이트>였습니다.
+@Yumismm 엘리 위젤의 &lt;나이트&gt;였습니다.
 <br>User Name: castellio
 <br>DateTime: 18-02-01 14:08:34
 
@@ -3218,7 +3218,7 @@ One of the most impressive and touching moment I have ever seen in my whole life
 <br>DateTime: 18-01-31 22:43:07
 
 매달 300만원씩 꾸준히 수익이 나는 가게는 절대 매물로 나오지 않아. 그런 거라면 집에서 놀고 있는 자기 자식들에게 물려주지. 창업 브로커들이 너한테 친절한 이유는 딱 하나야. 네가 호구이기 때문이지. 
-<검사내전> 중. 이 책 너무 흥미진진..
+&lt;검사내전&gt; 중. 이 책 너무 흥미진진..
 <br>User Name: seanlee38
 <br>DateTime: 18-01-31 22:23:41
 
@@ -3228,7 +3228,7 @@ One of the most impressive and touching moment I have ever seen in my whole life
 <br>User Name: snailzzang
 <br>DateTime: 18-01-31 17:50:52
 
-<재입고 안내 - 김종필 안경>
+&lt;재입고 안내 - 김종필 안경&gt;
 브랜드 리뉴얼로 인해 한동안 품절되었던 김종필안경이 재입고 되었습니다. 기존 모델들과 모양은 동일하나 소재가 고탄성의 베타 티타늄으로 변경되었으며, 숏팁으로 생산되었던 모델이… [https://t.co/IRh7Oyny5E](https://t.co/IRh7Oyny5E){:target="_blank"}
 <br>User Name: d_d_SEOUL
 <br>DateTime: 18-01-31 04:18:35
@@ -3241,7 +3241,7 @@ One of the most impressive and touching moment I have ever seen in my whole life
 <br>User Name: junmiguel_lee
 <br>DateTime: 18-01-28 14:13:29
 
-단지 내가 작가가 되고 정기적으로 책이 출간되는 동안에 한 가지 몸으로 배운 교훈이 있습니다. 그것은 ‘어떤 이야기를 어떻게 쓰든 결국 어디선가 나쁜 말을 듣는다’는 것입니다. / 무라카미 하루키 <직업으로서의 소설가>
+단지 내가 작가가 되고 정기적으로 책이 출간되는 동안에 한 가지 몸으로 배운 교훈이 있습니다. 그것은 ‘어떤 이야기를 어떻게 쓰든 결국 어디선가 나쁜 말을 듣는다’는 것입니다. / 무라카미 하루키 &lt;직업으로서의 소설가&gt;
 <br>User Name: insidestory_kr
 <br>DateTime: 18-01-28 13:36:45
 
@@ -3261,7 +3261,7 @@ We are in trouble. [https://t.co/3wrnm1IzKo](https://t.co/3wrnm1IzKo){:target="_
 <br>User Name: sacca
 <br>DateTime: 18-01-27 20:51:05
 
-봐선 안될 것을 보게 되었다. <세일즈맨 칸타로의 달콤한 비밀> 
+봐선 안될 것을 보게 되었다. &lt;세일즈맨 칸타로의 달콤한 비밀&gt; 
 
 제가 지금 마침 도쿄에 있고, 시간이 (처)남아도는데 말이죠.. [https://t.co/aVKUG3Ctub](https://t.co/aVKUG3Ctub){:target="_blank"}
 <br>User Name: snailzzang
@@ -3306,7 +3306,7 @@ Goldman Sachs primer on Blockchain
 
 광고주협회가 정의하는 좋은 언론
 '자유시장경제 인식을 제고하고, 규제 완화를 유도해 기업의 자유로운 경제 활동에 기여한 기사를 쓰는 매체'
-이종보 <삼성독재> 171쪽
+이종보 &lt;삼성독재&gt; 171쪽
 <br>User Name: enhance
 <br>DateTime: 18-01-23 02:57:16
 
@@ -3318,7 +3318,7 @@ Goldman Sachs primer on Blockchain
 <br>User Name: vforveri
 <br>DateTime: 18-01-21 04:15:36
 
-<새벽까지 희미하게> 고 정미경 마지막 소설집. 작년 이맘때 부고 접하고 슬퍼했는데 벌써 일년. 여기에 실린 ‘새벽까지 희미하게’ 와 ‘못’은 정미경만이 쓸수 있는 소설. 어느 누구도 돈 많이 벌고 성공하고… [https://t.co/Yeo1dgPnfr](https://t.co/Yeo1dgPnfr){:target="_blank"}
+&lt;새벽까지 희미하게&gt; 고 정미경 마지막 소설집. 작년 이맘때 부고 접하고 슬퍼했는데 벌써 일년. 여기에 실린 ‘새벽까지 희미하게’ 와 ‘못’은 정미경만이 쓸수 있는 소설. 어느 누구도 돈 많이 벌고 성공하고… [https://t.co/Yeo1dgPnfr](https://t.co/Yeo1dgPnfr){:target="_blank"}
 <br>User Name: seanlee38
 <br>DateTime: 18-01-20 08:13:56
 
@@ -3413,19 +3413,19 @@ RHYE in the MORNING
 <br>User Name: bidandress
 <br>DateTime: 18-01-14 04:42:07
 
-영등포구청역 <코끼리 베이글> 양평코스트코 가는 길에 있는 화덕으로 베이글 굽는 집. 여기 너무 대박 ㅠㅠㅠ 막구운 온갖 베이글 먹어볼 수 있다 ㅠ 화덕에서 막 나온 김폴폴 따끈한 시금치 베이글 한입 베어물… [https://t.co/i2Ns3KxYq1](https://t.co/i2Ns3KxYq1){:target="_blank"}
+영등포구청역 &lt;코끼리 베이글&gt; 양평코스트코 가는 길에 있는 화덕으로 베이글 굽는 집. 여기 너무 대박 ㅠㅠㅠ 막구운 온갖 베이글 먹어볼 수 있다 ㅠ 화덕에서 막 나온 김폴폴 따끈한 시금치 베이글 한입 베어물… [https://t.co/i2Ns3KxYq1](https://t.co/i2Ns3KxYq1){:target="_blank"}
 <br>User Name: viawriter
 <br>DateTime: 18-01-13 03:39:33
 
-RT) 고등과학원에서 만든 과학전문웹진 <Horizon> 사이트 들어가봤는데 잘 만들었다. 구성도 깔끔하고 내용도 흥미롭고 일러스트 등 이미지도 잘 썼다. 퍼즐도 있는데 문제 수준이 꽤 높음.… [https://t.co/3KWZiSjQJi](https://t.co/3KWZiSjQJi){:target="_blank"}
+RT) 고등과학원에서 만든 과학전문웹진 &lt;Horizon&gt; 사이트 들어가봤는데 잘 만들었다. 구성도 깔끔하고 내용도 흥미롭고 일러스트 등 이미지도 잘 썼다. 퍼즐도 있는데 문제 수준이 꽤 높음.… [https://t.co/3KWZiSjQJi](https://t.co/3KWZiSjQJi){:target="_blank"}
 <br>User Name: snailzzang
 <br>DateTime: 18-01-11 07:03:58
 
-넷플릭스 < Comedians in cars getting coffee > 알렉 볼드윈이 한 말이 기억에 오래 남는다. 나이가 들수록 꼭 하고 싶은 일을 할 수 있는 날이 얼마 없다는게 느껴진다고. 이제는 하고 싶은 일이 있으면 꼭 해야된다고.
+넷플릭스 &lt; Comedians in cars getting coffee &gt; 알렉 볼드윈이 한 말이 기억에 오래 남는다. 나이가 들수록 꼭 하고 싶은 일을 할 수 있는 날이 얼마 없다는게 느껴진다고. 이제는 하고 싶은 일이 있으면 꼭 해야된다고.
 <br>User Name: em_minymoe
 <br>DateTime: 18-01-10 18:33:52
 
-“여성 우울증에는 두 가지 큰 원인밖에 없음을 확인했다. 그것은 바로 낮은 사회적 지위와 결혼이었다.” 수전 팔루디의 [백래시] 리뷰, <반페미니즘을 받아치다>(장정일) [https://t.co/8F2TifcKAq](https://t.co/8F2TifcKAq){:target="_blank"}
+“여성 우울증에는 두 가지 큰 원인밖에 없음을 확인했다. 그것은 바로 낮은 사회적 지위와 결혼이었다.” 수전 팔루디의 [백래시] 리뷰, &lt;반페미니즘을 받아치다&gt;(장정일) [https://t.co/8F2TifcKAq](https://t.co/8F2TifcKAq){:target="_blank"}
 <br>User Name: lakinan
 <br>DateTime: 18-01-10 09:27:02
 
@@ -3457,7 +3457,7 @@ Et… [https://t.co/3OqfxRQlsZ](https://t.co/3OqfxRQlsZ){:target="_blank"}
 <br>User Name: spectatorindex
 <br>DateTime: 18-01-08 03:55:56
 
-<스코어 : 영화음악의 모든 것>. 배우들의 목소리보다 더 오래 된 영화음악의 역사. 제리 골드스미스, 존 윌리엄스, 한스 짐머 등 전설적인 영화음악가들과 그들의 작업방식을 들여다보게 해준다. 영화음악 자체… [https://t.co/OitER1TLTe](https://t.co/OitER1TLTe){:target="_blank"}
+&lt;스코어 : 영화음악의 모든 것&gt;. 배우들의 목소리보다 더 오래 된 영화음악의 역사. 제리 골드스미스, 존 윌리엄스, 한스 짐머 등 전설적인 영화음악가들과 그들의 작업방식을 들여다보게 해준다. 영화음악 자체… [https://t.co/OitER1TLTe](https://t.co/OitER1TLTe){:target="_blank"}
 <br>User Name: leafyeon
 <br>DateTime: 18-01-07 03:07:51
 
@@ -3473,13 +3473,13 @@ Et… [https://t.co/3OqfxRQlsZ](https://t.co/3OqfxRQlsZ){:target="_blank"}
 <br>User Name: shinhh
 <br>DateTime: 18-01-05 23:31:05
 
-2화를 봤다. <1500만 메리트> 
+2화를 봤다. &lt;1500만 메리트&gt; 
 
 수작이다. 보다 보면 어이없는 부조리가 느껴지는데 그걸 이렇게 잘 담아냈네. 씨니컬한 유머가 느껴진다. 참고로, 영화 겟아웃 남자주인공 나옴
 <br>User Name: snailzzang
 <br>DateTime: 18-01-05 17:42:19
 
-블랙미러 시즌1 1화를 봤다. <국가> 편
+블랙미러 시즌1 1화를 봤다. &lt;국가&gt; 편
 아 끔찍하다. 끝으로 갈수록 점점 보기 힘들었어.
 <br>User Name: snailzzang
 <br>DateTime: 18-01-05 16:11:32
@@ -3505,12 +3505,12 @@ Et… [https://t.co/3OqfxRQlsZ](https://t.co/3OqfxRQlsZ){:target="_blank"}
 <br>User Name: _hiraka_
 <br>DateTime: 18-01-05 10:03:13
 
-<상품소개 - SIWA 코인케이스>
+&lt;상품소개 - SIWA 코인케이스&gt;
 SIWA의 코인케이스는 2가지 사이즈로, 동전이나 명함 등을 보관할 수 있는 일반 코인케이스와 카드 및 소품 등을 넣을 수 있는 코인케이스 wide가 있습니다. 두 사이즈… [https://t.co/2xWJs9btVO](https://t.co/2xWJs9btVO){:target="_blank"}
 <br>User Name: d_d_SEOUL
 <br>DateTime: 18-01-05 08:10:34
 
-요조 <눈이 아닌 것으로도 읽은 기분> 요즘 넘 재밌게 읽고 있다. 이 시리즈 전부 소장각!!!! [https://t.co/oY9dzVXuL8](https://t.co/oY9dzVXuL8){:target="_blank"}
+요조 &lt;눈이 아닌 것으로도 읽은 기분&gt; 요즘 넘 재밌게 읽고 있다. 이 시리즈 전부 소장각!!!! [https://t.co/oY9dzVXuL8](https://t.co/oY9dzVXuL8){:target="_blank"}
 <br>User Name: jinukichi
 <br>DateTime: 18-01-05 06:07:22
 
@@ -3566,7 +3566,7 @@ this is too real [https://t.co/geic4V1gaJ](https://t.co/geic4V1gaJ){:target="_bl
 <br>User Name: kate20131006
 <br>DateTime: 18-01-02 03:09:25
 
-넷플릭스 <나만이 없는 거리> 12회까지 다 봤다
+넷플릭스 &lt;나만이 없는 거리&gt; 12회까지 다 봤다
 
 8회까지는 확실히 하이 텐션. 몰입감 엄청났고
 9회부터는 이거 뭔가 약간 이거..
