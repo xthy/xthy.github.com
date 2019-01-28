@@ -10,4 +10,5 @@ permalink: /blog/:year/:month/:title/
 
 # Third-party services
 # just leave empty to disable it
-google_analytics: 
+google_analytics:
+  ua: 'UA-28323170-2'
