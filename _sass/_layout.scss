@@ -2,7 +2,7 @@
  * Site header
  */
 .site-header {
-    border-bottom: 1.5px solid $grey-color;
+    border-bottom: 1px solid $grey-color;
     margin-top: -2rem;
     max-width: 48rem;
 }
@@ -38,9 +38,9 @@
 }
 
 .post-list > li {
-    margin-bottom: $spacing-unit / 4;
-    list-style-type: none;
-    margin-left: -2rem;
+    margin-bottom: $spacing-unit / 6;
+    list-style-type: circle;
+    margin-left: 1 rem;
 
     a,
     a:hover {
