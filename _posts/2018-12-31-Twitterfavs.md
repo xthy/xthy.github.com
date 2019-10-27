@@ -246,9 +246,7 @@ Most powerful cities in the world, 2018.
 <br>User Name: Marion0411
 <br>DateTime: 18-12-03 09:26:25
 
-점점 처진다고 느껴지면 도서관이나 커피숍처럼 사람들이 있는 곳을 찾아가라. 사람들과 대화할 필요까지는 없다. 그저 물리적으로 같은 공간에 있는 것만으로도 도움이 된다. 
-
-- &lt;우울할 땐 뇌과학&gt; 중
+점점 처진다고 느껴지면 도서관이나 커피숍처럼 사람들이 있는 곳을 찾아가라. 사람들과 대화할 필요까지는 없다. 그저 물리적으로 같은 공간에 있는 것만으로도 도움이 된다. &lt;우울할 땐 뇌과학&gt; 중
 <br>User Name: josee_re
 <br>DateTime: 18-12-03 04:38:30
 
@@ -2821,7 +2819,7 @@ Celebrate Life! by Elaquent [https://t.co/jw4WLAIYLQ](https://t.co/jw4WLAIYLQ){:
 <br>User Name: practical_ideal
 <br>DateTime: 18-03-06 14:22:46
 
-콘엪팅에 참가하셨던 콘텐츠 디자이너 라임님이 작업하신 ‘프리랜서를 위한 제주 지도’ 링크 공유합니다! 작업하기 좋은 카페와 주변 맛집, 숙소 정보가 있습니다 봄날의 제주에서 ‘큰일, 돈되는 일, 새로운 일’… [https://t.co/1gFPD1hTxO](https://t.co/1gFPD1hTxO){:target="_blank"}
+콘에프팅에 참가하셨던 콘텐츠 디자이너 라임님이 작업하신 ‘프리랜서를 위한 제주 지도’ 링크 공유합니다! 작업하기 좋은 카페와 주변 맛집, 숙소 정보가 있습니다 봄날의 제주에서 ‘큰일, 돈되는 일, 새로운 일’… [https://t.co/1gFPD1hTxO](https://t.co/1gFPD1hTxO){:target="_blank"}
 <br>User Name: WoolfSocialClub
 <br>DateTime: 18-03-04 05:13:12
 
@@ -3267,7 +3265,7 @@ We are in trouble. [https://t.co/3wrnm1IzKo](https://t.co/3wrnm1IzKo){:target="_
 <br>User Name: snailzzang
 <br>DateTime: 18-01-27 16:48:27
 
-17. 화장실 물때 청소시에 이용하는 애티튜드 데일리 샤워 세정제. 다른 세정제들보다 향이 자극적이지 않아서 좋고 이름 그대로 씻을 때마다 습관적으로 뿌리고 나와도 화장실 타일 물때 방지가 된다. 메소드 등… [https://t.co/ioryutFMIu](https://t.co/ioryutFMIu){:target="_blank"}
+화장실 물때 청소시에 이용하는 애티튜드 데일리 샤워 세정제. 다른 세정제들보다 향이 자극적이지 않아서 좋고 이름 그대로 씻을 때마다 습관적으로 뿌리고 나와도 화장실 타일 물때 방지가 된다. 메소드 등… [https://t.co/ioryutFMIu](https://t.co/ioryutFMIu){:target="_blank"}
 <br>User Name: IAMFURAHA
 <br>DateTime: 18-01-27 08:58:20
 
@@ -3558,7 +3556,7 @@ this is too real [https://t.co/geic4V1gaJ](https://t.co/geic4V1gaJ){:target="_bl
 <br>User Name: jangsuk1
 <br>DateTime: 18-01-03 21:33:26
 
-앜ㅋㅋㅋㅋ 밤에 불 켜놓으면 아기가 눈 나빠진다는 얘길 들었었는데, 이게 실제로 Nature 논문(!)으로 나온 결과였지만 (Quinn et al, 1999) 후속 연구에 따르면 그냥 눈 나쁜 부모들이 그렇… [https://t.co/2rCGUXj3cL](https://t.co/2rCGUXj3cL){:target="_blank"}
+ㅋㅋㅋㅋ 밤에 불 켜놓으면 아기가 눈 나빠진다는 얘길 들었었는데, 이게 실제로 Nature 논문(!)으로 나온 결과였지만 (Quinn et al, 1999) 후속 연구에 따르면 그냥 눈 나쁜 부모들이 그렇… [https://t.co/2rCGUXj3cL](https://t.co/2rCGUXj3cL){:target="_blank"}
 <br>User Name: d_ijk_stra
 <br>DateTime: 18-01-02 06:37:30
 
@@ -3593,7 +3591,7 @@ this is too real [https://t.co/geic4V1gaJ](https://t.co/geic4V1gaJ){:target="_bl
 <br>User Name: chinablue9
 <br>DateTime: 18-01-01 14:04:44
 
-34. 켄트 칫솔. 큐라덴을 한 5년 정도 썼는데 사실 너무 마음에 쏙 들어서는 아니고 칫솔 머리 부분이 그만큼 작은 걸 찾기 힘들어서였다. 근데 가끔 큐라덴으로 뭔가 양치가 완벽하지 않다는 느낌이 들 때가… [https://t.co/mX0NJEkDGV](https://t.co/mX0NJEkDGV){:target="_blank"}
+켄트 칫솔. 큐라덴을 한 5년 정도 썼는데 사실 너무 마음에 쏙 들어서는 아니고 칫솔 머리 부분이 그만큼 작은 걸 찾기 힘들어서였다. 근데 가끔 큐라덴으로 뭔가 양치가 완벽하지 않다는 느낌이 들 때가… [https://t.co/mX0NJEkDGV](https://t.co/mX0NJEkDGV){:target="_blank"}
 <br>User Name: excelsiorrrrrr
 <br>DateTime: 18-01-01 13:47:45
 
