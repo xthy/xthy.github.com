@@ -11,7 +11,7 @@
     font-family: 'Merriweather';
     text-transform: lowercase;
     font-variant: small-caps;
-    font-size: 3rem;
+    font-size: 2.5rem;
     font-weight: bold;
     
     a,
@@ -38,7 +38,6 @@
 }
 
 .post-list > li {
-    margin-bottom: $spacing-unit / 6;
     list-style-type: circle;
     margin-left: 1 rem;
 
@@ -95,12 +94,12 @@
     h4,
     h5,
     h6 {
-        margin-top: 2rem;
+        margin-top: 1.5rem;
     }
 
     h1,
     h2 {
-        font-size: 2rem;
+        font-size: 1.8rem;
     }
 
     h3 {
