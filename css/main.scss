@@ -32,7 +32,6 @@ $on-:        800px;
 //         padding-left: $spacing-unit / 2;
 //     }
 // }
-word-break: keep-all;
 
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
