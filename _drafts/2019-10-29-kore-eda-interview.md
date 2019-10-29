@@ -2,7 +2,6 @@
 layout: post
 title: "고레에다 히로카즈"
 date:   2019-10-29 11:18:43
-category: Interview
 draft: true
 ---
 
