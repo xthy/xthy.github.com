@@ -16,7 +16,7 @@ layout: default
         {% endfor %}
       {% else %}
         {% for category in categories_list reversed %}
-          <li><a href="#{{ category[0] | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }} </a></li>
+          <li><a href="#{{ category[0] | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }} ({{category[1].size}})</a></li>
         {% endfor %}
       {% endif %}
     {% assign categories_list = nil %}
