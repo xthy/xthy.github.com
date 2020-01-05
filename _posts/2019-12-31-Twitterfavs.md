@@ -1789,7 +1789,7 @@ BBC가 말한 꼰대 KKONDAE 정의는
 <br>User Name: izhmash_asakura
 <br>DateTime: 19-09-25 02:41:09 <br><br>
 
-<Sustainable Peak Performance> 세미나 내용 요약(타래) - 각종 툴과 소프트웨어의 도입에도 지식노동자들의 업무 부담은 오히려 늘어나고 있는데, 회의, 이메일의 홍수때문에 실제로 집중해서 '일'을 할 시간을 찾기 힘듬. 어떻게 한정된 자원인 시간, 집중력, 에너지를 잘 써서 높은 생산성을 오래 [https://t.co/D2VIF26i5u](https://t.co/D2VIF26i5u){:target="_blank"}
+Sustainable Peak Performance 세미나 내용 요약(타래) - 각종 툴과 소프트웨어의 도입에도 지식노동자들의 업무 부담은 오히려 늘어나고 있는데, 회의, 이메일의 홍수때문에 실제로 집중해서 '일'을 할 시간을 찾기 힘듬. 어떻게 한정된 자원인 시간, 집중력, 에너지를 잘 써서 높은 생산성을 오래 [https://t.co/D2VIF26i5u](https://t.co/D2VIF26i5u){:target="_blank"}
 <br>User Name: k20132019
 <br>DateTime: 19-09-24 01:12:32 <br><br>
 
@@ -1809,7 +1809,7 @@ BBC가 말한 꼰대 KKONDAE 정의는
 <br>User Name: armandtalk
 <br>DateTime: 19-09-21 12:27:41 <br><br>
 
-<우울한 이유>
+우울한 이유
 
 한국에 20년 산 프랑스 할배 
 “많은 한국사람이 우울한 건 너무 당연한거지. 확률적으로 가능성이 아주 낮은 “대박”을 늘 꿈꾸니 항상 바라는대로 안돼서 실망하고 우울한거야”
@@ -1825,7 +1825,7 @@ Naver Map shows how many spaces are available at each parking lot at Incheon air
 <br>User Name: 10wontips
 <br>DateTime: 19-09-19 02:28:36 <br><br>
 
-148. 영주 랜떡
+148.영주 랜떡
 
 가격은 사진 첨부
 
@@ -1841,7 +1841,7 @@ Naver Map shows how many spaces are available at each parking lot at Incheon air
 <br>User Name: piropiroriyusa
 <br>DateTime: 19-09-18 23:39:30 <br><br>
 
-넷플릭스 <믿을 수 없는 이야기> 진짜 초초초초초초대박임. 주제가 연쇄성폭행범에 관련된거라 좀 보기가 그래서 안보려다가 1화만 봐보자하고 시작했는데 세시까지 보다 출근해야해서 겨우 껐다 그리고 오늘 퇴근하자마자 나머지 다봄. 여성형사 2인이 정말 수퍼수퍼 멋잇고 스토리전개도 쩔고,
+넷플릭스 믿을 수 없는 이야기 진짜 초초초초초초대박임. 주제가 연쇄성폭행범에 관련된거라 좀 보기가 그래서 안보려다가 1화만 봐보자하고 시작했는데 세시까지 보다 출근해야해서 겨우 껐다 그리고 오늘 퇴근하자마자 나머지 다봄. 여성형사 2인이 정말 수퍼수퍼 멋잇고 스토리전개도 쩔고,
 <br>User Name: beautifully_but
 <br>DateTime: 19-09-18 14:00:55 <br><br>
 
@@ -1854,7 +1854,7 @@ Naver Map shows how many spaces are available at each parking lot at Incheon air
 <br>User Name: bistropolpo
 <br>DateTime: 19-09-18 04:49:17 <br><br>
 
-잠이 안와서 넷플릭스 신작 <믿을 수 없는 이야기>를 용기내서 보기 시작했고 새벽에 8화 정주행을 다 끝냈다. 실제로 있던 연쇄성폭력 사건을 다루는지라 가볍지 않지만 첫화를 견디는 자에게 복이 있나니. 여성을 위해 쓰여진 군더더기없는 명작을 하나 더 얻게될 것이에요. #Unbelievable [https://t.co/yw0VKQZ5dL](https://t.co/yw0VKQZ5dL){:target="_blank"}
+잠이 안와서 넷플릭스 신작 믿을 수 없는 이야기를 용기내서 보기 시작했고 새벽에 8화 정주행을 다 끝냈다. 실제로 있던 연쇄성폭력 사건을 다루는지라 가볍지 않지만 첫화를 견디는 자에게 복이 있나니. 여성을 위해 쓰여진 군더더기없는 명작을 하나 더 얻게될 것이에요. #Unbelievable [https://t.co/yw0VKQZ5dL](https://t.co/yw0VKQZ5dL){:target="_blank"}
 <br>User Name: placid_blues
 <br>DateTime: 19-09-18 02:53:37 <br><br>
 
@@ -2002,7 +2002,7 @@ My favorite CSS hack | GeekNews
 <br>User Name: dangolgongjang
 <br>DateTime: 19-09-04 07:17:25 <br><br>
 
-유투브에서 ebs의 <집>이라는 프로에 한국 사는 외국인들 집 탐방하는게 있길래 봤는데 그 중 광주에 직접 디자인해서 3년 동안 지은 멋진 집에 사는 독일 사람편이 인상깊었다. 어차피 계속 사는 집인데 다들 아파트 사라고 한다면서. 한국 사람들은 미래 투자가치를 위해 현재의 행복을 유예한다고😞 [https://t.co/NNrlPx84pE](https://t.co/NNrlPx84pE){:target="_blank"}
+유투브에서 ebs의 집이라는 프로에 한국 사는 외국인들 집 탐방하는게 있길래 봤는데 그 중 광주에 직접 디자인해서 3년 동안 지은 멋진 집에 사는 독일 사람편이 인상깊었다. 어차피 계속 사는 집인데 다들 아파트 사라고 한다면서. 한국 사람들은 미래 투자가치를 위해 현재의 행복을 유예한다고😞 [https://t.co/NNrlPx84pE](https://t.co/NNrlPx84pE){:target="_blank"}
 <br>User Name: Heyheysp
 <br>DateTime: 19-09-04 05:37:19 <br><br>
 
@@ -2072,7 +2072,7 @@ YOLOL : You Only Live Once (too) Long
 <br>DateTime: 19-08-25 04:28:18 <br><br>
 
 넷플릭스 다큐멘터리: 
-<거대한 해킹 The Great Hacking> 
+거대한 해킹 The Great Hacking 
 
 페이스북의 사용자정보 판매 -> 케임브리지 애널리티카의 유권자 정보 분석 -> 전쟁에서의 적군 심리교란전략을 유권자에게 적용 -> 트럼프 선거와 브렉시트 투표에 영향. 
 
@@ -2086,7 +2086,7 @@ YOLOL : You Only Live Once (too) Long
 <br>User Name: bluesnake33
 <br>DateTime: 19-08-24 21:19:50 <br><br>
 
-산박하네!딥티크의<레디 투 퍼퓸>-퍼퓸 브레이슬릿검은색 오벌 케이스를 열면 약 30개의 팔찌를 만들 수 있는 줄이 들어 있는데 원하는 만큼 빼서 매듭을 짓고 손목에 끼우면 그만이다. 한번 사용할 때마다 일주일에서 최대 10일까지 향이 지속된다고.베스트셀러인 도손과 오 로즈, 탐 다오의 3가지 향 [https://t.co/02901AXzdT](https://t.co/02901AXzdT){:target="_blank"}
+산박하네!딥티크의 레디 투 퍼퓸-퍼퓸 브레이슬릿검은색 오벌 케이스를 열면 약 30개의 팔찌를 만들 수 있는 줄이 들어 있는데 원하는 만큼 빼서 매듭을 짓고 손목에 끼우면 그만이다. 한번 사용할 때마다 일주일에서 최대 10일까지 향이 지속된다고.베스트셀러인 도손과 오 로즈, 탐 다오의 3가지 향 [https://t.co/02901AXzdT](https://t.co/02901AXzdT){:target="_blank"}
 <br>User Name: 9960002
 <br>DateTime: 19-08-24 11:00:31 <br><br>
 
@@ -2111,7 +2111,7 @@ notosans
 <br>User Name: fortyfourbits
 <br>DateTime: 19-08-23 03:45:00 <br><br>
 
-맛있다는 얘기를 듣고 엊그제 편의점에서 <푸르밀 흑당 밀크티> 라는 제품을 사마셨는데 맛있고 만족스러웠다. 오늘 또 사러 갔더니 딱 그 제품만 품절이더라구. 
+맛있다는 얘기를 듣고 엊그제 편의점에서 푸르밀 흑당 밀크티라는 제품을 사마셨는데 맛있고 만족스러웠다. 오늘 또 사러 갔더니 딱 그 제품만 품절이더라구. 
 
 그 옆에 '브라운슈가 밀크티'는 재고가 많길래 이거라도 사왔는데 마셔보니 푸르밀 흑당보다 별로네.. [https://t.co/SIDZrN0tWw](https://t.co/SIDZrN0tWw){:target="_blank"}
 <br>User Name: snailzzang
@@ -2228,7 +2228,7 @@ Starbucks Number of Stores by Country (as of September 2018)
 <br>User Name: sungchi
 <br>DateTime: 19-08-13 23:09:36 <br><br>
 
-금호미술관에서 <바우하우스와 모던라이프> 전시회가 열리고 있다. 바우하우스의 유명한 가구과 조명, 그릇들을 볼 수 있다. [https://t.co/d8TLFi5xeI](https://t.co/d8TLFi5xeI){:target="_blank"}
+금호미술관에서 바우하우스와 모던라이프 전시회가 열리고 있다. 바우하우스의 유명한 가구과 조명, 그릇들을 볼 수 있다. [https://t.co/d8TLFi5xeI](https://t.co/d8TLFi5xeI){:target="_blank"}
 <br>User Name: ghibuldansoo
 <br>DateTime: 19-08-13 13:28:15 <br><br>
 
@@ -2238,7 +2238,7 @@ Starbucks Number of Stores by Country (as of September 2018)
 <br>User Name: shlee1001
 <br>DateTime: 19-08-13 11:05:20 <br><br>
 
-금호미술관에서 <바우하우스와 모던라이프> 전시회가 열리고 있다. 바우하우스의 유명한 가구과 조명, 그릇들을 볼 수 있다. [https://t.co/d8TLFi5xeI](https://t.co/d8TLFi5xeI){:target="_blank"}
+금호미술관에서 바우하우스와 모던라이프 전시회가 열리고 있다. 바우하우스의 유명한 가구과 조명, 그릇들을 볼 수 있다. [https://t.co/d8TLFi5xeI](https://t.co/d8TLFi5xeI){:target="_blank"}
 <br>User Name: ghibuldansoo
 <br>DateTime: 19-08-13 13:28:15 <br><br>
 
@@ -2306,7 +2306,7 @@ gRPC ...
 <br>User Name: jaellernej
 <br>DateTime: 19-08-11 13:26:46 <br><br>
 
-집에 오는 길에 교보문고에서 리눅스 책 사왔다. <실습과 그림으로 배우는 리눅스 구조> 
+집에 오는 길에 교보문고에서 리눅스 책 사왔다. 실습과 그림으로 배우는 리눅스 구조
 
 요즘 리눅스 서버 들어가서 이것저것 할 일이 많은데 리눅스 개념 탑재가 덜 돼서 어렵더라구. [https://t.co/BwvB6o8Qf9](https://t.co/BwvB6o8Qf9){:target="_blank"}
 <br>User Name: snailzzang
@@ -2439,7 +2439,7 @@ TensorFlow 공식 사이트에 있는 학습 가이드 문서입니다. 한국�
 <br>User Name: eehtomitc
 <br>DateTime: 19-07-31 23:23:10 <br><br>
 
-<민사고 수석 졸업 - 웰슬리 컬리지 - 골드만삭스 홍콩 - 맥킨지 홍콩 - 베인 코리아 매니지먼트 컨설팅>의 착실한 엘리트 코스를 밟아 @MarketKurly 창업하신 김슬아님과 대조적이다.
+민사고 수석 졸업 - 웰슬리 컬리지 - 골드만삭스 홍콩 - 맥킨지 홍콩 - 베인 코리아 매니지먼트 컨설팅의 착실한 엘리트 코스를 밟아 @MarketKurly 창업하신 김슬아님과 대조적이다.
 
 [https://t.co/0v5MhLC9Tf](https://t.co/0v5MhLC9Tf){:target="_blank"}
 <br>User Name: DataNCuriosity
@@ -2620,7 +2620,7 @@ Sorted³ - Schedule events, tasks and notes into a beautiful timeline.
 <br>User Name: UandMeSong
 <br>DateTime: 19-07-15 22:28:37 <br><br>
 
-7월 12일 골드만 삭스의 보고서 <Dissecting the market disconnect>에는 2페이지에 걸친 레이 달리오의 인터뷰가 실려 있다. 지금부터 3년까지의 세상이 궁금하다면 읽어보기를 권한다. 포지션 전략에 대해서는 나와 조금 생각이 다르지만 비지니스 사이클에 대해서 아주 뛰어난 통찰이 있다.
+7월 12일 골드만 삭스의 보고서 Dissecting the market disconnect에는 2페이지에 걸친 레이 달리오의 인터뷰가 실려 있다. 지금부터 3년까지의 세상이 궁금하다면 읽어보기를 권한다. 포지션 전략에 대해서는 나와 조금 생각이 다르지만 비지니스 사이클에 대해서 아주 뛰어난 통찰이 있다.
 <br>User Name: hubris2020
 <br>DateTime: 19-07-15 12:28:28 <br><br>
 
@@ -2628,7 +2628,7 @@ ALAIN CAPEILLERES, Swimmingpool, La Brusc, France, 1976 [https://t.co/i6jQYLSON2
 <br>User Name: architeg
 <br>DateTime: 19-07-14 21:03:00 <br><br>
 
-좋아하는 피아니스트 알렉상드르 타로의 에세이가 나왔다고 해서 타로 소품집 들으면서 읽고 있는데 어쩜 이래 혼자 울컥한다. <이제 당신의 손을 보여줘요>, 풍월당 출간. [https://t.co/GrLqarBaXi](https://t.co/GrLqarBaXi){:target="_blank"}
+좋아하는 피아니스트 알렉상드르 타로의 에세이가 나왔다고 해서 타로 소품집 들으면서 읽고 있는데 어쩜 이래 혼자 울컥한다. 이제 당신의 손을 보여줘요, 풍월당 출간. [https://t.co/GrLqarBaXi](https://t.co/GrLqarBaXi){:target="_blank"}
 <br>User Name: IAMFURAHA
 <br>DateTime: 19-07-14 12:52:37 <br><br>
 
@@ -2671,7 +2671,7 @@ Docker로 Django 개발환경을 완벽하게 구축하는 방법을 알려주�
 
 저번 달에 포스텍 인강 들었는데 쌩초보도 따라가기 쉽게 잘 설명해주십니다.
 파이썬과 컴퓨터 공학(c언어)이 기초부터 차근차근 설명해 주시고요.
-개인적으로 컴퓨터 전공이 아닌 진짜 0부터 시작하는 분은 <컴퓨팅 사고>도 추천해요. 큰 그림 그리기 좋습니다.
+개인적으로 컴퓨터 전공이 아닌 진짜 0부터 시작하는 분은 컴퓨팅 사고도 추천해요. 큰 그림 그리기 좋습니다.
 [https://t.co/ytBNrzzOhf](https://t.co/ytBNrzzOhf){:target="_blank"}
 <br>User Name: underahna
 <br>DateTime: 19-07-10 12:55:31 <br><br>
@@ -2824,7 +2824,7 @@ Colorado: $65,333.51
 <br>User Name: seojeee
 <br>DateTime: 19-06-21 12:38:31 <br><br>
 
-맙소사 여러분 넷플릭스 <에반게리온> 화질 엄청 좋아요 [https://t.co/WLk6XwB4UQ](https://t.co/WLk6XwB4UQ){:target="_blank"}
+맙소사 여러분 넷플릭스 에반게리온 화질 엄청 좋아요 [https://t.co/WLk6XwB4UQ](https://t.co/WLk6XwB4UQ){:target="_blank"}
 <br>User Name: ekiria
 <br>DateTime: 19-06-21 07:50:27 <br><br>
 
@@ -2832,11 +2832,11 @@ Colorado: $65,333.51
 <br>User Name: fakemommy
 <br>DateTime: 19-06-21 00:36:12 <br><br>
 
-<킬링 이브> 시즌 1, 2 6월 28일 왓챠플레이 단독 공개 [https://t.co/mh1IkhbOJd](https://t.co/mh1IkhbOJd){:target="_blank"}
+킬링 이브 시즌 1, 2 6월 28일 왓챠플레이 단독 공개 [https://t.co/mh1IkhbOJd](https://t.co/mh1IkhbOJd){:target="_blank"}
 <br>User Name: tailorcontents
 <br>DateTime: 19-06-20 23:25:08 <br><br>
 
-로마, 피렌체의 거의 모든 건물, 루브르, 대영박물관 등 유럽 주요 도시의 명소는 '고전주의'라는 동일한 원리에 따라 지어졌습니다. 이 건축물들은 각각 말을 하고 있습니다. <건축의 고전적 언어>는 이 말을 읽고 이해할 수 있도록 돕는 기초 문법서 같은 책입니다. [https://t.co/QAJ2exxcWv](https://t.co/QAJ2exxcWv){:target="_blank"}
+로마, 피렌체의 거의 모든 건물, 루브르, 대영박물관 등 유럽 주요 도시의 명소는 '고전주의'라는 동일한 원리에 따라 지어졌습니다. 이 건축물들은 각각 말을 하고 있습니다. 건축의 고전적 언어는 이 말을 읽고 이해할 수 있도록 돕는 기초 문법서 같은 책입니다. [https://t.co/QAJ2exxcWv](https://t.co/QAJ2exxcWv){:target="_blank"}
 <br>User Name: matibook
 <br>DateTime: 19-06-20 01:02:39 <br><br>
 
@@ -2870,7 +2870,7 @@ Agence : Ogilvy Thailand [https://t.co/O2RwTNTEWY](https://t.co/O2RwTNTEWY){:tar
 <br>DateTime: 19-06-18 00:17:23 <br><br>
 
 숫자가 마음에 안 들면 개념을 바꿔버려라.
-대처가 집권하는 기간에 보수당정부는 실업자 개념을 23번이나 바꿨다. <왜 내 월급은 평균보다 적은 걸까> 41쪽
+대처가 집권하는 기간에 보수당정부는 실업자 개념을 23번이나 바꿨다. 왜 내 월급은 평균보다 적은 걸까 41쪽
 <br>User Name: enhance
 <br>DateTime: 19-06-17 19:53:41 <br><br>
 
@@ -2907,7 +2907,7 @@ Unit Test vs Production... [https://t.co/HTKNhWSJsg](https://t.co/HTKNhWSJsg){:t
 <br>User Name: richcampbell
 <br>DateTime: 19-06-14 15:00:24 <br><br>
 
-넷플릭스 <그들이 우리를 바라볼 때>가 5월 31일 공개 이후 13일 간 넷플릭스 미국 내 일간 시청자 수 1위를 기록하고 있다는 소식. [https://t.co/4FhvNhQRlF](https://t.co/4FhvNhQRlF){:target="_blank"}
+넷플릭스 그들이 우리를 바라볼 때가 5월 31일 공개 이후 13일 간 넷플릭스 미국 내 일간 시청자 수 1위를 기록하고 있다는 소식. [https://t.co/4FhvNhQRlF](https://t.co/4FhvNhQRlF){:target="_blank"}
 <br>User Name: tailorcontents
 <br>DateTime: 19-06-13 01:25:12 <br><br>
 
@@ -2974,9 +2974,9 @@ The ICSE pictures that you saw during the banquet are also available on [https:/
 
 탐라에 올라온 뉴욕타임즈 기사 읽었다. 성취 후에 빠르게 불행해지는 사람들에게:
 
-1. 한가지 성취에, 과한 기대를 몰빵하며 살지 말것
-2. 직업적 성취보다는, 좋은 인간관계, 상호작용으로부터 양질의 만족감이 온다
-3. 다양한 목표를 느슨하게 두며 즐기는것에 초점둘것
+1.한가지 성취에, 과한 기대를 몰빵하며 살지 말것
+2.직업적 성취보다는, 좋은 인간관계, 상호작용으로부터 양질의 만족감이 온다
+3.다양한 목표를 느슨하게 두며 즐기는것에 초점둘것
 
  [https://t.co/gDgSqLwSEz](https://t.co/gDgSqLwSEz){:target="_blank"}
 <br>User Name: acetogenins
