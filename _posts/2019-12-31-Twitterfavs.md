@@ -3154,11 +3154,11 @@ The Seiko TV Watch, 1982. [https://t.co/d5AwHcOPWy](https://t.co/d5AwHcOPWy){:ta
 <br>User Name: MillisBrent
 <br>DateTime: 19-05-08 22:43:26 <br><br>
 
-Tokyo's Hamacho Hotel champions all things handcrafted and local: [https://t.co/TQt3p7ikjT](https://t.co/TQt3p7ikjT){:target="_blank"} [https://t.co/seghV8P6wS](https://t.co/seghV8P6wS){:target="_blank"}
+Tokyo's Hamacho Hotel champions all things handcrafted and local [https://t.co/TQt3p7ikjT](https://t.co/TQt3p7ikjT){:target="_blank"} [https://t.co/seghV8P6wS](https://t.co/seghV8P6wS){:target="_blank"}
 <br>User Name: LaurenHoTravels
 <br>DateTime: 19-05-08 06:30:00 <br><br>
 
-<책읽아웃> 김하나의 측면돌파 - 김원영 변호사님 편 역대급이다. 👍 김원영 변호사님 사상과 유머가 너무 섹시하셔서 듣는 내내 반했다(책 바로 주문). 😍 칭찬폭격기 김하나 작가님은 인터뷰어에 노벨상이 있다면 올해 수상자목록에 오르셨을 듯. 👑
+책읽아웃 김하나의 측면돌파 - 김원영 변호사님 편 역대급이다. 👍 김원영 변호사님 사상과 유머가 너무 섹시하셔서 듣는 내내 반했다(책 바로 주문). 😍 칭찬폭격기 김하나 작가님은 인터뷰어에 노벨상이 있다면 올해 수상자목록에 오르셨을 듯. 👑
 [https://t.co/QN2kXBA9Qy](https://t.co/QN2kXBA9Qy){:target="_blank"}
 <br>User Name: practical_ideal
 <br>DateTime: 19-05-05 11:41:42 <br><br>
@@ -3172,7 +3172,7 @@ Tokyo's Hamacho Hotel champions all things handcrafted and local: [https://t.co/
 <br>User Name: amfactory_up
 <br>DateTime: 19-05-03 13:04:45 <br><br>
 
-오은 형의 현대시 작품상 수상을 축하드리며, 수상작 <O와 o>. [https://t.co/1oFtCJXTmW](https://t.co/1oFtCJXTmW){:target="_blank"}
+오은 형의 현대시 작품상 수상을 축하드리며, 수상작 O와 o. [https://t.co/1oFtCJXTmW](https://t.co/1oFtCJXTmW){:target="_blank"}
 <br>User Name: blanknoose
 <br>DateTime: 19-05-02 17:32:04 <br><br>
 
@@ -3236,7 +3236,7 @@ Tokyo's Hamacho Hotel champions all things handcrafted and local: [https://t.co/
 <br>User Name: yiyoyong
 <br>DateTime: 19-04-25 13:45:34 <br><br>
 
-막스 리히터의 <sleep> 공연이 어떻게 이뤄지는 지 궁금하시면 이 영상을 보시길. 공연장마다 구조는 조금씩 다르지만 대개 무대를 중심으로 방사형으로 침대를 배치하는데, 나름 장관이다. 실제 공연을 경험한다면 설레서 과연 잠을 잘 수 있을까. [https://t.co/lvxVcFIyS2](https://t.co/lvxVcFIyS2){:target="_blank"}
+막스 리히터의 sleep 공연이 어떻게 이뤄지는 지 궁금하시면 이 영상을 보시길. 공연장마다 구조는 조금씩 다르지만 대개 무대를 중심으로 방사형으로 침대를 배치하는데, 나름 장관이다. 실제 공연을 경험한다면 설레서 과연 잠을 잘 수 있을까. [https://t.co/lvxVcFIyS2](https://t.co/lvxVcFIyS2){:target="_blank"}
 <br>User Name: keepcalmdawn
 <br>DateTime: 19-04-25 13:34:32 <br><br>
 
@@ -3336,7 +3336,7 @@ Here's a video of a Chimpanzee using Instagram. It's eye-opening. [https://t.co/
 <br>User Name: 2daplay
 <br>DateTime: 19-04-18 00:05:14 <br><br>
 
-무료한 삶 속에 최근 가슴이 설레본 적이 두 번 있었다. 하나는 앤드류 솔로몬의 <경험수집가의 여행>을 읽었을 때고 두번째는 한가람미술관에서 열렸던 벨기에 국민만화 <에르제: 땡땡>전을 관람했을 때였다. 땡땡이 성장하면 앤드류 솔로몬처럼 될 것 같았다. 그 둘에서 내 정체성의 일부를 발견했다
+무료한 삶 속에 최근 가슴이 설레본 적이 두 번 있었다. 하나는 앤드류 솔로몬의 경험수집가의 여행을 읽었을 때고 두번째는 한가람미술관에서 열렸던 벨기에 국민만화 에르제: 땡땡 전을 관람했을 때였다. 땡땡이 성장하면 앤드류 솔로몬처럼 될 것 같았다. 그 둘에서 내 정체성의 일부를 발견했다
 <br>User Name: snailzzang
 <br>DateTime: 19-04-15 17:14:32 <br><br>
 
@@ -3374,7 +3374,7 @@ Here's a video of a Chimpanzee using Instagram. It's eye-opening. [https://t.co/
 <br>User Name: disjukr
 <br>DateTime: 19-04-08 06:37:44 <br><br>
 
-넷플릭스 <홈커밍> 4월 17일 공개. 비욘세의 코첼라 뮤직 페스티벌 공연의 준비 과정과 공연 실황을 담은 다큐멘터리로 알려져 있습니다. [https://t.co/8Kcdl4Jb5m](https://t.co/8Kcdl4Jb5m){:target="_blank"}
+넷플릭스 홈커밍 4월 17일 공개. 비욘세의 코첼라 뮤직 페스티벌 공연의 준비 과정과 공연 실황을 담은 다큐멘터리로 알려져 있습니다. [https://t.co/8Kcdl4Jb5m](https://t.co/8Kcdl4Jb5m){:target="_blank"}
 <br>User Name: tailorcontents
 <br>DateTime: 19-04-08 04:32:29 <br><br>
 
@@ -3421,7 +3421,7 @@ Here's a video of a Chimpanzee using Instagram. It's eye-opening. [https://t.co/
 <br>User Name: ehddn1
 <br>DateTime: 19-03-27 12:36:18 <br><br>
 
-<하우스 오브 카드 시즌 1>
+하우스 오브 카드 시즌 1
 
 미국 역사상 첫 여성 대통령에 취임한 클레어 언더우드. 전임 대통령이자 남편이었던 프랭크의 그늘에서 벗어날 수 있을까. 거대한 반대 세력이 그녀의 행보를 가로막는다.
 [https://t.co/JRGPuy8P6M](https://t.co/JRGPuy8P6M){:target="_blank"} [https://t.co/UppGpe6oZg](https://t.co/UppGpe6oZg){:target="_blank"}
@@ -3501,7 +3501,7 @@ MBA코스 수강보다 더 낫다는 팟캐스트 모음. 진짜 그런지는 �
 <br>User Name: syjkorea
 <br>DateTime: 19-03-17 13:13:54 <br><br>
 
-아툴 가완디의 <어떻게 일할 것인가> (원제: Better: A Surgeon's Notes On Performance). 그의 베스트셀러 '어떻게 죽을 것인가' 대신 Better라는 간결한 제목에 꽂혀 오디오북으로 듣기 시작했다가 인트로부터 푹 빠져듬. [https://t.co/8uvIMXvsHM](https://t.co/8uvIMXvsHM){:target="_blank"}
+아툴 가완디의 어떻게 일할 것인가 (원제: Better: A Surgeon's Notes On Performance). 그의 베스트셀러 '어떻게 죽을 것인가' 대신 Better라는 간결한 제목에 꽂혀 오디오북으로 듣기 시작했다가 인트로부터 푹 빠져듬. [https://t.co/8uvIMXvsHM](https://t.co/8uvIMXvsHM){:target="_blank"}
 <br>User Name: wooramy
 <br>DateTime: 19-03-14 11:46:19 <br><br>
 
@@ -3546,7 +3546,7 @@ EBS 다큐 시선-메달속의 상처 보고 있는데.. 우리 나라 학교 �
 <br>User Name: __xuly__
 <br>DateTime: 19-03-01 14:22:43 <br><br>
 
-아... 찡하다. <한아름 마트에서 울다> [https://t.co/xwV0PgxMWd](https://t.co/xwV0PgxMWd){:target="_blank"}
+아... 찡하다. 한아름 마트에서 울다 [https://t.co/xwV0PgxMWd](https://t.co/xwV0PgxMWd){:target="_blank"}
 <br>User Name: RedhairedAnne
 <br>DateTime: 19-03-01 10:19:39 <br><br>
 
@@ -3642,7 +3642,7 @@ Brand Values, over 18 years [https://t.co/lNUd2y1nLc](https://t.co/lNUd2y1nLc){:
 <br>User Name: maldive9
 <br>DateTime: 19-02-14 14:46:32 <br><br>
 
-넷플릭스 <풍미원산지>라는 다큐에 넋을 빼앗겨 정주행 중이다. 단순히 음식재료들이나 음식 자체에 대한 다큐멘터리일 줄 알았더니 그것도 아니고, 재료를 다듬고 만들어내는 부분의 엑기스 오브 엑기스를 엄선한, 그러니까 지금 이 시간에 배가 너무 고파지는...마성의 다큐멘터리다.
+넷플릭스 풍미원산지라는 다큐에 넋을 빼앗겨 정주행 중이다. 단순히 음식재료들이나 음식 자체에 대한 다큐멘터리일 줄 알았더니 그것도 아니고, 재료를 다듬고 만들어내는 부분의 엑기스 오브 엑기스를 엄선한, 그러니까 지금 이 시간에 배가 너무 고파지는...마성의 다큐멘터리다.
 <br>User Name: ekiria
 <br>DateTime: 19-02-13 15:01:00 <br><br>
 
@@ -3670,7 +3670,7 @@ Brand Values, over 18 years [https://t.co/lNUd2y1nLc](https://t.co/lNUd2y1nLc){:
 <br>User Name: avant_ariel
 <br>DateTime: 19-02-08 16:41:34 <br><br>
 
-추리작가 원샨의 <사장을 죽이고 싶나>는 가벼운 마음으로 집어들었다가 흡인력이 좋아서 결국 끝까지 읽어버렸다.  911과 금융엘리트, IT자동화와 기술발전, 부동산 등의 이슈를 공간에 폐쇄된 이방인들의 이야기로 풀어낸다.
+추리작가 원샨의 사장을 죽이고 싶나는 가벼운 마음으로 집어들었다가 흡인력이 좋아서 결국 끝까지 읽어버렸다.  911과 금융엘리트, IT자동화와 기술발전, 부동산 등의 이슈를 공간에 폐쇄된 이방인들의 이야기로 풀어낸다.
 <br>User Name: antilope30
 <br>DateTime: 19-02-07 07:37:27 <br><br>
 
