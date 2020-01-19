@@ -3771,8 +3771,7 @@ Longer list: [https://t.co/xI7u8swICE](https://t.co/xI7u8swICE){:target="_blank"
 <br>User Name: jinukichi
 <br>DateTime: 19-02-01 14:16:28 <br><br>
 
-<초코파이 팝업스토어>
-그래봤자 초코파이겠거니 했는데 이거 생각보다 훨씬 맛있다. 바삭하게 부서지는 초콜릿 코팅과 말그대로 입안에서 사르르 녹는 두터운 마시멜로, 취향껏 필링까지. 솔직히 놀랐다.. 맛별로 쟁여두고 먹고싶을 정도임 [https://t.co/KqWogjDRL2](https://t.co/KqWogjDRL2){:target="_blank"}
+초코파이 팝업스토어. 그래봤자 초코파이겠거니 했는데 이거 생각보다 훨씬 맛있다. 바삭하게 부서지는 초콜릿 코팅과 말그대로 입안에서 사르르 녹는 두터운 마시멜로, 취향껏 필링까지. 솔직히 놀랐다.. 맛별로 쟁여두고 먹고싶을 정도임 [https://t.co/KqWogjDRL2](https://t.co/KqWogjDRL2){:target="_blank"}
 <br>User Name: cybereater
 <br>DateTime: 19-02-01 12:54:43 <br><br>
 
@@ -3827,11 +3826,11 @@ Longer list: [https://t.co/xI7u8swICE](https://t.co/xI7u8swICE){:target="_blank"
 <br>User Name: rotwand81539
 <br>DateTime: 19-01-29 13:11:10 <br><br>
 
-1982년 발표한 단편 <화재감시원>에서 시작해 30년만에 완성한, 역사상 가장 위대한 시간 여행 이야기. 코니 윌리스의 옥스퍼드 시간 여행 시리즈가  끝을 맺습니다. 시리즈 다섯 작품이 모두 휴고상을 받은 전무후무한 소설이죠. 알라딘 이벤트 페이지 열렸습니다. [https://t.co/lB1i8uEL3d](https://t.co/lB1i8uEL3d){:target="_blank"} [https://t.co/3IlieJgfrz](https://t.co/3IlieJgfrz){:target="_blank"}
+1982년 발표한 단편 화재감시원에서 시작해 30년만에 완성한, 역사상 가장 위대한 시간 여행 이야기. 코니 윌리스의 옥스퍼드 시간 여행 시리즈가  끝을 맺습니다. 시리즈 다섯 작품이 모두 휴고상을 받은 전무후무한 소설이죠. 알라딘 이벤트 페이지 열렸습니다. [https://t.co/lB1i8uEL3d](https://t.co/lB1i8uEL3d){:target="_blank"} [https://t.co/3IlieJgfrz](https://t.co/3IlieJgfrz){:target="_blank"}
 <br>User Name: de_comma
 <br>DateTime: 19-01-28 04:43:19 <br><br>
 
-<매우 사악하고 놀랍도록 악랄하며 용납할 수 없는> 트레일러. 연쇄살인마 테드 번디의 범죄를 여자친구 엘리자베스 클로플러의 시각에서 그린 작품. 잭 에프론, 릴리 콜린스 등 출연. <살인자와의 대화> 존 벌린저 감독 작품. 선댄스영화제 공개. [https://t.co/NCBFeXgUSK](https://t.co/NCBFeXgUSK){:target="_blank"}
+매우 사악하고 놀랍도록 악랄하며 용납할 수 없는 트레일러. 연쇄살인마 테드 번디의 범죄를 여자친구 엘리자베스 클로플러의 시각에서 그린 작품. 잭 에프론, 릴리 콜린스 등 출연. 살인자와의 대화 존 벌린저 감독 작품. 선댄스영화제 공개. [https://t.co/NCBFeXgUSK](https://t.co/NCBFeXgUSK){:target="_blank"}
 <br>User Name: tailorcontents
 <br>DateTime: 19-01-26 16:24:39 <br><br>
 
@@ -3843,11 +3842,11 @@ Longer list: [https://t.co/xI7u8swICE](https://t.co/xI7u8swICE){:target="_blank"
 <br>User Name: Mi_Laberinto
 <br>DateTime: 19-01-26 12:21:05 <br><br>
 
-조선일보에 연재한 인터뷰를 묶은 김지수의 <자기 인생의 철학자들>을 읽었다. 대부분 읽었던 인터뷰인데 책의 느낌은 많이 달랐다. 정경화 인터뷰가 인상적이었다. "솔리스트로 사랑받으니 얼마나 행복하냐?"는 질문에 답하는 2페이지의 충격은 깊었다. “어떻게 나한테 행복하냐고 물어볼 수 있어요?”
+조선일보에 연재한 인터뷰를 묶은 김지수의 자기 인생의 철학자들을 읽었다. 대부분 읽었던 인터뷰인데 책의 느낌은 많이 달랐다. 정경화 인터뷰가 인상적이었다. "솔리스트로 사랑받으니 얼마나 행복하냐?"는 질문에 답하는 2페이지의 충격은 깊었다. “어떻게 나한테 행복하냐고 물어볼 수 있어요?”
 <br>User Name: hubris2020
 <br>DateTime: 19-01-26 11:53:24 <br><br>
 
-다빈치가 수도원 식당 벽에 <최후의 만찬>을 완성하는 데 걸린 시간은 총 3년이었는데, 실제 그림을 그린 것은 3개월이고 나머지는 음식을 먹으며 즐긴 시간이었다. - 우지현, <혼자 있기 좋은 방>
+다빈치가 수도원 식당 벽에 최후의 만찬을 완성하는 데 걸린 시간은 총 3년이었는데, 실제 그림을 그린 것은 3개월이고 나머지는 음식을 먹으며 즐긴 시간이었다. - 우지현, 혼자 있기 좋은 방
 <br>User Name: GO_SH_
 <br>DateTime: 19-01-26 07:42:22 <br><br>
 
@@ -3883,38 +3882,38 @@ Longer list: [https://t.co/xI7u8swICE](https://t.co/xI7u8swICE){:target="_blank"
 <br>User Name: d_ijk_stra
 <br>DateTime: 19-01-25 08:00:11 <br><br>
 
-아이들 그림책에 대한 공부를 하다가 내 삶에 대한 교훈을 얻네. 트친님들이 추천해주신 책 <그림책으로 읽는 아이들 마음> 정말 좋네요. 꼭 그림책을 읽을 때가 아니라 일상 생활에서도 아이의 마음을 좀 더 이해하고 맞춰갈 수 있게 된 느낌입니다. [https://t.co/7aftedUP8z](https://t.co/7aftedUP8z){:target="_blank"}
+아이들 그림책에 대한 공부를 하다가 내 삶에 대한 교훈을 얻네. 트친님들이 추천해주신 책 그림책으로 읽는 아이들 마음 정말 좋네요. 꼭 그림책을 읽을 때가 아니라 일상 생활에서도 아이의 마음을 좀 더 이해하고 맞춰갈 수 있게 된 느낌입니다. [https://t.co/7aftedUP8z](https://t.co/7aftedUP8z){:target="_blank"}
 <br>User Name: d_ijk_stra
 <br>DateTime: 19-01-25 07:53:21 <br><br>
 
-12. 가치가 급격하게 증가하는 것을 소유해야 부자가 된다. 포브스 리스트엔 월급으로 부자된 사람이 없다
-13. 내적으로 움직여라. 합의된 생각, 합의된 경력에서 살지말고 스스로를 감동시킬 일을 하라 
+12.가치가 급격하게 증가하는 것을 소유해야 부자가 된다. 포브스 리스트엔 월급으로 부자된 사람이 없다
+13.내적으로 움직여라. 합의된 생각, 합의된 경력에서 살지말고 스스로를 감동시킬 일을 하라 
 
 [https://t.co/DTvwTKgYP6](https://t.co/DTvwTKgYP6){:target="_blank"}
 <br>User Name: sungchi
 <br>DateTime: 19-01-25 03:25:16 <br><br>
 
-10. 경쟁하기 어렵게 만들어라. 기업도 그렇지만 개인도 마찬가지다. 강력한 개인브랜드를 구축하라
-11. 네트워크를 쌓아라. 가능한 한 많은 사람들을 돕거나 함께 일하는 사람들을 돌본다는 평판을 만들어라
+10.경쟁하기 어렵게 만들어라. 기업도 그렇지만 개인도 마찬가지다. 강력한 개인브랜드를 구축하라
+11.네트워크를 쌓아라. 가능한 한 많은 사람들을 돕거나 함께 일하는 사람들을 돌본다는 평판을 만들어라
 <br>User Name: sungchi
 <br>DateTime: 19-01-25 03:25:16 <br><br>
 
-7. 똑똑하거나 열심히 일하면 상위 10%가 될 수 있다. 상위 1%는 둘 다 이어야한다 
-8. 대담해져라. 당신이 중요한 문제에 진전을 보이면 당신을 돕고하는 사람을 끊임없이 만날 수 있다
-9. 의지를 가져라. 세상을 의지대로 만들 수 있지만 대부분의 사람들은 현재 상황을 받아들인다
+7.똑똑하거나 열심히 일하면 상위 10%가 될 수 있다. 상위 1%는 둘 다 이어야한다 
+8.대담해져라. 당신이 중요한 문제에 진전을 보이면 당신을 돕고하는 사람을 끊임없이 만날 수 있다
+9.의지를 가져라. 세상을 의지대로 만들 수 있지만 대부분의 사람들은 현재 상황을 받아들인다
 <br>User Name: sungchi
 <br>DateTime: 19-01-25 03:25:16 <br><br>
 
-4. 잘 팔아라. 자신이 믿는 것을 남에게 설득할 수 있어야한다
-5. 위험을 감수하는 것을 쉽게 만들어라. 틀리면 1, 맞으면 100을 얻을 수 있는 곳에 조금씩 베팅해라
-6. 집중해라. 중요하지 않은 일에 오래 시간을 쓰지말고 작고 중요한 목표들을 빨리 달성하라
+4.잘 팔아라. 자신이 믿는 것을 남에게 설득할 수 있어야한다
+5.위험을 감수하는 것을 쉽게 만들어라. 틀리면 1, 맞으면 100을 얻을 수 있는 곳에 조금씩 베팅해라
+6.집중해라. 중요하지 않은 일에 오래 시간을 쓰지말고 작고 중요한 목표들을 빨리 달성하라
 <br>User Name: sungchi
 <br>DateTime: 19-01-25 03:25:15 <br><br>
 
 YC 샘 알트만의 “성공하는 법” 
-1. 기하급수적인 성장을 할 수 있는 기회를 끊임없이 찾고 공부해라
-2. 과도한 자신감을 가져라. 크게 성공한 사람들은 여러번 틀려도 결국 하나는 맞췄다
-3. 독립적인 사고를 해라. 학교는 보통 기업가 정신의 반대쪽에 보상을 준다
+1.기하급수적인 성장을 할 수 있는 기회를 끊임없이 찾고 공부해라
+2.과도한 자신감을 가져라. 크게 성공한 사람들은 여러번 틀려도 결국 하나는 맞췄다
+3.독립적인 사고를 해라. 학교는 보통 기업가 정신의 반대쪽에 보상을 준다
 <br>User Name: sungchi
 <br>DateTime: 19-01-25 03:25:15 <br><br>
 
@@ -3952,7 +3951,7 @@ KBS 이광열 기자 페북 글. SBS와 손혜원 의원의 공방 속 가장 �
 <br>User Name: teabinah
 <br>DateTime: 19-01-22 22:54:31 <br><br>
 
-쿠바 출신의 피아니스트 부자인 베보 & 추초 발데스의 ‘Tea For Two(2008)’입니다. 아버지 베보의 망명으로 50년간이나 떨어져 지낸 부자였죠. 베보가 90세 되던 해 극적으로 녹음된 이 앨범의 제목은 <영원히 함께>입니다 [https://t.co/Xak0IxpPEk](https://t.co/Xak0IxpPEk){:target="_blank"} [https://t.co/CSxvor9QK5](https://t.co/CSxvor9QK5){:target="_blank"}
+쿠바 출신의 피아니스트 부자인 베보 & 추초 발데스의 ‘Tea For Two(2008)’입니다. 아버지 베보의 망명으로 50년간이나 떨어져 지낸 부자였죠. 베보가 90세 되던 해 극적으로 녹음된 이 앨범의 제목은 영원히 함께입니다 [https://t.co/Xak0IxpPEk](https://t.co/Xak0IxpPEk){:target="_blank"} [https://t.co/CSxvor9QK5](https://t.co/CSxvor9QK5){:target="_blank"}
 <br>User Name: hawaii_delivery
 <br>DateTime: 19-01-22 16:23:33 <br><br>
 
@@ -4041,7 +4040,7 @@ Korean. [https://t.co/XSYZHRRgjH](https://t.co/XSYZHRRgjH){:target="_blank"} [ht
 <br>User Name: chemistryofus
 <br>DateTime: 19-01-12 14:35:06 <br><br>
 
-여행기로 만든 단편영화, 김종관 감독의 <하코다테에서 안녕 (函館でさよなら)> (An So Hee, Jung JunWon) [https://t.co/Fne0zgP53d](https://t.co/Fne0zgP53d){:target="_blank"} [https://t.co/R9lX7P3yyt](https://t.co/R9lX7P3yyt){:target="_blank"}
+여행기로 만든 단편영화, 김종관 감독의 하코다테에서 안녕 (函館でさよなら) (An So Hee, Jung JunWon) [https://t.co/Fne0zgP53d](https://t.co/Fne0zgP53d){:target="_blank"} [https://t.co/R9lX7P3yyt](https://t.co/R9lX7P3yyt){:target="_blank"}
 <br>User Name: hyojadongduomo
 <br>DateTime: 19-01-12 02:05:45 <br><br>
 
@@ -4051,7 +4050,7 @@ Korean. [https://t.co/XSYZHRRgjH](https://t.co/XSYZHRRgjH){:target="_blank"} [ht
 <br>User Name: White_Agatho
 <br>DateTime: 19-01-11 18:13:20 <br><br>
 
-사람이 순수하게 머리로 하는 일 중에서 가장 환금성이 좋은 (=돈을 많이 벌어다주는) 활동은 아마도 미래를 예측하는 것 아닐까 싶다. 우리 회사만 보더라도 <과거에 벌어진 일을 처리하는 업무> 또는 <현재를 실행하는 업무>와 <미래의 일을 예측하는 업무>는 애초에 연봉 구간 자체가 다른 느낌.
+사람이 순수하게 머리로 하는 일 중에서 가장 환금성이 좋은 (=돈을 많이 벌어다주는) 활동은 아마도 미래를 예측하는 것 아닐까 싶다. 우리 회사만 보더라도 과거에 벌어진 일을 처리하는 업무 또는 현재를 실행하는 업무와 미래의 일을 예측하는 업무는 애초에 연봉 구간 자체가 다른 느낌.
 <br>User Name: shinhh
 <br>DateTime: 19-01-11 13:20:14 <br><br>
 
@@ -4118,25 +4117,25 @@ Source: @IFR_Robots
 <br>User Name: syjkorea
 <br>DateTime: 19-01-08 18:23:45 <br><br>
 
-작년에 낸 책 중에 주목받진 못했지만, 개인적으로는 생각의 전환을 시켜준 책이 <진보>였다. 나도 누구보다 염세적인 인간이지만, 그래도 세상은 나아지고 있고, 우리는 과거로 돌아가선 안 되고, 희망은 어쨌든 미래에 있다. 그러니 우리는/나는 부단히 달라져야 한다는 신념 같은 게 생겼다. [https://t.co/W78JgfhGyQ](https://t.co/W78JgfhGyQ){:target="_blank"}
+작년에 낸 책 중에 주목받진 못했지만, 개인적으로는 생각의 전환을 시켜준 책이 진보 였다. 나도 누구보다 염세적인 인간이지만, 그래도 세상은 나아지고 있고, 우리는 과거로 돌아가선 안 되고, 희망은 어쨌든 미래에 있다. 그러니 우리는/나는 부단히 달라져야 한다는 신념 같은 게 생겼다. [https://t.co/W78JgfhGyQ](https://t.co/W78JgfhGyQ){:target="_blank"}
 <br>User Name: kyoungtae_kim
 <br>DateTime: 19-01-08 02:36:43 <br><br>
 
 버라이어티 선정 2018 넷플릭스 베스트 영화 10
-10. 7월 22일
-9. 상사에 대처하는 로맨틱한 자세
-8. 내가 사랑했던 모든 남자들에게
-7. 행복한 라짜로 (*한국은 서비스 전)
-6. 오손 웰스의 마지막 로즈버드
-5. 그날이 오면
-4. 카우보이의 노래
-3. 서던 리치: 소멸의 땅
-2. 일요일의 병
-1. 로마
+10.7월 22일
+9.상사에 대처하는 로맨틱한 자세
+8.내가 사랑했던 모든 남자들에게
+7.행복한 라짜로 (*한국은 서비스 전)
+6.오손 웰스의 마지막 로즈버드
+5.그날이 오면
+4.카우보이의 노래
+3.서던 리치: 소멸의 땅
+2.일요일의 병
+1.로마
 <br>User Name: rockkids97
 <br>DateTime: 19-01-07 08:01:51 <br><br>
 
-공항꿀팁> 여권 잃어버린 줄 알고 놀랬는데 인천공항 2터미널 2층에서 긴급여권 당일 발급 가능. 이야.. 살기좋은 나라!! 게다가 일요일인데. 엄천 친절함. 평화옥가서 양곰탕 먹으며 기다리면 된다. 1시간정도 걸림. [https://t.co/hDlPYuVzFg](https://t.co/hDlPYuVzFg){:target="_blank"}
+공항꿀팁 여권 잃어버린 줄 알고 놀랬는데 인천공항 2터미널 2층에서 긴급여권 당일 발급 가능. 이야.. 살기좋은 나라!! 게다가 일요일인데. 엄천 친절함. 평화옥가서 양곰탕 먹으며 기다리면 된다. 1시간정도 걸림. [https://t.co/hDlPYuVzFg](https://t.co/hDlPYuVzFg){:target="_blank"}
 <br>User Name: yiyoyong
 <br>DateTime: 19-01-06 09:42:59 <br><br>
 
