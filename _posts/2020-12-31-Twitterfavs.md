@@ -282,8 +282,7 @@ If you've never seen a reindeer posing under an aurora before, today is your day
 <br>User Name:  choekitout
 <br>DateTime: 20-12-19 23:47:52 <br><br>
 
-<베리 잉글리쉬 스캔들>
-2018년 BBC - 아마존 프라임에서 공동 제작한 작품입니다. 제작과 각본은 <닥터후>의 수석작가였던 러셀 T. 데이비스가 맡았습니다. 1960년대 영국에서 벌어진 자유당 대표의 동성애 스캔들을 다룹니다. [https://t.co/YnTobRiJwA](https://t.co/YnTobRiJwA){:target="_blank"}
+베리 잉글리쉬 스캔들, 2018년 BBC - 아마존 프라임에서 공동 제작한 작품입니다. 제작과 각본은 닥터후의 수석작가였던 러셀 T. 데이비스가 맡았습니다. 1960년대 영국에서 벌어진 자유당 대표의 동성애 스캔들을 다룹니다. [https://t.co/YnTobRiJwA](https://t.co/YnTobRiJwA){:target="_blank"}
 <br>User Name:  inle_vaporwave
 <br>DateTime: 20-12-19 15:42:50 <br><br>
 
