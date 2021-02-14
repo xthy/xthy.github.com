@@ -66,7 +66,7 @@ category: Log
 <br>User Name:  honeytip_backup
 <br>DateTime: 20-12-29 14:10:26 <br><br>
 
-2020 <이 돈까스가 대단해> 최종 후보는 다음과 같습니다.
+2020 &lt;이 돈까스가 대단해&gt; 최종 후보는 다음과 같습니다.
 
 최강금 돈까스
 카츠 바이 콘반
@@ -167,7 +167,7 @@ DeepMind’s annual report: Why it’s hard to run a commercial AI lab [https://
 <br>User Name:  bestrongnow
 <br>DateTime: 20-12-26 04:00:14 <br><br>
 
-넷플릭스 중드 <겨우 서른> 바르고 총명하고 의리있는 30살 여성들의 상하이 생활을 그리는데 현실감 있으면서도 따뜻하다.
+넷플릭스 중드 &lt;겨우 서른&gt; 바르고 총명하고 의리있는 30살 여성들의 상하이 생활을 그리는데 현실감 있으면서도 따뜻하다.
 <br>User Name:  antilope30
 <br>DateTime: 20-12-26 01:22:52 <br><br>
 
@@ -186,7 +186,7 @@ DeepMind’s annual report: Why it’s hard to run a commercial AI lab [https://
 <br>User Name:  atmostbeautiful
 <br>DateTime: 20-12-25 11:26:41 <br><br>
 
-애플 라디오 틀어놨는데 “엄마랑 산타 키스하는거 봣다 아빠한테 이를라고” 뭐 이런 노래가 있어서 웃기다 생각했는데.. [https://t.co/hvbcZVtZjU](https://t.co/hvbcZVtZjU){:target="_blank"}
+애플 라디오 틀어놨는데 "엄마랑 산타 키스하는거 봣다 아빠한테 이를라고" 뭐 이런 노래가 있어서 웃기다 생각했는데.. [https://t.co/hvbcZVtZjU](https://t.co/hvbcZVtZjU){:target="_blank"}
 <br>User Name:  Angelofsibal
 <br>DateTime: 20-12-25 05:16:24 <br><br>
 
@@ -347,7 +347,7 @@ dir. 타셈 싱 [https://t.co/SMERmRreHj](https://t.co/SMERmRreHj){:target="_bla
 <br>User Name:  anzinne
 <br>DateTime: 20-12-11 23:35:40 <br><br>
 
-소준철. 2020. <가난의 문법>. 책을 읽고 있는데 경향신문 기사가 나옴. 최근 읽은 사회학 책 중 가장 탁월한 저서. 
+소준철. 2020. &lt;가난의 문법&gt;. 책을 읽고 있는데 경향신문 기사가 나옴. 최근 읽은 사회학 책 중 가장 탁월한 저서. 
 
 통계로 사회를 보는 사람들은 절대 볼 수 없는 삶의 구체성을 Ethnography로 드러내면서도, 사회과학적 분석과 객관성, 현상의 다면성을 잘 분석. 1/ [https://t.co/y8iMYluaSy](https://t.co/y8iMYluaSy){:target="_blank"}
 <br>User Name:  KimSovidence
@@ -446,7 +446,7 @@ FT 수석 칼럼니스트 마틴 울프: 기업 목적은 이윤 추구라는 �
 <br>User Name:  nacyo__t
 <br>DateTime: 20-12-06 10:10:25 <br><br>
 
-샐리 호킨스&amp;에단호크 영화 <내사랑>보고 찾아본 모드 루이스 그림 [https://t.co/i76Wey4qyQ](https://t.co/i76Wey4qyQ){:target="_blank"}
+샐리 호킨스&amp;에단호크 영화 &lt;내사랑&gt;보고 찾아본 모드 루이스 그림 [https://t.co/i76Wey4qyQ](https://t.co/i76Wey4qyQ){:target="_blank"}
 <br>User Name:  shakeyourbody12
 <br>DateTime: 20-12-06 08:47:58 <br><br>
 
@@ -455,7 +455,7 @@ FT 수석 칼럼니스트 마틴 울프: 기업 목적은 이윤 추구라는 �
 1. 금리 변화에 따른 예금, 채권, 부동산, 주식 매수&amp;매도 싸이클
 2. 국내 투자 자산별 누적 수익률 비교
  - 주식 변동성 예의주시
- - 기본은 우상향, “Buy the dip”
+ - 기본은 우상향, "Buy the dip"
 3. 3대 중앙은행 자산규모 및 기준금리 추이
  - 미국 장,단기 금리 역전현상 : 경기침체 신호 [https://t.co/Qbe1aj6hk8](https://t.co/Qbe1aj6hk8){:target="_blank"}
 <br>User Name:  SageCaelitus
@@ -465,7 +465,7 @@ FT 수석 칼럼니스트 마틴 울프: 기업 목적은 이윤 추구라는 �
 <br>User Name:  escapeverything
 <br>DateTime: 20-12-05 16:20:38 <br><br>
 
-오 드디어 dick johnson is dead가 한국 넷플릭스에 떴다는 소식,,, “딕 존슨이 죽었습니다” 이 제목이고 정말 강추하는 다큐예요. 여성 감독이 아빠를 주인공으로 만든 다큐인데, 무거운 주제지만 웃기고 독특하게 다뤄서 (장르를 코미디라고 해도 될듯) 몰입도도 높고 감동도 큼.
+오 드디어 dick johnson is dead가 한국 넷플릭스에 떴다는 소식,,, "딕 존슨이 죽었습니다" 이 제목이고 정말 강추하는 다큐예요. 여성 감독이 아빠를 주인공으로 만든 다큐인데, 무거운 주제지만 웃기고 독특하게 다뤄서 (장르를 코미디라고 해도 될듯) 몰입도도 높고 감동도 큼.
 <br>User Name:  KKVOC
 <br>DateTime: 20-12-05 05:14:35 <br><br>
 
@@ -526,12 +526,12 @@ Poem 천재 어린이 1호가 쓴 영시 좀 봐주세요! #자랑 [https://t.co
 <br>DateTime: 20-11-27 04:26:58 <br><br>
 
 슬피 울던 노코어 거북목 보유자가,, 주로 트위터에서 몇 번이나 제 타임라인에 돌아오던 평화로운 재택근무템들의 좌표들을 보기 쉽게 모아봤습니다. 저는 오늘 이 중 하나의 아이템을 지를 것이며... 좋은 정보 공유해주시는 분들 항상 감사합니다.
-￼
+
 [https://t.co/AHUc24KliE](https://t.co/AHUc24KliE){:target="_blank"}
 <br>User Name:  browneyed_seoul
 <br>DateTime: 20-11-26 03:26:40 <br><br>
 
-트위터에서 가장 부당하게 독해되었다고 생각하는 <아워 바디>에 대한 이야기를 하는 타래. [https://t.co/LHEVFeCOb2](https://t.co/LHEVFeCOb2){:target="_blank"}
+트위터에서 가장 부당하게 독해되었다고 생각하는 아워 바디에 대한 이야기를 하는 타래. [https://t.co/LHEVFeCOb2](https://t.co/LHEVFeCOb2){:target="_blank"}
 <br>User Name:  __Esica__
 <br>DateTime: 20-11-25 14:02:52 <br><br>
 
@@ -549,7 +549,7 @@ Poem 천재 어린이 1호가 쓴 영시 좀 봐주세요! #자랑 [https://t.co
 <br>User Name:  forico_kr
 <br>DateTime: 20-11-24 07:45:13 <br><br>
 
-<마리끌레르>에 김하나 작가께서 올해의 책 10권을 뽑으셨는데 하나하나 고개가 끄덕끄덕... [https://t.co/9bh4qaZGvs](https://t.co/9bh4qaZGvs){:target="_blank"}
+마리끌레르에 김하나 작가께서 올해의 책 10권을 뽑으셨는데 하나하나 고개가 끄덕끄덕... [https://t.co/9bh4qaZGvs](https://t.co/9bh4qaZGvs){:target="_blank"}
 <br>User Name:  de_comma
 <br>DateTime: 20-11-24 07:08:39 <br><br>
 
@@ -609,7 +609,7 @@ Korea Open Access Journals [https://t.co/Q7PIiUja4A](https://t.co/Q7PIiUja4A){:t
 <br>DateTime: 20-11-19 12:12:36 <br><br>
 
 일전에 세이지 핀치 사장님이 계산할 때 
-“이거 아세요? 인간 사료라고...”
+"이거 아세요? 인간 사료라고..."
 조심히 주신 과자. 2개 먹고 아쉬워 한봉지 시켰는데 사무실에서도 반응이 폭발적. (심지어 개당 13칼로리인데, 다들 믿을 수 없다며) 오트밀 미니 바이트. #자꾸손이간다 [https://t.co/k8ETuMopDY](https://t.co/k8ETuMopDY){:target="_blank"}
 <br>User Name:  rumious
 <br>DateTime: 20-11-19 07:51:48 <br><br>
@@ -623,12 +623,12 @@ Korea Open Access Journals [https://t.co/Q7PIiUja4A](https://t.co/Q7PIiUja4A){:t
 <br>User Name:  antilope30
 <br>DateTime: 20-11-18 12:07:27 <br><br>
 
-구스 반 산트(#GusVanSant)와 알레산드로 미켈레(#Alessandro Michele)가 디렉팅하고, 실비아 칼데로니(#SilviaCalderoni) 및 스페셜 게스트가 참여한 <끝나지 않는 무언가의 서곡(#GucciOuverture Of Something That Never Ended)>의 최신 에피소드를 모두 만나보세요.
+구스 반 산트(#GusVanSant)와 알레산드로 미켈레(#Alessandro Michele)가 디렉팅하고, 실비아 칼데로니(#SilviaCalderoni) 및 스페셜 게스트가 참여한 &lt;끝나지 않는 무언가의 서곡(#GucciOuverture Of Something That Never Ended)&gt;의 최신 에피소드를 모두 만나보세요.
 [https://t.co/PRuWmO3Rga](https://t.co/PRuWmO3Rga){:target="_blank"}
 <br>User Name:  gucci
 <br>DateTime: 20-11-16 16:04:15 <br><br>
 
-구스 반 산트(#GusVanSant)와 알레산드로 미켈레(#Alessandro Michele)가 디렉팅하고, 실비아 칼데로니(#SilviaCalderoni) 및 스페셜 게스트가 참여한 <끝나지 않는 무언가의 서곡(#GucciOuverture Of Something That Never Ended)>의 최신 에피소드를 모두 만나보세요.
+구스 반 산트(#GusVanSant)와 알레산드로 미켈레(#Alessandro Michele)가 디렉팅하고, 실비아 칼데로니(#SilviaCalderoni) 및 스페셜 게스트가 참여한 &lt;끝나지 않는 무언가의 서곡(#GucciOuverture Of Something That Never Ended)&gt;의 최신 에피소드를 모두 만나보세요.
 [https://t.co/PRuWmO3Rga](https://t.co/PRuWmO3Rga){:target="_blank"}
 <br>User Name:  gucci
 <br>DateTime: 20-11-16 16:04:15 <br><br>
@@ -669,14 +669,14 @@ Korea Open Access Journals [https://t.co/Q7PIiUja4A](https://t.co/Q7PIiUja4A){:t
 <br>User Name:  sunday__julie
 <br>DateTime: 20-11-13 14:01:47 <br><br>
 
-<당근마켓이 초기 유저 1000명을 모은 방법>
+&lt;당근마켓이 초기 유저 1000명을 모은 방법&gt;
 
 요즘 나의 최대고민. 지난 달 시범 런칭한 &amp; 다음달에 정식오픈하는 서비스 초기 가입자를 어떻게 모을까? 다양한 고민을 하고 있는데 좋은 힌트 &amp; 용기를 주는 글이네요
 [https://t.co/jL2tWIOt40](https://t.co/jL2tWIOt40){:target="_blank"}
 <br>User Name:  nova_taurus_7
 <br>DateTime: 20-11-13 10:47:35 <br><br>
 
-내가 들었던 최고의 취업/승진 조언은 “내가 가고 싶어하는 위치의 옷을 입어라(you should dress up whom you want to be)” 였다. 학생때 부터 그 이후 버튼셔트(와이셔츠) + 스포츠코트(마이/자켓/블레이저) + 회색 바지 + 구두 에서 벗어날 수 없게 되었다.
+내가 들었던 최고의 취업/승진 조언은 "내가 가고 싶어하는 위치의 옷을 입어라(you should dress up whom you want to be)" 였다. 학생때 부터 그 이후 버튼셔트(와이셔츠) + 스포츠코트(마이/자켓/블레이저) + 회색 바지 + 구두 에서 벗어날 수 없게 되었다.
 <br>User Name:  7riday
 <br>DateTime: 20-11-13 10:10:46 <br><br>
 
@@ -756,7 +756,7 @@ CB인사이츠가 만든 언번들링 하버드 그래픽. 대학교육의 많�
 <br>User Name:  jerry0906
 <br>DateTime: 20-11-07 00:29:07 <br><br>
 
-<안국, 소공헌>
+&lt;안국, 소공헌&gt;
 500년쯤 되어 보이는 창덕궁 은행나무를 배경 삼은 스웨디쉬 다이닝 카페. 비록 핫플 답게 북적 거렸지만 다해가는 가을을 온전히 누리기에 완벽한 곳이었다. [https://t.co/kVpq6eW0eb](https://t.co/kVpq6eW0eb){:target="_blank"}
 <br>User Name:  WalkwithMoi
 <br>DateTime: 20-11-05 08:19:37 <br><br>
@@ -794,7 +794,7 @@ CB인사이츠가 만든 언번들링 하버드 그래픽. 대학교육의 많�
 <br>User Name:  beingsince
 <br>DateTime: 20-11-01 15:09:27 <br><br>
 
-1989년 11월 국제극장에서 그의 영화 <언터처블스>를 처음 보았다. 젊은 날의 그는 스파이였고, 나이가 든 이후로는 인디아나 존스의 아버지였지만, 내 기속 속의 그는 스코틀랜드 출신 작가 윌리엄 포레스트로 남아있다. 자말 월리스는 그의 마지막 작품 <Sunset>의 서문을 뭐라고 썼을까. RIP. [https://t.co/iHpVlpod9a](https://t.co/iHpVlpod9a){:target="_blank"}
+1989년 11월 국제극장에서 그의 영화 &lt;언터처블스&gt;를 처음 보았다. 젊은 날의 그는 스파이였고, 나이가 든 이후로는 인디아나 존스의 아버지였지만, 내 기속 속의 그는 스코틀랜드 출신 작가 윌리엄 포레스트로 남아있다. 자말 월리스는 그의 마지막 작품 &lt;Sunset&gt;의 서문을 뭐라고 썼을까. RIP. [https://t.co/iHpVlpod9a](https://t.co/iHpVlpod9a){:target="_blank"}
 <br>User Name:  hubris2020
 <br>DateTime: 20-11-01 14:59:13 <br><br>
 
@@ -829,7 +829,7 @@ Visual Studio Code는 2019년 기준 텍스트 에디터 점유율 50퍼센트�
 <br>User Name:  JongwonKim
 <br>DateTime: 20-10-30 14:16:18 <br><br>
 
-조귀동 기자가 타국가 대비 한국의 상위2~10% 중상층 자산집중도 높기에 <세습중산층사회> 맞다고 주장. 하지만 WID 통계는 김낙년(2016)에 기반한 개인자산 불평등 추정임. 가구단위 불평등과 다름. 개인자산은 부부라도 자산불평등이 있다고 봄. 한국 현실과 맞지 않음. 1/ [https://t.co/NqREypu0DW](https://t.co/NqREypu0DW){:target="_blank"}
+조귀동 기자가 타국가 대비 한국의 상위2~10% 중상층 자산집중도 높기에 &lt;세습중산층사회&gt; 맞다고 주장. 하지만 WID 통계는 김낙년(2016)에 기반한 개인자산 불평등 추정임. 가구단위 불평등과 다름. 개인자산은 부부라도 자산불평등이 있다고 봄. 한국 현실과 맞지 않음. 1/ [https://t.co/NqREypu0DW](https://t.co/NqREypu0DW){:target="_blank"}
 <br>User Name:  KimSovidence
 <br>DateTime: 20-10-29 22:32:15 <br><br>
 
@@ -837,7 +837,7 @@ Visual Studio Code는 2019년 기준 텍스트 에디터 점유율 50퍼센트�
 <br>User Name:  viawriter
 <br>DateTime: 20-10-29 04:56:26 <br><br>
 
-돌아오는 주말, 제주에서 열리는 <산방산 아트북페어>에 갑니다. 제주와 어울리는 엽서,포스터 그리고 독립출판물을 소량 가져갑니다. 10월 30일-11월1일/ 12시-6시 / 자세한 안내와 가져갈 그림들은 블로그에 적었습니다. 감사합니다!  ([https://t.co/GvviJCXHjl)](https://t.co/GvviJCXHjl)){:target="_blank"} [https://t.co/WQd5Sg1Of7](https://t.co/WQd5Sg1Of7){:target="_blank"}
+돌아오는 주말, 제주에서 열리는 &lt;산방산 아트북페어&gt;에 갑니다. 제주와 어울리는 엽서,포스터 그리고 독립출판물을 소량 가져갑니다. 10월 30일-11월1일/ 12시-6시 / 자세한 안내와 가져갈 그림들은 블로그에 적었습니다. 감사합니다!  ([https://t.co/GvviJCXHjl)](https://t.co/GvviJCXHjl)){:target="_blank"} [https://t.co/WQd5Sg1Of7](https://t.co/WQd5Sg1Of7){:target="_blank"}
 <br>User Name:  wheeleepainting
 <br>DateTime: 20-10-27 12:41:03 <br><br>
 
@@ -874,7 +874,7 @@ Visual Studio Code는 2019년 기준 텍스트 에디터 점유율 50퍼센트�
 <br>User Name:  sungchi
 <br>DateTime: 20-10-17 06:48:45 <br><br>
 
-“Raining to Hear” は本日発売です。
+"Raining to Hear" は本日発売です。
 Tower Recordsの各店舗、雨と休日、代官山蔦屋書店などで取扱中です。
 この作品に携わってくれた皆様、ありがとうございました。
 取扱店舗についてはこちらをご覧ください。
@@ -916,10 +916,10 @@ Live 오픈스튜디오
 <br>DateTime: 20-10-15 14:15:29 <br><br>
 
 트친님 명언: 메뉴는 (사이드포함) 피보나치 수열대로 주문해라
-2명-> 3개
-3명-> 5개
-5명-> 8개 
-8명-> 13개
+2명-&gt; 3개
+3명-&gt; 5개
+5명-&gt; 8개 
+8명-&gt; 13개
 <br>User Name:  Linku13
 <br>DateTime: 20-10-15 07:28:35 <br><br>
 
@@ -931,7 +931,7 @@ Live 오픈스튜디오
 <br>User Name:  berrycake94
 <br>DateTime: 20-10-14 06:02:00 <br><br>
 
-<캠핑을 좋아하세요> coming soon
+&lt;캠핑을 좋아하세요&gt; coming soon
 [https://t.co/yY3v2eFvuE](https://t.co/yY3v2eFvuE){:target="_blank"} [https://t.co/wOU3W1IxwA](https://t.co/wOU3W1IxwA){:target="_blank"}
 <br>User Name:  kkobbiflowerain
 <br>DateTime: 20-10-14 04:46:52 <br><br>
@@ -956,7 +956,7 @@ Live 오픈스튜디오
 <br>User Name:  estima7
 <br>DateTime: 20-10-09 08:31:33 <br><br>
 
-넷플릭스계정있는사람들은 <나의 문어 선생님>을 봐주세요 자연다큐찍던사람이 현타로 일 쉬다 바닷속 문어친구만나고 친해지고 그만 문어 과몰입오타쿠가 돼버리는내용 [https://t.co/TTDJQqdeUb](https://t.co/TTDJQqdeUb){:target="_blank"}
+넷플릭스계정있는사람들은 &lt;나의 문어 선생님&gt;을 봐주세요 자연다큐찍던사람이 현타로 일 쉬다 바닷속 문어친구만나고 친해지고 그만 문어 과몰입오타쿠가 돼버리는내용 [https://t.co/TTDJQqdeUb](https://t.co/TTDJQqdeUb){:target="_blank"}
 <br>User Name:  sithclare
 <br>DateTime: 20-10-09 06:20:19 <br><br>
 
@@ -1003,7 +1003,7 @@ Live 오픈스튜디오
 <br>User Name:  lrlwatch1
 <br>DateTime: 20-10-07 01:48:32 <br><br>
 
-이번 주말에 넷플릭스에서 <에밀리, 파리에 가다>를 다 봤는데, 회사 일이 저렇게 (약간의 고생만 감수하면) 술술 풀리면 얼마나 좋을까 싶어 잠시 부러운 마음이 들었다. 이런 장르의 특징은 우리나라 고전소설과 꽤 비슷한데 우연히 만나는 귀인의 도움과 권선징악, 언제나 해피엔딩이라는 점에서...
+이번 주말에 넷플릭스에서 &lt;에밀리, 파리에 가다&gt;를 다 봤는데, 회사 일이 저렇게 (약간의 고생만 감수하면) 술술 풀리면 얼마나 좋을까 싶어 잠시 부러운 마음이 들었다. 이런 장르의 특징은 우리나라 고전소설과 꽤 비슷한데 우연히 만나는 귀인의 도움과 권선징악, 언제나 해피엔딩이라는 점에서...
 <br>User Name:  shinhh
 <br>DateTime: 20-10-06 20:07:00 <br><br>
 
@@ -1043,11 +1043,11 @@ Tesima Art Museum (니시자와 류에, 2011)
 <br>User Name:  soohyoun
 <br>DateTime: 20-10-04 09:37:08 <br><br>
 
-“부분적으로 인터넷은 진자운동처럼 동작을 반복하는 수준으로 오래되어버렸습니다. 사람들은 매번 십년 전에 풀었던 문제를 다시 해결하고 있습니다.” 언제나 신나게 읽게되는 베네딕트 에반스의 글. 디지털 환경의 텍스트 콘텐츠 유통과 미래를 가늠해보는 짧지만 좋은 글. [https://t.co/ZWuRh5holH](https://t.co/ZWuRh5holH){:target="_blank"}
+"부분적으로 인터넷은 진자운동처럼 동작을 반복하는 수준으로 오래되어버렸습니다. 사람들은 매번 십년 전에 풀었던 문제를 다시 해결하고 있습니다." 언제나 신나게 읽게되는 베네딕트 에반스의 글. 디지털 환경의 텍스트 콘텐츠 유통과 미래를 가늠해보는 짧지만 좋은 글. [https://t.co/ZWuRh5holH](https://t.co/ZWuRh5holH){:target="_blank"}
 <br>User Name:  rumious
 <br>DateTime: 20-10-04 07:36:31 <br><br>
 
-주말에 놓치기 아까운 책. <배달의민족은 배달하지 않는다> 한국형 플랫폼 노동 현장의 목소리를 생생히 전달한 르포형 이론서라 생각합니다. 참 잘 쓰시네요. 배달 음식을 드시는 모든 분들께 추천합니다.
+주말에 놓치기 아까운 책. &lt;배달의민족은 배달하지 않는다&gt; 한국형 플랫폼 노동 현장의 목소리를 생생히 전달한 르포형 이론서라 생각합니다. 참 잘 쓰시네요. 배달 음식을 드시는 모든 분들께 추천합니다.
 [https://t.co/VFuFPr4FqP](https://t.co/VFuFPr4FqP){:target="_blank"} [https://t.co/cewxBCxKqA](https://t.co/cewxBCxKqA){:target="_blank"}
 <br>User Name:  TellYouMore
 <br>DateTime: 20-10-04 06:34:16 <br><br>
@@ -1064,7 +1064,7 @@ Tesima Art Museum (니시자와 류에, 2011)
 <br>User Name:  KimSovidence
 <br>DateTime: 20-10-03 21:11:05 <br><br>
 
-베이징판 첨밀밀이라고 해서 넷플서 본 영화<먼 훗날 우리>. 가벼운 맘으로 보려다 휴지 한 통을 다 써버리고 말았다.ㅠㅠ 인생에서 가장 힘들고 자존감이 바닥 칠 때 일생일대의 연인을 만난다는 건 축복인지 불행인지..아니면 하늘의 시험인지.. 사랑도 타이밍이 정말 중요하단걸 절감. [https://t.co/bdzz7ThjtX](https://t.co/bdzz7ThjtX){:target="_blank"}
+베이징판 첨밀밀이라고 해서 넷플서 본 영화&lt;먼 훗날 우리&gt;. 가벼운 맘으로 보려다 휴지 한 통을 다 써버리고 말았다.ㅠㅠ 인생에서 가장 힘들고 자존감이 바닥 칠 때 일생일대의 연인을 만난다는 건 축복인지 불행인지..아니면 하늘의 시험인지.. 사랑도 타이밍이 정말 중요하단걸 절감. [https://t.co/bdzz7ThjtX](https://t.co/bdzz7ThjtX){:target="_blank"}
 <br>User Name:  avantchina
 <br>DateTime: 20-10-03 14:57:53 <br><br>
 
@@ -1074,7 +1074,7 @@ Tesima Art Museum (니시자와 류에, 2011)
 
 내 안에도 나무가 자리 잡고 있었다...❣️
 #아이유(#IU)와 함께 떠나는 숲의 여행🌲 
-<#나무야나무야> 2부 - 제주 청수 곶자왈
+&lt;#나무야나무야&gt; 2부 - 제주 청수 곶자왈
 10월 3일(토) 밤 9시 40분, KBS 1TV [https://t.co/DufrHZm7Hb](https://t.co/DufrHZm7Hb){:target="_blank"}
 <br>User Name:  MyloveKBS
 <br>DateTime: 20-10-03 03:00:00 <br><br>
@@ -1089,7 +1089,7 @@ Tesima Art Museum (니시자와 류에, 2011)
 이미 김밥은 아니지 않나란 생각이 들면 지는거임.
 
 일단 이건 미친놈 맞음.
-애 입맛이다 + 짠 거 좋아한다 + Msg 좋아한다 + 김밥도 좋아한다 < 를 위해 나온 제품 그 자체. [https://t.co/hcmN9hjn06](https://t.co/hcmN9hjn06){:target="_blank"}
+애 입맛이다 + 짠 거 좋아한다 + Msg 좋아한다 + 김밥도 좋아한다 &lt; 를 위해 나온 제품 그 자체. [https://t.co/hcmN9hjn06](https://t.co/hcmN9hjn06){:target="_blank"}
 <br>User Name:  goodssalhapssal
 <br>DateTime: 20-10-02 12:35:57 <br><br>
 
@@ -1115,7 +1115,7 @@ Tesima Art Museum (니시자와 류에, 2011)
 <br>User Name:  yummagaret
 <br>DateTime: 20-09-30 11:51:58 <br><br>
 
-iOS14 위젯중에 젤 쓸만한건 “Siri 제안” 인듯
+iOS14 위젯중에 젤 쓸만한건 "Siri 제안" 인듯
 한화면에 세개 올려두면 딱 쓰는 앱들만 바꿔가며 중복없이 추천해줌 [https://t.co/P0yyLecTkZ](https://t.co/P0yyLecTkZ){:target="_blank"}
 <br>User Name:  xguru
 <br>DateTime: 20-09-30 04:55:53 <br><br>
@@ -1228,7 +1228,7 @@ iOS14 Back Tap 들어간거 써봤는데 너무 좋다! (비록 특허로 보호
 <br>User Name:  UandMeSong
 <br>DateTime: 20-09-18 07:43:04 <br><br>
 
-오늘 밤, <할머니의 먼 집>이 EBS에서 12시 50분에 방영됩니다. 🥰  벌써 이걸 찍은지 5년이 지났는데 이렇게 방영할 수 있어서 기쁘네요. 할머니 보고싶다😍😍😍 [https://t.co/1hLII9rvhM](https://t.co/1hLII9rvhM){:target="_blank"}
+오늘 밤, &lt;할머니의 먼 집&gt;이 EBS에서 12시 50분에 방영됩니다. 🥰  벌써 이걸 찍은지 5년이 지났는데 이렇게 방영할 수 있어서 기쁘네요. 할머니 보고싶다😍😍😍 [https://t.co/1hLII9rvhM](https://t.co/1hLII9rvhM){:target="_blank"}
 <br>User Name:  filmchefsohyun
 <br>DateTime: 20-09-18 06:12:06 <br><br>
 
@@ -1366,7 +1366,7 @@ this vs that - 웹 개발 관련 헷갈리는 개념&amp;기능 비교 정리한
 <br>User Name:  sepiroot
 <br>DateTime: 20-08-21 01:47:30 <br><br>
 
-이 책을 모든 직장인들의 필독서로 지정해야한다.. 김호 <직장인에서 직업인으로> 커리어 고민있으신 분들은 꼭 읽어보시길. [https://t.co/DCquie0TzT](https://t.co/DCquie0TzT){:target="_blank"}
+이 책을 모든 직장인들의 필독서로 지정해야한다.. 김호 &lt;직장인에서 직업인으로&gt; 커리어 고민있으신 분들은 꼭 읽어보시길. [https://t.co/DCquie0TzT](https://t.co/DCquie0TzT){:target="_blank"}
 <br>User Name:  journey_julie
 <br>DateTime: 20-08-20 01:13:46 <br><br>
 
@@ -1390,7 +1390,7 @@ How to build a 2 trillion dollar company: #Apple [https://t.co/8RBfFoZYjz](https
 <br>User Name:  Upgrade_MyLife
 <br>DateTime: 20-08-17 11:01:29 <br><br>
 
-이문세, 이소라의 <슬픈 사랑의 노래>. 작곡-작사를 한 이영훈씨가 스스로 대표작으로 생각하는 곡이라고. 영상은 몇 주 전의 유희열의 스케치북. 지난 주에는 운전하며 틀어놓고 대략 스무 번 정도 따라 부름 🎤 [https://t.co/qGUsWhHb1F](https://t.co/qGUsWhHb1F){:target="_blank"}
+이문세, 이소라의 &lt;슬픈 사랑의 노래&gt;. 작곡-작사를 한 이영훈씨가 스스로 대표작으로 생각하는 곡이라고. 영상은 몇 주 전의 유희열의 스케치북. 지난 주에는 운전하며 틀어놓고 대략 스무 번 정도 따라 부름 🎤 [https://t.co/qGUsWhHb1F](https://t.co/qGUsWhHb1F){:target="_blank"}
 <br>User Name:  urban_lab
 <br>DateTime: 20-08-16 11:52:19 <br><br>
 
@@ -1488,7 +1488,7 @@ can we talk about the editing in this Nike commercial holy crap [https://t.co/Vu
 <br>User Name:  enie_latente
 <br>DateTime: 20-07-29 11:02:17 <br><br>
 
-사실 90년대 J-Pop 바이브는 역시 피치카토 파이브야—라고 생각했었다. [https://t.co/T4ur7g1SER](https://t.co/T4ur7g1SER){:target="_blank"}
+사실 90년대 J-Pop 바이브는 역시 피치카토 파이브야--라고 생각했었다. [https://t.co/T4ur7g1SER](https://t.co/T4ur7g1SER){:target="_blank"}
 <br>User Name:  Sudokido
 <br>DateTime: 20-07-28 13:12:50 <br><br>
 
@@ -1510,7 +1510,7 @@ A friend of mine asked me how I go about K-BBQ as a Korean. Here's my knowledge 
 <br>User Name:  sunday__julie
 <br>DateTime: 20-07-26 06:07:13 <br><br>
 
-첫 직장을 다닐 때, 악착같이 돈을 모았었다. 그때 동료 중 하나가 “ㅇㅇ씨는 검소하신 거 같아요~”라고 말하며 비꼬는 말을 하길래. “아 저는 소확행말고 대확행 좋아해서요. 집 사고 차 살 거예요.” 라고 말했다. 그는 월급날이 지나면 이쁜 옷과 가방을 들고왔지만, 나는 퇴사하며 집을 샀다. [https://t.co/LfQ3S3uVZg](https://t.co/LfQ3S3uVZg){:target="_blank"}
+첫 직장을 다닐 때, 악착같이 돈을 모았었다. 그때 동료 중 하나가 "ㅇㅇ씨는 검소하신 거 같아요~"라고 말하며 비꼬는 말을 하길래. "아 저는 소확행말고 대확행 좋아해서요. 집 사고 차 살 거예요." 라고 말했다. 그는 월급날이 지나면 이쁜 옷과 가방을 들고왔지만, 나는 퇴사하며 집을 샀다. [https://t.co/LfQ3S3uVZg](https://t.co/LfQ3S3uVZg){:target="_blank"}
 <br>User Name:  cozy_everywhere
 <br>DateTime: 20-07-25 14:03:53 <br><br>
 
@@ -1518,7 +1518,7 @@ A friend of mine asked me how I go about K-BBQ as a Korean. Here's my knowledge 
 <br>User Name:  sunday__julie
 <br>DateTime: 20-07-25 12:50:30 <br><br>
 
-2020년이 아직 7개월도 지나지 않았지만, 올해 최고의 책을 만났다. 로버트 아이거가 쓴 <디즈니만이 하는 것> 원제는 The ride of a lifetime. [https://t.co/WsRtTnOEIg](https://t.co/WsRtTnOEIg){:target="_blank"}
+2020년이 아직 7개월도 지나지 않았지만, 올해 최고의 책을 만났다. 로버트 아이거가 쓴 &lt;디즈니만이 하는 것&gt; 원제는 The ride of a lifetime. [https://t.co/WsRtTnOEIg](https://t.co/WsRtTnOEIg){:target="_blank"}
 <br>User Name:  January19_
 <br>DateTime: 20-07-22 12:46:38 <br><br>
 
@@ -1651,11 +1651,11 @@ by Sho Shibuya [https://t.co/j2F0owB7X1](https://t.co/j2F0owB7X1){:target="_blan
 <br>User Name:  shinhh
 <br>DateTime: 20-06-30 21:09:26 <br><br>
 
-지금까지도 궁금해하시는 강릉 숙소는 안목해변 < 당신의 안목 > 입니다. 이 트윗 이후에 오는 강릉 숙소 문의는 더 이상 답 안할게용. ☺️🤍 감사합니다아 ~ [https://t.co/dLrvwes4mt](https://t.co/dLrvwes4mt){:target="_blank"}
+지금까지도 궁금해하시는 강릉 숙소는 안목해변 &lt; 당신의 안목 &gt; 입니다. 이 트윗 이후에 오는 강릉 숙소 문의는 더 이상 답 안할게용. ☺️🤍 감사합니다아 ~ [https://t.co/dLrvwes4mt](https://t.co/dLrvwes4mt){:target="_blank"}
 <br>User Name:  menutoxxther
 <br>DateTime: 20-06-30 10:26:32 <br><br>
 
-한순간 스치기만 해도 결코 잊을 수 없는 그림, 리키 무히카(Ricky Mujica)의 <멀티태스킹(Multitasking)>
+한순간 스치기만 해도 결코 잊을 수 없는 그림, 리키 무히카(Ricky Mujica)의 &lt;멀티태스킹(Multitasking)&gt;
 
 "멀티태스킹은 워킹맘에 대한 나의 경의다."
 
@@ -1726,7 +1726,7 @@ Sandra Oh + Sharon Choi + PARASITE
 <br>User Name:  maindish1
 <br>DateTime: 20-06-16 13:55:04 <br><br>
 
-요즘 자주 쓰는 초록색들이다. 옐로이시 그린, 샙 그린, 올리브 그린, 코발트 터쿼이즈 그린, 그린 라이트, 시나바 그린 딥, 퍼머넌트 그린 페일 등등. 이맘때쯤 초록색을 보면 파블로 네루다의 이 시행이 생각난다. “녹색은 침묵이었다. 빛은 촉촉하게 젖었고, 6월은 나비처럼 파르르 떨렸다.” [https://t.co/GzNAGKm1lG](https://t.co/GzNAGKm1lG){:target="_blank"}
+요즘 자주 쓰는 초록색들이다. 옐로이시 그린, 샙 그린, 올리브 그린, 코발트 터쿼이즈 그린, 그린 라이트, 시나바 그린 딥, 퍼머넌트 그린 페일 등등. 이맘때쯤 초록색을 보면 파블로 네루다의 이 시행이 생각난다. "녹색은 침묵이었다. 빛은 촉촉하게 젖었고, 6월은 나비처럼 파르르 떨렸다." [https://t.co/GzNAGKm1lG](https://t.co/GzNAGKm1lG){:target="_blank"}
 <br>User Name:  woojihyun_
 <br>DateTime: 20-06-16 10:26:23 <br><br>
 
@@ -1870,7 +1870,7 @@ Nice reflective article from @benedictevans on why VR hasn’t taken off in what
 <br>User Name:  rossdawson
 <br>DateTime: 20-05-11 12:16:53 <br><br>
 
-점심 먹으면서 <ebs 건축탐구 집>을 유튜브 크롬캐스트로 보는 게 매일의 즐거움인데 오늘 본 이 집 진짜 기절이다. 오래되고 아름다운 것을 사랑한다면 꼭 보시라. 두번 보시라. 
+점심 먹으면서 &lt;ebs 건축탐구 집&gt;을 유튜브 크롬캐스트로 보는 게 매일의 즐거움인데 오늘 본 이 집 진짜 기절이다. 오래되고 아름다운 것을 사랑한다면 꼭 보시라. 두번 보시라. 
 
 [https://t.co/VGhQgp5Ick](https://t.co/VGhQgp5Ick){:target="_blank"}
 <br>User Name:  crocpub
@@ -1945,7 +1945,7 @@ Nice reflective article from @benedictevans on why VR hasn’t taken off in what
 <br>User Name:  romanflare
 <br>DateTime: 20-04-30 01:29:08 <br><br>
 
-미셸 오바마 다큐멘터리 <비커밍>, 5월 6일 넷플릭스 공개. 동명 자서전 바탕, 미셸 오바마의 출간 투어에서 만난 독자들과의 이야기, 전 영부인으로서의 삶을 담았습니다.
+미셸 오바마 다큐멘터리 &lt;비커밍&gt;, 5월 6일 넷플릭스 공개. 동명 자서전 바탕, 미셸 오바마의 출간 투어에서 만난 독자들과의 이야기, 전 영부인으로서의 삶을 담았습니다.
 
 [https://t.co/oictRb2WKP](https://t.co/oictRb2WKP){:target="_blank"}
 <br>User Name:  tailorcontents
@@ -2006,7 +2006,7 @@ BBC 5 Live Kermode and Mayo’s Film Review 진행자 사이먼 마요님이 추
 <br>User Name:  avecalice
 <br>DateTime: 20-04-18 04:48:29 <br><br>
 
-이다혜의 21세기 씨네픽스 팟캐스트 듣고 <뉴욕 라이브러리에서> 다시 보는 중인데 뭐랄까... 그냥 배경음악(?)으로 틀어놓기에도 좋군.
+이다혜의 21세기 씨네픽스 팟캐스트 듣고 &lt;뉴욕 라이브러리에서&gt; 다시 보는 중인데 뭐랄까... 그냥 배경음악(?)으로 틀어놓기에도 좋군.
 <br>User Name:  urban_lab
 <br>DateTime: 20-04-14 14:52:45 <br><br>
 
@@ -2039,7 +2039,7 @@ What coronavirus means for the global economy | Ray Dalio [https://t.co/u4gaPcvH
 <br>User Name:  mmoo___a
 <br>DateTime: 20-04-08 20:52:28 <br><br>
 
-2018년 노벨 문학상 수상 작가 올가 토카르추크의 <방랑자들> 읽는 중인데 약간 미칠거 같다 너무 좋아서.. 아까워서 못 읽겠어 심장이 막 쪼그라들어 ㅠㅠ [https://t.co/ceiM8ZJG5p](https://t.co/ceiM8ZJG5p){:target="_blank"}
+2018년 노벨 문학상 수상 작가 올가 토카르추크의 &lt;방랑자들&gt; 읽는 중인데 약간 미칠거 같다 너무 좋아서.. 아까워서 못 읽겠어 심장이 막 쪼그라들어 ㅠㅠ [https://t.co/ceiM8ZJG5p](https://t.co/ceiM8ZJG5p){:target="_blank"}
 <br>User Name:  mgmt83
 <br>DateTime: 20-04-06 10:17:53 <br><br>
 
@@ -2096,7 +2096,7 @@ What coronavirus means for the global economy | Ray Dalio [https://t.co/u4gaPcvH
 <br>User Name:  Beheeve
 <br>DateTime: 20-03-29 12:59:30 <br><br>
 
-윈튼 경을 티비 쇼에 초대해 자신이 구한 아이들과 만나는 자리를 가졌고 그 영상은 여기 > [https://t.co/udRhYuOSnU](https://t.co/udRhYuOSnU){:target="_blank"}
+윈튼 경을 티비 쇼에 초대해 자신이 구한 아이들과 만나는 자리를 가졌고 그 영상은 여기 &gt; [https://t.co/udRhYuOSnU](https://t.co/udRhYuOSnU){:target="_blank"}
 보다보면 눈물남...
 <br>User Name:  Special_Olivia
 <br>DateTime: 20-03-29 11:56:03 <br><br>
@@ -2109,7 +2109,7 @@ What coronavirus means for the global economy | Ray Dalio [https://t.co/u4gaPcvH
 
 2018년 베스트 책에 한 권을 추가해본다. 그때 내가 잊고 있었음.
 
-<알고리즘, 인생을 계산하다> 브라이언 크리스천
+&lt;알고리즘, 인생을 계산하다&gt; 브라이언 크리스천
  
 ... 최근에 다시 읽었는데 훌륭합니다 정말.
 <br>User Name:  snailzzang
@@ -2177,7 +2177,7 @@ Watercolor by Richard Thorn.
 <br>User Name:  okkasionally
 <br>DateTime: 20-03-25 19:03:39 <br><br>
 
-진짜 김영하 작가님은 내가 되고 싶은 것의 총체적 이데아. 똑똑하고 재밌는 이야기꾼. 합법적으로 무료로 볼 수 있는 다시보기 링크가 존재하다니! <대화의희열2> 김영하 2편
+진짜 김영하 작가님은 내가 되고 싶은 것의 총체적 이데아. 똑똑하고 재밌는 이야기꾼. 합법적으로 무료로 볼 수 있는 다시보기 링크가 존재하다니! &lt;대화의희열2&gt; 김영하 2편
 [https://t.co/EUJ9hxYfBM](https://t.co/EUJ9hxYfBM){:target="_blank"}
 <br>User Name:  practical_ideal
 <br>DateTime: 20-03-25 12:59:28 <br><br>
@@ -2208,7 +2208,7 @@ No.14 &amp; best restaurant in Korea 강민구 셰프(mingles) [https://t.co/lt6
 <br>User Name:  _DAILY_KIM
 <br>DateTime: 20-03-24 06:33:21 <br><br>
 
-훌루 <더 그레이트> 트레일러. 독일 출신의 공주 조피가 무능한 남편 표토르 3세를 대신해 러시아를 지배하며 예카테리나 대제(Catherine The Great)가 되는 과정을 그린 미니시리즈. 엘르 패닝 &amp; 니콜라스 홀트 주연. <더 페이버릿> 토니 맥나마라 각본. 5월 15일 공개. [https://t.co/Dc7nyLFeqx](https://t.co/Dc7nyLFeqx){:target="_blank"}
+훌루 &lt;더 그레이트&gt; 트레일러. 독일 출신의 공주 조피가 무능한 남편 표토르 3세를 대신해 러시아를 지배하며 예카테리나 대제(Catherine The Great)가 되는 과정을 그린 미니시리즈. 엘르 패닝 &amp; 니콜라스 홀트 주연. &lt;더 페이버릿&gt; 토니 맥나마라 각본. 5월 15일 공개. [https://t.co/Dc7nyLFeqx](https://t.co/Dc7nyLFeqx){:target="_blank"}
 <br>User Name:  tailorcontents
 <br>DateTime: 20-03-24 05:00:51 <br><br>
 
@@ -2216,7 +2216,7 @@ No.14 &amp; best restaurant in Korea 강민구 셰프(mingles) [https://t.co/lt6
 <br>User Name:  wherethesunset
 <br>DateTime: 20-03-24 04:56:18 <br><br>
 
-<배달의 민족>이나 <타다> 같은 비지니스가 혁신적이지 않다며 반감을 갖는 사람들이 많다. 새로운 것에 대한 반감, 잘 모르는 것에 대한 경계심, 그들이 누리는 이익에 대한 시기심이 뒤섞인 복잡한 감정일 것이다. 혁신의 가치를 정하는 것은 그들이 아니라 결국 시장일 뿐이다.
+&lt;배달의 민족&gt;이나 &lt;타다&gt; 같은 비지니스가 혁신적이지 않다며 반감을 갖는 사람들이 많다. 새로운 것에 대한 반감, 잘 모르는 것에 대한 경계심, 그들이 누리는 이익에 대한 시기심이 뒤섞인 복잡한 감정일 것이다. 혁신의 가치를 정하는 것은 그들이 아니라 결국 시장일 뿐이다.
 <br>User Name:  hubris2020
 <br>DateTime: 20-03-24 04:27:13 <br><br>
 
@@ -2302,7 +2302,7 @@ novel: 신종의 (소설 novel이랑 철자가 같음)
 <br>User Name:  hawaii_delivery
 <br>DateTime: 20-03-14 15:09:52 <br><br>
 
-제주 함덕의 숙소 <와온> 제주의 돌담집 모양이지만 내부는 모던하고 고급스러워 보인다. 아무 생각 없이 며칠 머물다 오면 좋겠다. [https://t.co/upfEaEHZYZ](https://t.co/upfEaEHZYZ){:target="_blank"}
+제주 함덕의 숙소 &lt;와온&gt; 제주의 돌담집 모양이지만 내부는 모던하고 고급스러워 보인다. 아무 생각 없이 며칠 머물다 오면 좋겠다. [https://t.co/upfEaEHZYZ](https://t.co/upfEaEHZYZ){:target="_blank"}
 <br>User Name:  belleorchid_
 <br>DateTime: 20-03-14 13:39:03 <br><br>
 
@@ -2314,7 +2314,7 @@ novel: 신종의 (소설 novel이랑 철자가 같음)
 <br>User Name:  racommu
 <br>DateTime: 20-03-10 09:53:50 <br><br>
 
-안드레스 솔라노의 <한국에 삽니다>. 자의식 강하고 섬세한 콜롬비아 출신의 작가가 한국 아내와 서울에 사는 이야기를 썼다. 전체적으로 아름답고 가끔 가슴을 울린다. 서평을 썼는데 마지막 부분에서 눈시울이 붉어졌다고 했다. 좋은 책이다. 많이 읽히고 팔렸으면 좋겠다. [https://t.co/XeiolGc5OG](https://t.co/XeiolGc5OG){:target="_blank"}
+안드레스 솔라노의 &lt;한국에 삽니다&gt;. 자의식 강하고 섬세한 콜롬비아 출신의 작가가 한국 아내와 서울에 사는 이야기를 썼다. 전체적으로 아름답고 가끔 가슴을 울린다. 서평을 썼는데 마지막 부분에서 눈시울이 붉어졌다고 했다. 좋은 책이다. 많이 읽히고 팔렸으면 좋겠다. [https://t.co/XeiolGc5OG](https://t.co/XeiolGc5OG){:target="_blank"}
 <br>User Name:  hubris2020
 <br>DateTime: 20-03-08 14:33:50 <br><br>
 
@@ -2454,7 +2454,7 @@ AI 비즈니스가 전통적인 소프트웨어 산업과 다른점
 <br>User Name:  _travelkim
 <br>DateTime: 20-02-17 13:17:20 <br><br>
 
-춘천에 오시면 이 카페에 오셔야 합니다! <카페드220볼트> 너무 멋있어요!! [https://t.co/Rd5NkyDPgc](https://t.co/Rd5NkyDPgc){:target="_blank"}
+춘천에 오시면 이 카페에 오셔야 합니다! &lt;카페드220볼트&gt; 너무 멋있어요!! [https://t.co/Rd5NkyDPgc](https://t.co/Rd5NkyDPgc){:target="_blank"}
 <br>User Name:  Cjenny514
 <br>DateTime: 20-02-17 03:42:33 <br><br>
 
@@ -2490,7 +2490,7 @@ AI 비즈니스가 전통적인 소프트웨어 산업과 다른점
 <br>User Name: ash_realize
 <br>DateTime: 20-02-11 22:28:45 <br><br>
 
-재밌게 읽은 경영 관련 책을 추천해 달라고 해서 고른 책들. 최고의 책은 역시 필 나이트의 <슈독>. 많은 사람의 ‘인생의 책’일텐데 내게도 그렇다. 그 다음은 브래드 스톤의 <아마존, 세상의 모든 것을 팝니다>과 테라오 켄의 <가자, 어디에도 없었던 방법으로>. 그 다음은 고만고만하다. [https://t.co/SWqsXxQ2EL](https://t.co/SWqsXxQ2EL){:target="_blank"}
+재밌게 읽은 경영 관련 책을 추천해 달라고 해서 고른 책들. 최고의 책은 역시 필 나이트의 &lt;슈독&gt;. 많은 사람의 ‘인생의 책’일텐데 내게도 그렇다. 그 다음은 브래드 스톤의 &lt;아마존, 세상의 모든 것을 팝니다&gt;과 테라오 켄의 &lt;가자, 어디에도 없었던 방법으로&gt;. 그 다음은 고만고만하다. [https://t.co/SWqsXxQ2EL](https://t.co/SWqsXxQ2EL){:target="_blank"}
 <br>User Name: hubris2020
 <br>DateTime: 20-02-11 16:10:13 <br><br>
 
@@ -2565,7 +2565,7 @@ OS X 시절에는 현재 출력 중인 소리를 그대로 녹음하기 위해�
 <br>User Name: BSoD_ktw
 <br>DateTime: 20-01-29 18:30:23 <br><br>
 
-팟캐스트 시작했습니다! 미국 정치 관심있는 분들 들어보시고 피드백 주세요. 팟빵, 아이튠즈, 스포티파이, 구글 플레이에서 “아메리카노2020”을 검색해보세요. 곧 아이오와 코커스와 민주당 후보들에 대한 에피소드도 업데이트 될 예정입니다. [https://t.co/ndWLIf9JnY](https://t.co/ndWLIf9JnY){:target="_blank"}
+팟캐스트 시작했습니다! 미국 정치 관심있는 분들 들어보시고 피드백 주세요. 팟빵, 아이튠즈, 스포티파이, 구글 플레이에서 "아메리카노2020"을 검색해보세요. 곧 아이오와 코커스와 민주당 후보들에 대한 에피소드도 업데이트 될 예정입니다. [https://t.co/ndWLIf9JnY](https://t.co/ndWLIf9JnY){:target="_blank"}
 <br>User Name: hyeyoungyou
 <br>DateTime: 20-01-28 00:27:57 <br><br>
 
@@ -2587,8 +2587,8 @@ OS X 시절에는 현재 출력 중인 소리를 그대로 녹음하기 위해�
 <br>DateTime: 20-01-26 07:39:49 <br><br>
 
 부자와 현금 [https://t.co/tf0gZdUI4w](https://t.co/tf0gZdUI4w){:target="_blank"} 
-“우리나라에서 현금만 들고 있는 건 외국인의 입장에서 봤을때 신흥국 통화에 롱포지션을 취한거죠. 그 종이에.” 
-“어떻게 보면 브라질 채권도 아니고 헤알화에  투자한 거랑 마찬가지죠.” 
+"우리나라에서 현금만 들고 있는 건 외국인의 입장에서 봤을때 신흥국 통화에 롱포지션을 취한거죠. 그 종이에." 
+"어떻게 보면 브라질 채권도 아니고 헤알화에  투자한 거랑 마찬가지죠." 
 플텍 트친님 트윗보고 봤는데 너무 와닿는 비유.
 <br>User Name: meinersommer
 <br>DateTime: 20-01-26 06:21:49 <br><br>
@@ -2601,7 +2601,7 @@ OS X 시절에는 현재 출력 중인 소리를 그대로 녹음하기 위해�
 <br>User Name: hubris2020
 <br>DateTime: 20-01-24 15:44:39 <br><br>
 
-부동산 가격이 급등하면서 그 동안 모은 1-3억 정도로 뭐라고 해야겠다고 조언을 구하는 30대 직장인 후배들이 크게 늘었다. 대화를 해보면 주택시장에 대한 기본적인 지식이 너무 부족하다. 감정평가사인 박성식이 쓴 <공간의 가치>를 추천한다. 드라이하지만 있을 건 다 있는 책이다.
+부동산 가격이 급등하면서 그 동안 모은 1-3억 정도로 뭐라고 해야겠다고 조언을 구하는 30대 직장인 후배들이 크게 늘었다. 대화를 해보면 주택시장에 대한 기본적인 지식이 너무 부족하다. 감정평가사인 박성식이 쓴 &lt;공간의 가치&gt;를 추천한다. 드라이하지만 있을 건 다 있는 책이다.
 <br>User Name: hubris2020
 <br>DateTime: 20-01-24 04:54:25 <br><br>
 
@@ -2753,7 +2753,7 @@ OS X 시절에는 현재 출력 중인 소리를 그대로 녹음하기 위해�
 <br>User Name: rumious
 <br>DateTime: 20-01-08 00:02:17 <br><br>
 
-넷플릭스 오리지널 <더 서클>. 참가자 전부 같은 건물에 살지만 자체 SNS로만 소통하며 탈락자를 결정. 그 과정에서 자신의 정체를 거짓으로 꾸밀 수도 있고 이를 향한 의심이 주요 소재가 된다. 참가자가 다양해 좋고 앞으로 어떻게 전개될지 궁금. 매주 수요일 업데이트. [https://t.co/UjkZ4rP2bn](https://t.co/UjkZ4rP2bn){:target="_blank"}
+넷플릭스 오리지널 &lt;더 서클&gt;. 참가자 전부 같은 건물에 살지만 자체 SNS로만 소통하며 탈락자를 결정. 그 과정에서 자신의 정체를 거짓으로 꾸밀 수도 있고 이를 향한 의심이 주요 소재가 된다. 참가자가 다양해 좋고 앞으로 어떻게 전개될지 궁금. 매주 수요일 업데이트. [https://t.co/UjkZ4rP2bn](https://t.co/UjkZ4rP2bn){:target="_blank"}
 <br>User Name: HAVAQQUQ
 <br>DateTime: 20-01-07 10:31:05 <br><br>
 
@@ -2797,6 +2797,6 @@ Notion Pokédex
 
 MIT와 하버드에서는 ‘어차피 다 해낼 수 없는 양의 과제와 요구사항을 내주는 것’이 일종의 교육방침이라고 한다. 폭풍처럼 몰아치는 상황을 겪고 이겨내면서 학생들이 시간을 경영하는 법과 삶에서 우선순위를 정하는 법을 몸소 터득할 수 있게 해준다는 의미이다.
 
-_양영은 <나를 발견하는 시간>
+_양영은 &lt;나를 발견하는 시간&gt;
 <br>User Name: megastro
 <br>DateTime: 20-01-01 06:52:31 <br><br>
