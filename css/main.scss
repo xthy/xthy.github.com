@@ -40,8 +40,7 @@ $on-:        800px;
 }
 
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import
-		url(https://cdn.jsdelivr.net/nanumsquare/1.0/nanumsquare.css),
+@import url(https://cdn.jsdelivr.net/nanumsquare/1.0/nanumsquare.css),
         "base",
         "layout",
         "syntax-highlighting"
