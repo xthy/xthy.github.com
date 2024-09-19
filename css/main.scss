@@ -38,18 +38,6 @@ $on-:        800px;
         @content;
     }
 }
-
-body {
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-}
-@media not all and (min-resolution:.001dpcm) { 
-    @supports (-webkit-appearance:none) {
-        body {
-            font-weight: 400;
-        }
-    }
-}
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import url(https://cdn.jsdelivr.net/nanumsquare/1.0/nanumsquare.css),
         "base",
