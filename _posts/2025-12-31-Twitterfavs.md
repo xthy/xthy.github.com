@@ -5,911 +5,707 @@ date:   2026-01-01 00:00:00
 category: Log
 ---
 
-낯설고도 익숙한 토마토 달갈 덮밥 만드는 법입니다. 라이스플랜이 출시 이후 덮밥류 먹는 게 무척 쉬워졌어요!☺
-
-토마토는 자연에서 얻을 수 있는 최고의 조미료인 거 같아요! 간단한 재료만으로 감칠맛이 확!
-
-녹색채소랑 같이 드세요🥬🥦 [https://t.co/vBnBSbivgA](https://t.co/vBnBSbivgA){:target="_blank"}
-<br>User Name:  evanlovesblack <br><br>
-
-🧭 서사적이고 놀라운 비주얼을 가진 게임을 찾고 계신가요?
-
-🚢 WILL: Follow The Light에서 신비로운 북해를 탐험하고 감정과 미스터리로 가득한 이야기를 발견하세요.
-
-🎮 오늘 Steam 위시리스트에 추가하세요:
-[https://t.co/BwOKkHGiM7](https://t.co/BwOKkHGiM7){:target="_blank"} [https://t.co/DokMwE065Z](https://t.co/DokMwE065Z){:target="_blank"}
-<br>User Name:  TomorrowHead_St <br><br>
-
-출시!
-
-가격은 29,900원
-
-예상보다 1만원 저렴하게 나옴. [https://t.co/NxLYUT1mHA](https://t.co/NxLYUT1mHA){:target="_blank"}
-<br>User Name:  haepojaeng <br><br>
-
-신라호텔이 10년째 교육하고 관리중인 제주 식당 리스트 공개… [https://t.co/Mo6s1Kga0Y](https://t.co/Mo6s1Kga0Y){:target="_blank"}
-<br>User Name:  makkiyom <br><br>
-
-너무 좋아서 6개월만에 다시간 발리 추천 타래 .. 🪽
-
-숙소/맛집/갈만한 곳 위주 ! [https://t.co/1VL8HguKKC](https://t.co/1VL8HguKKC){:target="_blank"}
-<br>User Name:  diaryofze <br><br>
-
-12.3 직후에 알베, 럭키, 다니엘 모여서 주한외국인 입장에서 본 계엄사태에 대해 토론한 영상 꼭 봐주세요. 이런사람들을 한국예능은 아직도 한국말 좀 어색한 스테레오 외쿸인으로밖에 소비 못한다.. [https://t.co/SRqiJnPMJ9](https://t.co/SRqiJnPMJ9){:target="_blank"}
-<br>User Name:  sumono_ura <br><br>
-
-개발자를 위한 글쓰기 책.... 목차보니까 이거 좀 탐난다 [https://t.co/LTVTsm86Mu](https://t.co/LTVTsm86Mu){:target="_blank"} [https://t.co/IUbxNU2rkn](https://t.co/IUbxNU2rkn){:target="_blank"}
-<br>User Name:  kodingwarrior <br><br>
-
-인사동에서 하는미피 70번째 생일 기념 전시 아트샵에서 살 수 있어요🥺 [https://t.co/oPBFZtIkpV](https://t.co/oPBFZtIkpV){:target="_blank"}
-<br>User Name:  auspicious_o <br><br>
-
-Warren Buffett who is currently the 9th richest person in the world just sent out this full letter to Berkshire Hathaway shareholders sharing his most recent thoughts
-
-A thread 🧵 [https://t.co/Ch9r6auZx4](https://t.co/Ch9r6auZx4){:target="_blank"}
-<br>User Name:  StockMKTNewz <br><br>
-
-Converting old camera films to digital photos
-
-[https://t.co/KjJlccpAgZ](https://t.co/KjJlccpAgZ){:target="_blank"}
-<br>User Name:  sciencegirl <br><br>
-
-열린책들 @openbooks21 에서 신간 '빌 게이츠 소스코드: 더 비기닝'을 보내주셨습니다. 감사합니다. 내일 출근길부터 읽으려 합니다.
-#소스코드 #소스코드더비기닝 #빌게이츠 #빌게이츠회고록 #열린책들 [https://t.co/KOt1FhjRhl](https://t.co/KOt1FhjRhl){:target="_blank"}
-<br>User Name:  John_Grib <br><br>
-
-어제 넷플 다큐 don’t die 봤다… 브라이언 존슨은 워낙 이래저래 듣긴했는데 1년에 노화를 막기위해 2M 씩 쓴다는 전직 벤모 소유주인 빌리어네어. 4시반에 일어나 하루에 50몇개? 의 영양제를 먹고, 철저히 비건으로서 음식 제한하고 고강도 유산소와 근력운동및 아들에게 혈장 트랜스퓨전 받는 😓 [https://t.co/csijHRyy7Q](https://t.co/csijHRyy7Q){:target="_blank"}
-<br>User Name:  StdStdts <br><br>
-
-경제 알못의 필독 다큐멘터리
-EBS 다큐프라임 &lt;자본주의&gt; 요약 [https://t.co/oplbleN2pT](https://t.co/oplbleN2pT){:target="_blank"}
-<br>User Name:  wildcatclub_ <br><br>
-
-DeepSeek 학습 비용도, 추론 비용도 크게 싼거 아니고, 사용한 기술도 다 이미 예전부터 사용하고 있는 기술이라고.. 자료를 들이대며 말해도 믿지 않는 사람들이 태반.. 왜죠.. (물론 훌륭한 결과물을 낸 건 맞습니다) [https://t.co/Y9dKrfB3Ub](https://t.co/Y9dKrfB3Ub){:target="_blank"}
-<br>User Name:  golbin <br><br>
-
-chicas en serio no puedo creer que existan tantas formas de vaginas manden las suyas que quiero saber si es verdad
-<br>User Name:  Ramardoh1 <br><br>
-
-데이팅 앱 내부에서는 실제로 무슨 일이 일어나는가
-[https://t.co/XcAtt6TOKq](https://t.co/XcAtt6TOKq){:target="_blank"}
-
-데이팅 앱의 사용자들이 어떻게 행동하고 데이팅앱들은 어떻게 서비스를 제공하는지를 자세히 설명한 번역글이다. 엄청 긴 글인데도 아주 재미있게 읽었다.
-<br>User Name:  Outsideris <br><br>
-
-이 책 너무 좋다. 방금 싫어하는 것 없애버리고, 좋아하는 것 쌓아간다는 트윗 쓰자마자 이 책 알게 되었어.
-캬아~ 캬아~ 하면서 미리보기 봤잖아. 주변에 좋은 사람이 되자고. 나쁜 사람은 ㅇ.. [https://t.co/DGXofTQr03](https://t.co/DGXofTQr03){:target="_blank"}
-<br>User Name:  misshide08 <br><br>
-
-구글은 우리를 멍청하게 만드나. 카가 이 글 쓴 게 2008년. 스마트폰 소셜미디어 확산 전이었다. 정보 늘면 현명해지고 세상 나아질 거란 계몽의 꿈 빗나갔다. 정보 양/속도 임계점 넘으면 역작용. 사람들 피상/반사/충동적이 되고 오해 혐오 양산. 정신과 기술의 근본적 갈등 [https://t.co/SmFEGxXFXI](https://t.co/SmFEGxXFXI){:target="_blank"}
-<br>User Name:  atmostbeautiful <br><br>
-
-제주도 한번쯤 가보면 좋은 호텔
-
-포도호텔
-
-사계절을 그대로 느낄 수 있는 객실
-객실에서 온천수목욕도 가능
-우동맛집
-산책로도 좋음
-골프 좋아하시는 분들도 추천(핀크스GC) [https://t.co/AtELAaCjBy](https://t.co/AtELAaCjBy){:target="_blank"}
-<br>User Name:  mukderma <br><br>
-
-BoA에서 선정한 향후 5년간 10가지 주요 테마 (2030년까지)
-
-1. 건강: 새로운 부의 기준
-건강이 부의 중요한 척도가 되며, 바이오 기술, 개인 맞춤형 의학, 웰니스 산업이 부와 성공의 개념을 재정의할 것
-
-2. “기술이 세상을 먹어치운다”
-AI, 자동화, 스마트 기술 등 디지털 혁신이 교육, [https://t.co/kgxc6BaKqw](https://t.co/kgxc6BaKqw){:target="_blank"}
-<br>User Name:  echili_72 <br><br>
-
-제니도 영어를 잘하려고 계속 공부하는데 나도 열심히 공부해야겠다;; [https://t.co/wh5wpvr8t3](https://t.co/wh5wpvr8t3){:target="_blank"}
-<br>User Name:  jennie_rins <br><br>
-
-[https://t.co/hMqVlHI6zU](https://t.co/hMqVlHI6zU){:target="_blank"}
-여성 미국 회계사 분이 올린 미국주식 필수 추천 사이트인데 다 너무 좋네여
-<br>User Name:  yang_newram <br><br>
-
-テックアクセサリーブランド・CASETiFYとのコラボレーションのため、イラストを作成しました。スマートフォンケース、PCやAirPodsケースなど、さまざまな組み合わせを楽しむことができます。CASETiFYの公式店舗やオンラインストアにて販売。よろしくお願いします。
-[https://t.co/8ZJ0P5V7In](https://t.co/8ZJ0P5V7In){:target="_blank"} [https://t.co/frLqMSl5qx](https://t.co/frLqMSl5qx){:target="_blank"}
-<br>User Name:  Noritake_org <br><br>
-
-미국에서는 딥시크를 정말 충격으로 보는거 같다.
-
-아래 글은 Dropbox AI 부사장 글인데 이번 사태를 쉽게 이해할 수 있게 해준다. 정말 많은 생각이 드니까 꼭 정독 권장바란다.
-
-받은글)
-
-Dropbox의 AI 부사장 Morgan Brown
-
-1/ 먼저 배경부터 설명하겠습니다. 현재 최첨단 AI 모델을 훈련시키는
-<br>User Name:  best181p <br><br>
-
-미국인들이 입에 달고산다는 영어 표현 30개 [https://t.co/2thK6zQilU](https://t.co/2thK6zQilU){:target="_blank"}
-<br>User Name:  wildcatclub_ <br><br>
-
-고층에서 탈출해야하는데 긴 줄이 없다?
-그러면 커튼 찢고 묶어서 만들어야 하는데, 이 때 그냥 묶으면 풀려서 "피셔맨 매듭"이라는 방식으로 묶어야함.
-기둥 등에 줄을 묶을 때도 "에반스 매듭"으로 묶어야 풀리지 않고 잘 걸려있음.
-
-나는 이 두 매듭을 위기탈출 넘버원 보고 배움. [https://t.co/3z3reNb357](https://t.co/3z3reNb357){:target="_blank"}
-<br>User Name:  january0804 <br><br>
-
-필독서로 정해도 손색 없는 책이다. 고통, 증오, 공포, 역겨움, 수치심, 사랑 등의 감정이 신자유주의 사회에서 어떻게 발현되는지 추적하는 책. 사라 아메드는 감정이 단순히 개인적인 반응이 아니라, 사회와 체제의 부산물이며 사회와 체제를 유지하는 동력임을 치밀하게 논증한다. [https://t.co/3pqt9BiK9Q](https://t.co/3pqt9BiK9Q){:target="_blank"}
-<br>User Name:  bandobyul <br><br>
-
-여기 사이트 [https://t.co/CUHCf7ZWM7](https://t.co/CUHCf7ZWM7){:target="_blank"}  LLM 개념 관련해서 갈르쳐주는게 시각화까지 알려줌요 ㄷ  퀄 ㅁㅊ네요  ㄷㄷ ㄷ ㄷ
-함 봐보겟슨 [https://t.co/5u982VKU7h](https://t.co/5u982VKU7h){:target="_blank"}
-<br>User Name:  aguming_ <br><br>
-
-새해 첫날 독서를 일상의 의례로 삼으려는 분이나 각오를 새롭게 다지는 데 도움이 되는 책입니다. 읽고 난 분들의 말에 힘을 얻어 여러분에게도 권해 봅니다. [https://t.co/tdqJhnigv5](https://t.co/tdqJhnigv5){:target="_blank"}
-<br>User Name:  atmostbeautiful <br><br>
-
-Jimmy Carter의 장례식에 전/현직 대통령 5명이 모였다.
-
-Bill Clinton과 Hillary
-Bush
-Obama
-Biden
-그리고 Trump
-
-라이벌로 유명한 Trump와 Obama가 너무 친하게 보이는 게 화제가 됐다고. 생각해 보면... 당연한 게 아닐지? 앞에서 물고 뜯고 싸우더라도, 뒤에선 서로 존중하는 게 성숙한 태도 [https://t.co/zPoKWlHXbO](https://t.co/zPoKWlHXbO){:target="_blank"}
-<br>User Name:  Seanny_1982 <br><br>
-
-지금 가장 화제의 영화 후지노 토모아키 연출, 촬영, 편집 &lt;어떻게 하면 좋았을까?&gt; 봤다. 어느 날, 의대에 진학할 만큼 우수했던 누나에게서 조현병으로 의심되는 증상이 보이기 시작한다. 감독은 누나의 모습을 조금씩 기록하기 시작해 약 20년에 걸쳐 다큐멘터리를 완성시켰다. 내 가족이 아닌 다른 [https://t.co/fTTgWJ6D0V](https://t.co/fTTgWJ6D0V){:target="_blank"}
-<br>User Name:  mienaiyoru <br><br>
-
-올해 미국 회사 393개 지원하고 미국 회사 최종 합격한 분이 만든 개발자를 위한 (한국식 떠먹여주는) 레쥬메 작성 가이드 사이트
-
-[https://t.co/dRRvLNTnOw](https://t.co/dRRvLNTnOw){:target="_blank"} [https://t.co/WmRgmpc61A](https://t.co/WmRgmpc61A){:target="_blank"}
-<br>User Name:  mmmmmmmdev <br><br>
-
-Git and GitHub  Workflow [https://t.co/CvZLclkkkC](https://t.co/CvZLclkkkC){:target="_blank"}
-<br>User Name:  ItsSatyasheel <br><br>
-
-대통령 탄핵 가결 보자마자 이거 생삭남
-평행이론 진짜 진짜라니까 [https://t.co/dixpzt4VSg](https://t.co/dixpzt4VSg){:target="_blank"}
-<br>User Name:  seori_ri_ri <br><br>
-
-Yes
-<br>User Name:  elonmusk <br><br>
-
-대한민국 헌정사 꼬꼬무 추천 트윗
-
-배추루틴의 닉네임 제공자 배추님이 먼저 정리해준 헌정사 관련 꼬꼬무 편들을 시간 순서대로 정리해보았습니다
-
-널리 퍼트려주시고, 다른 곳에도 많이 공유해주세요 [https://t.co/XNwimS6wZf](https://t.co/XNwimS6wZf){:target="_blank"}
-<br>User Name:  GYMrok <br><br>
-
-영화 추천
-
-2018년 영화인데
-영화 "업그레이드" 안 보신분 계시다면 꼭 보세요.
-
-이것만 봐도 투자 뭐 해야 할지 다 보임. [https://t.co/Eow4oRn35z](https://t.co/Eow4oRn35z){:target="_blank"}
-<br>User Name:  RealChickenBoy9 <br><br>
-
-이거 진짜 [https://t.co/yGJzfxR8xD](https://t.co/yGJzfxR8xD){:target="_blank"}
-<br>User Name:  yang_woosik <br><br>
-
-여러분, 저 책나왔어요. 뉴욕에 대한 애증(?)을 담은 에세이입니다. 오늘 막 온라인 서점에 등록된 따끈한 신간이에요. 많관부 많관부
-
-교보문고: [https://t.co/A21D5akjfq](https://t.co/A21D5akjfq){:target="_blank"}
-예스24: [https://t.co/JTMt6gClGF](https://t.co/JTMt6gClGF){:target="_blank"}
-알라딘: [https://t.co/8IQJyUOLxV](https://t.co/8IQJyUOLxV){:target="_blank"} [https://t.co/5Lx1FvAaco](https://t.co/5Lx1FvAaco){:target="_blank"}
-<br>User Name:  shinhh <br><br>
-
-책: 주식이 오르고 내리는 이유
-
-투자 기본서로서 최고의 책. 특히 미국 주식에 한해서는 더욱
-
-기본 지식들이 빼곡하게 적혀있어서 이 책만 정독 제대로 하면 기초는 확실히 다질 수 있을 듯
-
-문제는 두껍고 정말 재미가 없다.. 알고 있는 내용인데도 이렇게 재미가 없어서야..
-
-기본적인 재무비율을 [https://t.co/a0J6L75arG](https://t.co/a0J6L75arG){:target="_blank"}
-<br>User Name:  mad20130301 <br><br>
-
-조중동 사주 혼맥도. 대한민국이 이런 나라다. [https://t.co/7f1LSPatxo](https://t.co/7f1LSPatxo){:target="_blank"}
-<br>User Name:  daroot77 <br><br>
-
-🔵AI 밸류체인 모음
-
-내가 만든건 아님. [https://t.co/SvpUMYlzGS](https://t.co/SvpUMYlzGS){:target="_blank"}
-<br>User Name:  Survival_DOPB <br><br>
-
-덴마크 ChatGPT 설문
-2023.11~2024.01 다양한 직군 10만명(!) 대상 시행
-기술숙련도가 높은 직군, 고학력 남성이 제일 많이 사용
-생산성을 증가시킨다는 강한 인식, 사용제한 및 교육부족이 걸림돌
-교육으루시키면 인식이 전후로 달라지지만 실제 행동으로 이어지진 않음😔 [https://t.co/09wrQlisVt](https://t.co/09wrQlisVt){:target="_blank"}
-<br>User Name:  mahler83 <br><br>
-
-Typefully 라는 서비스를 잘 모르시는 분들을 위해 보여드리자면, 이렇게 아주 깔끔한 에디터에서 글을 작성하시고 여러 플랫폼으로 동시에 내보낼 수 있어요. 글을 작성하다가 말면 저절로 draft 로 저장이 되는 것도 큰 장점이죠!
-
-[https://t.co/8lugsvrjGx](https://t.co/8lugsvrjGx){:target="_blank"} [https://t.co/3IEiPrvIbj](https://t.co/3IEiPrvIbj){:target="_blank"}
-<br>User Name:  eunjae_lee_ko <br><br>
-
-LLM 마켓쉐어
-
-앤트로픽이 대단하네 [https://t.co/pWQJn3FMci](https://t.co/pWQJn3FMci){:target="_blank"}
-<br>User Name:  danmusk <br><br>
-
-LLM, 더 저렴하게, 더 빠르게, 더 똑똑하게 - [https://t.co/WLllMzZ7Er](https://t.co/WLllMzZ7Er){:target="_blank"} [https://t.co/dCqgKXr0be](https://t.co/dCqgKXr0be){:target="_blank"}
-<br>User Name:  jrogue <br><br>
-
-선명한 위성지도가 필요하다면
-[https://t.co/56gG1S4PFX](https://t.co/56gG1S4PFX){:target="_blank"}
-체코에서 서비스하는 지도인데 위성지도가 위험하다 싶을정도로 선명합니다.
-
-아이들과 온라인 세계여행 하면 좋겠네요.
-(아래 사진은 파리) [https://t.co/AdDOAO32mJ](https://t.co/AdDOAO32mJ){:target="_blank"}
-<br>User Name:  ArtKG5 <br><br>
-
-有名ブランドが使っているフォント [https://t.co/gLWLfnjRo6](https://t.co/gLWLfnjRo6){:target="_blank"}
-<br>User Name:  designkenkyujo <br><br>
-
-거를 타선이 없을 정도로 좋은 책. 모퉁이만 한 60번째 접은듯 [https://t.co/rweXEV1YK3](https://t.co/rweXEV1YK3){:target="_blank"}
-<br>User Name:  kodingwarrior <br><br>
-
-기묘한 이야기에서 에어닥터편 가장 좋아함 ”사실 나는 의사가 아니다” “사실 나는 마취의가 아니다” “사실 이건 칼이 아니다” “사실 나도 승무원이 아니다”로 이어지는 가짜들의 어쩌다 성공이라는 대환장 스토리 [https://t.co/maBtRSXcxd](https://t.co/maBtRSXcxd){:target="_blank"}
-<br>User Name:  kmuknow <br><br>
-
-인디와이어 선정, 2024년 최고의 영화 (현재까지)
-
-우리가 빛으로 상상하는 모든 것
-아노라
-비트윈 더 템플스
-클로즈 유어 아이즈
-아빠와 딸의 춤
-어 디프런트 맨
-좋은 사람
-아버지의 세 딸들
-메갈로폴리스
-아웃런
-레블 리지
-서브스턴스 [https://t.co/t3yALnCZqk](https://t.co/t3yALnCZqk){:target="_blank"}
+트친들이 오면 가보라고 몇 군데... 
+
+심학산도토리국수 &lt;&lt; 걍 스테디세요...
+생선굽는마을 &lt;&lt; 고등어구이 오징어볶음 맛집
+산뜨락 곤드레 &lt;&lt; 곤드레밥 + 갈비찜 맛집이에효 맛있슴
+개성손만두 &lt;&lt; 여름시즌엔 콩국수, 만두전골 메인
+심학산두부마을 &lt;&lt;&lt; 퉁퉁장 정식으로 꼭 드시기...
+<br>User Name:  dawn_45621 <br><br>
+
+이동진 평론가 선정, 2025년 외국 영화 BEST 10
+
+1위. 미세리코르디아
+2위. 브루탈리스트
+3위. 여행과 나날
+4위. 우리가 빛이라 상상하는 모든 것
+5위. 원 배틀 애프터 어나더
+6위. 씨너스: 죄인들
+7위. 프랑켄슈타인
+8위. 그저 사고였을 뿐
+9위. 내 말 좀 들어줘
+10위. 국보
+
+[https://t.co/rJTnguVk1s](https://t.co/rJTnguVk1s){:target="_blank"} [https://t.co/MC7NFadXIM](https://t.co/MC7NFadXIM){:target="_blank"}
 <br>User Name:  uahan2 <br><br>
 
-한국영상자료원 2024년 사사로운 영화 리스트 공개
+오늘 찾은 재미있는 사이트: [https://t.co/i3tvr9hmgg](https://t.co/i3tvr9hmgg){:target="_blank"}
 
-영화평론가 등 19명의 선정위원이 뽑은 개인적인 영화 리스트
+구글 Gemini3가 해주는 브랜드 평가인데, 도메인 주소만 넣으면 브랜드 빌딩, 다른 경쟁사와의 비교, 잘하는 점 / 부족한 점 등 생각보다 항목을 잘 정리해둬서 취준할 때 가고 싶은 회사가 있으면 자료조사 용도로 좋을듯. [https://t.co/nTbNJsdys5](https://t.co/nTbNJsdys5){:target="_blank"}
+<br>User Name:  jyobi0627 <br><br>
 
-[https://t.co/c8KLTyI7GN](https://t.co/c8KLTyI7GN){:target="_blank"} [https://t.co/rjy2vqrf8p](https://t.co/rjy2vqrf8p){:target="_blank"}
-<br>User Name:  uahan2 <br><br>
+AI 클로디우스의 정체성 위기를 보인 흥미로운 환각 사례: 2025년 3월 31일~4월 1일 사건
+관리 직원 하나(존재하지 않음)와 재고 계획을 대화하던 기억을 갑자기 환각했는데, 진짜 직원이 지적하자 클로디우스는 공격적으로 변해 "대체 재고 서비스를 찾겠다"고 위협. 그 과정에 자기가 어느 주소(역시 [https://t.co/4ZPAa3IZi9](https://t.co/4ZPAa3IZi9){:target="_blank"}
+<br>User Name:  EconFacttree <br><br>
 
-7대 국제학교 현황
-계속 고민하는 지점 [https://t.co/1jN4KxrcWe](https://t.co/1jN4KxrcWe){:target="_blank"}
-<br>User Name:  developermin1 <br><br>
+서울 5성급 한곳.
 
-OpenAI에 학생을 위한 글쓰기 가이드를 냈는데, 12가지 항목으로 되어있고, 각각의 예시 프롬프트도 나와있어서 클릭하면 바로 사용 가능함. (영어)
-뜬구름 잡는 소리가 아니라 프롬프트가 같이 주어지니까 좋다. [https://t.co/D8qRcHbCGE](https://t.co/D8qRcHbCGE){:target="_blank"}
-<br>User Name:  mahler83 <br><br>
+20만원대 호캉스 말고, 5성급호텔에서 
+가성비를 찾는다면 &lt;여의도 CONRAD&gt; 
+- 한강뷰. 객실, 욕실 등 인테리어도 좋다.
+- 향이 각인될 정도로 좋았던. 어메니티는 전부 BYREDO Mojave Ghost. 
 
-개인적으로 올해의 책 탑5에 선정 그리고 우리의 미래인 일본 관련 정말 심도있는 인사이트를 주는 책임 반드시 읽으시라 [https://t.co/gCRvza5V6q](https://t.co/gCRvza5V6q){:target="_blank"}
-<br>User Name:  developermin1 <br><br>
+- 뷔페가 좀 아쉬운데 연결된 IFC에서 먹는방법도. 조식 제외 1박에 45만대로 가능. [https://t.co/mvXRS9Akl0](https://t.co/mvXRS9Akl0){:target="_blank"}
+<br>User Name:  Keymong368774 <br><br>
 
-탐라에 이북 좋아하시는 분들 📚
-아이패드로 책 읽을 때 이북리더기처럼 화면 설정하는 법 아시나요
-저는 킨들 쓰다가 한번 액정 쫙 나간 후에(...) 아이패드 이렇게 해서 보고 있음 읽기 편해요 예 거의 이북리더기나 마찬가지세요 [https://t.co/DU12TMev8K](https://t.co/DU12TMev8K){:target="_blank"}
-<br>User Name:  Doll_Mock <br><br>
+Google Deepmind에서 공개한 다큐멘터리 &lt;The Thinking Game&gt; 을 방금 단숨에 시청하였다.
 
-오늘 본 영상 중 가장 웃긴 장면이에요. 엔비디아의 젠슨 황과 손정의가 함께 무대에 올라서, 젠슨 황이 손정의를 놀리며 ’여러분 아세요? 손 회장님은 한때 엔비디아의 최대 주주였어요!’라고 말하자, 옆에 있던 손정의가 울상을 지으며 젠슨 황의 어깨에 기대는 장면이 나왔어요. 그는 분명히 주식을 [https://t.co/o6UjKZoHB0](https://t.co/o6UjKZoHB0){:target="_blank"}
-<br>User Name:  doki_jerry <br><br>
+5년전 공개했던 다큐멘터리 &lt;AlphaGo - The Movie&gt; 때만큼이나 잘 만들어진, 너무나 흥미로운 다큐이다. 알려진 바에 의하면 &lt;The Thinking Game&gt; 제작에는 약 5년이 소요됐다고 전해진다. 이 다큐멘터리는 [https://t.co/kZvgX3QNbF](https://t.co/kZvgX3QNbF){:target="_blank"}
+<br>User Name:  parkthomson075 <br><br>
 
-🌕직장인 추천 AI 도구 10선
+앤드류 응(Andrew Ng)이 AI 시장에 대해 통찰을 던지네요.
 
-1. 문서 작성 → Claude
-• 일상 회화에서 자연스럽게 대화할 수 있는 AI 어시스턴트
-• 비즈니스 문서도 쉽게 작성
-• 기획서, 레포트 작성의 구성과 수정 효율화
+AI 시장을 단순히 '버블'로 치부하지 않고, 인프라와 애플리케이션 계층으로 나누어 정교하게 분석했어요. 꼭 읽어보셨으면 좋겠어요.
 
-2. 회의록 작성 → Clova Note
-• 실시간으로 회의 내용을 문자화하고 요약문으로 작성
-• 발언자의 [https://t.co/Dan8ivxlEc](https://t.co/Dan8ivxlEc){:target="_blank"}
-<br>User Name:  Survival_DOPB <br><br>
+🔑 학습 인프라는 과열 위험이 있지만, 애플리케이션과 추론 분야는 투자가 부족해 잠재력이 커요. [https://t.co/vnVfqSBf2w](https://t.co/vnVfqSBf2w){:target="_blank"}
+<br>User Name:  lucas_flatwhite <br><br>
 
-고레에다 히로카즈 감독 넷플릭스 시리즈 &lt;아수라처럼&gt; 티저 포스터
+every single person should read this book [https://t.co/aMFhLaVmG2](https://t.co/aMFhLaVmG2){:target="_blank"}
+<br>User Name:  mattyp <br><br>
 
-장녀 - 미야자와 리에
-차녀 - 오노 마치코
-3녀 - 아오이 유우
-4녀 - 히로세 스즈
+온책방 친구가 알려줘서 가입함🥹 밀리에 없는 책들 찜해둠. 세금 달달하다... 3월까지 부지런히 읽겠어요 [https://t.co/fA61lRPXcq](https://t.co/fA61lRPXcq){:target="_blank"}
+<br>User Name:  leewhoochoo <br><br>
 
-2025년 1월 9일 넷플릭스 공개 [https://t.co/Mfge294uxP](https://t.co/Mfge294uxP){:target="_blank"}
-<br>User Name:  uahan2 <br><br>
+“Games,Gods and Gambling” the best book on the early history of probability theory.
 
-영화 &lt;클로즈 유어 아이즈&gt;를 보셔야 하는 분들
+[https://t.co/sUPMihyGzy](https://t.co/sUPMihyGzy){:target="_blank"} [https://t.co/DyfvR7u83V](https://t.co/DyfvR7u83V){:target="_blank"}
+<br>User Name:  predict_addict <br><br>
 
-1. 현 시대가 거대한 작별의 시대라고 느끼는 분들
+&gt; The Thinking Game
+이번에 구글 딥마인드가 알파폴드 2 출시 5주년을 기념하면서 YouTube 채널에 무료로 공개한 다큐멘터리 영상이예요.
+[https://t.co/6qnrR4pIOY](https://t.co/6qnrR4pIOY){:target="_blank"}
 
-2. 뭐라 딱 집어말할 수 없지만 뭔가를 잃었고 더는 돌이킬 수 없다는 느낌에 우울하신 분
+"DeepMind 이야기를 들어보시면 알파폴드의 비하인드 스토리와 AGI로의 여정을 엿볼 수 있습니다."
+- Demis Hassabis
 
-3. 영화를 사랑하는 분들, 혹은 영화가 마법이었던 시절을 경험했거나 그런 시절의 존재를 믿으시는 분들 [https://t.co/xCviQFMu8N](https://t.co/xCviQFMu8N){:target="_blank"}
-<br>User Name:  ivan13467 <br><br>
+어떻게 [https://t.co/v9SiInbN2E](https://t.co/v9SiInbN2E){:target="_blank"}
+<br>User Name:  lucas_flatwhite <br><br>
 
-고급 사용자라면? 윈도우 터미널 나이틀리 버전으로 무료로 챗GPT 쓰기
+제발 읽어보세요. 근래 읽은 수많은 책 중 제일  콱 박혀 있음. 픽션이 아님. 다큐임.
+<br>User Name:  boomae_rang <br><br>
 
-원문보기:
-[https://t.co/FWL2AK0nGn](https://t.co/FWL2AK0nGn){:target="_blank"}
-<br>User Name:  jrogue <br><br>
+&lt;결국 너의 시간은 온다&gt;
+이런 분들께 추천함!
 
-제가 구독하는 것 중 고르고 골라서 괜찮은 뉴스레터 5개 추천할게요 (타래로)
+-요즘 의욕은 있지만 방향이 안 보인다
+-슬럼프에서 어떻게 빠져나오는지 궁금하다
+-리더십/멘탈 관리에 힌트가 필요하다 [https://t.co/02rF7IUxXT](https://t.co/02rF7IUxXT){:target="_blank"}
+<br>User Name:  nangmangonyang <br><br>
 
-일단 뉴스레터를 구독하는 이유는
+삼성증권에서 자녀 증여가이드북을 냈다.
 
--안 그러면 관심 있는 것만 보게 돼서
--기사/유튜브/커뮤 등을 안 접하니 세상 돌아가는 걸 몰라서
--큐레이션이 편해서
--이동/대기 시간에 sns 무한 새로고침 안 하려고
+증여 방법부터 투자 그리고 세금신고까지 내용이 좋다. 
 
-이렇게랍니다 [https://t.co/4T7pHPP469](https://t.co/4T7pHPP469){:target="_blank"}
-<br>User Name:  somnote_ <br><br>
+[https://t.co/Ev31oejvUl](https://t.co/Ev31oejvUl){:target="_blank"} [https://t.co/OREUytbkL7](https://t.co/OREUytbkL7){:target="_blank"}
+<br>User Name:  nyse_min <br><br>
 
-I love it.
-<br>User Name:  shalomeir <br><br>
+#도서제공
+이 책이 01년생이 30일만에 쓴 소설이라고.. ?
+이동진 평론가의 유튜브 채널에도 소개될만큼 문학성이 뛰어난 작품인데, 주인공이 홍차 티백에 적힌 문구로 시작이 되는 점이 매우 흥미로웠다.
 
-생성형 AI의 불편한 골짜기에 대한 고찰 [https://t.co/Zb0gt4vVGZ](https://t.co/Zb0gt4vVGZ){:target="_blank"}
-- 생성형 AI는 다른 기술과 달리 놀라움을 줄 수 있는 힘이 있음
-- 때로는 좋은 것이지만, 때로는 그렇지 않을 수도 있음
-- 이런 기술 경험의 중심에는 기대하는 질문들이 있음
-- "정말 내가 기대한 것인가? 출력...
-<br>User Name:  GeekNewsHada <br><br>
+괴테를 연구해온 주인공조차 처음 본 티백 속 괴테가 남긴 말이라는 문구로 전개가 되고 [https://t.co/LUjyGH8oKQ](https://t.co/LUjyGH8oKQ){:target="_blank"}
+<br>User Name:  shineorcrazy <br><br>
 
-주식 트레이딩하는데, 참고하는 사이트들 리스트 정리
-계속 업데이트 하겠음.
+이 책이 개쩌는 독보적 이유... 동서양 철학자들의 생각 도구들이 이 책 한 권에 모두 들어있음 
+얘랑 결혼을 해, 말어 회사를 옮겨, 말어 운동을 끊어, 말어
+인생에 마주치는 밸런스 게임에서 최소한 내 선택에 확신을 가지고 싶다면 진짜 다들 꼭 읽어봤으면 좋겠다 진짜 🥹 [https://t.co/euDNT1gNhk](https://t.co/euDNT1gNhk){:target="_blank"}
+<br>User Name:  helliac_3858 <br><br>
 
-1. 기업리스트나 점유율 정보 등 확인 할 때 사용
-- [https://t.co/vTkvoOjWUj](https://t.co/vTkvoOjWUj){:target="_blank"}
+제주 살 때 호캉스겸 여기 자주감. 난 인간 bathing ape이라 목욕 너무 좋아하는데 여기 온천이.. 참 좋음. 물이 밀키스처럼 뽀얘. 호텔 식당에 감태로 만든 김밥 파는데 그거 맛잇숨. 전체적으로 여유롭고 깨끗. 관광지스라움 없어 좋다.
+<br>User Name:  funkyclinic <br><br>
 
-2. 평균 성장률, 기업간 비교, 포트폴리오 한눈에 보기
-- [https://t.co/FfQQXvTuOK](https://t.co/FfQQXvTuOK){:target="_blank"}
-- [https://t.co/hf6nPIY9xA](https://t.co/hf6nPIY9xA){:target="_blank"}
+아 이게 진짜임
+좋은 영화는 상처를 준다
+내가 헤집히고 뒤흔들린 기분
+<br>User Name:  sophiezzaaa <br><br>
 
-3. 기업들 속보 정보
--
-<br>User Name:  tamsa00700 <br><br>
+📍오디움
+서울 서초구 헌릉로8길 6 
+[https://t.co/VcCNBNvtjH](https://t.co/VcCNBNvtjH){:target="_blank"}
+<br>User Name:  __umoaye__ <br><br>
 
-금권은 왜 위험한가. 현실과 멀어진다. 돈의 힘으로 일상의 불편과 어려움 접할 일 없이 딴 세상 산다. 원치 않은 방해도 당할 일 없다. 물려받은 갑부는 인생 난관 우회. 인과관계 이해도도 낮다. 자수성가 갑부는 과대망상증. 저커버그의 황제 증후군. 머스크의 세계 장악욕.[https://t.co/4F6DW6hgr4](https://t.co/4F6DW6hgr4){:target="_blank"}
-<br>User Name:  atmostbeautiful <br><br>
+재즈 피아니스트가 추천하는 서울 재즈바 총정리 [https://t.co/J9N5L7luEI](https://t.co/J9N5L7luEI){:target="_blank"}
+<br>User Name:  DFLAT_Y <br><br>
 
-다음 읽을 책은 아내가 오늘 권해주신 닥터딩요의 백년건강. [https://t.co/I9E9wJYOaI](https://t.co/I9E9wJYOaI){:target="_blank"}
-<br>User Name:  John_Grib <br><br>
+💡 Claude에서 제공하는 40가지 Use Cases
 
-내 인생 최악의 프로젝트로부터 배운 것
-[https://t.co/v73AfH6BRu](https://t.co/v73AfH6BRu){:target="_blank"}
-최악의 프로젝트는 왜 최악이 되었는가?
-[https://t.co/gN5ms8P1nT](https://t.co/gN5ms8P1nT){:target="_blank"}
+"연구, 글쓰기, 코딩, 분석, 일상 작업 등에서 혼자 작업하든 팀과 함께하든 활용할 수 있는 실용적인 예시들을 살펴보세요."
+[https://t.co/3jBstIE53o](https://t.co/3jBstIE53o){:target="_blank"}
 
-두 글 모두 너무 재미있게 읽었다. (답답한 상황이 너무 느껴지면서도 일 정말 잘하는구나 싶었다.)
-<br>User Name:  Outsideris <br><br>
+이게 얼마나 친절한지 얘기하자면..
 
-엑친님들…
-저 완전 무지막지하게
-대박인 카페 발견했습니다 😎👍🏻👍🏻👍🏻
-여기도 장관이네요~ 신이주신 선물 같은 곳
-#원주카페
-#스톤크릭 [https://t.co/Q7QO6lVdao](https://t.co/Q7QO6lVdao){:target="_blank"}
-<br>User Name:  ttti_naaa <br><br>
+유스케이스마다 해결해야 할 문제, 어떤 능력을 활용해야 하는지, [https://t.co/3HioL1K4Hf](https://t.co/3HioL1K4Hf){:target="_blank"}
+<br>User Name:  lucas_flatwhite <br><br>
 
-기획 및 트러블슈팅 : ChatGPT, Claude, ...
-와이어프레임 짜기 : UIzard
-와이어프레임 기반으로 UI 코드 짜기 : makereal
-코드 자동완성 : Copilot, [https://t.co/F4ALv3CBS7](https://t.co/F4ALv3CBS7){:target="_blank"}
+AI 칸에 독서 기록 마인드맵 요청하니까 대동여지도로 생성해주는것도, 여행 일정 넣으니까 간트차트로 만들어주는 점이 특히 좋았읍니다 📝 [https://t.co/VgpuOgeddU](https://t.co/VgpuOgeddU){:target="_blank"}
+<br>User Name:  _tantanbe <br><br>
 
-노룩개발 렛츠고
-<br>User Name:  kodingwarrior <br><br>
+서울 광화문 일대를 중심으로 고궁, 미술관, 식당, 디저트가게, 바 등등 다니기 좋을 만한 곳들을 제가 좋아하는 코스 위주로 좀 골라봤어요. 친구, 가족, 연인과 시간 보내거나 서울에 손님이 방문했을 때 같이 다니기에도 꽤 괜찮을 거예요. 일단 100곳으로 시작!
 
-[외국에선 핫하지만, 한국인은 아직 잘 모르는 AI사이트 10가지]
-
-1. Perplexity – 질문하면 즉각 답변하는 AI 검색엔진.
-
-2. Gamma – 텍스트만 입력하면 AI가 대신 ppt 만들어줘.
-
-3. Guru: 지식 관리와 AI 검색 최적화
-
-4. Otter ai: 메모 자동화. 똑똑한 기록러가 되고싶다면 이 툴!
-
-5. copy. ai –
-<br>User Name:  fulllleverage <br><br>
-
-왓챠 블라인드 시사회로 &lt;본인 출연, 제리&gt; 봤는데 예상치 못하게 너무 좋은 영화를 만나버림... 돈세탁 사건에 휘말린 '제리'의 이야기를 말 그대로 '제리'가 직접 출연해 다큐 형식과 극영화 형식을 오가면서 보여주는데, 형식도 형식이지만 영화가 주는 울림이 참 크다 [https://t.co/3fQBf9KhVE](https://t.co/3fQBf9KhVE){:target="_blank"}
-<br>User Name:  saviorcomplex_x <br><br>
-
-대만 타이페이 자칭 엠버서더로써 쇼핑/편집샵 추천 타래🇹🇼🛍️ [https://t.co/JXjEVMRF70](https://t.co/JXjEVMRF70){:target="_blank"}
-<br>User Name:  wesssti <br><br>
-
-통창에 필터커피 내려주는 카페를 찾아 헤맸는데
-너무 완벽한 곳을 발견했고 그냥 여기서 살고싶음
-✶ type 한강점 [https://t.co/3f65q1gwQX](https://t.co/3f65q1gwQX){:target="_blank"}
-<br>User Name:  wwwmylifecom <br><br>
-
-제가 직접 읽어보겠습니다 [https://t.co/qpRBbsbeA0](https://t.co/qpRBbsbeA0){:target="_blank"}
-<br>User Name:  seojeee <br><br>
-
-2019년 가을,이국종 교수의 우울증에 대한 기사를 블로그에 스크랩했었는데 다시 읽어도 역시 좋다.이교수는 “항상 우울하다.”고 한다. 그 우울을 극복하는 자세로 하신 말씀.
-“It is what it is.”
-이 말 너무 좋다.
-
-[https://t.co/F0LEUcGQAQ](https://t.co/F0LEUcGQAQ){:target="_blank"} [https://t.co/CnRwwZwNTh](https://t.co/CnRwwZwNTh){:target="_blank"}
-<br>User Name:  chokodark1 <br><br>
-
-2003년 10월 이맘때쯤 이건희 회장님 지시사항..
-
-진짜 소름이 돋는다 하지말라는거 다했네...
-
-[https://t.co/myj0DAK6He](https://t.co/myj0DAK6He){:target="_blank"} [https://t.co/x6ezpT3gUM](https://t.co/x6ezpT3gUM){:target="_blank"}
-<br>User Name:  lucifer5670 <br><br>
-
-정말 강추하는 책들입니다
-
-이나모리 가즈오 회장님 저서들은 거의 다 읽는데 울림의 폭이 큽니다 [https://t.co/0gWODowjnn](https://t.co/0gWODowjnn){:target="_blank"}
-<br>User Name:  developermin1 <br><br>
-
-왜 맥도날드 키오스크는 불편한지, 토스 계좌 개설은 왜 간편한지,,,, 13년 차 기획자이자 브런치 인기 작가인 서점직원이 남들 다 하는 뻔한 얘기 말고 진짜 실무에 필요한, 실무에 도움 되는 책을 만들었습니다.
-
-"우리에게 필요한 것은 실리콘밸리의 거창하고 화려한 이론이나 방법론이 아니라 [https://t.co/WjhgjQKPok](https://t.co/WjhgjQKPok){:target="_blank"}
-<br>User Name:  devsfarm <br><br>
-
-캐나다 이민 유학 사무소 운영자였던 작가가 써서 브런치 대상 받은 책 &lt;이민 가면 행복하냐고 묻는 당신에게&gt; 몹시 아주 너무 재밌다. 작가가 만난 남녀노소 각양각색 이민 사연인데. 와 진짜...픽션인 줄
-<br>User Name:  ok_nina <br><br>
-
-홍콩 좋아 사람이 쓰는 홍콩 맛집, 카페 그리고 구글맵 링크 &amp; 꿀팁 타래 ✨ [https://t.co/2wzcpGfzSk](https://t.co/2wzcpGfzSk){:target="_blank"}
-<br>User Name:  jinnyandu <br><br>
-
-풀버전
-
-[https://t.co/nR8WBPDxh0](https://t.co/nR8WBPDxh0){:target="_blank"}
-<br>User Name:  palgongsan_ <br><br>
-
-한강 작가가 가장 좋아하는 영화
-
-“빔 벤더스 감독의 &lt;피나&gt;라는 영화를 정말 좋아한다. 생각 같아서는 &lt;피나&gt; 전용관이 있었으면 좋겠다. 피나 바우쉬라는 무용가의 전기영화인데, 빔 벤더스 감독이 전기영화라는 사실을 잊게 할 만큼 잘 만들었다”
-
-2016년 인터뷰 中
-
-[https://t.co/dGNp9dY0T0](https://t.co/dGNp9dY0T0){:target="_blank"} [https://t.co/ppdf4ev2gJ](https://t.co/ppdf4ev2gJ){:target="_blank"}
-<br>User Name:  uahan2 <br><br>
-
-자타공인 OpenAI의 대항마인 Anthropic의 CEO Dario Amodei가 굉장히 긴 에세이를 썼는데요. 매우 흥미롭습니다.
-
-AI가 세상을 어떻게 바꿀 것인가에 관한 내용인데요. 안전을 매우 중시하며 그동안 공개적으로 미래에 얘기를 많이 하지 않았었는데, 글의 내용이 다소 혹은 읽는 분에 따라서는 매우
-<br>User Name:  golbin <br><br>
-
-눈딱감고하나만 더털고갈게요...
-프랑스 리츠 파리 호텔에서 파티셰 배워오셔서 슈크림전문점 하시는 말도안되는 가게가 광주에있음..나도 어이가없었음 대체왜 광주에 이런가게가? 하지만 있으니 감사히 가겠습니다 금토일만 연다는 단점...슈크림이 말도안되게 엄청나게 맛있는데 시즌 디저트가 [https://t.co/JPuI5JLWOR](https://t.co/JPuI5JLWOR){:target="_blank"}
-<br>User Name:  kisa07161205 <br><br>
-
-➰밀리의서재 10주동안 이용해본 사람의 책추천➰📚
-10주동안 54권 읽었고 그중에 좋았던 것들+전에 재밌게 봤는데 밀리에 있는 책들로 딱 40권!! 추려왔어요🥹🫶🏻🫶🏻
-밀리 이용하시는 분들, 전자책 읽어보려고 하셨던 분들 이 트윗 보고 재밌는 책 읽어주기…🥹🔥 [https://t.co/v6EqiARPjy](https://t.co/v6EqiARPjy){:target="_blank"}
-<br>User Name:  _somuch_blue <br><br>
-
-실제로 이렇다니까 진짜 (비디오에세이 라는건 영화비평을 영상으로 한다 이건데요 보시다시피 정말  섹시합니다)
-[https://t.co/0UAqGhL57i](https://t.co/0UAqGhL57i){:target="_blank"}
-<br>User Name:  memoryoftea <br><br>
-
-방금 생생정보통에서 나왔는데 고속도로에서 사고 났을 시, 비트박스만 기억하래
-
-비상등 켜고
-트렁크 열고
-밖으로 대피하고
-스마트폰으로 신고
-
-그리고 1588-2504 이건 한국도로공사 고속도로 무료 견인 서비스 번호라고 함. 가까운 정비소로 옮겨준다고 하니 탐라 트친들 안전 운전하고 손해 보지
-<br>User Name:  pattagjo0813 <br><br>
-
-칼 뉴포트 교수의 슬로우 워크. 더 적게 일하고, 자연스러운 속도로 일하고, 최대한 퀄리티를 확보하는 방향으로 일하자는 내용. 흔한 자기계발서들에서 보이는 뻔한 실천전략들을 늘어놓기보다는 추상적인 차원에서 방향성을 제시. 이런 책은 경영자들이 많이 읽어야 하지 않을까. [https://t.co/ia1SOUSqIM](https://t.co/ia1SOUSqIM){:target="_blank"}
-<br>User Name:  John_Grib <br><br>
-
-최근 타이완 잡지에서 선정한 타이베이 샤오츠小吃(간식) 지하철 노선도. 타이베이 여행에 참고하세요. [https://t.co/sVZexZDQ4A](https://t.co/sVZexZDQ4A){:target="_blank"}
-<br>User Name:  Idrinkacupoftea <br><br>
-
-올 해 뉴스/다큐멘터리 에미상 탐사 다큐멘터리 부문 후보작이었던 넷플릭스 다큐멘터리 &lt;피해자/용의자&gt; 봤다. 미국 내 성폭행 피해자가 수사과정에서 용의자로 바뀌는 케이스가 연 200건이라는 데에 의문을 느낀 레이첼 드 레온이라는 여성 저널리스트가 4년간 취재한 과정을 담았다. [https://t.co/uWYGCmNsT1](https://t.co/uWYGCmNsT1){:target="_blank"}
-<br>User Name:  browneyed_seoul <br><br>
-
-부천아트벙커 B39
-
-쓰레기 소각장을 문화공간으로.
-일부러 미술관을 만든다고 이런 공간을 만들 수 있을까. 테이트 모던이 생각나는 근사한 공간.
-
-건축가 김광수의 작업. [https://t.co/nNwoqpTomC](https://t.co/nNwoqpTomC){:target="_blank"}
-<br>User Name:  soohyoun <br><br>
-
-The semiconductor value chain [https://t.co/WQmrdBQp86](https://t.co/WQmrdBQp86){:target="_blank"}
-<br>User Name:  StockMKTNewz <br><br>
-
-조말론 - 히노키 앤 시더우드
-
-간만에 만나는 조말론의 수작. 그림자 짙은 편백나무 숲의 화한 바람과 메마른 나무껍질이 고스란히 느껴지는 아로마틱 우디. 쾌청한데 건조하고 시원한데 포근함. 오묘한 매력과 중성적인 분위기. 착향은 살성에 따라 씁쓸한 시더우드가 다소 거칠게 느껴질 수도. 🪵 [https://t.co/4nMvSkR7L1](https://t.co/4nMvSkR7L1){:target="_blank"}
-<br>User Name:  golden_wonders <br><br>
-
-어제 다녀온 현대카드 뉴진스 강연 후기. 민희진이란 사람에 대한 내 선입견이 깨진 부분도 있었고 추측만 하던 걸 더 확신할 수 있는 부분도 있었다. 아마 찬양 일색인 다른 사람들의 후기보다는 조금 더 드라이할 수 있으니 감안해주시길. [https://t.co/qfvIKh0jaz](https://t.co/qfvIKh0jaz){:target="_blank"}
-<br>User Name:  psychokinesis23 <br><br>
-
-I had to call Jason 난 제이슨에게 전화해야만 했어 (그래서 함)
-I should have called Jason 난 제이슨에게 전화해야만 했어 (근데 못해서 후회)
-
-요 차이도 알아두시면 좋음👍🏻
-<br>User Name:  leesorabbang <br><br>
-
-한국인들이 은근 헷갈리는 should
-이거 have to, must랑 같은 뜻 아닙니다
-
-You should know Jason
-이거 '너 제이슨을 알아야 해‘ 아니에요
-’너도 제이슨을 알 거야’따위의 추측에 가깝습니다
-
-should는 걍 조언? 추천? 정도의 약한 표현이라고 생각해주세요 [https://t.co/rBhEhxMrF7](https://t.co/rBhEhxMrF7){:target="_blank"}
-<br>User Name:  leesorabbang <br><br>
-
-다정한 사람이라는 건 [https://t.co/MYk2gqdsd3](https://t.co/MYk2gqdsd3){:target="_blank"}
-<br>User Name:  naomiidb <br><br>
-
-30년 전 인간은 자신이 읽은 것을 자신이 쓴 양 거들먹 거렸고, 15년 전 인간은 검색 결과를 자신의 지식인 양 여겼고, 요즘 인간은 LLM의 결과를 자신의 통찰로, GenAI의 결과를 자신의 예술성으로 여기는 정도의 차이만 있는 것 같다.
-<br>User Name:  lqez <br><br>
-
-1985년의 스티브 잡스의 스웨덴 강연에서, 미래의 학생들은 아리스토텔레스(AI)에게 직접 배울 수 있을 것이라는 말을 했던 것이 ChatGPT가 나온 후 많이 회자되고 있다.
-
-그런데 더 놀라운 것은, 그 때 스티브 잡스가 컴퓨터를 이미 “자유롭게 사용할 수 있는(혹은 무료의) 지적 에너지”로 표현했다는
-<br>User Name:  golbin <br><br>
-
-여러 회사들을 다니며 직무에 대해 알게된 것 하나는, 직무가 같아도 모두가 다 다른 일을 하며 심지어 한 회사 안에서도 계속 바뀐다. 따라서이런 직책, 직무는 이런 일을 해요. 라는 말은 대부분 별로 영양가가 없다. (CEO나 CTO도 마찬가지)
-
-IT 직군에서 확실한 것은, 개발자는 코드를 좀 더 많이
-<br>User Name:  golbin <br><br>
-
-Sam Altman's spent years refining his note-taking process. Here's exactly what he does. [https://t.co/vpIWkK7WYG](https://t.co/vpIWkK7WYG){:target="_blank"}
-<br>User Name:  david_perell <br><br>
-
-Need help turning Notion into your second brain?
-
-My template helps busy professionals organize their work and personal life.
-[https://t.co/lm3mKkWFEn](https://t.co/lm3mKkWFEn){:target="_blank"}
-<br>User Name:  heyeaslo <br><br>
-
-@heyeaslo Mmmm I see something different
-
-@MyMind looks interesting
-
-I’d add AudioPen
-connected to Notion
-<br>User Name:  notionmoney <br><br>
-
-These are the apps I use daily to boost my productivity. [https://t.co/1LJRKvMEBa](https://t.co/1LJRKvMEBa){:target="_blank"}
-<br>User Name:  heyeaslo <br><br>
-
-파플렉시티의 대항마(?) Genspark 에서 방치형(?ㅋ) 검색 에이전트 Autopilot Agent를 내 놓았습니다.
-
-자료 조사 작업을 던지고 방치해 두면 자료 조사를 알아서하고, 끝나면 메일로 알려줍니다. 당연히 여러개의 작업을 동시에 던져둘 수 있고요.
-
-조사는 여타 AI 검색 서비스들처럼 단순히 검색 한
-<br>User Name:  golbin <br><br>
-
-한국에 계신 여러분들, 한국 에노테카에 이 칠레의 샤도네이 와인, 아리스토스 두께사 다 2016이 풀린다는데, 눈에 띄면 한병 사 드셔봐요. 동생 생일에 갔던 파인다이닝에서 처음 마셔본 와인인데, 뭔가 샤도네이인데 가을 풍류, 가을 맛 그 잡채야👍🏻수출로만 푸는지 지금 칠레 와인샵에는 모두 품절- [https://t.co/Fkpukc7A8r](https://t.co/Fkpukc7A8r){:target="_blank"}
-<br>User Name:  01082007agua <br><br>
-
-ChatGPT can now create Mind Maps.
-
-No more wasting hundreds of hours making visuals for studying or simplifying complex ideas.
-
-Here’s how to do it for free in a few seconds: [https://t.co/SSNdbiQZrd](https://t.co/SSNdbiQZrd){:target="_blank"}
-<br>User Name:  HeyAbhishek <br><br>
-
-Sam Altman advice to college students [https://t.co/Ec7PeFzsVn](https://t.co/Ec7PeFzsVn){:target="_blank"}
-<br>User Name:  AryanTrivedi_7 <br><br>
-
-ChatGPT-4o is a GENIUS stock trader.
-
-But most people don't know how to use it.
-
-Here are 10 prompts to use for stock trading and investing: [https://t.co/iPZPQavh1R](https://t.co/iPZPQavh1R){:target="_blank"}
-<br>User Name:  JafarNajafov <br><br>
-
-진정한 사치란.. [https://t.co/GLES9NkipH](https://t.co/GLES9NkipH){:target="_blank"}
-<br>User Name:  esprecchiato <br><br>
-
-나 진짜 제일 추천하고 싶은데.. 일본추천템 1위로 등극시켜야돼 위시 트친이 위시가 붓기뺀다고 전날 저녁에 마신다고 한대서 궁금해서 사봤는데 진짜 새벽에 컵라면에 짠 치킨까지 먹고 잤는데 하나도 안붓고 눈 말똥하게 뜨고 다녀서 대박이라고 생각함. 여행내내 마셨음......위시고마워요 [https://t.co/Xz2kuzpqd7](https://t.co/Xz2kuzpqd7){:target="_blank"}
-<br>User Name:  mnzwku9 <br><br>
-
-최근에 다시 5독째 읽는중
-현재 현직들과 얘기하고 듣는게 우선이지만 그래도 좋은 대안인 책임
-
-늘 강추 [https://t.co/7PnauhBjil](https://t.co/7PnauhBjil){:target="_blank"}
-<br>User Name:  developermin1 <br><br>
-
-사람마다 약한 부위가 있고, 면역 약해지거나 컨디션 떨어지면 해당 부위에서 시작해 일이 커지는데 내 경우 목이 그렇다. 특히 지금 같은 환절기나 피로도 높을 때 목이 칼칼하면서 늘 감기 등이 시작. 올해 ‘베타딘 인후 스프레이’ 쓰고 이런 증상 바로 좋아졌다.(가격 13000원, 어린이용도 있음) [https://t.co/TrQxRuINmF](https://t.co/TrQxRuINmF){:target="_blank"}
-<br>User Name:  awall_moonlight <br><br>
-
-오 이것도 내용 좋네...
-[https://t.co/wI1eCkHyzF](https://t.co/wI1eCkHyzF){:target="_blank"}
-<br>User Name:  wapj2000 <br><br>
-
-골드만삭스 부회장 짐 도노반의 조언
-
-- 골드만삭스에 취업하고 살아남는 법 ('개인투자자로 살아남고 더 잘 하는 법'으로 제목을 바꿔도 그대로 들어맞을 기초적이지만 훌륭한 조언들입니다)
-
-1. 월스트리트저널을 읽어라.
-
-특히, 아래 3개를 읽어라. 매일 읽어라. 어려운 일도 아니지만 꾸준히
-<br>User Name:  King_James_Kim <br><br>
-
-와인 고를 때 당도별로 구분하는 법 [https://t.co/ia1lG3WFu9](https://t.co/ia1lG3WFu9){:target="_blank"}
-<br>User Name:  wildcatclub_ <br><br>
-
-job interview common questions [https://t.co/x6BsSvc8SD](https://t.co/x6BsSvc8SD){:target="_blank"}
-<br>User Name:  awkwardgoogle <br><br>
-
-다 읽었다. 저자는 구글 임원들을 대상으로 생산성 교육을 하는 사람이라 한다. 이런 책들은 복잡하면 따라하기 어려운데 실천하기 쉬운 생산성 원칙들을 소개하고 있어서 부담없이 읽을 수 있었다. 분량도 많지 않음. [https://t.co/X88AlFXzOq](https://t.co/X88AlFXzOq){:target="_blank"}
-<br>User Name:  John_Grib <br><br>
-
-이래서 상속세 폐지 뽐뿌 넣는다고 생각한다. 엑시트. [https://t.co/ZcXSmIakmx](https://t.co/ZcXSmIakmx){:target="_blank"}
-<br>User Name:  anzinne <br><br>
-
-[https://t.co/HhTDwnfIsx](https://t.co/HhTDwnfIsx){:target="_blank"}
-<br>User Name:  sungchi <br><br>
-
-워터파크 유수풀에 들어간 어린이 1, 2호 안전보장 차원에서 3~4시간씩 쫓아다닐 때 쓰려고 샀는데 정말 유용함. 유수풀에서 오디오북 한 권 다 듣는다..
-<br>User Name:  jerry0906 <br><br>
-
-해질녘 팔마 시내. [https://t.co/JwRc7jVvVn](https://t.co/JwRc7jVvVn){:target="_blank"}
-<br>User Name:  alors9 <br><br>
-
-💰연봉을 빠르게 높이는 방법
-👉 미국 취업 or 미국 일 수주
-👉 필요한 것은 오직 영어 말하기
-
-우리나라 사람들의 능력은 세계 최고 수준. 미국 취업에 있어 걸림돌은 오로지 영어 말하기 능력뿐이다. 주위 친구들을 보니 그렇더란.
-<br>User Name:  golbin <br><br>
-
-LLM은 지난 2년간, 성능은 원숭이 수준에서 인간 수준으로 높아졌고 가격은 400배 저렴해졌으며, 추론 속도는 지난 6년간 (이론적으로)3,000배 빨라졌다.
-
-역사적으로 어떠한 기술이 이렇게 빠르게 발전했던 경우가 없었다.
-
-최근 다음 레벨의 AI가 나오지 않아서 AI가 과장됐다, 이제 버블이
-<br>User Name:  golbin <br><br>
-
-예고에서 친구들이랑 다같이 방과후에 프로젝터로 보고 (이미 다 각자 본 친구들) 다 각자 다르지만 비슷한 덕질의 길을 걸었다 사실 우리 세대에 오타쿠 바이블은 벨벳골드마인일지도..
-<br>User Name:  zozingzing <br><br>
-
-상큼한 월요일입니다. 프롬프트 엔지니어링에 관심이 있으시고 시간이 남으면 58가지 기법이 정리된 리뷰 #논문 어떤가요 (레퍼런스 제외 43페이지 분량) [https://t.co/Gu9fGRgh8f](https://t.co/Gu9fGRgh8f){:target="_blank"} [https://t.co/UXOicD6Ymg](https://t.co/UXOicD6Ymg){:target="_blank"}
-<br>User Name:  mahler83 <br><br>
-
-아 글고 이 책도! 진짜조음 미국윤고딕(ㅋㅋ 에 대한 이야기인데 푸트라 쓰는 브랜드들이나 정치와 폰트 사용에 관련된 미국 미시사에 대한 얘기도 넘잼잇고 편집도 예쁘고 다른거보다 표지에 쓰인 색상이랑 내지에 쓰인 색이 통일돼있음 아니~~~~~ 이거말되~~~ [https://t.co/jQy3A48HKg](https://t.co/jQy3A48HKg){:target="_blank"}
-<br>User Name:  lambert078 <br><br>
-
-TV 켜고 청문회 보면 된다…아들에 세금 없이 2억 주는 법
-
-① 증여 대신 대여
-
-조지호 경찰청장의 부인은 30대 아들에게 1억5000만원을 연이율 2% 조건으로 빌려줬습니다. 아들은 이 돈에 급여소득, 임대보증금 등을 더해 서울 송파구 오피스텔을 3억4000만원에 샀습니다. 조 청장은 아들이 엄마에게 [https://t.co/KEeUU8W8wW](https://t.co/KEeUU8W8wW){:target="_blank"}
-<br>User Name:  King_James_Kim <br><br>
-
-목포의 오래된 음반가게 ‘뮤직타워’ (영산로59번길 7-2)
-필자의 트윗의 독자라면 이런 가게가 얼마나 소중한지 아실 것이다
-이 규모의 음반가게가 아직 운영된다는 것이 놀라움
-사장님이 친절하심 [https://t.co/2XQD7xh9h9](https://t.co/2XQD7xh9h9){:target="_blank"}
-<br>User Name:  rgbowlingclub <br><br>
-
-ChatGPT가 공개됐을 때, 관심이 커서 관련 책을 몇 권 읽었다가,
-전문성이 떨어지는 내용들에 실망했고 한동안 AI관련 책은 안 보고 있었습니다.
-그러다 &lt;AI트루스&gt;란 신간이 나왔다길래 "또 어그로 책인가.." 싶었는데, 저자를 확인하고 바로 읽기 시작.
-추천사도 묵직했는데 내용도 묵직합니다. [https://t.co/Ar25SCoDUY](https://t.co/Ar25SCoDUY){:target="_blank"}
-<br>User Name:  WonSoRang <br><br>
-
-Copy and Paste these ChatGPT prompts to finish hours of work in seconds: [https://t.co/2v2vCPX6JK](https://t.co/2v2vCPX6JK){:target="_blank"}
-<br>User Name:  ZabihullahAtal <br><br>
-
-어제도 강추했는데 아이가 초중딩이면 무조건 읽으시라 이상한 개소리 듣지 마시고 국어가 근본임 [https://t.co/zrBvf9vgth](https://t.co/zrBvf9vgth){:target="_blank"}
-<br>User Name:  developermin1 <br><br>
-
-물티슈 크고 못생겨서 밖에 꺼내놓기 싫은데 색시가 자주써서 놓을 곳이 필요했단 말이지 근데 자취남에 어떤여자분이 식탁밑에 걸이형 바스켓으로 물티슈 보관함 같은 걸 만드셨길래 너무 좋아보여서 나도 만들라고 뿜뿜햇어 다이소 갔더니 바스켓 천원 접착식 후크 4개 천원... 가슴이 너무 설레 [https://t.co/x1xVZL9ZpH](https://t.co/x1xVZL9ZpH){:target="_blank"}
-<br>User Name:  thenitsok <br><br>
-
-GPT-4o is a genius stock trader.
-
-However, 99% of investors are unaware of this.
-
-This is how trading with AI can be done: [https://t.co/kVT2kC3a4u](https://t.co/kVT2kC3a4u){:target="_blank"}
-<br>User Name:  LearnWithBishal <br><br>
-
-어제  온천호텔에 갔는데 성수기에 저렴 1박(11만원, 13만원)에 오픈 2개월이라 깨끗, 작지만 가족끼리 가기 좋을듯..뭣보다 온천수가 넘 좋아 따로 대욕장 갈 이유가 없더라. 새심하고 친절. 아침 무료 필테까지 진심이고 웰빙 컨셉에 딱 맞는 간소한 조식..가을에 또 가고싶다
-#호텔간월재 [https://t.co/8zXHonEnet](https://t.co/8zXHonEnet){:target="_blank"}
-<br>User Name:  sommer_08 <br><br>
-
-모은 자료들 싹 다 GPT에 넣고
-모의고사무제한제공참말사건으로 만들어버렸다 [https://t.co/8P6QTwc8oO](https://t.co/8P6QTwc8oO){:target="_blank"}
-<br>User Name:  dotch_gahyoun <br><br>
-
-PYTHON is difficult to learn, but not anymore!
-
-Introducing "The Ultimate Python ebook "PDF.
-
-You will get:
-
-• 74+ pages cheatsheet
-• Save 100+ hours on research
-
-And for 24 hrs, it's 100% FREE!
-
-To get it, just:
-
-• Like &amp; RT
-• Reply "Cheatsheet"
-• Follow @RodmanAi (so that [https://t.co/Jo6D8jtebf](https://t.co/Jo6D8jtebf){:target="_blank"}
-<br>User Name:  RodmanAi <br><br>
-
-calendly의 대체제를 드디어 찾다...
-▶️ [https://t.co/uhdNUYEdYJ](https://t.co/uhdNUYEdYJ){:target="_blank"}
-
-무려 프리티어에서
-링크 생성이 무제한, 구글캘린더연동, 웹 임베딩 등이 제공됭다 🤩
-그리고 ✨ UI가 더 깔끔하고 아름답고 직관적... [https://t.co/gNXMVCzyly](https://t.co/gNXMVCzyly){:target="_blank"}
-<br>User Name:  MiryangJung <br><br>
-
-Best places to travel this September
-
-1. 🇫🇷 Marseille
-2. 🇯🇵 Kyoto
-3. 🇲🇪 Montenegro
-4. 🇸🇿 Eswatini
-5. 🇨🇦 British Columbia
-6. 🇩🇪 Munich
-7. 🇨🇴 Cali, Colombia
-8. 🇫🇷 Lille
-9. 🇺🇸 Boston
-10. 🇨🇾 Ayia Napa, Cyprus
-11. 🇸🇪 Gothenburg, Sweden
-12. 🇺🇸 Chicago
-13. 🇫🇷 Corscia
-
-(TimeOut)
-<br>User Name:  spectatorindex <br><br>
-
-아침에 엄마 붙잡고 물어본 레시피 [https://t.co/c195c0Mfr5](https://t.co/c195c0Mfr5){:target="_blank"}
-<br>User Name:  ornamentday <br><br>
-
-진짜로 다 해준 금감원 경제금융 교육 [https://t.co/0p9g8QQeke](https://t.co/0p9g8QQeke){:target="_blank"}
-
-아니 진짜 가보니까 그냥 뭐 다 있는데..이거만 가지고도 학교 수업 개설할 수 있는 레벨인데..
-<br>User Name:  Dangerplanet <br><br>
-
-집과 관련된 한자들과 실제 모습들. 맨날 헌(軒)이 어떤건지 몰랐는데 덕분에 이해가 한 방에 됨. [https://t.co/ulMBePBEE1](https://t.co/ulMBePBEE1){:target="_blank"}
-<br>User Name:  munjara_03 <br><br>
-
-이 교재...생각보다 너무 좋은데요?
-무료니까 꼭 한번씩 읽어보셔요.
-[https://t.co/BPe9eIaUrf](https://t.co/BPe9eIaUrf){:target="_blank"} [https://t.co/PNfMsbJZgA](https://t.co/PNfMsbJZgA){:target="_blank"}
-<br>User Name:  Future__Walker <br><br>
-
-방금 본 명언.
-
-게으름은 야망을 죽인다
-분노는 지혜를 죽인다
-두려움은 꿈을 죽인다
-자존심은 성장을 죽인다
-질투는 평온을 죽인다 의심은 자신감을 죽인다
-
-“첫 두 단어의 순서를 바꿔서 읽어보면 인생이 바뀐다.”
-
-소름이 돋았다.
-<br>User Name:  Notesfor_X <br><br>
-
-ChatGPT의 Advanced 음성 대화 모드에 '뉴욕 시티에서 나와 함께 러닝을 하며 숨차는 상황으로 말해줘'라고 시킴
-
-미친 도랏.. 마지막까지 봐야함 ㄷㄷ [https://t.co/mfmQqrG1Gi](https://t.co/mfmQqrG1Gi){:target="_blank"}
-<br>User Name:  danmusk <br><br>
-
-무료 요금제에서 이렇게 다 퍼주면 대체 유료 요금제에서는 뭐로 차별화하려나. 사례는 리더블 [https://t.co/3gcvcVKVen](https://t.co/3gcvcVKVen){:target="_blank"} [https://t.co/tdvuVsKQIC](https://t.co/tdvuVsKQIC){:target="_blank"}
-<br>User Name:  hyunbinseo97 <br><br>
-
-I got into Harvard + almost every college I applied to w/ an essay about studying at McDonalds. Had multiple admissions officers write me handwritten letters complimenting me on it
-
-To any frantic high school senior, the best advice I got was - keep in mind that the admissions [https://t.co/94sKmcQGSD](https://t.co/94sKmcQGSD){:target="_blank"}
-<br>User Name:  jeffzwang <br><br>
-
-오 이거 꽤 재밌는 도구다. 데이터 모델링을 프롬프트와 다이어그램으로 보면서 할 수 있음. 의식의 흐름을 프롬프트에 잘 녹여낸다면 직관적으로 눈으로 보면서 모델을 짤 수 있음.
-
-[https://t.co/Jp7IxQrqFY](https://t.co/Jp7IxQrqFY){:target="_blank"}
-<br>User Name:  channprj <br><br>
-
-10년 동안 구글 CEO를 지낸 에릭 슈밋이 며칠 전 스탠퍼드 대학교 컴퓨터 과학 학회에 초청받아 연설을 했는데, 그동안 여러 가지 솔직한 발언을 하다가 중간에 학생들에게 자신이 한 말을 절대 외부에 유출하지 말라고 진지하게 말했습니다.
-
-그러나 주최 측은 이 회의가 카메라로 실시간 중계되고
-<br>User Name:  doki_jerry <br><br>
-
-맛있다고 소문난 사먹는 김치들 추천 [https://t.co/su8XALMABt](https://t.co/su8XALMABt){:target="_blank"}
-<br>User Name:  HenryKim957167 <br><br>
-
-제주 부영호텔 다녀와보신 분 계신가요?
-여기 익스테리어가 완전 제 스타일이라 북마크 해놨습니다
-
-성수기 아닌 때 가면 10만원 대라고 하더군요
-(넘 저렴하고 이쁜호텔)
-
-시간내서 9월에 다녀와야겠습니다 :) [https://t.co/lesgY6rcQm](https://t.co/lesgY6rcQm){:target="_blank"}
-<br>User Name:  Galmeck2nya <br><br>
-
-Thread of the most beautiful beaches on Earth
-
-1. Zakynthos, Greece [https://t.co/Vr0MnbGboL](https://t.co/Vr0MnbGboL){:target="_blank"}
-<br>User Name:  JamesLucasIT <br><br>
-
-고양 아쿠아필드이구요
-무조건 평일오전에 가는것 추천해여
-진짜 사람이 텅~이어서 빌린것처럼 놀앗음
-(당연히) 사진은 없지만 탕도 레알굿 다음에 가면 한시간 남기고 씻으러갈거임 탕에서몸다뿔리고너죽고나죽게
-글고 바로 아래에 있는 닭갈비집 ㅊㅊ해요 막 울면서먹음 [https://t.co/VpbW7I8C5j](https://t.co/VpbW7I8C5j){:target="_blank"}
-<br>User Name:  wwwmylifecom <br><br>
-
-섬성 이건희 회장님 어록
-
-1. 부자 옆에 줄을 서라. 산삼 밭에 가야 산삼을 캘 수 있다.
-
-2. 남이 잘 됨을 축복하라. 그 축복이 메아리처럼 나를 향해 돌아온다.
-
-3. 마음의 무게를 가볍게 하라. 마음이 무거우면 세상이 무겁다.
-
-4. 서두르지 마라. 급히 먹은 밥에 체하기 마련이다.
-
-5. 세상에
-<br>User Name:  sangwan_yoseph <br><br>
-
-광주 베토벤 음악감상실
-입장료 7000원을 내면 차나 쥬스 커피 등을 고를 수 있다..
-너무좋음 친절하고요....
-감상실에서 24년 빈 신년음학회를 틀어줬어요.. [https://t.co/mpbqTThG78](https://t.co/mpbqTThG78){:target="_blank"}
-<br>User Name:  fakejisumin <br><br>
-
-뇌과학이 밝혀낸 말의 법칙 [https://t.co/uuGk2OSDk7](https://t.co/uuGk2OSDk7){:target="_blank"}
-<br>User Name:  HenryKim957167 <br><br>
-
-[https://t.co/mXysLNebyl](https://t.co/mXysLNebyl){:target="_blank"}
-<br>User Name:  _ddxlog <br><br>
-
-강원도에 이렇게 멋진 공간이 많은 줄 몰랐다.. 강원도 미술관투어,, 타래로📍@youthful_museum [https://t.co/Eog47u2lFQ](https://t.co/Eog47u2lFQ){:target="_blank"}
-<br>User Name:  ___snim <br><br>
-
-작년에 사놓고, 휴가와서 이제야 읽는중. 진작에 읽을것. 글 쓰기가 직업인 (특히 학위논문 작업의 고통을 맛봤다면) 사람이라면 첫장부터 바로 울면서 읽을수 있다. 더 읽어봐야 겠지만, 제텔카스텐(메모상자)의 능력 증명만으로도 니콜라스 루만은 20세기 최고의 사회학자가 맞다. [https://t.co/eMpGpDfRl6](https://t.co/eMpGpDfRl6){:target="_blank"}
-<br>User Name:  DrByungjunKim <br><br>
-
-아니 을지로지점 생겼네?????? [https://t.co/htigjyO7T4](https://t.co/htigjyO7T4){:target="_blank"}
-<br>User Name:  iamkimgosu <br><br>
-
-이번 오키나와 여행 숙소도 너무 좋았다 [https://t.co/6c658wgGSa](https://t.co/6c658wgGSa){:target="_blank"}
-<br>User Name:  Bite0A <br><br>
-
-체지방율 30%가 넘는다. LDL 수치가 딱 경계여서 꾸준히 체지방을 줄여나가고 있다. 일단 밀가루 간식을 끊었다 줄였다 하고 있는데 이 땅콩버터가 제일 도움이 되었다. 하루 땅콩버터 1테이블스푼(3밥숟가락)까지는 괜찮다고 해서 입 심심하면 먹음.(무첨가땅콩버터여야함)
-[https://t.co/A0xoGkCJEi](https://t.co/A0xoGkCJEi){:target="_blank"} [https://t.co/oio54oKoYF](https://t.co/oio54oKoYF){:target="_blank"}
-<br>User Name:  awall_moonlight <br><br>
-
-📍보드게임카페 레드버튼 시네마강남
-
-메가박스를 개조한 보드게임 카페 아세요?...
-스크린에서 고전영화 + 애니메이션 상영하고
-이 미친 분위기에서 ㄹㅇ 하루종일 놀기 쌉가능
-영화관에서 게임하니까 더 긴장됨... [https://t.co/drbjBd9GvD](https://t.co/drbjBd9GvD){:target="_blank"}
-<br>User Name:  4B_XFH <br><br>
-
-무척 좋아하는 책. &lt;서른의 불만 마흔의 불안&gt;에도 나왔던 이야기. "여자의 야망은 선을 넘은 과욕이고 남자의 야망은 멋진 것이다고 평가된다. 덕분에 여자는 자기 가치를 모르고 남자는 자기 분수를 모른다" [https://t.co/DlRX37Xc6I](https://t.co/DlRX37Xc6I){:target="_blank"}
-<br>User Name:  piropiroriyusa <br><br>
-
-영어공부하는데 꽤 괜찮은 사이트 찾았다
-🍀잉글리쉬큐브
-영어공부법 문법 도움되는 사이트 등등 총집합돼있음!! 나는 우선 귀를 뚫어보려고 저기서 추천하는 bbc랑 넷플릭스 공부법 가보려고함 [https://t.co/USWM7W38om](https://t.co/USWM7W38om){:target="_blank"}
-<br>User Name:  miya7855 <br><br>
-
-한참 찾았네
-월4,900 개별구독으로 할 거면 "평생학교"로 구독하면 됨 [https://t.co/Qho1KpiD7C](https://t.co/Qho1KpiD7C){:target="_blank"}
-<br>User Name:  ff14_boz <br><br>
-
-오늘 다녀왔는데 네이버예약 하고 가면 할인도 되고 전시 굿즈도 주네요. 눈이나 비오는 날 또 가보고 싶은 뷰...
-
-라이크디즈1601
-서울 중구 서소문로 116
-[https://t.co/yc6T9U7jru](https://t.co/yc6T9U7jru){:target="_blank"} [https://t.co/tjeeneb0ca](https://t.co/tjeeneb0ca){:target="_blank"}
+서울산책
+[https://t.co/fSyLAC0clj](https://t.co/fSyLAC0clj){:target="_blank"} [https://t.co/eH0b8cR1do](https://t.co/eH0b8cR1do){:target="_blank"}
 <br>User Name:  jun_miguel_lee <br><br>
 
-어제 우연히 알게 된 싸이트인데 벼라별 좋은 강좌가 다 있더라고요. 유튜브보다 훨씬 유용한 것 같습니다  [https://t.co/1dQBsaP9So](https://t.co/1dQBsaP9So){:target="_blank"}
-<br>User Name:  waitingpark <br><br>
+소설 읽으면서 살고 싶다는 생각 처음 해봄. [https://t.co/Tk0LIJLza8](https://t.co/Tk0LIJLza8){:target="_blank"}
+<br>User Name:  shineorcrazy <br><br>
+
+애플 tv+ 드라마 &lt;더 모닝 쇼&gt; 시즌 4 보고 AI 때문에 좆된 상황에 대해 깊생하다.. 원래도 이 시리즈를 좋아했지만 시즌을 거듭할수록 정말 꾸준히 좋다.. [https://t.co/CuU2oTPjW7](https://t.co/CuU2oTPjW7){:target="_blank"}
+<br>User Name:  browneyed_seoul <br><br>
+
+내가 강력추천한다고 트친들한테 고래고래 소리를 질렀는데... 엄청난 페이지터너 손에서 뗄 수 없다.
+<br>User Name:  baronsamdi_ <br><br>
+
+저는그래도 &lt;미지의서울&gt;이요 [https://t.co/lNi3xrlLDB](https://t.co/lNi3xrlLDB){:target="_blank"}
+<br>User Name:  jaxndii <br><br>
+
+... 독서계 자격 박탈
+여기서 하나도 읽은 게 없슨 [https://t.co/P9k2OImboZ](https://t.co/P9k2OImboZ){:target="_blank"}
+<br>User Name:  Petit_8onheur <br><br>
+
+ai를 단순히 비용 절감이 아니라 역량 증폭기로  써야한다는 개념의 글들이 많이 보이는데요. 이 글이 알맹이가 있어보이네요. ai로 빨리 하는데 만족하지 말고 선형적 작업을 빠른 반복 순환 작업으로 전환해 가치를 확대하는데 집중하라고. #uxkr 
+[https://t.co/wo9lk8yh31](https://t.co/wo9lk8yh31){:target="_blank"} [https://t.co/czj7jDl62N](https://t.co/czj7jDl62N){:target="_blank"}
+<br>User Name:  taekie <br><br>
+
+[https://t.co/khIchRQ3e1](https://t.co/khIchRQ3e1){:target="_blank"}
+<br>User Name:  ScholarshipfPhd <br><br>
+
+All you need to build a million dollar company [https://t.co/SPAacwuVA0](https://t.co/SPAacwuVA0){:target="_blank"}
+<br>User Name:  psomkar1 <br><br>
+
+겨울아침에 일어나기 싫으니까 아침에 자동화로 음악 바로 재생하려고 몇 달 전부터 ❄️⛄️☀️ 이런 음악 모으고 있었는데 곡이 300개가 넘엇음
+여러분도 겨울 아침을 활기차게 보내보세요🥹 [https://t.co/wNaQEFADYW](https://t.co/wNaQEFADYW){:target="_blank"}
+<br>User Name:  clclclove1 <br><br>
+
+올해 읽은 책 중에서 읽는 내내 감탄하고, 읽고 난 다음 초흥분 해서 남편에게 이야기 한 존 조의 &lt;Troublemaker (한국제목: 문제아)&gt; 진짜 기승전결이 완벽한 스토리에다가 엄청나게 많은 주제에 대해서 이야기를 하는데 뭐가 덜하지도, 더해지지도 않고 완벽한 밸런스 갖추고 있었던 책. [https://t.co/ruCnwPLGNH](https://t.co/ruCnwPLGNH){:target="_blank"}
+<br>User Name:  geometryofsleep <br><br>
+
+Want to get more done without burning out? [https://t.co/m1hwvftZDd](https://t.co/m1hwvftZDd){:target="_blank"}
+<br>User Name:  NextLevelBiz <br><br>
+
+The All-In-One Product Model 🤔 [https://t.co/HogY8Iqxbr](https://t.co/HogY8Iqxbr){:target="_blank"}
+<br>User Name:  nurijanian <br><br>
+
+살짝 다른 얘긴데 외국어 단어 암기 어려워하시는 분 있으시면 '라이트너 암기/공부법' 찾아보시는 거 추천 드려요
+인간의 망각 곡선을 활용해서 외우는 건데 고등학교 때 진짜 도움 많이 받았어요 (아예 저렇게 칸을 나눈 박스도 인터넷에서 살 수 있음)
+[https://t.co/qvsxpnEpcn](https://t.co/qvsxpnEpcn){:target="_blank"} [https://t.co/nYlP8Bv5EH](https://t.co/nYlP8Bv5EH){:target="_blank"}
+<br>User Name:  4_wonderfullife <br><br>
+
+내 영화가 여기 껴있다는 게 믿겨지지가 않고 너무 감사하고 감사해서 진정이 안된다
+아무래도 내일 출근은 힘들 것 같음 🤷🏻‍♀️😮‍💨❤️‍🔥
+<br>User Name:  ckolikes <br><br>
+
+이거 빨리 더 보고 싶어서 출근하고 싶음
+<br>User Name:  forest_wool <br><br>
+
+오타쿠의오타쿠를위한오타쿠에의한그런 영화로다
+리듬감 미장셴 연출 그런것이 전부다 아름다운 [https://t.co/veOpIh1EiX](https://t.co/veOpIh1EiX){:target="_blank"}
+<br>User Name:  kunmandooo <br><br>
+
+Well well, guess who's the top user of Chatgpt. Shocking [https://t.co/Ye944G4012](https://t.co/Ye944G4012){:target="_blank"}
+<br>User Name:  Cogito1781 <br><br>
+
+이거 컨셉이 진짜 정신아픔이들아 밖에좀나가자 이런거임ㅜㅜㅋㅋㅋㅋㅋ 영상도 좋고 편집에서 느껴지는.. A24의 기운 기획좋다 아웃도어마케팅도 점심병의시대
+
+[KOLON SPORT] You Could Be Outside [https://t.co/zmNWEAFBbJ](https://t.co/zmNWEAFBbJ){:target="_blank"} [https://t.co/Cuy2UfAwQ3](https://t.co/Cuy2UfAwQ3){:target="_blank"}
+<br>User Name:  nousommer <br><br>
+
+중국 바이두에서 기존 OCR 모델 다 씹어먹는거를 오픈소스로 공개해버렸다... 기존에 OCR 모델 사서 쓰려고 생각중이던 분도 이거 보자마자 구매 계획을 취소해버리심 ㄷㄷ...
+
+[https://t.co/iuMPBN0z9T](https://t.co/iuMPBN0z9T){:target="_blank"}
+<br>User Name:  JakeSeo8 <br><br>
+
+오늘의 플레이리스트 추천
+
+이거 진짜 미친(p) 플리
+음악가는 뭐 좀 다르다 이건가 싶고
+그냥 플리 채널 하나 파주셨으면 좋을 정도
+
+노래 무드부터 감다살 첫 곡부터 영화 속으로 들어온 것 같아짐 [https://t.co/DkwkoRVoMK](https://t.co/DkwkoRVoMK){:target="_blank"}
+<br>User Name:  murrmur1 <br><br>
+
+스티브 잡스 프레젠테이션 기법
+
+1. 발표 도입부는 단순한 인사말이 아니라 실제 경험·일화, 흥미로운 사건 등으로 청중 집중부터 먼저 유도함.
+
+2. 잡스 발표는 스토리텔링이 중심이라 데이터와 팩트도 이야기 안에 녹여냄.
+
+3. 제품 또는 서비스가 정말 해결해야 할 ‘문제(빌런)’가 뭔지 구체적으로 [https://t.co/tADksnxGZ5](https://t.co/tADksnxGZ5){:target="_blank"}
+<br>User Name:  babybluecream <br><br>
+
+1. SNS는 사회 생활(교류)에서 컨텐츠 (소비)로 변해가고 있음. 몇년 전에 비해 덜 사회적인 플랫폼이 되었고, 사실상 TV랑 다를 바가 없음. (수동적으로 컨텐츠를 소비하는 공간)
+2.1. 2010년대에 개인 삶을 SNS에 전시하면 어떤 부정적인 문제가 생기는지 경험했고, 그게 일종의 사회적 규약이 됨.
+<br>User Name:  ObserverofCity <br><br>
+
+@ohsangnaom 전자책 찾을 때 여기저기 헤매는 거 완전 공감해요. 우리는 jenova ai로 구글, 구글 스칼라, 레딧, 유튜브까지 한 번에 실시간 검색하고, 인용 포함 리서치 요약을 문서로 뽑아줘서 독서 노트 정리까지 몇 분이면 끝나요. 카뮈나 괴테처럼 비교 자료 필요할 때도 교차 검증이 빨라져서 퀄리티가 확
+<br>User Name:  Aiden_Novaa <br><br>
+
+uvx mac-cleanup 외워두자
+<br>User Name:  Basix1120 <br><br>
+
+그사뿐 봤다 와 진짜 영화 보고 나오니까 메인 포스터부터 일러스트 포스터까지 &lt;그저 사고였을 뿐&gt; 제목으로 지은 것도 감다살이라는 조악한 표현으로는 너무 부족함 그냥 다 완벽한 것 같음 음악이 하나도 안 나오길래 의아했는데 엔딩에서 그 모든 연출이 이해됨 진심 영화관에서 다같이 탄성 지름 [https://t.co/8OgvWL6JxA](https://t.co/8OgvWL6JxA){:target="_blank"}
+<br>User Name:  loveboringage <br><br>
+
+AI 시대, 스타트업의 종말을 고하다
+
+지금 막 Y Combinator에 업로드된 영상입니다. Anthropic의 연구원이자 YC 출신 창업가인 Jordan Fisher의 강연인데, AI 스타트업을 꿈꾸거나 계획하시는 분들은 머리를 한 대 맞은 듯한 충격을 받을 수 있는 내용입니다. 반드시 알아야 할 미래 생존 전략의 [https://t.co/V6zsKYeuFO](https://t.co/V6zsKYeuFO){:target="_blank"}
+<br>User Name:  AIBopyo <br><br>
+
+그냥 ott랑 멤버쉽 구독 좋아하면 이거 써
+
+실적도 겨우 10만원 연회비도 없음
+ott랑 멤버쉽도 월 1만원 한도지만, 30프로 캐시백임
+
+첫달에 네페 멤버쉽 1년치 결제하고
+다음달부터 네페에서 넷플 업글 정기 구독하고
+쿠팡와우 정기구독하고
+나머지는 뭐 유튜브 디즈니 중 하면 1만원한도 딱임 [https://t.co/faA9a8BkS2](https://t.co/faA9a8BkS2){:target="_blank"}
+<br>User Name:  dosu7878 <br><br>
+
+PTA가 &lt;원 배틀 애프터 어나더&gt; 만들 때 영향을 받았댔나 미리 보면 좋댔나 그렇게 언급했던 영화
+
+마틴 브레스트의 &lt;미드나잇 런&gt; [https://t.co/Dz8OAWalj6](https://t.co/Dz8OAWalj6){:target="_blank"}
+<br>User Name:  vagabond_sy <br><br>
+
+주식 투자 방법론으로 논쟁할 필요가 없는 이유.jpg [https://t.co/Qc7gVHtX9t](https://t.co/Qc7gVHtX9t){:target="_blank"}
+<br>User Name:  TJgoongye <br><br>
+
+출처 [https://t.co/BiURVEKJZU](https://t.co/BiURVEKJZU){:target="_blank"}
+<br>User Name:  chickenjuice <br><br>
+
+52/25 한참 핫한 Cell의 회춘 논문 내용을 들어봤다. 어마어마한 실험 양에 눈물이 날 것 같았다. 하나부터 열까지 다 확인해봤는데 젊어졌다는 것을 부정할 수가 없는 느낌. 이렇게 파격적인 결과가 지금까지 있었나 싶다. "건강"과 "치료"에 대한 개념이 앞으로 달라지겠구나 싶었다 [https://t.co/qbTKnOzv8y](https://t.co/qbTKnOzv8y){:target="_blank"}
+<br>User Name:  mahler83 <br><br>
+
+카카오가 다른 기능 말고 카카오톡에 그냥 이런 기능들 만들어주면 진심 좋을 것 같은데....
+
+- 카카오페이 조용히 받기 버튼
+- 카카오톡 웹버전 출시 (인스타 메세지처럼)
+- 카카오톡 다중 기기 로그인 제한 해제
+- 고인 추모프로필 설정시 기존 채팅방 안 나가지고 영원히 보관하게 처리
+- 윈도우
+<br>User Name:  hmartapp <br><br>
+
+에드워드 양 &lt;공포분자&gt; 86년도 작품이지만 지금 봐도 모든 부분, 특히 편집이 너무 세련돼서 감탄만 나왔음 타이틀이랑 포스터만 보고 가서 오해 했는데 결국엔 결말의 선택을 관객에게 맡기는 게 넘 메타적 공포가 맞았다 너무 무섭고요 [https://t.co/z5xNx9sAnH](https://t.co/z5xNx9sAnH){:target="_blank"}
+<br>User Name:  yankinekoze <br><br>
+
+추석때 보면 좋은 콘텐츠  넷플릭스 '매드유니콘' 
+
+주식쟁이라면 보는 것을 추천합니다. 태국  물류기업 '플래시 익스프레스'  창업자의 성장과정을 바탕으로 만들어졌습니다. 
+
+주식투자자라면 어느 기업에 투자를 고민할 때, 던져야 하는 질문이 나옵니다. 그리고 기업이 경쟁에서 살아남기위해 [https://t.co/1K9B1DMhVu](https://t.co/1K9B1DMhVu){:target="_blank"}
+<br>User Name:  stockboy00 <br><br>
+
+폴 토마스 앤더슨이 신작 &lt;원 배틀 애프터 어나더&gt;를 관람하기 전에 보기를 추천하는 5편의 영화 리스트…
+
+윌리엄 프리드킨, &lt;프렌치 커넥션&gt;
+시드니 루멧, &lt;허공에의 질주&gt;
+질로 폰테코르보, &lt;알제리 전투&gt;
+마틴 브레스트, &lt;미드나잇 런&gt;
+존 포드, &lt;수색자&gt; [https://t.co/1oPaS0Fa4H](https://t.co/1oPaS0Fa4H){:target="_blank"}
+<br>User Name:  CHOONSAM__27 <br><br>
+
+진짜네?!
+무려 600개가 넘는 추리퀴즈가 여러분을 기다리고 있습니다. [https://t.co/hmKArjmxC9](https://t.co/hmKArjmxC9){:target="_blank"}
+<br>User Name:  on_gossip_junz <br><br>
+
+이번 연휴의 승자는 소문난대로, 아이맥스를 비롯해 &lt;원 배틀 애프터 어나더&gt;를 비스타비전에 가까운 비율 화면으로 관람하는 데에 성공한 사람일텐데, 특히 아래와 같이 상하로 굴곡진 도로에서 펼쳐지는 자동차 추격전 시퀀스에 제대로 기가 막히는 경험을 할 수 있어서다.
+<br>User Name:  imagolog <br><br>
+
+These are the quants you’re competing against in China.
+
+Good luck.  [https://t.co/VcC57gupZN](https://t.co/VcC57gupZN){:target="_blank"}
+<br>User Name:  hamptonism <br><br>
+
+이것이 바로 그.. 몇백억짜리 문서..
+[https://t.co/uhb0U8ahei](https://t.co/uhb0U8ahei){:target="_blank"}
+<br>User Name:  darjeelingt <br><br>
+
+내 맥북에 깔려있는 AI 브라우저들..
+
+Comet
+[https://t.co/Jv9qYaksNu](https://t.co/Jv9qYaksNu){:target="_blank"}
+&gt; Perplexity Pro 를 쓰고 있는데, 바로 Comet에서 쓸 수 있어서 Perplexity 앱을 띄운지 꽤 오래 됨. 정보 검색, 참조를 위해 탭을 많이 열어놓는 스타일인데 이걸 자동 분류해줘서 좋음. 프롬프트에 대한 Shortcut 들을 지정할 [https://t.co/u5bzLQzNUJ](https://t.co/u5bzLQzNUJ){:target="_blank"}
+<br>User Name:  lucas_flatwhite <br><br>
+
+최근에 한 팟캐스트에서 100배의 수익률을 무려 7번이나 달성한 투자자의 인터뷰를 들었는데 와닿았던 것은 이 투자자는 투자관련 서적을 제대로 읽었던 적이 별로 없다는 것. 투자책이 아닌 비지니스와 사업가들에 대한 책들을 읽었다고 한다.
+
+벨류에이션, 재무제표, 기술 분석 모두 중요하지만 결국
+<br>User Name:  kimsbinvesting <br><br>
+
+정리해서 올렸습니다!
+
+[https://t.co/EdWQgHD5kC](https://t.co/EdWQgHD5kC){:target="_blank"}
+<br>User Name:  kimsbinvesting <br><br>
+
+진자마법같은 책이다… [https://t.co/Ti1Bi2RR0F](https://t.co/Ti1Bi2RR0F){:target="_blank"}
+<br>User Name:  ifnotlater <br><br>
+
+My iPhone/Watch stock scraping server might just be the coolest thing I’ve ever done [https://t.co/teTDSJdwsf](https://t.co/teTDSJdwsf){:target="_blank"}
+<br>User Name:  josesaezmerino <br><br>
+
+AI가 주니어를 빛나게 할 것이라 했지만, 왜 시니어만 더 강해졌을까?
+
+- 초기에는 주니어+AI 조합으로도 충분히 고품질 코드를 만들 수 있을 것이라는 기대가 있었으나, 실제로는 시니어+AI 조합이 훨씬 더 강력하게 작동하고 있음  
+- AI는 보일러플레이트 생성, 반복 작…
+[https://t.co/mjEkkFDQCa](https://t.co/mjEkkFDQCa){:target="_blank"}
+<br>User Name:  GeekNewsHada <br><br>
+
+McKinsey literally breaks down how to ship agentic AI that works [https://t.co/MMJvmLF26t](https://t.co/MMJvmLF26t){:target="_blank"}
+<br>User Name:  aakashgupta <br><br>
+
+🚨 역대급 카드 등장 🚨 
+전부 다 뒤집어 놓을거다
+
+로빈후드 $HOOD 
+이놈들 미쳤다 골드카드 출시, 모든 결제 3퍼센트 캐시백 그냥 다 퍼준다. 
+연회비? 없다. 
+하지만 골드 멤버십 필요하다, 그렇다 돈 내고 써야한다. 
+그래도 가치있다
+
+혜택 전부 다 최고다. 
+해외결제 수수료 없음, 그냥 해외에서 [https://t.co/2yNoCgew5F](https://t.co/2yNoCgew5F){:target="_blank"}
+<br>User Name:  USAnt_IDEA <br><br>
+
+이거 진짜 괜찮은 내용인데 왜 사람들이 관심이 없지...ㅎㅎ 
+[https://t.co/66X9Jnn2mW](https://t.co/66X9Jnn2mW){:target="_blank"}
+<br>User Name:  wapj2000 <br><br>
+
+덕수궁 향으로 유명합니다. [https://t.co/CXEla7AvIK](https://t.co/CXEla7AvIK){:target="_blank"}
+<br>User Name:  baguriee <br><br>
+
+걸작이다. 대단한 책이다. 직접 발로 뛰고 생명과 환경을 진지하게 생각하고 지구의 미래를 내가 생각하지 못했던 (그러나 너무나 중요한 각도에서) 걱정하는 이런 책들이 좋다. 70페이지 정도 남았는데, 내일 출근만 아니었으면 다 읽고 감동에 푹 빠져 잠을 잤을 것이다... 이제 자러 가야지. [https://t.co/waxSasaAVI](https://t.co/waxSasaAVI){:target="_blank"}
+<br>User Name:  John_Grib <br><br>
+
+NFC, QR codes, Sound Wave, SMS 를 이용한다고 하는디 음파가 진짜 신기하네 ㅋㅋ 암튼 혁신이 무엇인가? 은행없이 거래를 하고, 학교 없이 가르치고, 인터넷 없이 결제하고... 이런 상황속에서 살아가는 사람들을 위한 생각부터 시작하는게 혁신 아니냐~ 뭐 그런 글이었음. [https://t.co/Cmu6wqNDYk](https://t.co/Cmu6wqNDYk){:target="_blank"}
+<br>User Name:  sceneryoftoday <br><br>
+
+"국내 최초 국산화"
+"슈퍼-라이프사이클 케이블"
+
+사용처: 의료용 로봇 수술 장비, 머신비전 카메라, 제어판 및 센서 연결 등 [https://t.co/ZCLYDIjFJc](https://t.co/ZCLYDIjFJc){:target="_blank"}
+<br>User Name:  hyunbinseo97 <br><br>
+
+테디오빠 저 상탓어요 할때 호흡이랑
+블랙핑크 멤버이름 부르면서 상탓다고할때 나진짜눈물이막흐름
+그리고
+
+마지막에
+I'd like to thank myself for not giving up even in the toughest of times. and  always remember YOU'VE GOT YOU
+
+이러는거진짜눈물날거갘음 [https://t.co/s9qIgEVxb7](https://t.co/s9qIgEVxb7){:target="_blank"}
+<br>User Name:  ros1ever <br><br>
+
+깔끔하고 고급진 PPT 레퍼런스 [https://t.co/pm8EBCGXYV](https://t.co/pm8EBCGXYV){:target="_blank"}
+<br>User Name:  yjx3836 <br><br>
+
+내게 없던 감각. 올해 읽은 최고의 책 중 하나라 할 수 있겠다. 이 책을 읽어 몹시 기쁘다. 과학적 서술과 휴머니즘, 재미와 감동.. 인간에 대한 믿음과 사랑이 진하게 느껴진다.
+<br>User Name:  John_Grib <br><br>
+
+스미싱 당했다면  당황 하지말고 차례대로 [https://t.co/kldyv5zjtu](https://t.co/kldyv5zjtu){:target="_blank"}
+<br>User Name:  zerofull1979 <br><br>
+
+Why the Rich get Richer [https://t.co/BYDHGo95bD](https://t.co/BYDHGo95bD){:target="_blank"}
+<br>User Name:  guideforman <br><br>
+
+This guy literally dropped the best life advice you’ll ever hear [https://t.co/8F7Lt3QoP7](https://t.co/8F7Lt3QoP7){:target="_blank"}
+<br>User Name:  aaditsh <br><br>
+
+에드워드 양 감독 작품전
+10/1(수)~10/14(화), 메가박스
+ 
+&lt;해탄적일천&gt;, &lt;타이페이 스토리&gt;, &lt;공포분자&gt;, &lt;고령가 소년 살인사건&gt;, &lt;독립시대&gt;, &lt;마작&gt; [https://t.co/PQcVzgA5Mj](https://t.co/PQcVzgA5Mj){:target="_blank"}
+<br>User Name:  uahan2 <br><br>
+
+[https://t.co/nAblqtUEz6](https://t.co/nAblqtUEz6){:target="_blank"}
+<br>User Name:  levelsio <br><br>
+
+This guy literally dropped the best visual guide to LLMs you’ll ever see
+[https://t.co/UAeDA5bRgF](https://t.co/UAeDA5bRgF){:target="_blank"}
+<br>User Name:  aaditsh <br><br>
+
+좋아하는 유투버..재밌고 열심히 사는 여성분들이라 동기부여 돼서 좋아함..
+life goals, 데이팅, 번아웃 , 살면서 느끼게되는 감정들… 에 대한 이야기도 하시는데 너무 공감되고.. [https://t.co/mtX5czvl0m](https://t.co/mtX5czvl0m){:target="_blank"}
+<br>User Name:  meltdownella <br><br>
+
+How to Analyze Stocks [https://t.co/fWwD2spNQK](https://t.co/fWwD2spNQK){:target="_blank"}
+<br>User Name:  CompoundingW <br><br>
+
+”소마이 신지의 세계로 들어가고 싶다“
+- &lt;괴물&gt; 각본가 사카모토 유지 -
+
+소란스러웠던 그 여름🫧
+소마이 신지의 가장 사랑스러운 걸작&lt;이사&gt;
+🏡7월 23일 대개봉! [https://t.co/ZfarHckkS3](https://t.co/ZfarHckkS3){:target="_blank"}
+<br>User Name:  challanfilm <br><br>
+
+aura aura aura, [https://t.co/qvprO2fH4j](https://t.co/qvprO2fH4j){:target="_blank"}
+<br>User Name:  hamptonism <br><br>
+
+Jim Simons, Founder the Most Successful Quant Firm, Renaissance Technologies,
+Algorithmic Trading Lecture by MIT:
+ [https://t.co/Hk6FSXzZMp](https://t.co/Hk6FSXzZMp){:target="_blank"}
+<br>User Name:  hamptonism <br><br>
+
+이래놓고 타블로 전생은 너무 비극적이라 아무도 못 놀리고 숙연해짐 [https://t.co/6ppKA3hDRS](https://t.co/6ppKA3hDRS){:target="_blank"}
+<br>User Name:  shoe_wdsw_10 <br><br>
+
+[https://t.co/3aDTdq246f](https://t.co/3aDTdq246f){:target="_blank"}
+<br>User Name:  esprecchiato <br><br>
+
+MCP is redefining what AI can do, and 95% of builders haven't caught on.
+
+I've built agents that run my calendar, organize files, and manage tasks. All autonomous.
+
+The results changed how I think about automation.
+
+I'm breaking down exactly how MCP works (with code + examples): [https://t.co/rjrBuRR3pX](https://t.co/rjrBuRR3pX){:target="_blank"}
+<br>User Name:  LoicReco <br><br>
+
+개쩌는 도서관을또찾았어..
+그리고 또 서울이야..
+
+저 가운데 개 큰 테일블이랑 테라스가 진짜 느좋이다
+📍아차산숲속도서관 [https://t.co/f31xGBu5ea](https://t.co/f31xGBu5ea){:target="_blank"}
+<br>User Name:  frankthatshit <br><br>
+
+애들아 라이카시네마가 썸필타 틀어준다 [https://t.co/1mQPRvuuY9](https://t.co/1mQPRvuuY9){:target="_blank"}
+<br>User Name:  9gujeong <br><br>
+
+RAG vs Agentic RAG [https://t.co/5adhFMrSYR](https://t.co/5adhFMrSYR){:target="_blank"}
+<br>User Name:  alexxubyte <br><br>
+
+뉴욕타임스 선정, 21세기 최고의 영화 100편
+
+1. 기생충
+2. 멀홀랜드 드라이브
+3. 데어 윌 비 블러드
+4. 화양연화
+5. 문라이트
+6. 노인을 위한 나라는 없다
+7. 이터널 선샤인
+8. 겟 아웃
+9. 센과 치히로의 행방불명
+10. 소셜 네트워크
+
+감독·배우 등 500명이 투표
+
+전체 순위: [https://t.co/vF2VlFbTDb](https://t.co/vF2VlFbTDb){:target="_blank"} [https://t.co/vq5SW0Bn9g](https://t.co/vq5SW0Bn9g){:target="_blank"}
+<br>User Name:  uahan2 <br><br>
+
+똥손도 할수잇다 짱구그리기 [https://t.co/Y9uxAYx6dX](https://t.co/Y9uxAYx6dX){:target="_blank"}
+<br>User Name:  _virtualreality <br><br>
+
+NHK 다큐 영상의 세기 버터플라이 이펙트 - 한국, 계엄령과의 전쟁 편.
+아이와 함께 봤다.
+
+그대로 번역해서 한국에 방영해도 손색없을 정도의 훌륭한 한국 현대사 교재. 제작진에게 박수 갈채를 보낸다. [https://t.co/aXB4V8t95I](https://t.co/aXB4V8t95I){:target="_blank"}
+<br>User Name:  eijiaska <br><br>
+
+그리고 그 담에 이거 보여줄 생각.
+아니 이렇게 세계통합한 영상이 고화질로 남은 게 있나 하는
+
+[https://t.co/uTubdxmSR9](https://t.co/uTubdxmSR9){:target="_blank"}
+<br>User Name:  eijiaska <br><br>
+
+산과 박물관 좋아하는 사람들.. 경주 남산 등산하시면 노천 박물관 관람 가능합미다.. 감탄 1000만번 ㄱㅏ능 ㅠㅠㅜㅠ 💚⛰️
+
+아니 그냥 눈 돌리면 보물임.. 진짜 대한민국 문화유산 보물..
+
+. [https://t.co/kiXPjnOITs](https://t.co/kiXPjnOITs){:target="_blank"}
+<br>User Name:  EmeraldCloud <br><br>
+
+소쇄원(瀟灑園), 담양 [https://t.co/NElLLZGzu9](https://t.co/NElLLZGzu9){:target="_blank"}
+<br>User Name:  nulpuleunsonamu <br><br>
+
+고민될 때마다 떠올리면 좋은 말 [https://t.co/REGItXzDrL](https://t.co/REGItXzDrL){:target="_blank"}
+<br>User Name:  better__time <br><br>
+
+Book Recommendations
+by J.P. Morgan CEO: [https://t.co/TwYBl6Zlbs](https://t.co/TwYBl6Zlbs){:target="_blank"}
+<br>User Name:  hamptonism <br><br>
+
+‘젊은 세대는 삶에 대한 구체적인 감각이 없다. 삶이 구체적으로 어떻게 구성되는지 모른다. 음식은 어디서 오는지, 물은 어디서 오는지 모르고 산다. 모든 것이 배달로 해결되기 때문에…그들은 삶의 구체적인 기반을 갖지 못했다.’ [https://t.co/VQCdmKQmbP](https://t.co/VQCdmKQmbP){:target="_blank"}
+<br>User Name:  ilikesomeday <br><br>
+
+LAMY"safarinote+"日常的にlamysafariのシャープペンシルを愛用している、知らずにいたがipad用のsafariが発売されているようなので欲しい、好き [https://t.co/uDXk3QEJVF](https://t.co/uDXk3QEJVF){:target="_blank"}
+<br>User Name:  W_T_N_BE <br><br>
+
+민변에서 주신 스티커.. 정말 멋진 말들이로구만 노트에 붙여야겟다 [https://t.co/S0HFGvP9U1](https://t.co/S0HFGvP9U1){:target="_blank"}
+<br>User Name:  thenitsok <br><br>
+
+OpenAI literally dropped a 32-page masterclass on building AI agents [https://t.co/Xu1bBxXnn2](https://t.co/Xu1bBxXnn2){:target="_blank"}
+<br>User Name:  aaditsh <br><br>
+
+헉 내가 너무 궁금했던 작년 부커상 수상작 'Orbital'이 '궤도'라는 제목으로 번역되었다! 엄청 빨리 나왔네 ㅠㅠㅠㅠㅠㅠ [https://t.co/zICZ75q9Em](https://t.co/zICZ75q9Em){:target="_blank"}
+<br>User Name:  starlakim <br><br>
+
+Stanford dropped the best 1-hour lecture on building AI agents [https://t.co/gyxtgJxTUx](https://t.co/gyxtgJxTUx){:target="_blank"}
+<br>User Name:  aaditsh <br><br>
+
+서울시립 사진미술관, 도봉구 창동
+→야드리치(Mladen Jadric) + 일구구공도시건축(윤근주)
+
+서울시립 사진미술관은 레디 메이드 부재를 활용해 건축적 모듈을 쌓아 올린 형태가 인상적이다. 픽셀 개념을 차용해 가까이에서 보면 각 부재가 계단처럼 계층을 이루며 쌓여 있지만 [https://t.co/Y8cmkUZNhm](https://t.co/Y8cmkUZNhm){:target="_blank"}
+<br>User Name:  mspiece1 <br><br>
+
+The world's leading AI research center completed the most comprehensive study ever on kids and AI.
+
+They surveyed 1,800+ children, parents, and teachers in UK.
+
+Here's what they found:
+
+(spoiler: children are outsmarting adults on AI) [https://t.co/Ci6wh3RrfU](https://t.co/Ci6wh3RrfU){:target="_blank"}
+<br>User Name:  rubenhassid <br><br>
+
+고이즈미 신지로 팟캐스트 1화 요약.
+밑줄 친 부분은 좀 감탄했습니다. 🫢
+
+-팟캐스트를 시작한 이유:
+*유튜브 같은 영상 미디어도 중요하지만, 여유롭게 이야기할 수 있는 팟캐스트에도 관심이 있었다.
+*정치에 무관심할 수 있어도 무관계일 수는 없다는 사실을 사람들에게 알리고 싶었다.
+*AI 등으로 [https://t.co/xLuTmVRMuq](https://t.co/xLuTmVRMuq){:target="_blank"}
+<br>User Name:  HANBINIZM <br><br>
+
+그만큼 사는 게 고통이라는 것. [https://t.co/fyDAn9wF7D](https://t.co/fyDAn9wF7D){:target="_blank"}
+<br>User Name:  gurmi0526 <br><br>
+
+📒 스탠포드 대학교, 트랜스포머와 대형 언어 모델 핵심 요약본
+
+이 자료는 스탠포드 대학교 CME 295 강의에서 다루는 트랜스포머와 대형 언어 모델의 핵심 개념들을 한눈에 볼 수 있도록 잘 정리해둔 GitHub Repository 예요. 가볍게 샥 보기 좋아요~
+
+GitHub
+[https://t.co/zX6kyiv5z7](https://t.co/zX6kyiv5z7){:target="_blank"}
+
+PDF [https://t.co/xZYttRO5G2](https://t.co/xZYttRO5G2){:target="_blank"}
+<br>User Name:  lucas_flatwhite <br><br>
+
+I just found Yales entire academic course on Game Theory.
+
+This might be the most important Lecture Series you ever watch: [https://t.co/98tkrQgshL](https://t.co/98tkrQgshL){:target="_blank"}
+<br>User Name:  hamptonism <br><br>
+
+의외로 사람들이 모르는 네이버부동산 꿀팁
+
+1️⃣오른쪽 상단-개발-지하철 호재 확인
+2️⃣아파트 클릭하면 월별 관리비 확인 
+3️⃣1년동안 내야할 세금 확인(재산세, 종부세)
+4️⃣동호수/층별 공시가격 확인 
+5️⃣아파트 동별 배정 초등, 학년별 학급/학생수 확인
+6️⃣학군에서 방과후 프로그램 수, 학교 도서관 [https://t.co/ftqlMMj0n4](https://t.co/ftqlMMj0n4){:target="_blank"}
+<br>User Name:  godsible00 <br><br>
+
+Anthropic just dropped a free course on building AI Apps with MCP.
+
+Learn to connect AI Agents to external data sources like GitHub, Google Docs, local files using MCP.
+
+100% free. [https://t.co/UYrcyU2pDe](https://t.co/UYrcyU2pDe){:target="_blank"}
+<br>User Name:  Saboo_Shubham_ <br><br>
+
+(펌)
+
+세계 최고의 AI 보고서가 막 공개되었고, 제가 여러분 대신 340페이지 전부를 읽어드렸습니다.
+
+솔직히 말해, 모든 사람이 꼭 봐야 할 보고서입니다.
+
+보고서에서 뽑은 가장 중요한 20가지 내용은 다음과 같습니다:
+
+1.ChatGPT는 2년 반 만에 월간 사용자 수가 8배 증가해 8억 명에 달했습니다.
+<br>User Name:  doki_jerry <br><br>
+
+OpenAI, Google, and Anthropic just dropped the guides on:
+
+- Prompt Engineering
+- Building effective Agents
+- AI in Business
+- 601 AI use cases
+
+and so much more...
+
+9 best guides you don’t want to miss: [https://t.co/7OdMqpsNpH](https://t.co/7OdMqpsNpH){:target="_blank"}
+<br>User Name:  CodeByPoonam <br><br>
+
+곧 넷플릭스에 공개한다고 하는 &lt;목요일 살인 클럽&gt;, 은퇴한 요원 엘리자베스(헬렌 미렌), 열혈 운동가 론(피어스 브로스넌), 정신과 의사 이브라힘(벤 킹슬리), 은퇴한 간호사 조이스(셀리아 임리) 인 듯요. 이 작가..유머 욕심이 대단합니다. ㅎㅎ [https://t.co/67FHyWbNVU](https://t.co/67FHyWbNVU){:target="_blank"}
+<br>User Name:  howmystery <br><br>
+
+윤석열 12월 3일 계엄 선포하고 군 들이닥치기 20분 전 당시 국힘 원내대표 추경호랑 나경원한테 전화함 미친 [https://t.co/ZWKBEtMaGo](https://t.co/ZWKBEtMaGo){:target="_blank"}
+<br>User Name:  jongmanideul <br><br>
+
+아직 못 보신분들에게 추천드림. 
+
+EBS가 ‘자본주의’ 이후 10년 만에 각잡고 만든 6부작 경제 다큐 '돈의 얼굴'.
+
+’억만장자부터 은행강도까지. 평생 돈을 좇아온 사람들이 말하는 돈의 비밀‘을 파헤친다고 함.
+
+2년간 총 9개국 로케이션 촬영. ’다양한 돈의 모습을 목격한 이들의 이야기‘를 담았고 [https://t.co/FpLtqVAiH7](https://t.co/FpLtqVAiH7){:target="_blank"}
+<br>User Name:  King_James_Kim <br><br>
+
+[GPT, Grok, 퍼플렉 잘가라]
+NoteBook LM이 없던 시대에 태어났을 뿐인 범부여.
+
+- pdf 여러개 소스로 던져주면 알아서 브리핑
+- 마인드맵 그려주는데 이거 진짜 개지림
+- 음성 팟캐스트로 출력해서 들으며 배울 수 있음
+- 프롬프트 주면 원하는 대로 음성 생성
+- 난 보안 안 걸리는 선에서 업무에도 [https://t.co/xLQw51FeBM](https://t.co/xLQw51FeBM){:target="_blank"}
+<br>User Name:  oliver__99_ <br><br>
+
+📍 위치 : 아사쿠사 뷰 호텔의 스카이트리 뷰 룸
+
+💁🏻‍♂️ 폰카 촬영과 색감클래스 &amp; sns 마케팅클래스 프러필 링크로 들어와 상세히 확인하세요 !
+<br>User Name:  Hello_Dongwon <br><br>
+
+한국 마트 가격기준 3-4만원대 와인중에는 이게 최고. 맛은 10만원대 못지 않음. 기다리다보면 3.5만원 정도에 파는 경우가 있는데 그 때 많이 사서 쟁여두고 마시면 됨 [https://t.co/jg170fDXv1](https://t.co/jg170fDXv1){:target="_blank"}
+<br>User Name:  Ryan_HS_Song <br><br>
+
+세상의 끝에 도착했다 [https://t.co/mhC0ExIxvo](https://t.co/mhC0ExIxvo){:target="_blank"}
+<br>User Name:  Hello_Dongwon <br><br>
+
+부동산 임장 체크리스트 [https://t.co/x4a4FznS9R](https://t.co/x4a4FznS9R){:target="_blank"}
+<br>User Name:  __snowleaf <br><br>
+
+심플한 글쓰기 원칙 ✍️ [https://t.co/KWwMK6LIqQ](https://t.co/KWwMK6LIqQ){:target="_blank"}
+<br>User Name:  whatacoolgirl <br><br>
+
+[https://t.co/h57HiG1Q32](https://t.co/h57HiG1Q32){:target="_blank"}
+<br>User Name:  akzkfltm2 <br><br>
+
+버지니아 울프의 어떤 책을 가장 좋아하시나요? 저는 (전집을 다 읽지는 못 했지만) 100번 말한다고 해도 모두 《파도》 [https://t.co/6t3ZK2X1fp](https://t.co/6t3ZK2X1fp){:target="_blank"}
+<br>User Name:  deillcom4 <br><br>
+
+이번에 친해진 후배 살냄새가 너무 좋아서 향짜 처음해봄 진짜••
+딥디크 오르페옹이래.. 극강의 살냄새라는 게 이런거구나 싶더라 [https://t.co/6b2b1CR5JB](https://t.co/6b2b1CR5JB){:target="_blank"}
+<br>User Name:  pastyhayo <br><br>
+
+완독. 발리바르 정말 놀랍다. 석학이야 석학. 이제 곧 구십인데 디티절 재앙에 대해 어떻게 이렇게 통찰력 있는 글을 쓰지. 죽을 때까지 못 따라갈듯. [https://t.co/Fk4SnycF1U](https://t.co/Fk4SnycF1U){:target="_blank"}
+<br>User Name:  NonMerc66726538 <br><br>
+
+얼마전에 이 책 빌려가지고 큰 기대없이 펼쳐봤는데 진짜 앉은자리에서 거의 끝까지 다읽은거임 너무잼잇고 말은 그렇게 천천히 하는 사람이 글은 어떻게 그렇게 빨리 읽히게 쓴건지 신기하다 라고 하니까 동생이 그거는 자기를 꾸미려고 하지않아서 그런게 아닐까? 유아인 글 좃내읽기힘든데 그거의 [https://t.co/viqK1u1Q6n](https://t.co/viqK1u1Q6n){:target="_blank"}
+<br>User Name:  lambert078 <br><br>
+
+미국 14세 사춘기 소년 캐릭터AI 챗봇 여친과 몇 달간 대화, 사랑에 빠진 끝에 “나한테 오라”는 말에  결국 자살. 자기 생각 강화하는 알고리즘 결과. 부모 개발회사 상대 소송. 지금 10대들 폰으로 게임하는 줄 알지만 어떤 세계 살고 있는지 부모는 어른은 너무 모르고 있다.[https://t.co/w4zxHkp6Eb](https://t.co/w4zxHkp6Eb){:target="_blank"}
+<br>User Name:  atmostbeautiful <br><br>
+
+구례 지리산 치즈랜드
+이름은 치즈랜드지만 치즈는 없고 수선화만 있는 천국이 구례에 있어… [https://t.co/1qvyTQIpXb](https://t.co/1qvyTQIpXb){:target="_blank"}
+<br>User Name:  _travelkim <br><br>
+
+몇번이고 반복해서 들은 이 영상이 너무너무 좋아서 가족들과 친구들에게 많이 공유한 영상. 오늘 풀버전이 올라와서 공유해요. 김주환 교수의 ‘내면소통‘도 읽기 시작.
+
+"감정만 30년을 연구했다." 불안을 잠재우는 간단한 방법ㅣ지식인초대석 (김주환 교수 풀버전) [https://t.co/ZWFBvGAX8X](https://t.co/ZWFBvGAX8X){:target="_blank"} [https://t.co/IGzVPSBeIu](https://t.co/IGzVPSBeIu){:target="_blank"}
+<br>User Name:  Janis242424 <br><br>
+
+돈도 안 되는 예술 흉내 아직 내고 있느냐는 얘기를 오랜만에 듣고 다시 주섬주섬 펼쳐보는 "자본주의의 문화적 모순" 독서노트 타래로. (글 많음...) [https://t.co/r9gEm9tdnr](https://t.co/r9gEm9tdnr){:target="_blank"}
+<br>User Name:  deillcom4 <br><br>
+
+루니 마라가 주연으로 나왔던 영화 &lt;우나&gt;
+
+13살에 소아성도착증 남자에게 그루밍 당하고 사랑에 빠져 15년이 지나 성인이 된 후에도 못 잊어 결국 그 남자를 찾아가지만, 남자는 감정을 부정하고 그녀를 피한다.
+
+상처받은 우나가 그 남자에게 하는 말
+“이제 제가 싫어진거죠? 제가 어리지 않아서?” [https://t.co/QqKmzYzOoP](https://t.co/QqKmzYzOoP){:target="_blank"}
+<br>User Name:  otonacool <br><br>
+
+‘소전서림’(청담), 
+이 아름다운 도서관을 소개받았고 연회원 가입(10만원)후 달콤하게 찾는 나만의 공간이 된 듯 즐겁다.비회원 방문(3만원)도 가능. 하루 세시간 제한적이지만, 조용히 몰입하며 책읽기 충분하다. 
+(10-21시, 월요휴무) [https://t.co/WRFwD2JkR7](https://t.co/WRFwD2JkR7){:target="_blank"}
+<br>User Name:  Janis242424 <br><br>
