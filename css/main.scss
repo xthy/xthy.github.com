@@ -1,5 +1,4 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
 ---
 @charset "utf-8";
 
@@ -38,10 +37,9 @@ $on-:        800px;
         @content;
     }
 }
-// Import partials from `sass_dir` (defaults to `_sass`)
+// Import partials from _sass
 @import url(https://cdn.jsdelivr.net/nanumsquare/1.0/nanumsquare.css),
         "base",
         "layout",
-        "syntax-highlighting"
-;
+        "syntax-highlighting";
 @import url('https://fonts.googleapis.com/css?family=Merriweather');

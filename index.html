@@ -1,46 +1,157 @@
 ---
 layout: default
 ---
+<style>
+  .photo-grid-container {
+    max-width: 48rem;
+    margin-bottom: 2rem;
+  }
+
+  .photo-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1.5rem 0.75rem;
+  }
+
+  .photo-item {
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    color: inherit;
+    margin-bottom: 0.5rem;
+  }
+
+  .photo-thumb-wrapper {
+    position: relative;
+    aspect-ratio: 1 / 1;
+    overflow: hidden;
+    background: #f5f5f5;
+    margin-bottom: 0.5rem;
+  }
+
+  .photo-thumb-wrapper img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: transform 0.3s ease;
+  }
+
+  .photo-item:hover .photo-thumb-wrapper img {
+    transform: scale(1.05);
+  }
+
+  .photo-info {
+    padding: 0 0.1rem;
+  }
+
+  .photo-title {
+    font-size: 0.85rem;
+    font-weight: bold;
+    color: #111;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    line-height: 1.3;
+    margin-bottom: 0.2rem;
+    transition: color 0.2s ease;
+  }
+
+  .photo-item:hover .photo-title {
+    color: #6aa6ba;
+  }
+
+  .photo-date {
+    font-size: 0.7rem;
+    color: #aaa;
+  }
+
+  @media screen and (max-width: 800px) {
+    .photo-grid {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+
+  @media screen and (max-width: 480px) {
+    .photo-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+</style>
+
 <div class="home">
-	<section class="site-header">
-		<p class="smallcap"><a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a></p>
+  <section class="site-header">
+    <p class="smallcap"><a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a></p>
     <a href="/info">ABOUT</a>
-	</section>
-    <section class="site-header">
+  </section>
+  <section class="site-header">
     <h2>Categories</h2>
     <ul class="post-list">
-    {% assign categories_list = site.categories %}
+      {% assign categories_list = site.categories %}
       {% if categories_list.first[0] == null %}
-        {% for category in categories_list %}
-          <li><a href="#{{ category | downcase | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category | camelcase }} </a></li>
-        {% endfor %}
+      {% for category in categories_list %}
+      <li><a href="#{{ category | downcase | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category |
+          camelcase }} </a></li>
+      {% endfor %}
       {% else %}
-        {% for category in categories_list reversed %}
-          <li><a href="#{{ category[0] | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }} ({{category[1].size}})</a></li>
-        {% endfor %}
+      {% for category in categories_list reversed %}
+      <li><a href="#{{ category[0] | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }}
+          ({{category[1].size}})</a></li>
+      {% endfor %}
       {% endif %}
-    {% assign categories_list = nil %}
+      {% assign categories_list = nil %}
     </ul>
-    </section>
-    <section>
-    {% for category in site.categories reversed %}
-      <h2 id="{{ category[0] | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }}</h2>
-      <ul class="post-list">
-        {% assign pages_list = category[1] %}
-        {% for post in pages_list %}
-          {% if post.title != null %}
-          {% if group == null or group == post.group %}
-                        {% unless post.draft %}
-                            <li>
-                            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-                            </li>
-                        {% endunless %}
-          {% endif %}
-          {% endif %}
+  </section>
+  <section>
+    {% assign photo_category = site.categories['Photo'] %}
+    {% if photo_category %}
+    <h2 id="photo">Photo</h2>
+    <div class="photo-grid-container">
+      <div class="photo-grid">
+        {% for post in photo_category %}
+        {% if post.title != null and post.draft != true %}
+        <a href="{{ post.url | prepend: site.baseurl }}" class="photo-item">
+          <div class="photo-thumb-wrapper">
+            {% if post.thumbnail %}
+            <img src="{{ post.thumbnail }}" alt="{{ post.title }}" loading="lazy">
+            {% else %}
+            <div
+              style="width:100%;height:100%;display:flex;align-items:center;justify-content:center;font-size:2rem;color:#ccc;">
+              📷</div>
+            {% endif %}
+          </div>
+          <div class="photo-info">
+            <div class="photo-title">{{ post.title }}</div>
+            <div class="photo-date">{{ post.date | date: "%Y-%m-%d" }}</div>
+          </div>
+        </a>
+        {% endif %}
         {% endfor %}
-        {% assign pages_list = nil %}
-        {% assign group = nil %}
-      </ul>
+      </div>
+    </div>
+    {% endif %}
+
+    {% for category in site.categories reversed %}
+    {% if category[0] != 'Photo' %}
+    <h2 id="{{ category[0] | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }}</h2>
+    <ul class="post-list">
+      {% assign pages_list = category[1] %}
+      {% for post in pages_list %}
+      {% if post.title != null %}
+      {% if group == null or group == post.group %}
+      {% unless post.draft %}
+      <li>
+        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </li>
+      {% endunless %}
+      {% endif %}
+      {% endif %}
+      {% endfor %}
+      {% assign pages_list = nil %}
+      {% assign group = nil %}
+    </ul>
+    {% endif %}
     {% endfor %}
-    </section>
+  </section>
 </div>
